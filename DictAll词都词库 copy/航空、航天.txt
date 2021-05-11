@@ -1,0 +1,5000 @@
+有限元：finite element
+模糊控制：Fuzzy control
+控制系统：control system
+力学性能：mechanical property
+模式识别：pattern recognition
+自适应控制：adaptive control
+模态分析：Modal analysis
+温度控制：temperature control
+最优控制：optimal control
+鲁棒控制：robust control
+模糊逻辑：fuzzy logic
+磁场：magnetic field
+分形维数：fractal dimension
+航空、航天推进系统：aerospace propulsion system
+机器学习：machine learning
+预测控制：predictive control
+振动控制：vibration control
+热分析：Thermal analysis
+模糊综合评判：Fuzzy comprehensive evaluation
+变结构控制：variable structure control
+微分方程：differential equation
+空间分析：spatial analysis
+两相流：two-phase flow
+概念设计：conceptual design
+串口通信：serial communication
+参数辨识：parameter identification
+电场：Electric field
+并行工程：concurrent engineering
+BP网络：BP network
+滑模控制：Sliding Mode Control
+误差补偿：error compensation
+汽油机：gasoline engine
+数控加工：NC machining
+动态特性：Dynamic characteristic
+可靠性分析：reliability analysis
+动力分析：dynamic analysis
+主动控制：Active control
+电磁兼容：electromagnetic compatibility
+相变：phase transformation
+温度传感器：Temperature Sensor
+拓扑优化：topology optimization
+故障树：fault tree
+运动补偿：motion compensation
+数据通信：data communication
+数字仿真：digital simulation
+非线性控制：nonlinear control
+边界层：Boundary layer
+姿态控制：attitude control
+光学设计：optical design
+电磁散射：electromagnetic scattering
+知识获取：knowledge acquisition
+时间序列分析：time series analysis
+光学测量：optical measurement
+科学管理：scientific management
+可靠性设计：Reliability design
+数字滤波：digital filter
+冷却系统：Cooling system
+飞行控制：flight control
+蒙特卡罗方法：Monte Carlo method
+系统结构：system structure
+Lyapunov指数：Lyapunov exponent
+红外辐射：infrared radiation
+设备驱动程序：Device driver
+混合遗传算法：Hybrid Genetic Algorithm
+精度分析：accuracy analysis
+激波：shock wave
+半主动控制：semi-active control
+坐标变换：coordinate transformation
+无刷直流电动机：brushless DC motor
+学习算法：learning algorithm
+系统模型：system model
+电子束：Electron beam
+鲁棒稳定性：robust stability
+AR模型：AR model
+输出反馈：output feedback
+伺服控制：servo control
+频率响应：Frequency response
+固体推进剂：solid propellant
+动力学分析：dynamic analysis
+模糊PID：fuzzy PID
+全球定位系统：global positioning system
+成组技术：Group Technology
+大涡模拟：large eddy simulation
+电流密度：current density
+接口电路：interface circuit
+固体火箭发动机：solid rocket motor
+旋转机械：rotating machinery
+无源定位：Passive location
+反馈线性化：Feedback Linearization
+含水率：moisture content
+固化剂：curing agent
+化学反应：Chemical reaction
+过渡态：Transition state
+疲劳裂纹：fatigue crack
+贝叶斯网络：Bayesian networks
+失效概率：failure probability
+性能评估：performance evaluation
+测试方法：Test method
+Kalman滤波：Kalman filtering
+样条函数：spline function
+燃烧室：Combustion chamber
+高性能：High performance
+微机控制：microcomputer control
+高精度：High accuracy
+热阻：thermal resistance
+逆问题：inverse problem
+巡航导弹：cruise missile
+光学系统：Optical system
+遥控：remote control
+威布尔分布：Weibull distribution
+有限状态机：Finite state machine
+模糊决策：fuzzy decision
+初始对准：initial alignment
+轨迹规划：trajectory planning
+VXI总线：VXI bus
+非线性模型：nonlinear model
+热变形：hot deformation
+风洞：wind tunnel
+疲劳断裂：fatigue fracture
+雷达散射截面：radar cross section
+模拟实验：simulation experiment
+特征匹配：feature matching
+分子设计：Molecular design
+温升：temperature rise
+品质因数：quality factor
+热模拟：thermal simulation
+数字地球：digital earth
+制冷系统：refrigeration system
+控制理论：control theory
+动态调度：dynamic scheduling
+数值积分：Numerical integration
+压力控制：pressure control
+对象模型：object model
+弹道导弹：ballistic missile
+故障树分析：fault tree analysis
+特征识别：feature recognition
+电晕放电：corona discharge
+惯性导航：inertial navigation
+奇异摄动：singular perturbation
+广义逆：generalized inverse
+减阻：drag reduction
+非定常流动：unsteady flow
+武器系统：Weapon system
+频谱分析：spectral analysis
+跟踪控制：tracking control
+失效机理：failure mechanism
+数字地图：digital map
+Navier-Stokes方程：Navier-Stokes equations
+运载火箭：Launch vehicle
+机载雷达：Airborne radar
+寿命：service life
+误差模型：error model
+振动主动控制：active vibration control
+极限环：Limit cycles
+网络控制：network control
+状态空间：State space
+案例推理：case-based reasoning
+模型修正：model updating
+嵌入式技术：embedded technology
+形状优化：shape optimization
+玻璃化转变温度：glass transition temperature
+PXI总线：PXI Bus
+超声电机：ultrasonic motor
+作战效能：operational effectiveness
+模型预测控制：model predictive control
+组合导航系统：Integrated Navigation System
+流动显示：flow visualization
+非定常流：unsteady flow
+火控系统：fire control system
+晶间腐蚀：intergranular corrosion
+可视化仿真：visual simulation
+知识约简：knowledge reduction
+二次流：secondary flow
+圆柱壳：cylindrical shell
+气膜冷却：film cooling
+嵌入式软件：embedded software
+多普勒雷达：Doppler radar
+压力损失：pressure loss
+磁流体：magnetic fluid
+质量监督：quality supervision
+马尔可夫模型：Markov model
+应用化学：applied chemistry
+数学规划：mathematical programming
+GPS接收机：GPS receiver
+换热系数：heat transfer coefficient
+自然循环：natural circulation
+插入损耗：insertion loss
+消光比：extinction ratio
+电磁力：electromagnetic force
+拉普拉斯变换：Laplace transform
+关键技术：key techniques
+多学科设计优化：multidisciplinary design optimization
+铝基复合材料：aluminum matrix composite
+工作过程：working process
+化学动力学：chemical kinetics
+半实物仿真：hardware-in-the-loop simulation
+残余应力：residual stresses
+速度分布：Velocity distribution
+接触问题：contact problem
+启发式搜索：heuristic search
+动态矩阵控制：Dynamic matrix control
+减振器：shock absorber
+模态参数：Modal parameter
+神经网络控制：neural network control
+数据拟合：data fitting
+液体火箭发动机：liquid rocket engine
+机械系统：mechanical system
+Hilbert变换：Hilbert transform
+谐振频率：resonance frequency
+导航系统：Navigation system
+CFD模拟：CFD simulation
+时间常数：Time constant
+炭纤维：Carbon fiber
+装备保障：equipment support
+互耦：Mutual coupling
+电子设备：electronic equipment
+空中交通管制：air traffic control
+结构动力学：structural dynamics
+机动目标：maneuvering target
+流量系数：flow coefficient
+智能设计：intelligent design
+条件数：Condition number
+分布规律：distribution law
+T-S模型：T-S model
+火箭发动机：Rocket engine
+微动磨损：fretting wear
+逆系统：inverse system
+模型辨识：Model Identification
+燃烧效率：combustion efficiency
+被动控制：passive control
+液压泵：Hydraulic pump
+模型设计：model design
+耦合系数：coupling coefficient
+泊松比：Poisson's ratio
+演化算法：evolutionary algorithm
+代价函数：cost function
+相位调制：phase modulation
+效能评估：efficiency evaluation
+力量训练：strength training
+参数提取：parameter extraction
+载波相位：carrier phase
+干密度：dry density
+特征分析：characteristic analysis
+知识表达：knowledge representation
+可靠性增长：reliability growth
+差示扫描量热法：differential scanning calorimetry
+转子动力学：rotor dynamics
+区间分析：interval analysis
+数据链：data link
+膜反应器：membrane reactor
+小波去噪：wavelet denoising
+蒙特卡洛法：Monte Carlo method
+不确定性分析：uncertainty analysis
+结构强度：structural strength
+激光推进：Laser propulsion
+月球车：Lunar rover
+S-N曲线：S-N curve
+振动特性：Vibration characteristics
+安全评估：safety assessment
+流动控制：flow control
+力学分析：mechanics analysis
+抗氧化性能：Oxidation resistance
+打靶法：shooting method
+TiAl合金：TiAl alloy
+离心力：Centrifugal force
+抗差估计：robust estimation
+传递对准：Transfer alignment
+延迟时间：Delay time
+AutoCAD：Auto CAD
+权系数：weight coefficient
+涡流检测：Eddy current testing
+屈服应力：yield stress
+预测函数控制：Predictive functional control
+电子束焊接：electron beam welding
+电子温度：Electron temperature
+耦合模型：coupling model
+应变能：strain energy
+风洞实验：wind tunnel test
+CCD相机：CCD camera
+姿态确定：attitude determination
+多普勒频率：Doppler frequency
+混合控制：hybrid control
+一体化设计：integrated design
+耦合分析：coupling analysis
+飞行试验：flight test
+振动响应：vibration response
+非结构网格：unstructured grid
+起落架：landing gear
+表面温度：surface temperature
+稀疏矩阵：Sparse Matrix
+小波网络：wavelet network
+相机标定：camera calibration
+模型参考自适应控制：model reference adaptive control
+疲劳极限：fatigue limit
+能量密度：energy density
+截断误差：truncation error
+冷却速率：cooling rate
+结构力学：structural mechanics
+直接数值模拟：direct numerical simulation
+磁流变液：magnetorheological fluid
+琼斯矩阵：Jones matrix
+电子枪：electron gun
+气动性能：aerodynamic performance
+职业生涯管理：career management
+对策论：Game theory
+电子战：electronic warfare
+牛顿法：Newton method
+低频振荡：low-frequency oscillation
+弧齿锥齿轮：spiral bevel gear
+霍尔效应：Hall effect
+角动量：angular momentum
+自动控制技术：auto-control technology
+条件概率：conditional probability
+实时仿真：real time simulation
+减振：vibration reduction
+横向振动：transverse vibration
+振动试验：vibration test
+压电材料：piezoelectric materials
+角速度：Angular velocity
+解析模型：analytical model
+压力脉动：pressure fluctuation
+相对运动：relative motion
+单目视觉：monocular vision
+粒子模拟：particle simulation
+剩余寿命：residual life
+模型简化：model simplification
+燃速：Burning rate
+损伤演化：damage evolution
+动力学建模：dynamic modeling
+线性回归模型：linear regression model
+景象匹配：Scene matching
+硬件平台：Hardware platform
+动态力学性能：dynamic mechanical properties
+加速寿命试验：accelerated life test
+编队飞行：formation flying
+随机控制：stochastic control
+电化学合成：electrochemical synthesis
+阶跃响应：step response
+电容传感器：capacitance sensor
+截面：cross section
+瞬态分析：transient analysis
+VOF方法：VOF method
+小样本：small sample
+概率论：probability theory
+鲁棒自适应控制：robust adaptive control
+灰色关联分析：grey relation analysis
+激光辐照：laser irradiation
+热交换器：Heat exchanger
+蚁群优化：ant colony optimization
+中值定理：mean value theorem
+多体系统：Multi-body System
+Bayes估计：Bayes estimation
+随机系统：stochastic system
+涡扇发动机：turbofan engine
+流动分布：Flow distribution
+双基地雷达：bistatic radar
+纤维缠绕：filament winding
+脉冲爆震发动机：pulse detonation engine
+影像匹配：image matching
+USB总线：USB bus
+特征结构配置：eigenstructure assignment
+小卫星：Small Satellite
+激波管：shock tube
+阻尼系数：damping coefficient
+飞行模拟器：flight simulator
+智能结构：intelligent structure
+压力测量：Pressure measurement
+制导律：guidance law
+技术发展：technology development
+电子辐照：electron irradiation
+故障率：failure rate
+构件技术：Component technology
+复介电常数：complex permittivity
+贝叶斯方法：Bayesian method
+时空数据模型：spatio-temporal data model
+传感器管理：sensor management
+热障涂层：thermal barrier coating
+损耗因子：loss factor
+正交变换：orthogonal transformation
+搜索算法：search algorithm
+电子对抗：electronic countermeasure
+频率稳定度：frequency stability
+自动化系统：automatic system
+J积分：J integral
+光纤通道：fibre channel
+频偏估计：frequency offset estimation
+误差分离：Error separation
+环境试验：environmental test
+受迫振动：Forced Vibration
+天线阵列：antenna array
+温度特性：temperature characteristic
+附加质量：Added mass
+谱方法：spectral method
+玻璃化转变：glass transition
+紊流模型：turbulence model
+声场：sound field
+温度控制系统：temperature control system
+战术导弹：tactical missile
+网络体系结构：Network architecture
+空间机器人：space robot
+视觉伺服：visual servoing
+动态数据交换：dynamic data exchange
+人工神经元网络：artificial neural network
+功率谱密度：power spectrum density
+N-S方程：N-S equations
+动态逆：dynamic inversion
+末制导：terminal guidance
+样条插值：spline interpolation
+三角网格：triangular mesh
+1553B总线：1553B bus
+安全性分析：security analysis
+工艺规划：process planning
+Melnikov函数：melnikov function
+模型降阶：model reduction
+伺服阀：servo valve
+动能：kinetic energy
+相关检测：Correlation detection
+视觉导航：Vision navigation
+Lyapunov稳定性：Lyapunov stability
+玻璃化温度：glass transition temperature
+三次样条：cubic spline
+控制逻辑：control logic
+疲劳裂纹扩展：fatigue crack propagation
+滑模变结构控制：sliding mode control
+推进系统：propulsion system
+脱靶量：Miss distance
+高超声速飞行器：hypersonic vehicle
+爆轰波：detonation wave
+欧拉方程：Euler equation
+支撑向量机：support vector machine
+静强度：Static strength
+角分布：Angular distribution
+自动增益控制：automatic gain control
+最大干密度：Maximum dry density
+脉冲激光：pulse laser
+物理仿真：physical simulation
+统计能量分析：Statistical energy analysis
+大气边界层：atmospheric boundary layer
+Euler方程：Euler equation
+故障隔离：fault isolation
+民航：Civil Aviation
+材料科学：materials science
+原子氧：atomic oxygen
+定向耦合器：directional coupler
+算法优化：Algorithm optimization
+任务分配：task assignment
+燃油系统：fuel system
+VerilogHDL：Verilog HDL
+角度测量：angle measurement
+逆系统方法：inverse system method
+仿真试验：Simulation Test
+A*算法：A* algorithm
+环境信息：environmental information
+过程集成：process integration
+动态断裂：dynamic fracture
+决策系统：decision-making system
+重心：center of gravity
+定性仿真：qualitative simulation
+空间站：space station
+公路运输：highway transportation
+低雷诺数：low Reynolds number
+不确定度分析：uncertainty analysis
+损伤容限：damage tolerance
+智能材料：intelligent material
+数据预处理：data pretreatment
+数字PID：digital PID
+模型参考：model reference
+降维：dimension reduction
+等待时间：waiting time
+模锻：die forging
+能量沉积：Energy deposition
+激光武器：laser weapon
+激光通信：laser communication
+飞机设计：aircraft design
+优化算法：optimal algorithm
+自动跟踪：automatic tracking
+燃烧催化剂：combustion catalyst
+虚拟试验：Virtual test
+WDM驱动程序：WDM driver
+控制原理：control principle
+相干结构：coherent structure
+似然比：Likelihood ratio
+微波测量：microwave measurement
+厚度测量：thickness measurement
+径向分布函数：Radial distribution function
+等效模型：equivalent model
+保角变换：conformal transformation
+寿命周期费用：Life Cycle Cost
+实时传输：real-time transmission
+任务规划：mission planning
+超声检测：ultrasonic inspection
+背景噪声：background noise
+柔性结构：flexible structure
+运动方程：motion equation
+分离流：separated flow
+拟牛顿法：Quasi-Newton method
+强跟踪滤波器：strong tracking filter
+多目标优化：multi-object optimization
+数值研究：numerical study
+微动疲劳：fretting fatigue
+极坐标：Polar coordinates
+极限载荷：limit load
+桁架结构：truss structure
+旋转失速：rotating stall
+气象卫星：meteorological satellite
+程序设计语言：programming language
+材料力学：material mechanics
+自校正控制：self-tuning control
+位错密度：Dislocation density
+超声速燃烧：supersonic combustion
+马赫数：Mach number
+动态误差：dynamic error
+温度漂移：temperature drift
+范例推理：case-based reasoning
+深空探测：deep space exploration
+油液分析：oil analysis
+载荷识别：load identification
+影响系数：influence coefficient
+变形预测：deformation prediction
+谐振腔：resonant cavity
+大系统：large-scale system
+离心压气机：Centrifugal compressor
+临界速度：critical velocity
+混合灵敏度：mixed sensitivity
+黄金分割：golden section
+效能分析：effectiveness analysis
+控制律：control law
+柔性体：flexible body
+氰酸酯：cyanate ester
+离心叶轮：centrifugal impeller
+疲劳可靠性：fatigue reliability
+弱信号检测：weak signal detection
+随机游走：random walk
+故障仿真：Fault Simulation
+气动力：aerodynamic force
+故障预报：Fault Prediction
+无人直升机：unmanned helicopter
+隧道效应：tunneling effect
+材料科学基础学科：foundational discipline in materials science
+变形温度：deformation temperature
+热沉：heat sink
+波形分析：waveform analysis
+非线性控制系统：nonlinear control system
+有色噪声：colored noise
+基于实例推理：case-based reasoning
+碳酸酐酶：Carbonic anhydrase
+克隆选择算法：clonal selection algorithm
+两点边值问题：two-point boundary value problem
+蠕变损伤：creep damage
+点目标：point target
+喷丸：shot peening
+拉格朗日方程：Lagrange equation
+恒功率：constant power
+随机有限元：stochastic finite element method
+力控制：force control
+周期轨道：Periodic orbit
+激光跟踪仪：laser tracker
+截止频率：Cut-off frequency
+阻抗控制：impedance control
+维修保障：maintenance support
+Allan方差：Allan variance
+高分子化学：polymer chemistry
+涡轮盘：turbine disk
+空气分离：air separation
+临界压力：critical pressure
+超音速燃烧：Supersonic combustion
+即插即用：plug and play
+时序：time sequence
+主动振动控制：active vibration control
+装配仿真：assembly simulation
+消息机制：message mechanism
+滑模观测器：Sliding mode observer
+航迹起始：track initiation
+热管理：thermal management
+排气系统：exhaust system
+试验台：Test bed
+智能PID：intelligent PID
+空中交通管理：air traffic management
+干扰观测器：disturbance observer
+涡流管：vortex tube
+噪声测量：noise measurement
+数字解调：digital demodulation
+气动设计：aerodynamic design
+发展分析：development analysis
+大迎角：high angle of attack
+车辆导航：vehicle navigation
+热流密度：heat flux
+复合粒子：composite particle
+低温性能：low temperature performance
+声阻抗：acoustic impedance
+体积电阻率：volume resistivity
+高速摄影：high-speed photography
+压电驱动器：piezoelectric actuator
+卫星影像：Satellite image
+复合推进剂：Composite propellant
+频率调制：frequency modulation
+最优化方法：optimization method
+应力集中系数：Stress concentration factor
+迷宫密封：labyrinth seal
+压力传感器：pressure transducer
+奇异点：singular point
+电涡流：eddy current
+飞控系统：flight control system
+涡轮叶栅：turbine cascade
+PC/104总线：PC/104 Bus
+航迹融合：track fusion
+互连网络：interconnection network
+耦合系统：coupling system
+壁温：wall temperature
+密度分布：density distribution
+基频：fundamental frequency
+Monte-Carlo法：Monte-Carlo method
+小生境遗传算法：niche genetic algorithm
+磁轴承：magnetic bearing
+协同优化：collaborative optimization
+耦合动力学：coupling dynamics
+输出跟踪：output tracking
+航位推算：dead reckoning
+时域有限差分法：finite-difference time-Domain
+实验装置：experimental device
+火焰喷涂：flame spraying
+信息扩散：Information diffusion
+齿轮箱：Gear box
+液压控制系统：hydraulic control system
+随机最优控制：stochastic optimal control
+微机械陀螺：micromachined gyroscope
+精益思想：lean thinking
+时间自动机：timed automata
+惯性平台：Inertial Platform
+电子设计自动化：electronic design automation
+火力控制：fire control
+涡轮喷气发动机：turbojet engine
+二氧化氮：nitrogen dioxide
+电性能：electric properties
+集成创新：integrated innovation
+静磁场：static magnetic field
+损伤机理：Damage Mechanism
+应力计算：Stress calculation
+耐久性设计：durability design
+冲击射流：impinging jet
+鲁棒控制器：robust controller
+随机响应：random response
+梁单元：beam element
+空间相机：Space camera
+稳定平台：stabilized platform
+腐蚀控制：corrosion control
+误差建模：error modeling
+行为控制：Behavior control
+交会对接：rendezvous and docking
+云理论：cloud theory
+人工势场：artificial potential field
+信号子空间：signal subspace
+模糊PID控制器：Fuzzy PID controller
+分布式检测：distributed detection
+切削参数：cutting parameters
+等温锻造：isothermal forging
+光学玻璃：optical glass
+环境控制：environment control
+反应烧结：reaction sintering
+接触模型：contact model
+希尔伯特-黄变换：Hilbert-Huang transform
+活塞杆：piston rod
+海上平台：offshore platform
+特征频率：characteristic frequency
+迭代算法：iteration algorithm
+趋近律：reaching law
+密封材料：sealing material
+变分原理：variation principle
+CO2浓度：CO2 concentration
+电液伺服阀：electro-hydraulic servo valve
+地球自转：earth rotation
+指挥控制：command and control
+光学传递函数：Optical transfer function
+大容量：large capacity
+ADAMS软件：ADAMS software
+显示系统：display system
+成像质量：imaging quality
+系统效能：system effectiveness
+动态重构：dynamic reconfiguration
+临近空间：near space
+机理模型：mechanism model
+CCD传感器：CCD sensor
+姿态测量：attitude measurement
+柔性机械臂：flexible manipulator
+被动定位：Passive Location
+极大值原理：Maximum Principle
+调制不稳定性：Modulation instability
+工程分析：engineering analysis
+变权：variable weight
+脉冲信号：pulse signal
+后向散射系数：backscattering coefficient
+结构振动：structure vibration
+切换控制：Switching control
+稳定裕度：stability margin
+正交解调：quadrature demodulation
+存储区域网：storage area network
+并行测试：parallel test
+清华大学：Tsinghua University
+二次稳定：quadratic stability
+紫外光：UV light
+残差：residual error
+隐身技术：stealth technique
+过渡区：transition region
+弯曲振动：flexural vibration
+液体推进剂：liquid propellant
+减灾：disaster reduction
+傅立叶分析：Fourier analysis
+三维数值模拟：3-D numerical simulation
+吸湿：Moisture absorption
+匹配滤波：matched filtering
+自适应观测器：adaptive observer
+磁传感器：magnetic sensor
+空战：air combat
+PD控制：PD control
+三角翼：delta wing
+子空间方法：Subspace method
+气动加热：aerodynamic heating
+指挥控制系统：Command and control system
+涡轮风扇发动机：Turbofan engine
+复合控制：composite control
+电弧放电：arc discharge
+断裂准则：fracture criterion
+模型结构：model structure
+电源系统：power system
+卫星星座：satellite constellation
+辐射定标：radiometric calibration
+哈希表：Hash table
+半物理仿真：semi-physical simulation
+毁伤概率：damage probability
+GPIB总线：GPIB bus
+总线接口：bus interface
+气动噪声：aerodynamic noise
+散热：heat dissipation
+响应面方法：response surface methodology
+逆模型：inverse model
+峰值：peak value
+公理化设计：Axiomatic design
+超高速撞击：Hypervelocity impact
+结构响应：structural response
+液体晃动：Liquid sloshing
+电流环：current loop
+探测概率：Detection probability
+杂散光：Stray light
+导电性能：electrical conductivity
+多孔结构：porous structure
+环境污染物：Environmental Pollutants
+最优设计：optimal design
+功率谱分析：power spectrum analysis
+流量分配：flow distribution
+载波：Carrier wave
+径向速度：radial velocity
+智能管理：intelligent management
+跟驰模型：car-following model
+电子侦察：electronic reconnaissance
+编队控制：formation control
+CMAC神经网络：CMAC neural network
+数据平台：Data platform
+TC4合金：TC4 alloy
+升力系数：lift coefficient
+水滑石：layered double hydroxides
+燃气发生器：Gas generator
+混合规则：mixing rule
+激光跟踪：laser tracking
+激光打孔：laser drilling
+闭环：closed loop
+雷诺应力：Reynolds stress
+在线辨识：online identification
+空间滤波：spatial filtering
+比冲：specific impulse
+漫反射：diffuse reflection
+相干函数：coherence function
+多变量控制：multivariable control
+静力试验：static test
+随机稳定性：Stochastic stability
+参数摄动：Parameter perturbation
+分层抽样：stratified sampling
+辐射方向图：radiation pattern
+扰动分析：perturbation analysis
+裂纹转子：cracked rotor
+抗热震性能：thermal shock resistance
+激光点火：laser ignition
+温度模型：temperature model
+效率优化：efficiency optimization
+喷射泵：jet pump
+导波：guided wave
+Lamb波：Lamb wave
+控制系统设计：control system design
+耦合度：coupling degree
+边际分析：marginal analysis
+区分矩阵：discernibility matrix
+人工免疫网络：artificial immune network
+飞行动力学：flight dynamics
+飞行器控制、导航技术：control and navigation technology of aerocraft
+布局设计：layout design
+磁力轴承：magnetic bearing
+推力矢量控制：Thrust Vector Control
+脉冲多普勒雷达：pulse Doppler radar
+战术互联网：tactical internet
+总线控制器：bus controller
+寄生电容：parasitic capacitance
+正规矩阵：normal matrix
+BLP模型：BLP model
+性能评价：Property evaluation
+磁场强度：magnetic field strength
+NEPE推进剂：NEPE propellant
+动边界：moving boundary
+幂函数：power function
+寿命周期：life cycle
+随机激励：random excitation
+时间间隔：time interval
+USB2.0：USB 2.0
+再入飞行器：reentry vehicle
+原子钟：atomic clock
+性能模型：performance model
+双马来酰亚胺树脂：bismaleimide resin
+约束满足：Constraint satisfaction
+应用与发展：application and development
+动态标定：Dynamic calibration
+电气工程：electric engineering
+VME总线：VME Bus
+性能计算：Performance calculation
+监测模型：monitoring model
+Floyd算法：Floyd Algorithm
+军用飞机：military aircraft
+比例导引：Proportional navigation
+改善因子：improvement factor
+模式耦合：mode coupling
+固有频率：nature frequency
+失效模式：failure modes
+加速老化：Accelerated aging
+冲击损伤：impact damage
+标准件：standard parts
+加工特征：machining feature
+流动分离：flow separation
+积分变换：integral transformation
+穿透深度：penetration depth
+酶固定化：enzyme immobilization
+流阻：flow resistance
+能量响应：Energy Response
+扩展卡尔曼滤波器：extended kalman filter
+附面层：boundary layer
+旋转矢量：rotation vector
+污染物排放：pollutant emission
+Monte Carlo法：Monte Carlo method
+Al-Zn-Mg-Cu合金：Al-Zn-Mg-Cu alloy
+高周疲劳：high cycle fatigue
+效率分析：efficiency analysis
+结构优化设计：structural optimization design
+抗弯刚度：bending rigidity
+对流传热：convective heat transfer
+人为因素：human factors
+面向对象编程：object oriented programming
+轨迹优化：trajectory optimization
+挤压油膜阻尼器：squeeze film damper
+知识库系统：knowledge base system
+静态标定：static calibration
+卫星导航系统：satellite navigation system
+遥感卫星：Remote Sensing Satellite
+未建模动态：unmodeled dynamics
+导引律：guidance law
+传声器阵列：microphone array
+故障字典：fault dictionary
+燃烧性能：combustion property
+神经元网络：neural networks
+慢光：slow light
+传动轴：transmission shaft
+参数设计：parameters design
+高韧性：high toughness
+MODIS数据：MODIS data
+实验验证：experimental verification
+动态应变时效：Dynamic Strain Aging
+热点：hot spot
+冲击载荷：impact loading
+解耦控制：decoupled control
+鲁棒设计：robust design
+差分GPS：differential GPS
+鲁棒性能：robust performance
+精确制导：precision guidance
+高超声速进气道：hypersonic inlet
+机场工程：airport engineering
+挠性航天器：Flexible spacecraft
+混响室：reverberation chamber
+自主控制：Autonomous control
+控制分配：control allocation
+最小二乘拟合：least square fitting
+热模型：thermal model
+设计软件：design software
+Matlab程序：matlab program
+机械阻抗：mechanical impedance
+马尔科夫模型：Markov model
+自动补偿：automatic compensation
+空气阻力：air resistance
+自抗扰控制：active disturbance rejection control
+喷雾特性：spray characteristics
+ADAMS仿真：ADAMS simulation
+航班延误：flight delay
+被动跟踪：passive tracking
+模型匹配：model matching
+武装直升机：armed helicopter
+并行I/O：parallel I/O
+喷管气流：Nozzle flow
+危险品：dangerous goods
+变截面：variable cross-section
+点腐蚀：pitting corrosion
+节流阀：throttle valve
+接头强度：Joint strength
+晶体塑性：crystal plasticity
+油酸钠：Sodium oleate
+幅频特性：amplitude-frequency characteristic
+电子输运：electron transport
+ANSYS分析：ANSYS analysis
+轻轨：light rail
+粒子图像测速：Particle image velocimetry
+数值优化：Numerical optimization
+交通规划：transport planning
+溶度参数：solubility parameter
+可靠性管理：reliability management
+轨道确定：Orbit determination
+D-S理论：D-S theory
+扰动观测器：Disturbance observer
+气动布局：aerodynamic configuration
+惯导系统：inertial navigation system
+战术数据链：tactical data link
+导航计算机：navigation computer
+Taylor级数：Taylor series
+动态失速：dynamic stall
+推进剂药柱：Propellant grain
+测量仪：measuring instrument
+密封性能：sealing performance
+光纤陀螺：fiber-optic gyroscope
+纤维取向：fiber orientation
+超高速碰撞：hypervelocity impact
+Zernike多项式：Zernike polynomial
+流体网络：Fluid network
+配点法：collocation method
+黑匣子：black box
+固体推进剂火箭发动机：solid propellant rocket motor
+载人航天器：manned spacecraft
+参数化模型：parametric model
+软硬件设计：Software and hardware design
+认知神经科学：cognitive neuroscience
+Fourier分析：Fourier analysis
+航迹关联：track association
+可靠性灵敏度：Reliability sensitivity
+微分对策：Differential Games
+测试序列：test sequence
+空间目标：space object
+热力耦合：thermal-mechanical coupling
+声发射检测：Acoustic emission testing
+表面电阻率：surface resistivity
+激光快速成形：laser rapid forming
+晶体取向：crystal orientation
+视觉系统：Visual system
+测速：speed measurement
+火焰传播：flame propagation
+分解速率：decomposition rate
+序列二次规划：sequential quadratic programming
+自适应信号处理：adaptive signal processing
+训练系统：training system
+虚拟战场：virtual battlefield
+航路规划：route planning
+风切变：wind shear
+加权函数：weighting function
+姿态机动：attitude maneuver
+气动优化：aerodynamic optimization
+电子系统：Electronic system
+地杂波：ground clutter
+采样率：Sampling rate
+并行仿真：parallel simulation
+随机接入：random access
+飞行安全：flight safety
+燃油：fuel oil
+夹层结构：sandwich structure
+Monte Carlo仿真：Monte Carlo simulation
+热流：Heat flow
+振动时效：vibratory stress relief
+空间光学：space optics
+超声波测距：ultrasonic ranging
+模型不确定性：model uncertainty
+维修策略：maintenance strategy
+计算机图形：computer graphics
+心理测验：psychological test
+光学模型：Optical model
+热控：thermal control
+飞行力学：flight dynamics
+天文导航：celestial navigation
+模块化建模：modular modeling
+地面试验：ground test
+影像分割：image segmentation
+数据标准：data standard
+谐波传动：harmonic drive
+压气机叶栅：compressor cascade
+数值法：Numerical method
+过程能力：Process capability
+工艺管理：process management
+软件实现：software realization
+模糊故障树：fuzzy fault tree
+离散事件动态系统：discrete event dynamic system
+预见控制：Preview control
+接触刚度：contact stiffness
+迎风格式：upwind scheme
+气动干扰：aerodynamic interference
+推力矢量：thrust vector
+深空通信：Deep space communication
+天体力学：Celestial mechanics
+执行器饱和：actuator saturation
+译码算法：decoding algorithm
+控温：temperature control
+键合剂：bonding agent
+扩散焊：diffusion bonding
+寿命分布：life distribution
+临界浓度：Critical concentration
+液氧：liquid oxygen
+GCr15轴承钢：GCr15 Bearing Steel
+热防护：thermal protection
+动力学特性：dynamic characteristic
+角位移：angular displacement
+三角形网格：triangular mesh
+小波消噪：wavelet denoising
+测控：Measure and Control
+模态综合：modal synthesis
+人工势场法：artificial potential field
+双层规划模型：bi-level programming model
+闭环辨识：Closed-loop identification
+空时自适应处理：space-time adaptive processing
+级联码：concatenated code
+逆控制：inverse control
+空间机械臂：space manipulator
+动力刚化：dynamic stiffening
+卫星高度计：satellite altimeter
+动态法：dynamic method
+否定选择算法：negative selection algorithm
+合成射流：synthetic jet
+冲压喷气发动机：Ramjet engine
+磁记忆检测：magnetic memory testing
+ELID磨削：ELID grinding
+力矩电机：torque motor
+安全科学：safety science
+偏相关分析：partial correlation analysis
+Sagnac效应：Sagnac effect
+超临界压力：supercritical pressure
+嵌入式PC：Embedded PC
+变参数：variable parameter
+液氦：Liquid helium
+辐射强度：radiation intensity
+DSMC方法：DSMC method
+参数化造型：parametric modeling
+仿真环境：simulation environment
+雷达网：radar net
+姿态控制系统：attitude control system
+Riemann问题：Riemann problem
+紧致格式：compact scheme
+气动稳定性：aerodynamic stability
+卫星轨道：satellite orbit
+并行通讯：parallel communication
+嵌入式GUI：embedded GUI
+零动态：zero dynamics
+动稳定性：dynamic stability
+电磁干扰：electromagnetic disturbance
+Pro/E软件：Pro/E software
+响应曲面：response surface methodology
+流量控制：flux control
+密封结构：sealing structure
+动力吸振器：dynamic vibration absorber
+动态数学模型：dynamic mathematical model
+环境适应性：environmental worthiness
+滚动接触疲劳：rolling contact fatigue
+隔振器：vibration isolator
+民用飞机：civil aircraft
+弧长法：Arc-length method
+特征线：Characteristic line
+干扰源：interference source
+应变计：strain gauge
+超声速流：supersonic flow
+水平分布：horizontal distribution
+零空间：null space
+可能性理论：possibility theory
+LQG控制：LQG control
+高超声速流：hypersonic flow
+网络时间协议：network time protocol
+状态转换：state transition
+卫星编队飞行：Satellite formation flying
+随机漂移：random drift
+性能退化：Performance degradation
+冲突解决：Conflict resolution
+跨声速流：transonic flow
+背景辐射：background radiation
+老化机理：aging mechanism
+氙灯：xenon lamp
+稳态误差：Steady-state error
+机械损伤：mechanical damage
+表面预处理：surface pretreatment
+稳态模型：steady-state model
+拉格朗日松弛：Lagrangian relaxation
+磁流变抛光：magnetorheological finishing
+智能决策：intelligent decision-making
+传热分析：heat transfer analysis
+空间辐射：space radiation
+行波管：Traveling wave tube
+内流场：internal flow field
+工序能力指数：process capability index
+小波滤波：wavelet filter
+半导体器件：Semiconductor devices
+输沙量：sediment discharge
+空间应用：space application
+交叉熵：cross entropy
+自主定轨：autonomous orbit determination
+C4ISR系统：C4ISR system
+薄膜冷却：Film cooling
+热力性能：thermodynamic performance
+空中交通：air traffic
+装备维修：equipment maintenance
+非线性反馈控制：nonlinear feedback control
+保偏光纤：polarization-maintaining fiber
+大气传输：atmospheric transmission
+局部优化：local optimization
+免疫反馈：immune feedback
+保护区：Nature reserve
+轻量化：light weight
+碳纤维复合材料：carbon fiber composite
+微细电火花加工：Micro EDM
+辐射换热：radiative heat transfer
+制造工艺：manufacture process
+弹塑性变形：elastic-plastic deformation
+燃烧机理：combustion mechanism
+响应特性：response characteristic
+冷却效率：cooling efficiency
+点火能量：ignition energy
+水力损失：hydraulic loss
+流体机械：fluid machinery
+曝光时间：exposure time
+几何造型：geometry modeling
+极大似然法：maximum likelihood method
+蒙特卡罗仿真：Monte-Carlo simulation
+像质：Image quality
+轨道控制：orbit control
+飞行数据：flight data
+发射动力学：launch dynamics
+航空相机：Aerial camera
+单粒子翻转：single event upset
+发现概率：detection probability
+鲁棒滤波：robust filtering
+传感器故障：sensor fault
+时间间隔测量：time interval measurement
+模型重构：Model reconstruction
+进化策略：evolution strategies
+深冷处理：deep cryogenic treatment
+润滑系统：lubricating system
+测试装置：testing device
+加工变形：Machining deformation
+微波衰减：microwave attenuation
+摩擦阻力：Frictional Resistance
+结构完整性：structural integrity
+图形建模：graphic modeling
+模糊综合评价模型：fuzzy comprehensive evaluation model
+硝胺推进剂：nitramine propellant
+平均速度：average velocity
+耦合作用：coupling effect
+静态稳定性：static stability
+可压缩流动：compressible flow
+高斯分布：gauss distribution
+等离子体发生器：plasma generator
+飞行控制系统：flight control systems
+相位校正：phase correction
+姿态估计：attitude estimation
+卫星姿态：satellite attitude
+杀伤概率：kill probability
+爆震波：detonation wave
+标度因数：scale factor
+反射面天线：reflector antenna
+星载计算机：on-board computer
+UKF：unscented Kalman filter
+欠驱动系统：underactuated system
+信号模拟器：signal simulator
+地形跟随：terrain following
+姿态算法：attitude algorithm
+损伤分析：damage analysis
+载波跟踪：carrier tracking
+Laplacian矩阵：Laplacian matrix
+等效应变：equivalent strain
+正交优化：orthogonal optimization
+起动过程：starting process
+疲劳设计：fatigue design
+特征线法：characteristics method
+快速响应：quick response
+动特性：dynamic characteristics
+管流：pipe flow
+大应变：large strain
+高能推进剂：High energy propellant
+指数模型：exponential model
+红外检测：infrared detection
+鸟类多样性：bird diversity
+偏差分析：deviation analysis
+指令系统：instruction system
+动应变：Dynamic strain
+Gamma分布：Gamma distribution
+湍流强度：turbulence intensity
+机场道面：airport pavement
+外弹道学：Exterior Ballistics
+相对导航：Relative navigation
+数字相关：digital correlation
+动态面控制：dynamic surface control
+递阶遗传算法：hierarchical genetic algorithm
+对地观测：earth observation
+振动疲劳：vibration fatigue
+增韧剂：toughening agent
+动态仿真：dynamic emulation
+能量守恒：Conservation of energy
+生成焓：enthalpy of formation
+知识融合：Knowledge fusion
+测试技术：test technique
+长寿命：Long life
+阻尼材料：damping materials
+维修成本：maintenance cost
+静载：static load
+VOF模型：VOF model
+二相流：two-phase flow
+设计要求：design requirement
+水面舰艇：surface ship
+立体显示：stereo display
+混合工质：refrigerant mixture
+软件接口：software interface
+GPS导航：GPS navigation
+μ综合：μ synthesis
+飞控计算机：flight control computer
+航空运输：air transportation
+多目标控制：multi-objective control
+物理光学法：physical optics
+电推进：electric propulsion
+ANSYS仿真：ANSYS simulation
+可信性理论：credibility theory
+模式搜索：pattern search
+放电特性：discharge characteristic
+贝叶斯推理：Bayesian inference
+沸石分子筛：zeolite molecular sieve
+安全阀：relief valve
+新概念：new concept
+数字图像相关：digital image correlation
+温度误差：temperature error
+矩形截面：rectangular section
+材料去除机理：material removal mechanism
+均匀磁场：uniform magnetic field
+地面效应：ground effect
+中心频率：center frequency
+刚度比：Stiffness ratio
+时间窗口：Time Window
+协方差分析：covariance analysis
+非定常气动力：unsteady aerodynamics
+非线性估计：nonlinear estimation
+误差椭圆：error ellipse
+应变疲劳：strain fatigue
+FIR滤波：FIR filter
+远程终端：remote terminal
+Hankel矩阵：Hankel matrix
+可压缩流：compressible flow
+输出反馈控制：output feedback control
+导弹制导：missile guidance
+Lagrange方程：Lagrange equation
+冲击冷却：Impingement cooling
+BDI模型：BDI model
+被动安全性：passive safety
+先验概率：prior probability
+幅度调制：Amplitude modulation
+计量管理：measurement management
+吸能：energy absorption
+压力振荡：pressure oscillation
+Kriging模型：Kriging model
+软件编程：software programming
+最优化设计：optimal design
+摄像机模型：camera model
+地面站：ground station
+正交表：orthogonal table
+超越离合器：Overrunning clutch
+面积测量：area measurement
+渐开线花键：involute spline
+弹性碰撞：elastic collision
+时间差：time difference
+现代战争：modern war
+塞式喷管：aerospike nozzle
+代理模型：surrogate model
+轴流压气机：axial-flow compressor
+信道化接收机：channelized receiver
+太阳敏感器：sun sensor
+姿态角：attitude angle
+星敏感器：Star Tracker
+航空航天推进系统：aerospace propulsion system
+空间天气：space weather
+热控系统：thermal control system
+超声速进气道：supersonic inlet
+细长体：slender body
+电子干扰：electronic jamming
+总线技术：bus technology
+发动机控制：engine control
+热仿真：thermal simulation
+数据互联：data association
+测试程序：test program
+当前统计模型：current statistical model
+结构胶：structural adhesive
+二分法：bisection method
+混合特性：mixing characteristics
+冷坩埚：Cold Crucible
+复合结构：compound structure
+行星齿轮：planet gear
+复合材料结构：composite structure
+压气机叶片：Compressor blade
+数控代码：NC code
+电子经纬仪：electronic theodolite
+热载荷：thermal load
+装配顺序：assembly sequence
+平均温度：average temperature
+动态压力：dynamic pressure
+液氢：liquid hydrogen
+弹射座椅：Ejection seat
+H∞滤波：H∞ filtering
+航空母舰：aircraft carrier
+近似模型：approximate model
+结构连接：structural join
+月球探测器：Lunar probe
+神经网络PID：neural network PID
+计算数学：computational mathematics
+推力测量：thrust measurement
+太阳模拟器：solar simulator
+通道失配：channel mismatch
+Memetic算法：Memetic algorithm
+激光测距仪：laser range finder
+涡破裂：vortex breakdown
+可测试性设计：Design for testability
+直接自适应控制：direct adaptive control
+卫星云图：satellite cloud image
+混联机床：Hybrid Machine Tool
+圆锥误差：Coning Error
+频率分集：Frequency diversity
+缺陷识别：defect identification
+非线性阻尼：nonlinear damping
+可靠性评定：reliability evaluation
+吸附能：Adsorption energy
+冲击响应谱：shock response spectrum
+加速试验：Accelerated testing
+民用航空：civil aviation
+随机误差：random errors
+相对定位：relative positioning
+环境模拟：environmental simulation
+试验数据：test data
+静电防护：electrostatic protection
+柔性制造：flexible manufacturing
+人的因素：human factor
+磁滞损耗：hysteresis loss
+衰减常数：attenuation constant
+外层空间：Outer space
+人因工程：human factors engineering
+LevelSet方法：level set method
+驾驶员模型：driver model
+剪切层：Shear layer
+动力松弛法：dynamic relaxation method
+带通滤波：Band-pass filter
+关系矩阵：relation matrix
+稳定域：stability region
+叶片设计：blade design
+星座设计：constellation design
+许用应力：allowable stress
+正交实验法：Orthogonal experiment
+炭/炭复合材料：C/C composite
+结构改进：structural improvement
+TWIP钢：TWIP steel
+二维模型：two-dimensional model
+集成建模：integrated modeling
+加工过程仿真：machining process simulation
+风险指标：risk index
+绝热剪切：adiabatic shear
+工作流程：Working process
+二次电子发射：secondary electron emission
+随机参数：random parameter
+低信噪比：low signal-to-noise ratio
+弹性振动：Elastic vibration
+遗传优化：genetic optimization
+区域特征：regional characteristics
+电场传感器：electric field sensor
+重复使用运载器：Reusable launch vehicle
+偏振度：polarization degree
+元胞自动机模型：cellular automaton model
+超音速冲压喷气发动机：Supersonic combustion ramjet engine
+火焰稳定器：Flame holder
+匹配度：matching degree
+垂直发射：Vertical Launching
+弹道优化：trajectory optimization
+再生冷却：regenerative cooling
+不变流形：invariant manifold
+机匣处理：casing treatment
+飞行性能：flight performance
+激光测距机：Laser range finder
+LXI总线：LXI bus
+先验估计：a priori estimates
+物理规划：physical programming
+动量轮：Momentum wheel
+加速度反馈：Acceleration feedback
+飞行品质：flying qualities
+特征阻抗：characteristic impedance
+风场反演：wind retrieval
+摩擦因子：friction factor
+复合材料层板：composite laminate
+焊接顺序：welding sequence
+热加工图：Processing Map
+光电编码器：photoelectric coder
+接收系统：receiving system
+自适应神经模糊推理系统：adaptive neuro-fuzzy inference system
+SiCp/Al复合材料：SiCp/Al composites
+流场测量：flow field measurement
+扩展Kalman滤波：Extended Kalman filter
+涡流损耗：eddy current losses
+频散曲线：dispersion curves
+模糊自适应：fuzzy adaptive
+GPS系统：GPS system
+试验设备：test equipment
+空间信息系统：spatial information system
+涡轮叶片：turbine blades
+飞行器设计：aircraft design
+模拟控制：analog control
+低温推进剂：Cryogenic propellant
+混合层：Mixed layer
+鸟撞：bird impact
+航空工业：aviation industry
+航空遥感：airborne remote sensing
+扭摆：torsion Pendulum
+自适应卡尔曼滤波：Adaptive Kalman Filtering
+风险系数：Risk coefficient
+滑转率：slip ratio
+升阻比：lift-drag ratio
+像移：Image motion
+动基座：Moving base
+航迹规划：trajectory planning
+机内测试：built-in test
+气动阻力：aerodynamic drag
+枢纽机场：hub airport
+固体火箭冲压发动机：solid rocket ramjet
+补偿电路：compensation circuit
+对转涡轮：counter-rotating turbine
+非线性滤波器：nonlinear filter
+可展开天线：Deployable antenna
+热分层：thermal stratification
+滑动平均：moving average
+辐射制冷器：radiant cooler
+动态补偿器：dynamic compensator
+最小方差控制：minimum variance control
+精密定轨：precise orbit determination
+数字相关器：digital correlator
+非线性PID控制：nonlinear PID control
+光学遥感：optical remote sensing
+相位干涉仪：phase interferometer
+定性模型：qualitative model
+数据加载：data loading
+终端区：terminal area
+混合方法：Hybrid method
+结构奇异值：structured singular value
+DC/DC转换器：DC/DC converter
+电参数：electric parameter
+复合固体推进剂：Composite solid propellant
+空速：space velocity
+系统框架：system frame
+寿命评估：life evaluation
+风速：air velocity
+吸热型碳氢燃料：endothermic hydrocarbon fuel
+侧向力：side force
+定量评估：quantitative assessment
+数值建模：numerical modeling
+湍流混合：turbulent mixing
+电阻抗：electrical impedance
+矩方法：moment method
+高负荷：high load
+Wiener滤波：Wiener filtering
+STL文件：STL files
+数据记录：data record
+平衡方程：equilibrium equation
+主动磁轴承：active magnetic bearing
+粗差：gross errors
+频响：Frequency response
+冲击谱：shock spectrum
+计算复杂度：computation complexity
+信道预测：channel prediction
+整体稳定性：overall stability
+Goertzel算法：Goertzel algorithm
+气动阻尼：aerodynamic damping
+维修保障系统：maintenance support system
+非线性动态逆：nonlinear dynamic inversion
+分离流动：Separation flow
+序优化：ordinal optimization
+作业车间：job shop
+运动模拟：motion simulation
+Petri网模型：Petri Net model
+OTSU算法：OTSU algorithm
+Box-Cox变换：Box-Cox transformation
+稳健优化：Robust Optimization
+约束处理：constraint handling
+低速冲击：low-velocity impact
+导叶：guide vane
+金相检验：Metallographic examination
+加速腐蚀：Accelerated corrosion
+轴向冲击：axial impact
+维修体制：maintenance system
+油池火：pool fire
+载人航天：manned spaceflight
+燃烧化学：combustion chemistry
+过程神经网络：process neural network
+条件价值法：contingent valuation method
+改进模型：improved model
+数据平滑：Data smoothing
+裂纹尖端场：crack-tip field
+辐射源：radiation source
+集成神经网络：integrated neural network
+压电陶瓷驱动器：piezoelectric actuator
+胞映射：cell mapping
+碳氢燃料：hydrocarbon fuel
+进程间通信：inter-process communication
+增益调度：gain scheduling
+状态转移矩阵：state transition matrix
+图像纹理：image texture
+离子电流：ion current
+航天飞机：space shuttle
+指控系统：command and control system
+角跟踪：angle tracking
+Halo轨道：Halo orbit
+气动特性：aerodynamic performance
+推理算法：Reasoning algorithm
+单粒子效应：single event effects
+电磁制动器：electromagnetic brake
+定轨：orbit determination
+流体控制：flow control
+质心算法：Centroid algorithm
+影像金字塔：image pyramid
+卫星姿态控制：satellite attitude control
+非线性自适应控制：nonlinear adaptive control
+预混合燃烧：premixed combustion
+基于模型诊断：model-based diagnosis
+误差分析：error analyzing
+遥测：Remote sensing
+冷却速度：cooling velocity
+特种加工：non-traditional machining
+单晶合金：single crystal superalloy
+气流分布：gas flow distribution
+复合材料层合板：composite laminated plate
+电荷耦合器件：charge-coupled device
+红外热波：Infrared thermal wave
+动态损伤：dynamic damage
+试验装置：test equipment
+滚子轴承：roller bearing
+图像模拟：image simulation
+空间凸轮：spatial cam
+回流区：recirculation zone
+水声：underwater acoustics
+图像校正：image correction
+贝叶斯正则化：Bayesian regularization
+机械感度：mechanical sensitivity
+伴随方法：adjoint method
+自适应中值滤波：adaptive median filter
+能量分离：energy separation
+磁耦合：magnetic coupling
+涡轮发动机：turbine engine
+快速充电：fast charge
+相似律：similarity law
+故障诊断专家系统：Fault diagnosis expert system
+安装误差：Installation error
+振动环境：vibration environment
+激光陀螺：laser gyroscope
+激波风洞：shock tunnel
+人工诱导：Artificial induction
+换乘枢纽：Transfer hub
+高超声速流动：hypersonic flow
+协同空战：cooperative air combat
+空天飞行器：aerospace vehicle
+舰载机：carrier-based aircraft
+电动舵机：Electromechanical Actuator
+动态故障树：dynamic fault tree
+LabWindows/CVI：Lab Windows/CVI
+设计与分析：design and analysis
+重力波：Gravity waves
+环路热管：Loop heat pipe
+热平衡试验：thermal balance test
+MapX控件：MapX control
+像移补偿：image motion compensation
+损失模型：loss model
+ButterWorth滤波器：ButterWorth filter
+湍流模式：turbulence model
+稀疏孔径：sparse aperture
+成像光学：imaging optics
+验前信息：prior information
+填充算法：filling algorithm
+晶粒：crystal grain
+综合性能：comprehensive properties
+实时优化：real-time optimization
+大口径：large diameter
+钨合金：tungsten heavy alloy
+点火延迟：Ignition delay
+结构刚度：structural stiffness
+端羟基聚丁二烯：hydroxyl-terminated polybutadiene
+暖体假人：thermal manikin
+大尺度：large scale
+能量衰减：energy attenuation
+大气压力：atmospheric pressure
+管接头：Pipe joint
+灰色神经网络：grey neural network
+精加工：finish machining
+流动机理：flow mechanism
+镁粉：magnesium powder
+高温热管：High Temperature Heat Pipe
+虚拟仪器技术：virtual instrument technique
+电磁铆接：Electromagnetic Riveting
+三维显示：three-dimensional display
+信号干扰：signal interference
+运动边界：Moving boundary
+光学参数：Optical parameters
+层流流动：laminar flow
+航空安全：aviation safety
+不确定性推理：uncertain reasoning
+热结构：thermal structure
+健康评估：health assessment
+模态实验：Modal experiment
+射频通信：RF communication
+数据监控：data monitoring
+大气紊流：atmospheric turbulence
+带电粒子：charged particles
+变形反射镜：deformable mirror
+惯性导航系统：Inertial navigation system(INS)
+自由尾迹：free wake
+多相滤波器：polyphase filter
+二级光谱：secondary spectrum
+火星探测：Mars exploration
+导引规律：Guidance Law
+自主光学导航：autonomous optical navigation
+PD控制器：PD controller
+激波串：shock train
+挠性卫星：flexible satellite
+低速风洞：Low speed wind tunnel
+自主飞行：autonomous flight
+可观测性分析：observability analysis
+再入制导：reentry guidance
+QR分解：QR factorization
+涡轴发动机：turboshaft engine
+Pade逼近：Pade approximation
+弯叶片：bowed blade
+红外地球敏感器：infrared earth sensor
+网格变形：mesh deformation
+侦察卫星：Reconnaissance satellite
+液体射流：liquid jet
+响应面模型：response surface model
+虚拟通道：virtual channel
+切换函数：Switching function
+网络文件系统：network file system
+Gurney襟翼：Gurney flap
+级间分离：stage separation
+最小割集：minimum cut set
+石英玻璃：silica glass
+联合时频分析：joint time-frequency analysis
+Bayes理论：Bayes theory
+相似准则：similarity criterion
+建模和仿真：modeling and simulation
+未来趋势：future trend
+霍尔电流传感器：Hall current sensor
+空间对接：space docking
+安全效益：safety benefit
+腐蚀环境：corrosion environment
+质量分数：mass fraction
+冲击波感度：shock sensitivity
+非比例加载：non-proportional loading
+瞬态模型：transient model
+不确定参数：uncertain parameters
+数值传热：numerical heat transfer
+多模态控制：multi-mode control
+柔性机构：compliant mechanisms
+裂纹检测：crack detection
+热控涂层：thermal control coatings
+信号调理：signal condition
+疲劳应力：fatigue stress
+低循环疲劳：Low cycle fatigue
+实时通讯：real-time communication
+脑力负荷：mental workload
+涡轮泵：turbine pump
+姿态跟踪：attitude tracking
+不可压缩流动：incompressible flow
+作战效能评估：operational effectiveness evaluation
+自动着陆：automatic landing
+功率合成：power combination
+稀疏信道：Sparse channel
+传感器故障诊断：sensor fault diagnosis
+数学仿真：mathematical simulation
+分流叶片：splitter blade
+姿态运动：Attitude motion
+涡结构：vortex structure
+线性稳定性：Linear stability
+离散控制：discrete control
+鸭式布局：canard configuration
+系统重构：system reconstruction
+位姿估计：pose estimation
+吊放声纳：dipping sonar
+稳像：image stabilization
+长波：long wave
+平台设计：platform design
+噪声信号：noise signal
+模态局部化：mode localization
+轨迹分析：trajectory analysis
+熵条件：entropy condition
+软错误：soft error
+树脂基复合材料：Resin matrix composite
+脉冲控制：pulse control
+实时补偿：real-time compensation
+热管：heat pipes
+运行特性：operation characteristic
+曳力系数：drag coefficient
+混合效率：mixing efficiency
+非稳态传热：unsteady heat transfer
+高斯拟合：gaussian fitting
+质量特性：quality characteristic
+燃烧速率：burning rate
+流场计算：flow field calculation
+相对测量：relative measurement
+概率设计：Probabilistic design
+逆解：inverse solution
+计划调度：planning and scheduling
+小波降噪：Wavelet denoising
+动密封：dynamic seal
+薄壁结构：thin-walled structures
+应力响应：stress response
+伴随方程：adjoint equation
+驱动轮：driving wheel
+模糊自整定：fuzzy self-tuning
+绘图软件：drawing software
+调相：phase modulation
+热设计：Heat design
+活塞理论：piston theory
+毁伤效应：damage effect
+抗干扰设计：anti-jamming design
+多段翼型：multi-element airfoil
+椭圆轨道：elliptical orbit
+协同作战：cooperative engagement
+反馈增益：Feedback gain
+共轴式直升机：coaxial helicopter
+透平叶栅：turbine cascade
+自适应滑模控制：adaptive sliding mode control
+航向控制：heading control
+大气压辉光放电：atmospheric pressure glow discharge
+单极子天线：monopole antenna
+光滑粒子流体动力学：smoothed particle hydrodynamics
+地磁导航：geomagnetic navigation
+主动流动控制：active flow control
+随机分岔：stochastic bifurcation
+地面共振：ground resonance
+动态贝叶斯网络：dynamic Bayesian networks
+战场态势：battlefield situation
+匹配跟踪：matching pursuit
+均值滤波：average filter
+角闪烁：angular glint
+李萨如图形：Lissajous figure
+对接机构：docking mechanism
+电子元器件：electronic component
+FPGA技术：FPGA technology
+自适应模糊控制器：adaptive fuzzy controller
+工艺装备：technological equipment
+燃烧特性：combustion property
+航空煤油：Aviation kerosene
+有限元模型：FE model
+有机玻璃：Polymethyl methacrylate
+切削深度：cutting depth
+磁场梯度：magnetic field gradient
+参数估值：parameter estimation
+功率谱密度函数：power spectral density function
+卧式容器：horizontal vessel
+诊断矩阵：diagnosis matrix
+回收系统：recovery system
+莫来石纤维：mullite fiber
+最大熵法：maximum entropy method
+支撑结构：supporting structure
+质子辐照：Proton radiation
+模式搜索法：Pattern search method
+平滑滤波：smoothing filter
+径向间隙：radial clearance
+控制仿真：control simulation
+升力：lift force
+燃烧波：Combustion wave
+稀薄气体：rarefied gas
+磁屏蔽：magnetic shield
+损伤模式：damage mode
+Marangoni对流：marangoni convection
+过程数据：process data
+动态刚度：Dynamic stiffness
+气候背景：Climate background
+演化建模：evolutionary modeling
+位平面编码：bit-plane coding
+维修费用：maintenance cost
+气动阀：pneumatic valve
+努塞尔数：Nusselt number
+网络数据：Network data
+数字输出：digital output
+压力修正：pressure correction
+非参数模型：Nonparametric model
+自适应蚁群算法：adaptive ant colony algorithm
+水声对抗：underwater acoustic warfare
+动态功耗管理：dynamic power management
+寻北仪：north seeker
+万有引力：universal gravitation
+光学遥感器：optical remote sensor
+瞬态动力学分析：transient dynamic analysis
+机械耦合：mechanical coupling
+信号模拟：signal simulation
+合同网：Contract Net Protocol
+最大似然检测：maximum likelihood detection
+验前分布：Prior distribution
+轨迹线性化控制：trajectory linearization control
+机动飞行：maneuvering flight
+真空热试验：vacuum thermal test
+高线性度：high linearity
+直方图匹配：histogram matching
+混杂控制：hybrid control
+遥测数据：telemetry data
+环形谐振腔：ring resonator
+导航接收机：navigation receiver
+知识产权核：IP core
+区域覆盖：Regional coverage
+自动标定：automatic calibration
+灰色关联投影法：grey relation projection method
+移动质量：moving mass
+计算气动声学：computational aeroacoustics
+鲁棒跟踪：robust tracking
+模型跟随：model following
+相对距离：relative distance
+达芬奇技术：DaVinci technology
+跨音速压气机：Transonic compressor
+干摩擦：dry sliding
+滑移系：slip system
+粘性系数：viscosity coefficient
+插铣：plunge milling
+等离子体点火：plasma ignition
+自动调整：automatic adjustment
+碰撞概率：collision probability
+碳材料：Carbon materials
+温度均匀性：temperature uniformity
+导轨：guide rail
+安全裕度：safety margin
+流场特性：flow field characteristics
+线性拟合：linear fit
+柔性夹具：flexible fixture
+CFD软件：CFD software
+月球：the moon
+鉴相：phase discrimination
+声信号：sound signal
+工作频率：working frequency
+三菱PLC：Mitsubishi PLC
+系统安全性：system security
+火箭推进剂：rocket propellant
+人为失误：human error
+数字地形：digital terrain
+疲劳载荷：fatigue load
+层间应力：Interlaminar stresses
+空气系统：air system
+整体壁板：integral panel
+热网络：thermal network
+信息分配：information distribution
+厚度分布：thickness distribution
+航空润滑油：Aviation lubricating oil
+制冷技术：refrigeration technology
+变密度法：Variable Density Method
+聚氨酯橡胶：polyurethane rubber
+几何法：geometric method
+光纤激光：fiber laser
+模型确认：model validation
+伺服机构：servo mechanism
+光电耦合器：photoelectric coupler
+蜂窝夹层结构：honeycomb sandwich structure
+多裂纹：multiple cracks
+角加速度：angle acceleration
+滚动优化：rolling optimization
+非平衡流：nonequilibrium flow
+滑阀：Slide valve
+卫星应用：Satellite application
+耦合损耗因子：coupling loss factor
+导航定位：navigation positioning
+直方图分析：histogram analysis
+牛顿迭代：Newton iteration
+惯性测量组合：inertial measurement unit
+燃机：gas turbine
+隐身目标：stealth target
+索网：Cable Net
+圆锥运动：coning motion
+自主水下航行器：autonomous underwater vehicle(AUV)
+差分演化：differential evolution
+虚警率：false alarm rate
+涡喷发动机：turbojet engine
+三次B样条：cubic B-spline
+叶片扩压器：vaned diffuser
+固体燃料冲压发动机：solid fuel ramjet
+加速度响应：acceleration response
+诱导速度：induced velocity
+泄漏流动：leakage flow
+流向涡：streamwise vortex
+主减速器：main reducer
+负载模拟器：Load simulator
+迟滞非线性：hysteresis nonlinearity
+末制导律：terminal guidance law
+热真空试验：thermal vacuum test
+叶尖间隙：tip clearance
+结构布局：structural layout
+随机加权：random weighting
+空战仿真：air combat simulation
+CCD摄像头：CCD camera
+稀薄气体动力学：rarefied gas dynamics
+分支理论：bifurcation theory
+紧缩场：compact range
+相位跟踪：phase tracking
+故障估计：fault estimation
+惯性系：inertial system
+产品保证：product warranty
+相位差分：phase difference
+强度噪声：intensity noise
+并行调度：parallel scheduling
+非线性鲁棒控制：nonlinear robust control
+军事教育：military education
+吹风比：Blowing ratio
+磁阻传感器：magnetic sensor
+蠕变寿命：creep life
+热线风速仪：hot-wire anemometer
+精铸：Investment Casting
+热特性：thermal property
+热防护系统：thermal protection system
+丁羟推进剂：HTPB propellant
+试验验证：experimental validation
+卫星数据：satellite data
+缓冲区：buffer zone
+自适应模糊神经网络：adaptive fuzzy neural network
+无铅焊接：lead-free soldering
+灰色评价：gray evaluation
+旋转角：rotation angle
+数值拟合：numerical fitting
+防护结构：protective structure
+算法改进：improved algorithm
+TA15合金：TA15 alloy
+自由水面：free surface
+双目视觉：binocular stereo vision
+操纵系统：Control system
+网格结构：Lattice structure
+惯性器件：inertial device
+物理电子学：Physical electronics
+振动模态：vibration modal
+耦合传热：coupled heat transfer
+Taylor展开：taylor expansion
+智能故障诊断：intelligence fault diagnosis
+X射线源：X-ray source
+平均寿命：average life
+控制系统仿真：Control system simulation
+混合网格：hybrid grids
+振动传递率：Vibration transmissibility
+驱动机构：drive mechanism
+太阳吸收率：solar absorptance
+方向余弦：direction cosine
+瞬态测量：transient measurement
+瞬时速度：instantaneous velocity
+静电悬浮：Electrostatic Suspension
+视觉跟踪：vision tracking
+误差分配：Error distribution
+纵向稳定性：longitudinal stability
+线性时变系统：linear time-varying system
+故障重构：fault reconstruction
+圆锥扫描：conical scan
+飞机制造：aircraft manufacturing
+尺度不变特征变换：scale invariant feature transform
+空分复用：spatial multiplexing
+动态入流：dynamic inflow
+卫星系统：satellite system
+跟踪滤波：tracking filter
+太阳帆：Solar sail
+故障检测与隔离：fault detection and isolation
+星载合成孔径雷达：spaceborne synthetic aperture radar
+高过载：high overload
+星图：star image
+航空维修：aviation maintenance
+通道涡：passage vortex
+X射线脉冲星：X-ray pulsar
+颤振分析：flutter analysis
+虚拟测试：Virtual Testing
+常规导弹：conventional missile
+误差标定：error calibration
+阵列天线：antenna arrays
+目标分配：target allocation
+计算平台：computing platform
+动力学与控制：dynamics and control
+总压畸变：total pressure distortion
+红外仿真：infrared simulation
+越肩发射：over the shoulder
+机载相控阵雷达：airborne phased array radar
+量子密钥：quantum key
+升压变换器：boost converter
+视情维修：condition based maintenance
+振动台实验：shaking table test
+杂光：Stray light
+Navier-Stokes方程组：Navier-Stokes equations
+中层大气：Middle atmosphere
+观测模型：Observation model
+映射规则：mapping rules
+跨声速流动：transonic flow
+网络算法：Network algorithm
+大气密度：atmospheric density
+氢氧发动机：Hydrogen oxygen engine
+序贯平差：sequential adjustment
+国际影响：international influence
+反设计：inverse design
+反应率：reaction rate
+视轴稳定：LOS stabilization
+螺栓连接：Bolted connection
+统计能量法：statistical energy analysis
+危险源辨识：hazard identification
+雾化特性：atomization characteristics
+锰含量：manganese content
+干涉测量：interference measurement
+激光辐射：Laser radiation
+阻力系数：resistance factor
+合金粉：alloy powder
+事故调查：accident investigation
+随机振动分析：random vibration analysis
+弹簧单元：spring element
+长度分布：length distribution
+稳态：Stable State
+序列最小优化：sequential minimal optimization
+飞行模拟机：flight simulator
+航天继电器：aerospace relay
+机载电子设备：airborne electronic equipment
+区域划分：regional division
+液体火箭推进剂：Liquid rocket propellant
+环境模型：environmental model
+多轴疲劳：multi-axial fatigue
+陶瓷型芯：ceramic core
+系统分解：system decomposition
+Sauter平均直径：Sauter mean diameter
+比强度：specific strength
+动力学设计：Dynamic Design
+热环境：heat environment
+重型燃气轮机：heavy-duty gas turbine
+膏体推进剂：pasty propellant
+旋流数：swirl number
+线性优化：linear optimization
+非线性不确定系统：Nonlinear uncertain system
+鲁棒H∞控制：robust H ∞ control
+随机动力学：stochastic dynamics
+液滴蒸发：droplet evaporation
+飞机维修：aircraft maintenance
+虚拟控制：virtual control
+反作用飞轮：Reaction wheel
+冲量耦合系数：Momentum coupling coefficient
+稳定图：stabilization diagram
+壁板颤振：Panel flutter
+鉴定试验：qualification test
+推力偏心：Thrust misalignment
+直接力控制：direct force control
+捷联惯性导航：Strapdown inertial navigation
+Stackelberg对策：stackelberg game
+重构控制：reconfigurable control
+知识驱动：knowledge driven
+阻抗特性：impedance characteristics
+轨道预报：orbit prediction
+运动模拟器：motion simulator
+动态逆控制：Dynamic inversion control
+矢量观测：vector observation
+SQP方法：SQP method
+火焰筒：flame tube
+燃气射流：Jet flow
+燃气涡轮：gas turbine
+静电传感器：electrostatic sensor
+空间探测：space exploration
+飞行控制器：Flight controller
+图像描述：image description
+信号处理机：signal processor
+动态路径规划：dynamic path planning
+飞机结冰：aircraft icing
+姿态动力学：Attitude dynamics
+频差：frequency difference
+虚拟座舱：virtual cockpit
+静稳定性：static stability
+调制频率：modulation frequency
+月食：lunar eclipse
+结构网格：structured grid
+环形叶栅：annular cascade
+拓扑性质：topological property
+Biba模型：Biba model
+悬停直升机：hovering helicopter
+自适应机制：adaptive mechanism
+杂交算子：crossover operator
+不可压缩流：Incompressible flow
+卫星定轨：satellite orbit determination
+跑道识别：runway recognition
+辐射流体力学：radiation hydrodynamics
+法律措施：legal measures
+国际地磁参考场：International Geomagnetic Reference Field
+颜色匹配：color matching
+自由飞行：free flight
+成型技术：molding technology
+化学铣切：chemical milling
+耦合计算：coupling calculation
+遗传算法(GA)：genetic algorithms(GA)
+微机电系统：micro-electro-mechanical systems
+真空封装：vacuum packaging
+能量特性：energy characteristics
+加速老化试验：accelerated aging test
+先驱体转化：precursor infiltration and pyrolysis
+新进展：new advance
+负荷分布：load distribution
+燃烧产物：combustion product
+纵向运动：longitudinal motion
+半波电压：half-wave voltage
+模态振型：modal shape
+减重：weight reduction
+光学表面：optical surface
+静态法：static method
+风速廓线：wind profile
+烧蚀机理：ablation mechanism
+喷流：jet flow
+测试精度：test precision
+用户子程序：user subroutine
+非参数回归：non-parametric regression
+磁偏角：magnetic declination
+单脉冲：Single pulse
+灰色综合评价：grey comprehensive evaluation
+变增益：variable gain
+现状与发展：status and development
+红外相机：infrared camera
+飞机结构：aircraft structures
+纤维铺放：fiber placement
+供气系统：gas supply system
+防护设计：protection design
+随机应力：random stress
+外弹道：exterior ballistic
+分子污染：Molecular contamination
+位置环：position loop
+再制造技术：remanufacturing technology
+辐射加热：radiation heating
+组合算法：combination algorithm
+心理选拔：psychological selection
+专业培训：professional training
+部分线性模型：partial linear model
+机载Lidar：airborne Lidar
+寿命预估：life prediction
+非线性补偿：non-linear compensation
+飞行控制律：flight control law
+弹道设计：Trajectory design
+月面巡视探测器：lunar rover
+湿度场：humidity field
+同步捕获：timing acquisition
+光电跟踪：optoelectronic tracking
+四阶段法：four-stage method
+操纵律：Steering law
+制导精度：guidance accuracy
+预警机：early warning aircraft
+多余力：surplus force
+RANSAC算法：RANSAC algorithm
+自适应机翼：adaptive wing
+非线性解耦控制：nonlinear decoupling control
+无味卡尔曼滤波：unscented Kalman filter
+惯性积：product of inertia
+Unscented变换：unscented transformation
+目标机动：Target maneuver
+分布式测试：distributed test
+速度分布函数：velocity distribution function
+显示控制：display control
+独立集：independent sets
+五孔探针：five-hole probe
+维修质量：maintenance quality
+可靠性建模：reliability modeling
+细长旋成体：slender body
+模糊PI控制：fuzzy-PI control
+机载预警雷达：airborne early warning radar
+遥感器：remote sensor
+威胁回避：threat avoidance
+机动决策：maneuvering decision
+极限状态函数：limit state function
+运动学方程：Kinematic equation
+可靠性框图：reliability block diagram
+美国海军：US Navy
+数据模块：Data module
+轨道摄动：Orbit perturbation
+公地悲剧：tragedy of the commons
+导航卫星：navigation satellite
+霍尔推力器：Hall thruster
+刻度因子：scale factor
+冲突避免：collision avoidance
+跟踪门：tracking gate
+强噪声：Strong noise
+算法效率：algorithm efficiency
+塔台模拟机：tower simulator
+旋转变压器：rotary transformer
+老化性能：aging property
+载荷分析：loading analysis
+超高强度钢：ultrahigh strength steel
+交互仿真：Interactive simulation
+贮存期：storage time
+激光粒度仪：laser particle size analyzer
+碰撞风险：collision risk
+加工误差：machining errors
+损伤阻抗：damage resistance
+硅含量：Si content
+初步设计：primary design
+碎片云：debris clouds
+人因可靠性：human reliability
+SEM分析：SEM analysis
+升华法：sublimation method
+噪声测试：noise test
+质量功能展开：quality function deployment(QFD)
+裂纹萌生与扩展：crack initiation and propagation
+DPM模型：DPM model
+高速泵：high speed pump
+阳离子光引发剂：cationic photoinitiator
+磁场效应：Magnetic field effect
+控制流程：control flow
+富燃料推进剂：fuel-rich propellant
+空中交通管制员：air traffic controller
+连续损伤力学：continuum damage mechanics
+对称结构：symmetrical structure
+工程优化：engineering optimization
+接触热阻：contact resistance
+轻量化设计：Lightweight design
+线性二次型最优控制：Linear quadratic optimal control
+人的可靠性分析：human reliability analysis
+嵌入式控制：Embedded Control
+裂纹扩展寿命：crack growth life
+操作平台：operating platform
+对流换热系数：convection heat transfer coefficient
+最短距离：shortest distance
+链路层：link layer
+高能材料：Energetic material
+膜态沸腾：Film boiling
+轻型飞机：Light aircraft
+真实气体：real gas
+侵蚀燃烧：erosive burning
+拓扑变换：topological transformation
+脉冲多普勒：Pulsed Doppler
+阵风因子：gust factor
+低空突防：low-altitude penetration
+全球导航卫星系统：global navigation satellite system
+预燃室：Precombustion chamber
+二元决策图：binary decision diagram
+视线：line of sight
+大型飞机：large aircraft
+陀螺稳定平台：Gyro-Stabilized Platform
+半球谐振陀螺：hemispherical resonator gyro
+MEMS加速度计：MEMS accelerometer
+稀疏阵：sparse array
+模态截断：modal truncation
+飞行仿真转台：Flight simulator
+轨道机动：orbital maneuver
+罗差：magnetic deviation
+月球软着陆：Lunar soft landing
+月球探测车：Lunar rover
+速率陀螺：rate gyroscope
+失速裕度：stall margin
+性能衰减：performance degradation
+包络谱：envelope spectrum
+几何纠正：geometric rectification
+气动力特性：Aerodynamic characteristics
+组合制导：integrated guidance
+离散事件：Discrete events
+气动热：aerodynamic heating
+空中交通流量：air traffic flow
+环形燃烧室：annular combustor
+正实控制：positive real control
+奇异值分解(SVD)：singular value decomposition(SVD)
+反辐射无人机：anti-radiation UAV
+过失速机动：post-stall maneuver
+横向喷流：lateral jet
+桥梁断面：bridge deck
+耦合特性：coupling characteristics
+支撑框架：braced frame
+连续空间：continuous space
+双基地声纳：bistatic sonar
+微波暗室：Microwave anechoic chamber
+协同模型：coordination model
+电视导引头：TV seeker
+冷却叶片：cooling blade
+操纵面：control surface
+Hill方程：Hill equation
+跨声速风洞：Transonic wind tunnel
+四维空间：four-dimensional space
+多学科优化设计：multidisciplinary design optimization
+噪声环境：noisy environment
+IEEE1394：IEEE 1394
+频率校准：frequency calibration
+鲁棒自适应：Robust adaptive
+通信链路：communication link
+漂移补偿：Drift compensation
+螺栓孔：Bolt hole
+柔性装配：flexible assembly
+无模型自适应控制：model-free adaptive control
+硅片：Si wafer
+蠕变性能：creep behavior
+前馈补偿：feed forward compensation
+聚合物基复合材料：polymer composites
+含能粘合剂：energetic binder
+发展计划：development plan
+力平衡：force balance
+终点误差：end point error
+故障预测：fault forecasting
+虚拟机床：virtual machine tool
+附着强度：adhesive strength
+多层结构：multilayered structure
+参数敏感性：parametric sensitivity
+无烟推进剂：smokeless propellant
+2E12铝合金：2E12 aluminum alloy
+双基推进剂：Double-base propellant
+状态监控：status monitoring
+采集系统：collection system
+柔性复合材料：flexible composite
+非线性最小二乘：nonlinear least square
+时效性：time effectiveness
+金属含量：metal content
+界面粘结：Interfacial adhesion
+排放模型：emission model
+轻气炮：light gas gun
+高频电磁场：high frequency electromagnetic field
+时效成形：age forming
+模态密度：modal density
+飞机发动机：aircraft engine
+串行通信协议：serial communication protocol
+拉瓦尔喷管：Laval nozzle
+总体结构：general structure
+火焰高度：flame height
+损伤扩展：damage propagation
+实验测试：experiment test
+水滴：water droplet
+高空：high altitude
+反应流：reacting flow
+碰撞模型：impact model
+脉动压力：pulsating pressure
+实验观察：experimental observation
+采集卡：acquisition card
+高能量：high energy
+等离子发生器：plasma generator
+技术状态：technical condition
+加速度测量：Acceleration measurement
+噪声辐射：noise radiation
+垂向刚度：vertical stiffness
+初始位置：initial position
+H_∞控制：H ∞ control
+模态试验：modal testing
+稳定性预测：Stability prediction
+热流法：heat flux method
+增长速度：growth rate
+相似模型：similar model
+循环矩阵：circulant matrices
+功能分配：function allocation
+学习向量量化：learning vector quantization
+着陆冲击：landing impact
+图像导航：image navigation
+汉明码：Hamming codes
+相频特性：phase frequency characteristic
+飞行训练：flight training
+推进剂贮箱：Propellant tank
+变几何：variable geometry
+平动点：Libration point
+Roe格式：roe scheme
+陀螺漂移：gyroscope drift
+航标：aids to navigation
+响应模型：Response model
+微小卫星：micro satellite
+牵引性能：tractive performance
+红外抑制器：infrared suppressor
+拟合公式：Fitting formula
+维修优化：maintenance optimization
+图论模型：graph theory model
+流体传动与控制：turn and control of fluid
+总压恢复：total pressure recovery
+等效系统：equivalent system
+传导干扰：conducted EMI
+核心机：core engine
+轴流风扇：axial fan
+飞机装配：aircraft assembly
+无线电罗盘：radio compass
+微陀螺：micro gyroscope
+喷流干扰：jet interaction
+压缩系统：compression system
+磁航向：magnetic heading
+直流力矩电机：DC torque motor
+冲突探测：conflict detection
+高炮：antiaircraft gun
+运动预测：motion estimation
+微型发动机：micro engine
+随机振动试验：Random vibration test
+近空间：Near space
+无人飞行器：Unmanned Aerial Vehicle
+导航技术：navigation technology
+等效力学模型：equivalent mechanical model
+涡流发生器：Vortex generator
+展开机构：deployment mechanism
+计算网格：computational grids
+可靠性参数：reliability parameter
+飞行弹道：flight trajectory
+三体问题：Three-body problem
+箔条云：chaff cloud
+航空弹药：air ammunition
+构型设计：Configuration design
+嵌入式设备：embedded equipment
+软件算法：software algorithm
+大气模式：atmospheric model
+Spalart-Allmaras湍流模型：Spalart-Allmaras turbulence model
+声疲劳：sonic fatigue
+绳系卫星：tethered satellite
+最小奇异值：minimum singular value
+贪婪策略：greedy strategy
+内在因素：internal factors
+理论与应用：theory and application
+卫星通信网：Satellite communication network
+随机响应分析：random response analysis
+超音速进气道：supersonic inlet
+自主着陆：autonomous landing
+旋涡泵：vortex pump
+接触状态：contact state
+智能决策支持：Intelligent decision support
+任务可靠度：mission reliability
+标度因子：scale factor
+多故障：multiple faults
+超临界翼型：supercritical airfoil
+单粒子：single particle
+SOFM网络：SOFM network
+管理和控制：management and control
+探空火箭：sounding rocket
+拆卸序列规划：disassembly sequence planning
+飞行能力：flight capacity
+多维标度：Multidimensional scaling
+环形谐振器：ring resonator
+绝缘缺陷：Insulation defect
+极端温度：extreme temperature
+网络效率：Network Efficiency
+再平衡回路：Rebalance loop
+记录仪：recording instrument
+梯度材料：Functionally graded material
+Cf/SiC复合材料：Cf/SiC composites
+HTPB推进剂：HTPB propellant
+动物蛋白：animal protein
+持久寿命：stress rupture life
+磨粒：abrasive particle
+反气相色谱法：inverse gas chromatography
+红外热像仪：thermal imager
+制造特征：Manufacturing feature
+CFD技术：CFD technique
+永磁：permanent magnets
+低熔点合金：low melting point alloy
+当量比：equivalence ratio
+结构尺寸：structure size
+分布载荷：distributed load
+对流传质：convective mass transfer
+检测仪：detection instrument
+工艺信息模型：process information model
+数据记录仪：Data recorder
+变尺度法：variable metric method
+PET：poly(ethylene terephthalate)
+优化调整：Optimization adjustment
+事故原因：accident cause
+旋转盘：rotating disk
+设备研制：equipment development
+铣削力：cutting force
+可视化模型：visual model
+热测试：thermal test
+喷气发动机：jet engine
+弹流润滑：elasto-hydrodynamic lubrication
+超高真空：ultra-high vacuum
+飞机蒙皮：aircraft skin
+鞍点规划：Saddle point programming
+点火试验：ignition test
+空气龄：air age
+气体辐射：gas radiation
+抛物面天线：paraboloid antenna
+速度剖面：velocity profile
+随机摄动：random perturbation
+分离控制：separation control
+损伤度：damage degree
+反压：back pressure
+高分辨率成像：high resolution imaging
+抗荷服：anti-G suit
+非定常流场：unsteady flow field
+CFD方法：CFD method
+地球扁率：earth oblateness
+起动特性：starting characteristics
+碟形飞行器：flying saucer
+红外信号：infrared signal
+RANS方程：RANS equations
+联邦滤波：federal filtering
+热试验：thermal test
+控制力矩陀螺：control moment gyroscope
+像旋：image rotation
+MEMS陀螺：MEMS Gyroscope
+重叠网格：overlapping grid
+星模拟器：Star simulator
+太阳帆板：Solar array
+稳定回路：stabilization loop
+绝对定位：absolute positioning
+纵向控制：longitudinal control
+飞参数据：flight data
+气动模型：aerodynamic model
+防滑刹车：anti-skid braking
+指挥自动化：command automation
+Kane方程：Kane equation
+窗函数：window functions
+精跟踪：fine tracking
+Lyapunov方法：Lyapunov methods
+杆臂效应：lever arm effect
+J2摄动：J2 perturbation
+故障特征提取：fault feature extraction
+水冲压发动机：water ramjet
+跑道容量：runway capacity
+阵风响应：gust response
+转捩模型：transition model
+制导与控制：guidance and control
+免疫Agent：immune agent
+地球模拟器：earth simulator
+无刷电机：brushless DC motor
+六自由度：six degree of freedom
+广义卡尔曼滤波：extended Kalman filter
+星间链路：Inter-satellite links
+附面层抽吸：boundary layer suction
+飞机风挡：aircraft windshield
+稳态特性：steady-state characteristic
+压电陀螺：piezoelectric gyroscope
+模糊综合：Fuzzy synthesis
+推进性能：Propulsive performance
+环境控制系统：environmental control system
+大迎角空气动力学：high angle of attack aerodynamics
+颗粒阻尼：particle damping
+星图识别：star pattern recognition
+辐射干扰：radiated interference
+固态发射机：solid-state transmitter
+零控脱靶量：zero effort miss
+数码显示：digital display
+卫星定位系统：Satellite positioning system
+气弹稳定性：aeroelastic stability
+无线测量：Wireless measurement
+双三角翼：double delta wing
+超声速流动：supersonic flow
+多刚体动力学：multi-body dynamics
+阻尼套筒：Damping sleeve
+化学非平衡：chemical non-equilibrium
+软件构架：software framework
+导航误差：navigation error
+参数误差：parameter error
+叶顶间隙：blade tip clearance
+POS系统：POS system
+动平衡试验：dynamic balance test
+报文格式：message format
+气动耦合：aerodynamic coupling
+轴心轨迹：shaft orbit
+μ分析：μ analysis
+热斑：hot streak
+阻力计算：resistance calculation
+同步解调：synchronous demodulation
+相对轨道：Relative orbit
+PCI驱动：PCI driver
+月球着陆器：lunar lander
+姿控系统：Attitude control system
+空间环境模拟器：space environment simulator
+数控振荡器：numerically controlled oscillator
+结构修改：structure modification
+内弹道计算：interior ballistic calculation
+抗混叠滤波：anti-aliasing filter
+不确定性理论：Uncertainty theory
+分层诊断：hierarchical diagnosis
+前飞：forward flight
+数传：Data transmission
+军机：military aircraft
+自由涡：free vortex
+流场畸变：Flow distortion
+模型跟踪：model tracking
+月球卫星：Lunar satellite
+单光子计数：Single photon counting
+等离子体发动机：Plasma engine
+推进剂雾化：Propellant spray
+空间调制：spatial modulation
+发动机故障：Engine failure
+RBF-ARX模型：RBF-ARX model
+扩展机制：extension mechanism
+估价函数：evaluation function
+内建电场：built-in electric field
+二次喷射：Secondary injection
+温度平流：Temperature advection
+虚拟影像：virtual image
+智能夹层：SMART layer
+物性参数：physical parameters
+恒电流：constant current
+振动台：vibrating table
+铣削参数：milling parameters
+乙醚：diethyl ether
+动量比：momentum ratio
+动力调谐陀螺：dynamically tuned gyro
+片层组织：lamellar structure
+金属泡沫：metal foam
+SiO2气凝胶：SiO2 aerogel
+流变应力：rheological stress
+模糊RBF神经网络：fuzzy RBF neural network
+柱状晶：columnar grain
+协同控制：synergetic control
+吸波：microwave absorption
+加速因子：Acceleration factor
+离子推力器：Ion thruster
+解析计算：analytical calculation
+直接法：direct process
+整体结构件：Monolithic component
+指前因子：pre-exponential factor
+分层裂纹：delamination crack
+含硼推进剂：boron-based propellant
+接触非线性：contact nonlinearity
+旋流：rotational flow
+旋涡流动：vortex flow
+Herschel-Bulkley模型：Herschel-Bulkley model
+效能评价：efficiency evaluation
+频率因子：frequency factor
+响应速度：response rate
+振动载荷：vibration load
+机型：Mill Type
+软硬件协同设计：hardware/software codesign
+模态叠加法：modal superposition method
+液压驱动：hydraulic driving
+定向断裂：directional fracture
+三角模糊数互补判断矩阵：triangular fuzzy number complementary judgment matrix
+出口温度：Outlet temperature
+极差：extreme difference
+非线性控制器：non-linear controller
+无机胶粘剂：inorganic adhesive
+UG二次开发：Secondary development of UG
+空闲时间：idle time
+复合材料层压板：Composite laminate
+故障识别：fault diagnosis
+时序控制：sequence control
+实现方法：realizing method
+双转子：Double rotor
+热传导率：thermal conductivity
+湍流流场：turbulent flow field
+极限环振荡：Limit cycle oscillation
+多源信息融合：Multi-information fusion
+流动传热：flow and heat transfer
+数据提取：data extracting
+红外材料：infrared material
+结构化网格：structured grid
+电弧加热器：Arc heater
+代表性体积元：representative volume element
+分布式能源：distributed energy system
+LQR方法：LQR method
+空气动力学粗糙度：aerodynamic roughness
+电磁干扰(EMI)：electromagnetic interference(EMI)
+蠕变疲劳：creep fatigue
+时分复用：time division multiplex
+乘坐舒适性：riding comfort
+先进复合材料：advanced composites
+故障数据：Failure data
+柔性材料：Flexible material
+修正方法：correction method
+粗神经网络：rough neural network
+伪谱法：pseudo-spectral method
+离心加速度：centrifugal acceleration
+实时多任务：real time multitask
+活塞发动机：piston engine
+惯性系统：inertial system
+航天医学：space medicine
+贝叶斯概率：Bayesian probability
+自适应模型：Self-adaptive model
+振动应力：vibration stress
+电磁兼容(EMC)：electromagnetic compatibility(EMC)
+前缘涡：leading-edge vortex
+正实性：positive realness
+干涉成像光谱仪：interference imaging spectrometer
+非周期任务：aperiodic task
+工程测量技术：engineering survey technology
+收缩比：contraction ratio
+俯仰角：pitch angle
+航天器交会：spacecraft rendezvous
+静止气象卫星：geostationary meteorological satellite
+全柔性机构：fully compliant mechanism
+光纤环：fiber coil
+动力缩聚：Dynamic condensation
+任务分析：mission analysis
+电子侦察卫星：electronic reconnaissance satellite
+硬件在回路仿真：hardware-in-the-loop simulation
+线性变参数：linear parameter-varying
+环境谱：environment spectrum
+自动布线：automatic routing
+沥青道面：asphalt pavement
+旋转盘腔：rotating cavity
+柔性航天器：flexible spacecraft
+非结构动网格：dynamic unstructured grid
+驱动电压：actuation voltage
+相对姿态：Relative attitude
+共线方程：collinear equation
+强跟踪滤波：Strong tracking filter
+多余力矩：Extraneous torque
+处理机匣：casing treatment
+低压涡轮：low-pressure turbine
+零偏稳定性：bias stability
+CCD噪声：CCD noise
+发射窗口：launch window
+Pareto遗传算法：Pareto genetic algorithm
+姿态更新：attitude updating
+重要抽样法：importance sampling
+单站无源定位：single station passive location
+空间环境模拟：space environment simulation
+离散速度坐标法：discrete velocity ordinate method
+终端系统：terminal system
+尾桨：tail rotor
+叶栅：blade cascade
+热阻模型：thermal resistance model
+卫星设计：satellite design
+定量反馈理论：quantitative feedback theory(QFT)
+压差阻力：pressure drag
+机载合成孔径雷达：airborne synthetic aperture radar
+动力舱：engine compartment
+轴承腔：bearing chamber
+状态监视：condition monitoring
+动中通：satellite communication in motion
+主动磁控：active magnetic control
+间隙流动：tip clearance flow
+最优轨迹：optimal trajectory
+控制规律：control rule
+惯性导航系统(INS)：inertial navigation system(INS)
+发散冷却：transpiration cooling
+误差四元数：error quaternion
+土壤力学：soil mechanics
+多领域建模：multi-domain modeling
+线性稳定性理论：linear stability theory
+扩展卡尔曼滤波(EKF)：extended Kalman filter(EKF)
+伽利略系统：Galileo system
+仪表着陆系统：instrument landing system
+空间监视：space surveillance
+电涡流位移传感器：eddy current displacement sensor
+振动衰减：vibration attenuation
+离散相：Discrete phase
+极值搜索算法：extremum seeking algorithm
+面向对象的方法：Object-oriented method
+耗能减振：energy dissipation
+使用可靠性：operational reliability
+人机结合：human-computer cooperation
+涡管：vortex tube
+点火过程：ignition process
+有源相控阵天线：active phased array antenna
+非合作目标：Non-cooperative target
+飞机除冰车：aircraft deicing vehicle
+最大独立集：Maximum independent set
+安全关键：safety critical
+推力损失：Thrust loss
+可调度分析：schedulability analysis
+Kirchhoff方程：Kirchhoff equation
+喷泉码：fountain codes
+非线性项：nonlinear term
+等离子体气动激励：plasma aerodynamic actuation
+回弹补偿：springback compensation
+可信软件：trusted software
+脉冲爆轰发动机：Pulse detonation engine
+固化反应动力学：Cure kinetics
+推理引擎：reasoning engine
+轴流式通风机：axial fan
+转换矩阵：conversion matrix
+高温空气燃烧：high-temperature air combustion
+搭接长度：lap length
+放射源：radiation source
+表征方法：characterization methods
+分离特性：Separation Characteristic
+毛细效应：capillary effect
+测试分析：measurement and analysis
+大尺寸测量：Large-scale measurement
+四氧化二氮：dinitrogen tetroxide
+工艺系统：technology system
+ZL205A合金：ZL205A alloy
+贮存性能：storage property
+气动回路：Pneumatic circuit
+有限元分析法：finite element analysis
+辐照效应：irradiation effects
+泡沫材料：foam materials
+压电智能结构：piezoelectric smart structures
+军事化学：military chemistry
+反射法：Reflection method
+盒维数：box counting dimension
+导热反问题：inverse heat conduction
+SiC/Al复合材料：SiC/Al composites
+人误：human error
+磁流变弹性体：magnetorheological elastomers
+比较测量：Comparative measurement
+气浮轴承：gas bearing
+能量损失：energy losses
+表面技术：surface engineering
+300M钢：300M steel
+EMD分解：Empirical Mode Decomposition
+PCI9052：PCI 9052
+安全水平：safety level
+Kirchhoff积分法：Kirchhoff integral method
+位姿测量：position and attitude measurement
+Stewart机构：Stewart platform
+连接螺栓：connecting bolt
+现场标定：field calibration
+参数不确定性：parameters uncertainty
+升降法：Up-and-down method
+示踪粒子：tracer particle
+金属热防护系统：metallic thermal protection system
+试验模态：experimental modal
+分布式卫星：Distributed satellite
+质谱分析：mass spectrographic analysis
+圆柱面：Cylindrical surface
+散热量：heat dissipation
+不确定性系统：uncertainty system
+转速控制：rotate speed control
+应用物理学：applied physics
+光学效应：optical effect
+低速：Low velocity
+组件对象模型：component object model (COM)
+比相：phase comparison
+集中监控：centralized monitoring and control
+飞行事故：flight accident
+LabVIEW编程：LabVIEW programming
+大型结构：large structure
+测量与控制：Measurement and control
+NR：natural rubber
+流动场：flow field
+计算流体动力学(CFD)：computational fluid dynamics
+SIMPLE方法：SIMPLE method
+航迹：flight path
+随机噪声：random noises
+热传导方程：Heat-conduction equation
+测角精度：Angle measurement accuracy
+相位特性：Phase property
+密度传感器：Density Sensor
+耐热树脂：heat-resistant resin
+脉冲法：Pulse method
+控制能力：Control ability
+方向余弦矩阵：direction cosine matrix
+航天器控制：spacecraft control
+信息分发：information dissemination
+易损面积：vulnerable area
+大攻角：large attack angle
+湍流减阻：turbulent drag reduction
+概率推理：probability inference
+非对称涡：asymmetric vortex
+成像调度：imaging scheduling
+宽频段：wide frequency band
+耦合故障：Coupling fault
+民机：civil aircraft
+薄壁杆件：thin-walled beam
+端壁翼刀：endwall fence
+无尾飞机：tailless aircraft
+平淡卡尔曼滤波：unscented Kalman filter
+递推最小二乘法：recursive least square
+脉冲风洞：impulse wind tunnel
+评估准则：evaluation rule
+集中质量模型：lumped mass model
+叶尖泄漏涡：tip leakage vortex
+掠叶片：swept blade
+温度分层：thermal stratification
+高度角：elevation angle
+历次测试数据：Successive test data
+惯导平台：Inertial navigation platform
+定位模型：positioning model
+等效线性化法：equivalent linearization method
+扰动模型：disturbance model
+制导技术：guidance technology
+月壤：lunar soil
+主轴密封：main shaft seal
+发电机控制器：generator control unit
+坐标测量：coordinate measuring
+导航战：navigation war
+损伤概率：damage probability
+干扰力矩：disturbance torque
+Lagrange乘数法：Lagrange multiplier method
+飞行冲突：flight conflict
+无轴承开关磁阻电机：bearingless switched reluctance motor
+李萨如图：Lissajous figure
+侧向喷流：side jet
+爬行波：creeping wave
+提离效应：Lift-off effect
+模糊隶属度：fuzzy membership degree
+备件库存：spare parts inventory
+瞄准线稳定：line of sight stabilization
+航天测控：space TT&C
+三维姿态：3D pose
+截断奇异值分解：truncated singular value decomposition
+并行分布补偿：parallel distributed compensation
+平流层飞艇：Stratosphere airship
+北斗系统：Beidou system
+一体化仿真：integrated simulation
+足尺模型：full-scale model
+直升机桨叶：helicopter blade
+动态加权：dynamic weighting
+动力涡轮：power turbine
+微惯性测量单元：micro inertial measurement unit
+飞控软件：flight control software
+空间科学：space science
+临界平面：Critical plane
+Walker星座：Walker constellation
+反面选择算法：negative selection algorithm
+被动声定位：Passive acoustic localization
+脉冲爆震：pulse detonation
+中心矩：central moment
+耦合运动：Coupled motion
+锤击法：Hammering Method
+跨声速压气机：transonic compressor
+层流边界层：laminar boundary layer
+矢量投影：vector projection
+高阶格式：high order scheme
+测量算法：measurement algorithm
+优先连接：preferential attachment
+旋流燃烧：swirl combustion
+温度畸变：temperature distortion
+速度匹配：speed matching
+复合材料机翼：composite wing
+非线性模态：nonlinear normal modes
+液态水含量：liquid water content
+飞行间隔：flight separation
+梯度下降算法：gradient descent algorithm
+RCS：radar cross section
+间断有限元：discontinuous Galerkin
+侧喷流：lateral jet
+燃烧不稳定性：combustion instability
+公因子：common factor
+内流通道：internal passage
+消声室：anechoic room
+气动载荷：aerodynamic load
+职业素养：professional attainment
+二硝酰胺铵：ammonium dinitramide
+自适应逆：adaptive inverse
+回归法：Regression method
+离心喷嘴：Centrifugal injector
+空间光学遥感器：space optical remote sensor
+数据记录器：data recorder
+地球同步卫星：Geosynchronous satellite
+控制体系结构：control architecture
+移相全桥变换器：Phase-shifted full-bridge converter
+舍入误差：rounding error
+遥感系统：remote sensing system
+定位导航：positioning and navigation
+SHEL模型：SHEL model
+温度仿真：temperature simulation
+混合控制器：hybrid controller
+热可靠性：thermal reliability
+带宽选择：bandwidth selection
+安全模式：security mode
+滑行力：planing force
+全向天线：omni-directional antenna
+威胁模型：Threat Model
+SEA方法：SEA method
+知识存量：knowledge stocks
+超支化聚氨酯：hyperbranched polyurethane
+逆风格式：Upwind scheme
+队形保持：formation keeping
+微型涡轮发动机：micro turbine engine
+抢修性：combat resilience
+温度稳定性：thermal stability
+凝胶推进剂：gelled propellant
+活化能：apparent activation energy
+材料选用：material selection
+三通管：three-way pipe
+TiC涂层：TiC coating
+曲面展开：surface flattening
+导电填料：conductive fillers
+SiO_2气凝胶：SiO_2 aerogel
+比刚度：specific stiffness
+金属燃料：metal fuel
+退移速率：regression rate
+整体叶轮：Integrated Impeller
+风冷：wind cooling
+小脑模型神经网络：CMAC Neural Network
+端盖：End cover
+颤振抑制：Chatter suppression
+防护装置：protection device
+漏率：Leakage rate
+头盔显示器：Head-mounted display
+管径：Tube diameter
+成形模具：forming die
+氟醚橡胶：fluoroether rubber
+数据综合：data integration
+天线反射面：antenna reflector
+固有特性：Inherent characteristics
+空气循环：air cycle
+动力学机理：kinetic mechanism
+最佳控制：optimum control
+烧蚀材料：ablation material
+绝热至爆时间：adiabatic time-to-explosion
+轨道设计：track design
+特征量：characteristic parameter
+原位观测：in-situ observation
+出口压力：outlet pressure
+线胀系数：coefficient of linear expansion
+光学传感器：optical sensors
+统计能量分析法：statistical energy analysis
+麦克斯韦方程组：maxwell equation
+减压阀：Pressure relief valve
+综合集成：comprehensive integration
+热力学循环：thermodynamic cycle
+壳体：shell body
+高速撞击：high speed impact
+轨迹设计：trajectory design
+线性化模型：linearized model
+承载性能：bearing capability
+整体结构：Whole structure
+热化学非平衡：thermochemical nonequilibrium
+航天工业：aerospace industry
+力学环境：Mechanical environment
+SQP算法：SQP method
+空间技术：spatial technology
+PCB：printed circuit board
+热色液晶：thermochromic liquid crystal
+流动损失：flow loss
+估计误差：estimation error
+试验台架：test bench
+加速过程：acceleration process
+地球静止轨道：Geostationary orbit
+分支分析：Bifurcation analysis
+分析工具：Analysis tool
+谐波响应：harmonic response
+轨道演化：Orbital evolution
+两相流场：Two-phase flow field
+低温试验：low temperature test
+频率漂移：Frequency shift
+偏差估计：bias estimation
+局部重建：local reconstruction
+流量调节器：Flow Regulator
+驾驶员诱发振荡：pilot induced oscillation
+非线性仿真：nonlinear simulation
+动导数：dynamic derivatives
+尾涡：trailing vortex
+调制传递函数(MTF)：modulation transfer function(MTF)
+动压反馈：Dynamic pressure feedback
+流动失稳：flow instability
+对偶四元数：dual quaternion
+推进效率：propulsion efficiency
+间隙涡：tip clearance vortex
+机载计算机：onboard computer
+轨道动力学：Orbital dynamics
+双DSP：double DSP
+协同制导：cooperative guidance
+Whipple防护结构：Whipple shield
+爆震燃烧：detonative combustion
+翼型设计：airfoil design
+交流电子负载：AC electronic load
+马赫盘：Mach disk
+高超声速巡航飞行器：hypersonic cruise vehicle
+大气效应：atmospheric effect
+实时模型：real-time model
+分布式卫星系统：Distributed satellite system
+降阶模型：reduced order model
+测风：wind measurement
+反步控制：backstepping control
+检测门限：detection threshold
+高度控制：altitude control
+NS方程：NS equation
+统一模型：uniform model
+硬件电路：hardware circuits
+磨损故障：wear fault
+偏航角：yaw angle
+小型飞行器：small aircraft
+SINS/GPS组合导航：SINS/GPS integrated navigation
+零质量射流：synthetic jet
+靶场：shooting range
+旋流杯：swirl cup
+航天器结构：spacecraft structure
+拉格朗日法：Lagrange method
+航天发射：Space launch
+侧压式进气道：sidewall compression inlet
+极限环颤振：limit cycle flutter
+小型无人机：small UAV
+快速传递对准：rapid transfer alignment
+搜索概率：search probability
+机翼摇滚：wing rock
+压实系数：compacting factor
+活塞式发动机：piston engine
+计算机图像生成：computer image generation
+用户星：User satellite
+Hamilton-Jacobi方程：Hamilton-Jacobi equations
+三角波：triangular wave
+多层快速多极子算法：multilevel fast multipole algorithm
+改进BP网络：Improved BP network
+铝蜂窝：aluminum honeycomb
+极小值原理：minimum principle
+静气动弹性：static aeroelasticity
+电子罗盘：digital compass
+粒子图像速度场仪：particle image velocimetry
+应变天平：strain gauge balance
+区间扩张：interval extension
+空间遥感器：space remote sensor
+低温阀门：cryogenic valve
+闭环检测：closed-loop detection
+对数正态：lognormal distribution
+激光推力器：laser thruster
+吸引域：attraction domain
+工况分析：working condition analysis
+空战决策：air combat decision
+平衡流形：equilibrium manifold
+航电系统：avionics system
+钝锥：blunt cone
+太阳翼：Solar array
+电液伺服加载：electro-hydraulic servo loading
+傅里叶变换透镜：Fourier transform lens
+抗振设计：anti-vibration design
+模态转换：mode transition
+再入轨迹：reentry trajectory
+空化特性：cavitation characteristics
+规划策略：planning strategy
+图像处理算法：image processing algorithm
+飞机排序：aircraft sequencing
+姿态角速度：attitude angular velocity
+驻涡燃烧室：trapped vortex combustor
+飞行参数：flight data
+壁面压力：wall pressure
+涵道风扇：ducted fan
+存储测试：memorized test and measurement
+热驱动：thermally driven
+石英陀螺：quartz gyroscope
+Modelica语言：Modelica language
+反推控制：Backstepping control
+DR算法：DR algorithm
+诱导阻力：induced drag
+弹道方程：Trajectory Equation
+重建误差：reconstruction error
+滤波发散：filter divergence
+气膜冷却效率：film cooling effectiveness
+变比热：variable specific heat
+SiC反射镜：SiC Mirror
+水下滑翔机：underwater glider
+流动换热：flow and heat transfer
+离子发动机：Ion thruster
+激光导星：laser guide star
+速率偏频：rate bias
+高超声速风洞：hypersonic wind tunnel
+信号覆盖：Signal Coverage
+拉格朗日松弛算法：Lagrangian relaxation algorithm
+陀螺电机：Gyro motor
+电磁波散射：electromagnetic scattering
+伪逆法：pseudo-inverse method
+变换域处理：transform domain processing
+高度特性：altitude characteristics
+球面三角：spherical trigonometry
+测力试验：force test
+复杂工程系统：complex engineering system
+情报侦察：intelligence reconnaissance
+辐射加固：radiation hardening
+非线性辨识：Nonlinear identification
+传感器建模：sensor modeling
+多卫星系统：Multi-satellite system
+带通：band pass
+初轨确定：initial orbit determination
+轨迹生成：path generation
+桥函数：bridge function
+阿伦方差：Allan variance
+建模误差：modeling error
+末端能量管理：Terminal area energy management
+区间预测：interval prediction
+火箭喷管：rocket nozzle
+飞机工程：aircraft engineering
+变结构控制器：variable structure controller
+跟踪环路：tracking loop
+数字电子控制器：digital electronic controller
+成像卫星：Imaging satellite
+导航算法：Navigation Algorithm
+步行轮：Walking wheel
+堵塞流：blocking flow
+突发错误：burst error
+安全信道：security channel
+光纤环形腔：fiber optic ring resonator
+膜单元：membrane element
+可达集：reachable set
+MIL-STD-1553B总线：MIL-STD-1553B Bus
+分配效率：allocation efficiency
+极地：polar region
+锁定效应：Lock-in effect
+职业定位：professional orientation
+Eulerian模型：Eulerian model
+IC10合金：IC10 alloy
+镁铝合金：Mg-Al alloy
+近空间飞行器：near space vehicle
+反应速率：reaction velocity
+声衬：acoustic liner
+自抗扰控制器：auto-disturbance rejection controller(ADRC)
+储能密度：energy storage density
+损伤检测：damage identification
+冷却特性：cooling characteristic
+摩擦力矩：moment of friction
+离心应力：centrifugal stress
+滚珠丝杠副：Ball screws
+光干涉：light interference
+波纹板：corrugated plates
+5A06铝合金：5A06 aluminium alloy
+动力装置：power unit
+反应介质：Reaction media
+扫描法：scanning method
+救灾：disaster rescue
+隔热材料：insulating material
+广义特征值：Generalized eigenvalue problem
+非线性时间序列：nonlinear time sequence
+冷凝管：Condenser tube
+双马树脂：bismaleimide resin
+数字温度传感器：digital temperature transducer
+市场分布：market distribution
+密封盖：sealing cover
+波前畸变：wavefront aberration
+入口压力：Inlet pressure
+强度分析：stress analysis
+压电作动器：piezoelectric actuators
+平行航路：parallel routes
+多步法：multistep method
+雾化角：spray angle
+热物性参数：Thermophysical parameters
+基体材料：Matrix material
+化学反应动力学：chemical reaction dynamics
+顶事件：Top event
+化学电源：chemical power
+尺寸参数：dimension parameter
+发动机叶片：engine blade
+缓冲性能：cushioning property
+小子样：small samples
+低频率：low frequency
+区域分解：domain decomposition method
+力传感器：force sensors
+低温特性：low temperature characteristics
+模型树：model tree
+热平衡方程：thermal balance equation
+二级轻气炮：Two-stage light-gas gun
+防热：Thermal protection
+变流量：Variable flow rate
+灰理论：gray theory
+复应力强度因子：complex stress intensity factor
+缓冲特性：cushioning properties
+疲劳开裂：fatigue crack
+模场直径：mode field diameter
+水反应金属燃料：hydroreactive metal fuel
+国际空间站：international space station
+低温流体：Cryogenic fluid
+脉动燃烧：pulsating combustion
+传动间隙：transmission clearance
+压力控制系统：pressure control system
+综合测试系统：integrated test system
+挤压效应：extrusion effect
+响应控制：response control
+反馈神经网络：recurrent neural networks
+校准装置：calibrating device
+流动与传热：fluid flow and heat transfer
+单自由度：single freedom
+危险截面：dangerous section
+分布指数：Distribution index
+重离子：heavy ions
+高温形变：high temperature deformation
+核磁共振波谱法：Nuclear magnetic resonance spectroscopy
+多级火箭：multi-stage rocket
+点火瞬态过程：ignition transient
+压气机盘：compressor disk
+流体系统：fluid system
+运动模式：motion model
+知识更新：knowledge updating
+关断时间：Turn off time
+欠压保护：under-voltage protection
+激光遥感：Laser remote sensing
+地球曲率：Earth curvature
+非线性最小二乘法：nonlinear least squares
+ITAE指标：ITAE index
+响应误差：response error
+损伤容限设计：damage tolerance design
+载荷分配：Load sharing
+系统构架：system framework
+数字化制造：digital manufacture
+置换表示：permutation representation
+船体变形：hull deformation
+移动视频监控：mobile video surveillance
+稳定精度：stabilization precision
+叶片裂纹：Blade cracks
+极点约束：pole constraint
+截获概率：acquisition probability
+S弯进气道：S-shaped inlet
+控制律设计：control law design
+挠性附件：flexible appendage
+四元数法：Quaternion Method
+文明社会：civilized society
+Dempster-Shafer证据理论：Dempster-Shafer theory of evidence
+工作特性：working performance
+机场建设：airport construction
+着舰：carrier landing
+电容检测：capacitive detection
+振动传递：vibration transfer
+压力控制器：pressure controller
+动网格技术：dynamic mesh technique
+燕尾榫：Dovetail joint
+姿态控制器：Attitude controller
+秒脉冲：pulses per second
+液压阻尼器：hydraulic damper
+目标毁伤：target damage
+UHF频段：UHF band
+跨声压气机：transonic compressor
+旋涡破裂：vortex breakdown
+脉冲爆震发动机(PDE)：pulse detonation engine(PDE)
+燃烧流场：combustion flow field
+实时规划：real-time planning
+多处损伤：multiple site damage
+纵向飞行控制：longitudinal flight control
+多普勒频偏：Doppler shift
+NACA0012翼型：NACA0012 airfoil
+在轨服务：on-orbit servicing
+能源管理系统：energy management system
+无迹卡尔曼滤波：Unscented kalman filter(UKF)
+气热耦合：conjugate heat transfer
+大展弦比：high aspect ratio
+空中加油：aerial refueling
+UPF：unscented particle filter
+装配型架：assembly fixture
+维修性验证：maintainability demonstration
+拖靶：tow target
+破裂转速：burst speed
+中继卫星：tracking and data relay satellite
+指派模型：assignment model
+二元机翼：two-dimensional airfoil
+尾喷焰：Exhaust plume
+战场侦察：battlefield reconnaissance
+初始聚类中心：initial cluster centers
+Boltzmann模型方程：Boltzmann model equation
+轨道根数：Orbit elements
+自主天文导航：Autonomous celestial navigation
+深空探测器：Deep space probe
+部件级模型：component-level model
+低循环疲劳寿命：low cycle fatigue life
+超视距空战：beyond visual range air combat
+摇摆：rolling motion
+雷达管制：radar control
+比例溢流阀：Proportional relief valve
+互连测试：interconnection test
+转速测量：rotational speed measurement
+发动机性能参数：Motor performance parameter
+超声速边界层：supersonic boundary layer
+航空成像：aerial imaging
+环形激光陀螺：ring laser gyro
+数据处理流程：data processing flow
+测距精度：Range accuracy
+四频差动激光陀螺：differential laser gyro
+总压恢复系数：total pressure recovery
+双星定位系统：Double-star positioning system
+磁致伸缩位移传感器：magnetostrictive displacement sensor
+测角：angle measuring
+空时二维自适应处理：Space-time adaptive processing
+质量矩：moving mass
+多故障诊断：multi-fault diagnosis
+重力梯度仪：gravity gradiometer
+流量优化：flow optimization
+基准图：reference image
+回路成形：Loop shaping
+布局方案：layout scheme
+平台罗经：platform compass
+输入整形器：Input shaper
+发展应用：development and application
+磁补偿：magnetic compensation
+伺服回路：servo loop
+方向控制：direction control
+并行子空间优化：concurrent subspace optimization
+障碍识别：obstacle recognition
+电动加载：Electric loading
+角速率：angular rate
+气动弹性稳定性：aeroelastic stability
+扇区划分：sector partition
+动圈：moving coil
+直升机设计：helicopter design
+空间物体：space object
+绳牵引并联机构：wire-driven parallel manipulator
+卫星导航定位系统：satellite navigation system
+随机调制：random modulation
+高阶单步法：high order single step method
+共线平动点：Collinear Libration Point
+相对状态：relative state
+燃油喷嘴：fuel nozzle
+信道复用：channel multiplexing
+扰动补偿：disturbance compensation
+超临界机翼：supercritical wing
+UKF滤波：Unscented Kalman filter
+仿真验证：simulation verification
+机电作动器：Electromechanical actuator
+可靠性函数：reliability function
+贫油熄火：lean blowout
+PMAC运动控制器：PMAC motion controller
+Unscented卡尔曼滤波(UKF)：unscented kalman filter(UKF)
+粒子成像测速仪：particle image velocimetry
+PowerPC：Power PC
+分解优化：decomposition optimization
+积分滑模：integral sliding mode
+空间遥感：space remote sensing
+飞行程序：flight program
+维修设计：maintenance design
+Allan方差法：allan variance
+空间碎片：orbital debris
+力反馈回路：Force Feedback Loop
+时序设计：timing design
+高压涡轮：High pressure turbine
+正交误差：quadrature error
+快速定位：rapid positioning
+飞机积冰：aircraft icing
+侧向控制：lateral control
+汽水两相流：steam-water two-phase flow
+断裂参数：fracture parameter
+旋涡运动：vortex flow
+红外辐射特性：infrared radiation characteristic
+结构强度分析：structural strength analysis
+DOA：direction of arrival
+普朗特数：Prandtl number
+刚体航天器：rigid spacecraft
+模糊动态AHP：fuzzy dynamic AHP
+小卫星星座：Small satellite constellation
+远程导弹：Long-range missile
+小偏差：small deviation
+不平衡振动：unbalance vibration
+Reason模型：Reason model
+直接序列扩频通信：direct sequence spread spectrum
+直接自适应：direct adaptive
+位移损伤：displacement damage
+显式制导：Explicit guidance
+应力调整：Stress adjustment
+数字图像压缩：Digital image compression
+增益矩阵：gain matrix
+二次筛选：secondary screening
+航天遥感：space remote sensing
+流体仿真：fluid simulation
+光束平差：bundle adjustment
+反作用力：Reacting force
+脉宽调制技术：pulse width modulation
+空天飞机：aerospace plane
+BGK方程：BGK equation
+无人飞艇：unmanned airship
+IEEE1451：IEEE 1451
+变形校正：distortion correction
+重心算法：centroid algorithm
+稀疏数据：sparse data
+综合关联度：comprehensive correlative degree
+数值重建：numerical reconstruction
+地球静止轨道卫星：geostationary satellite
+石英音叉：quartz tuning fork
+单搭接头：single-lap joint
+类地行星：terrestrial planet
+圆型限制性三体问题：circular restricted three-body problem
+脊状表面：riblet surface
+H_∞回路成形：H_∞loop shaping
+过氧化氢(H_2O_2)：hydrogen peroxide (H_2O_2)
+信息重构：information reconstruction
+冲突解脱：conflict resolution
+点位精度：positional accuracy
+层次网络：hierarchical network
+飞机尾流：Aircraft wake vortex
+鸟击：Bird strike
+层错能：fault energy
+预测建模：forecast modeling
+综合规划：comprehensive plan
+聚酰亚胺泡沫：polyimide foam
+收敛因子：Constriction factor
+智能材料与结构：smart materials and structures
+物元分析法：matter element analysis method
+经验模型：Experience model
+灰度值：grey level
+有限元分析软件：finite element analysis software
+界面断裂：interfacial fracture
+导向叶片：Guide Vane
+破坏载荷：failure load
+超低温：cryogenic temperature
+多尺度模型：multi-scale model
+操纵机构：control mechanism
+标准化工作：standardization work
+长宽比：aspect ratio
+载荷传递：load transfer
+气体发生剂：gas generator
+数控设备：numerical control device
+临界尺寸：critical dimension
+视场：field of vision
+覆盖能力：covering power
+成本评估：cost evaluation
+水槽：water trough
+混合进化算法：hybrid evolutionary algorithm
+交换式以太网：switching ethernet
+频宽：frequency width
+装配规划：assembly plan
+微位移：Tiny displacement
+分类分析：classified analysis
+应用层协议：application protocol
+维修技术：Maintenance Technology
+金属膜片贮箱：metal diaphragm tank
+蒙皮：aircraft skin
+发射场：Launch site
+无反射边界条件：non-reflecting boundary conditions
+结构阻尼：structure damping
+热控制：thermal management
+探测效率：detector efficiency
+均匀试验设计：uniform experiment design
+气路：gas circuit
+镜面反射：mirror reflection
+特征尺寸：characteristic dimension
+数值验证：numerical verification
+液体火箭：liquid rocket
+陶瓷模具：ceramic die
+多项式模型：multinomial model
+冷却结构：Cooling Structure
+准静态方法：quasi-static method
+空载：no load
+变形协调：compatibility of deformation
+空间材料：space materials
+谐振子：harmonic oscillators
+二硝酰胺铵(ADN)：ammonium dinitramide(ADN)
+遥测技术：telemetry technology
+动态网络流：dynamic network flow
+ID3算法：ID3 arithmetic
+滑动最小二乘法：moving least square method
+嵌套网格：nested grid
+模拟装置：simulation device
+数据分类：data classifying
+高空环境：high altitude environment
+传感器技术：Transducer technology
+东南沿海地区：southeast coastal area
+热膜：hot film
+燃烧模型：burning model
+图像系统：Image system
+总烃：total hydrocarbons
+太阳吸收比：solar absorptance
+辐射热损失：radiative heat loss
+旋流发生器：swirl generator
+模态控制：modal space control
+卫星地面站：satellite earth station
+结构疲劳：structural fatigue
+行走系统：walking system
+电源控制器：power controller
+生产质量：Production quality
+计数电路：Count Circuit
+装配信息：assembly information
+屈曲失稳：buckling instability
+点火延时：ignition delay time
+最小二乘算法：least squares
+时间延迟：time lag
+周期性误差：Periodic error
+最小二乘方法：Least squares method
+控制效率：Control efficiency
+固体发动机：Solid engine
+最优控制律：optimal control law
+增益调度控制：gain scheduling control
+体积力：volume force
+加载轨迹：loading trajectory
+自持振荡：self-sustained oscillation
+燃料供应：fuel supply
+旋翼桨叶：rotor blades
+效果评估：Evaluation of effect
+滚动角：sliding angle
+激励方法：incentive method
+人因工程学：Human factors engineering
+多柔体动力学：flexible multi-body dynamics
+姿控发动机：attitude control engine
+多体航天器：multi-body spacecraft
+飞机钣金零件：aircraft sheet metal parts
+非线性约束：non-linear constraint
+反时限保护：inverse-time protection
+叶尖间隙高度：tip clearance height
+混沌振荡：chaos oscillation
+综合航电系统：integrated avionics system
+月球探测：Moon exploration
+变结构理论：Variable structure theory
+大角度机动：Large-angle maneuver
+自主导航：Automatic navigation
+混合滤波：Mixed filter
+结构仿生：structural bionics
+机翼颤振：Airfoil flutter
+大飞机：large aircraft
+反潜直升机：antisubmarine helicopter
+阻尼振荡：damped oscillation
+热颤振：Thermal flutter
+舰载直升机：ship-borne helicopter
+气动优化设计：aerodynamic optimization
+模糊应力：fuzzy stress
+区域目标：area target
+视频记录：video recording
+集合理论：set theory
+铁心损耗：Iron losses
+鸟害：bird pest
+延迟锁定环：delay-locked loop
+分布式供电：distributed power supply
+多目标攻击：multi-targets attacking
+飞行器控制和导航技术：control and navigation technology of aerocraft
+空间环境效应：space environment effects
+传感器配置：sensor placement
+仿生优化：bionic optimization
+高分辨率卫星影像：high resolution satellite image
+旋转载体：rotating carrier
+挠性振动：flexible vibration
+悬停控制：hovering control
+小天体：Small body
+代数算法：algebraic algorithm
+红外热像技术：infrared thermal imaging technique
+离心式压气机：centrifugal compressor
+介观压阻效应：meso-piezoresistance effect
+起飞性能：takeoff performance
+柔性翼：flexible wing
+伪码测距：pseudo code ranging
+改进A*算法：improved A* algorithm
+气动参数：aerodynamic parameters
+任务效能：mission effectiveness
+喷射特性：injection characteristic
+锥形运动：coning motion
+非线性气动弹性：nonlinear aeroelasticity
+工程估算：engineering estimation
+电磁影响：electromagnetic effect
+旋转导弹：rolling missile
+动量管理：momentum management
+星图模拟：star image simulation
+区间数判断矩阵：interval number judgment matrix
+LMI(线性矩阵不等式)：LMI(linear matrix inequality)
+自主式导航：Autonomous navigation
+旋转弹：Spinning Projectile
+复图像：complex image
+成像侦察卫星：imaging reconnaissance satellite
+宽高比：aspect ratio
+液氧贮箱：liquid oxygen tank
+直接力：direct force
+时钟误差：clock error
+基于模型：model based
+根轨迹法：root locus method
+Re数：Reynolds number
+纳卫星：nano satellite
+光电跟踪系统：electro-optical tracking system
+电磁仿真：electromagnetism simulation
+航天相机：aerospace camera
+分布式诊断：Distributed diagnosis
+周向槽：circumferential groove
+8051IP核：8051 IP core
+参数自整定：parameter self-adjusting
+进气道设计：inlet design
+随机子空间方法：stochastic subspace identification
+现场校准：on-the-spot calibration
+飞行参数记录系统：flight data recorder
+动力传动：power transmission
+规划与调度：planning and scheduling
+维修方式：maintenance mode
+假目标干扰：false target jamming
+军事需求：military requirements
+双转子系统：dual-rotor system
+机场终端区：airport terminal area
+散射测量：scattering measurement
+抛物化稳定性方程：parabolized stability equation
+光电设备：photoelectric equipment
+欠驱动航天器：underactuated spacecraft
+装配工艺设计：assembly process planning
+气体二次喷射：secondary gas injection
+供应保障：supply support
+功率电传：power by wire
+直接数字合成器：direct digital synthesizer
+潜在故障：potential failure
+阵风减缓：gust alleviation
+红外加热笼：infrared heating cage
+机翼结构：wing structure
+落点偏差：impact point deviation
+空间作战：space warfare
+矢量推力：vector thrust
+编队卫星：Formation flying satellites
+试验评定：experimental assessment
+噪声试验：acoustic test
+通用航空飞行器：common aero vehicle
+自激驱动：self-excited driving
+对地攻击：ground attack
+平板三角翼：flat-plate delta wing
+非保守系统：non-conservative systems
+进化理论：evolution theory
+防空作战：air-defense combat
+VxWorks：Vx Works
+结冰风洞：icing wind tunnel
+吸力面：suction surface
+燃烧室性能：combustor performance
+可靠性灵敏度分析：Reliability sensitivity analysis
+综合化航空电子系统：integrated avionics system
+电液负载模拟器：Electro-hydraulic load simulator
+颤振主动抑制：active flutter suppression
+空间推进系统：space propulsion system
+序贯滤波：sequential filter
+导航精度：Navigation accuracy
+交叉定标：cross calibration
+虚拟网格：virtual grid
+终点弹道学：terminal ballistics
+高超音速飞行器：hypersonic vehicle
+直接模拟蒙特卡罗法：direct simulation Monte Carlo method
+安检：security inspection
+平方根滤波：square root filter
+区段混合能：interval mixed energy
+LMS自适应滤波器：LMS adaptive filter
+装配技术：assembly technology
+胶接结构：Bonding structure
+非定常风洞：unsteady wind tunnel
+激光干扰：laser interference
+相对轨道确定：Relative orbit determination
+攻防：attack and defense
+快速扩展随机树：rapidly-exploring random tree
+加权法：weighting method
+卫星通信系统：satellite communication systems
+结构不变性原理：Structure invariance principle
+盲识别：blind recognition
+相对位姿：relative pose
+太赫兹脉冲：terahertz pulse
+三角形算法：Triangle algorithm
+附件机匣：Accessory gearbox
+滚珠轴承：ball bearing
+对地观测卫星：Earth observation satellite
+不确定性设计：uncertainty design
+尾焰：exhaust plume
+性能衰退：performance degradation
+封锁概率：blockage probability
+捷联姿态算法：Strapdown attitude algorithm
+差别矩阵：differential matrix
+附面层分离：boundary layer separation
+共模故障：common mode failure
+电驱动：electric drive
+民航飞机：civil aircraft
+滤波技术：filtering technology
+供应系统：supply system
+微波着陆系统：Microwave landing system
+振荡叶栅：oscillating cascade
+再入体：reentry vehicles
+计算机测控系统：computer control system
+抖振控制：buffeting control
+涵道尾桨：ducted tail rotor
+地面模拟试验：ground simulation test
+空中发射：air launch
+联合滤波：federated filter
+压缩效率：compression efficiency
+结构非线性：structural nonlinearity
+正向运动学：forward kinematics
+壁面温度：wall temperature
+空中交通管制(ATC)：Air Traffic Control(ATC)
+小突片：small tabs
+多维分配：multi-dimension assignment
+弹簧近似：spring analogy
+常值漂移：Constant drift
+备用系统：standby system
+纠正措施：Corrective Action
+军用机场：military airfield
+数字上变频：digital up converter
+超声速巡航：supersonic cruise
+CCD拼接：CCD butting
+保障设备：support equipment
+劳斯判据：Louts criterion
+热诱发振动：thermally induced vibration
+平均推力：average thrust
+速度增量：velocity increment
+激励频率：exciting frequency
+PetriNets：petri Nets
+时域反射法：time domain reflectometry
+图像处理器：image processor
+测姿：attitude determination
+气体喷射：Gas injection
+混合增强：Mixing enhancement
+无喷管助推器：Nozzleless booster
+任务驱动法：task driving method
+限制性三体问题：Restricted Three-Body Problem
+飞机拦阻系统：aircraft arresting system
+风扇叶片：fan blade
+被动式加载系统：passive loading system
+显式表达式：explicit expression
+耦合变形：coupling deformation
+主动振动抑制：active vibration suppression
+衰减记忆：fading memory
+导航定位系统：navigation positioning system
+航天器轨道：spacecraft orbit
+二次监视雷达：secondary surveillance radar
+激波/边界层干扰：shock wave/boundary layer interaction
+Sage-Husa自适应滤波：Sage-Husa adaptive filter
+ZBLAN玻璃：ZBLAN glass
+虚拟试验系统：Virtual test system
+全球卫星定位系统(GPS)：Global positioning system (GPS)
+引射式冲压发动机：Ejector ramjet engine
+引射模态：Ejector mode
+航天结构：space structure
+模态法：modal method
+飞行环境：flight environment
+特征值分析法：eigenvalue analysis method
+矩形断面：rectangular section
+多普勒展宽：Doppler broadening
+气动损失：aerodynamic loss
+圆锥补偿算法：coning compensation algorithm
+裂纹损伤：crack damage
+坐标旋转数字计算机算法：CORDIC algorithm
+国外标准：foreign standard
+鸟类保护：bird conservation
+障碍探测：obstacle detection
+状态转换图：state transition graph
+代数图论：algebraic graph theory
+AltiVec技术：AltiVec technology
+功率预算：power budget
+星空背景：celestial background
+阻抗失配：impedance mismatch
+圆极化天线：Circularly polarized antenna
+传感阵列：sensor array
+电动负载模拟器：Electric load simulator
+UKF算法：UKF algorithm
+覆盖模型：overlay model
+非线性状态观测器：nonlinear state observer
+姿态测定：attitude determination
+传统PID控制：Traditional PID control
+平衡截断：balanced truncation
+卫星仿真：satellite simulation
+任务建模：Task Modeling
+机队规划：fleet planning
+PLD：programmable logic device
+附加阻力：Additive drag
+输入成形：input shaping
+色指数：color index
+同步串行通信：synchronous serial communication
+空间对接机构：space docking mechanism
+地外生命：extraterrestrial life
+地磁匹配制导：geomagnetism matching guidance
+转子动力：rotor dynamics
+操纵负荷系统：Control loading system
+操纵响应：control response
+数字化预装配：digital pre-assembly
+水下发射：Underwater launching
+多孔介质燃烧：porous media combustion
+火星探测器：Mars probe
+飞机液压系统：Aircraft Hydraulic System
+环境减灾-1A、1B卫星：HJ-1A/1B satellites
+油膜厚度：lubricant film thickness
+核磁共振法：nuclear magnetic resonance spectroscopy
+分布式控制：decentralized control
+标准分析：standard analysis
+广义最小方差：generalized minimum variance
+气密层：inner liner
+元素含量：element contents
+热毁伤：thermal damage
+极化特性：polarization characteristic
+推重比：thrust-weight ratio
+密闭爆发器：manometric bomb
+入口温度：Inlet Temperature
+力学试验：Mechanical testing
+球形颗粒：spherical particles
+弹性常数：elastic properties
+预警卫星：early-warning satellite
+单元法：element method
+Ti2AlNb基合金：Ti2AlNb-based alloy
+流量调节：flow adjustment
+长裂纹：long crack
+热平衡分析：thermal balance analysis
+细水雾：fine mist
+滑环：slip ring
+深孔加工：deep-hole machining
+热物理性能：Thermo-physical properties
+数控加工技术：NC machining technology
+面内刚度：in-plane stiffness
+海洋大气：marine atmospheric
+图像检测：image measure
+高温拉伸：high temperature drawing
+超细碳酸钙：Ultrafine CaCO3
+空间稳定性：space stability
+在线预测：online predicting
+航空燃料：jet fuel
+深孔钻：deep-hole drilling
+安全评判：safety evaluation
+攻角：Impact angle
+团聚硼：agglomerated boron
+气流速度：air velocity
+界面技术：interface technique
+振动抑制：vibration control
+航空轮胎：aircraft tire
+铝合金材料：aluminum alloy material
+氦质谱检漏：helium mass spectrometer leak detection
+激波反射：shock reflection
+电磁约束成形：electromagnetic shaping
+倾覆力矩：overturn moment
+层压板：laminated board
+形成因素：formative factors
+离子探针：ion microprobe
+酚醛纤维：phenolic fibers
+角锥棱镜：cube-corner retroreflector
+火焰稳定：flame stability
+升降机构：lifting mechanism
+气动光学效应：aero-optical effect
+人为差错：man-made error
+浇注工艺：casting process
+层合复合材料：laminated composite
+表面腐蚀：Surface corrosion
+工作方式：working mode
+纤维复合材料：fiber reinforced plastic
+综合环境试验：comprehensive environmental test
+功能分析法：function analysis method
+超声速混合：supersonic mixing
+参考轨迹：reference path
+镗刀：boring cutter
+快速标定：fast calibration
+FGH96合金：FGH96 alloy
+焊接温度场：temperature field
+传输电路：transmission circuit
+小流量：small flow
+疲劳测试：fatigue test
+燃烧时间：combustion time
+被动遥感：passive remote sensing
+热物理性质：thermophysical property
+喷射角：spray angle
+载荷比：load ratio
+可靠性预计：reliability estimation
+变物性：temperature-dependent properties
+成碳率：Char yield
+标定装置：calibration equipment
+四面体单元：tetrahedral element
+表面酸碱性：surface acidity and basicity
+二烯丙基双酚A：diallylbisphenol A
+信号模型：Signal models
+防热材料：thermal protection material
+多学科：multi subject
+电磁兼容性(EMC)：electromagnetic compatibility(EMC)
+机组资源管理：crew resource management
+隐身涂料：Stealth coatings
+标准化设计：Standardization design
+高温特性：high temperature characteristics
+分散系数：dispersion coefficient
+气体透过：Gas permeation
+操作时间：Operation time
+胶凝推进剂：gelled propellant
+非最小相位系统：non minimum phase system
+速度比：speed ratio
+稳定燃烧：steady combustion
+组合叶栅：combined cascade
+雷达探测：radar detecting
+聚焦系统：focus system
+燃油泵：Fuel pumps
+辅助控制：auxiliary control
+飞机刹车：aircraft brake
+合作目标：cooperation target
+多层介质：multilayered media
+爆燃转爆轰：Deflagration to detonation transition
+位置估计：position estimate
+雨流计数法：Rainflow counting method
+准则法：criterion method
+SPOT卫星影像：SPOT satellite image
+低温风洞：cryogenic wind tunnel
+蜂窝夹层板：honeycomb sandwich panel
+整体模型：holistic model
+动态滤波：dynamic filter
+解析算法：analytic algorithm
+表面温度分布：Surface temperature distribution
+圆锥：conus medullaris
+知识分类：classification of knowledge
+飞行员选拔：pilot selection
+空间实验室：space laboratory
+光弹法：photoelastic method
+位置逆解：inverse position
+二阶滑模：second-order sliding mode
+小展弦比飞翼：low aspect ratio flying wing
+地理坐标：geographic coordinates
+功能可靠性：functional reliability
+概率分析法：probability analysis method
+自适应重构控制：adaptive reconfiguration control
+扩张状态观测器：Extended state observer(ESO)
+研制过程：Development process
+空间桁架：spatial strut-and-tie
+脉冲发动机：pulse engine
+密封舱：pressured cabin
+极轨气象卫星：polar-orbiting meteorological satellite
+转子-机匣系统：rotor-case system
+推力效率：Thrust efficiency
+机载设备：airborne equipments
+叶顶分离涡：tip separation vortex
+规划算法：Planning algorithm
+联邦滤波器：Federal Filter
+姿态测量系统：attitude measurement system
+三轴磁强计：Three-axis magnetometer
+航空总线：avionics bus
+模态分析法：modal analysis
+驻涡：Trapped vortex
+吸能装置：energy absorption device
+双时间法：dual-time method
+Dijkstra：Dijkstra algorithm
+航空数码相机：aerial digital camera
+分离涡：separation vortex
+TDICCD：TDI CCD
+低温贮箱：Cryogenic tank
+动态时间窗：dynamic time window
+微小型飞行器：micro air vehicle
+转子泵：rotor pump
+补燃室：afterburning chamber
+航空电缆：aviation cable
+滚转角：rotation angle
+空间辐射效应：space radiation effect
+悬浮轨道：Displaced orbit
+滑跃起飞：ski-jump takeoff
+空战能力：air combat capability
+飞行管理系统：flight management system
+航线网络：route network
+进度风险：progress risk
+局部搜索策略：Local search strategy
+自动频率控制：automatic frequency control(AFC)
+非定常空气动力：unsteady aerodynamics
+飞行载荷：flight loads
+涡轮效率：turbine efficiency
+机载传感器：airborne sensor
+堵塞比：blockage ratio
+分布式航天器：distributed spacecraft
+标定试验：Calibration experiment
+甚高频：Very High Frequency(VHF)
+高超声速喷管：hypersonic nozzle
+全寿命：total life
+纵列式直升机：tandem helicopter
+车载试验：vehicle test
+相位差法：Phase difference
+卫星测试：Satellite testing
+航空网络：aviation network
+超螺旋算法：super-twisting algorithm
+轨道保持：orbit maintenance
+电惯量：electric inertia
+描述函数法：describing function method
+气动负荷：aerodynamic load
+协同决策：collaborative decision
+硬件加速：hardware accelerated
+轴流式压气机：axial compressor
+纯方位目标跟踪：bearings-only target tracking
+损失系数：loss coefficient
+角度信号：angle signal
+飞机电气负载：aircraft electric load
+行星探测车：Planetary rover
+测绘相机：mapping camera
+伴随卫星：Concomitant satellite
+飞机维护：aircraft maintenance
+自动调平：auto leveling
+飞行器控制：aircraft control
+月球探索：lunar exploration
+端燃药柱：end-burning grain
+测高：height finding
+再入弹道：Reentry trajectory
+滑油系统：lubrication system
+组合滤波：Integrated filter
+工程投标：engineering bidding
+叶脉：leaf vein
+稳态响应：stable response
+电动力缆绳：electro-dynamic tether
+导弹预警：missile warning
+油气混合物：fuel-air mixture
+捷联式惯导系统：strapdown inertial navigation system
+跟踪定位：tracking and positioning
+解模糊：resolving ambiguity
+编队飞行卫星：formation flying satellites
+修正罗德里格参数：modified Rodrigues parameters
+进气流动：intake flow
+边界扫描测试：boundary scanning test
+战损：battle damage
+动态响应特性：dynamic response characteristics
+电磁弹射：electromagnetic launch
+通风冷却系统：ventilation cooling system
+气动建模：aerodynamic modeling
+恒星敏感器：star sensor
+多重网格技术：multi-grid technique
+中心计算机：central computer
+脉冲爆震火箭发动机：pulse detonation rocket engine
+射线寻迹：ray path tracing
+传输时延：Transmission time delay
+供油量：fuel delivery
+超声速燃烧室：supersonic combustor
+流场仿真：flow simulation
+耦合影响：coupling effect
+分层模糊系统：hierarchical fuzzy systems
+壁面函数：wall functions
+静电加速度计：electrostatic accelerometer
+空管：Air Traffic Management
+斜切喷管：scarfed nozzle
+异常燃烧：abnormal combustion
+光电平台：Opto-Electronic Platform
+推力增益：thrust augmentation
+遥感相机：remote sensing camera
+努森数：knudsen number
+热电偶传感器：thermocouple sensor
+中频数字化：digital IF
+气膜孔：film cooling hole
+方案论证：scheme demonstration
+波束同步：beam synchronization
+月球着陆：lunar landing
+动力学环境：dynamic environment
+液压源：hydraulic source
+力限：force limited
+航迹跟踪：trajectory tracking
+超声速风洞：supersonic wind tunnel
+阈值滤波：threshold filter
+移动监测：mobile monitoring
+直升机控制：helicopter control
+静电陀螺仪：electrostatically suspended gyroscope
+自动铺带：Automated tape laying
+监视系统：surveillance system
+动基座对准：moving base alignment
+低轨道：low earth orbit
+热试车：hot-firing test
+保障装备：support equipment
+拉格朗日点：Lagrange point
+临界平面法：critical plane method
+FLASH存储：FLASH storage
+圆柱谐振腔：Cylindrical cavity
+视线测量：LOS measurement
+采样卡尔曼滤波：unscented Kalman filter
+协作优化：collaborative optimization
+动态观测器：dynamic observer
+总体性能：overall performance
+静电耦合：electrostatic coupling
+操纵台：Control Console
+初制导：initial guidance
+振荡机翼：oscillating airfoil
+编队重构：Formation reconfiguration
+风场模型：wind field model
+碰集：hitting set
+Stribeck摩擦模型：Stribeck friction model
+多体系统传递矩阵法：transfer matrix method of multibody system
+重力平衡：gravity balance
+恒功率负载：constant power loads
+校准技术：calibration technique
+多信号流图：Multi-signal flow graphs
+自修复飞行控制：self-repairing flight control
+纵向控制律：longitudinal control law
+需求不确定：uncertain demand
+微机电陀螺：MEMS gyro
+高压压气机：HP Compressor
+规范型：normal forms
+减振系统：Vibration isolation system
+遥测信道：Telemetry channel
+舱音记录器：cockpit voice recorder
+开环光纤陀螺：open-loop fiber optic gyroscope
+航空数据总线：Avionics data bus
+燃气涡轮起动机：gas turbine starter
+隧道传感器：tunneling sensor
+模态叠加：Mode superposition
+动静态分析：static and dynamic analysis
+短周期：short duration
+增稳系统：stability augmentation system
+凯恩方程：Kane equation
+声激励：sound excitation
+首次穿越：first passage
+高空长航时无人机：HALE UAV
+二值积累：Binary integration
+断轴：broken shaft
+气泡变形：bubble deformation
+启发式教育：heuristic education
+颤振模型：flutter model
+双基机载雷达：Bistatic airborne radar
+涡核：vortex core
+多操纵面：multiple control effectors
+激光陀螺仪：ring laser gyroscope
+三轴稳定：Three-axis Stabilization
+数字再平衡回路：digital rebalance loop
+静不稳定：static instability
+巡飞弹：loitering munition
+空间粉尘：space dust
+辐射传递系数：radiation transfer coefficient
+Pogo振动：pogo vibration
+时间差分：temporal difference
+空间政策：Spatial Policies
+星载系统：Onboard system
+光机系统：optomechanical system
+作战任务：operation task
+航天测控网：Space TT&C Network
+姿态稳定：attitude stability
+共享度：Sharing degree
+整星隔振：whole-spacecraft vibration isolation
+矩阵管理：matrix management
+维修性分析：maintainability analysis
+航迹预测：trajectory prediction
+库塔条件：Kutta condition
+移动系统：moving system
+导流叶片：Guide vane
+刚度优化：stiffness optimization
+空域规划：airspace planning
+减载：load reduction
+轴系误差：axis error
+供油特性：fuel supply characteristics
+模型逆：model inversion
+电推力器：electric thruster
+泰勒展开法：Taylor expansion
+基础运动：base motion
+统计线性化：statistic linearization
+任务规划系统：mission planning system
+电液位置伺服：electro-hydraulic position servo
+半边图：half edge graph
+时隙交换：time slot switching
+自由分子流：free molecular flow
+粗糙元：roughness elements
+高阶滑模控制：high-order sliding mode control
+窄带信号：narrow-band signal
+VisualC#.NET：Visual C#.NET
+装药技术：Charge technology
+模块配置：module configuration
+碰撞率：collision rate
+粒子群优化方法：Particle swarm optimization
+组合爆炸：combination explosion
+流动主动控制：active flow control
+角度优化：angle optimization
+序贯检测：sequential detection
+磁控制：Magnetic control
+壁面冷却：wall cooling
+应用体系：application system
+真空羽流：vacuum plume
+雨流法：Rain-Flow Method
+多目标进化：multi-objective evolution
+出流孔：suction hole
+风洞试验技术：wind tunnel test technique
+循环对称结构：cyclic symmetric structure
+自动灭火系统：automatic fire extinguishing system
+进近管制：approach control
+失速起始：stall inception
+通信方案：communication scheme
+质量波动：Quality fluctuation
+计算量：computing cost
+真近点角：true anomaly
+偏近点角：eccentric anomaly
+UD分解：UD factorization
+多星测控：Multi-satellite TT&C
+线振动：linear vibration
+失效物理：failure physics
+绝对法校准：absolute calibration
+载荷历程：load history
+压缩性效应：compressibility effect
+轨道交会：Orbital Rendezvous
+匹配傅里叶变换：match Fourier transform
+捷联算法：strapdown algorithm
+编队保持：Formation keeping
+环量控制：circulation control
+雷达天线系统：radar antenna system
+初始轨道：initial orbit
+简并模：degenerate mode
+等离子体风洞：plasma wind tunnel
+脱落涡：shedding vortex
+非线性梁：nonlinear beam
+模型自由飞：model free flight
+解耦矩阵：decoupling matrix
+空间通信：Space communication
+数据质量评估：data quality evaluation
+静力测试：static test
+膜冷却：film cooling
+喉衬：throat insert
+自动着陆系统：automatic landing system
+惯性张量：Inertial tensor
+早期损伤：Early damage
+主距：principal distance
+高阶微分方程：high-order differential equation
+电子浓度：Electron density
+总线控制器(BC)：bus controller(BC)
+外在因素：external factor
+Power图：power diagram
+双目视觉系统：binocular vision system
+扰动函数：Disturbance function
+测向误差：direction finding error
+再入弹头：reentry warhead
+激光衰减：laser attenuation
+亚像素检测：sub-pixel detection
+自适应惯性权重：adaptive inertia weight
+分布估计：Estimation of distribution
+功率频谱：power spectra
+模糊语言变量：Fuzzy Linguistic Variable
+频率捕获：frequency capture
+在线规划：online planning
+量子粒子群：quantum particle swarm
+鲁棒滤波器：robust filter
+模糊因子：fuzzy factor
+漂浮基空间机械臂：free-floating space manipulator
+特征基函数：characteristic basis function
+龙格-库塔算法：Runge-Kutta algorithm
+通信时间：communication time
+μC/OSII：μC/OS II
+正弦调制：sine modulation
+硬件编程：hardware programming
+校相：phase calibration
+非线性最小二乘估计：nonlinear least squares estimation
+零重力：Zero gravity
+通信端口：communication port
+捕获和跟踪：acquisition and tracking
+递归估计：recursive estimation
+代表点：Representative points
+卫星平台：satellite platform
+偏振本征态：eigenstate of polarization
+资金限制：capital constrain
+动量转移：momentum transfer
+轨道分析：orbit analysis
+气象探测：meteorological sounding
+卫星授时：satellite time transfer
+LAMBDA算法：LAMBDA algorithm
+军事体育教育：military physical education
+通用ATS：General ATS
+偶极子磁场：dipole magnetic field
+有效基线：effective baseline
+等晕角：Isoplanatic angle
+三线阵：three line array
+复杂系统建模：complex system modeling
+激波/湍流边界层干扰：shock wave/turbulent boundary layer interaction
+人格测验：personality tests
+热生长氧化物：thermally grown oxide
+卫星覆盖：Satellite coverage
+基准图制备：preparation of reference map
+非定常自由来流：unsteady free stream
+三级维修：three-level maintenance
+耦合误差：Coupling error
+RCS序列：RCS series
+庞特里亚金极大值原理：Pontryagin maximum principle
+机场安全：airport safety
+舵回路：Rudder loop
+多岛遗传算法：Multi-Island Genetic Algorithm
+维修间隔：Maintenance Interval
+轨道仿真：orbit simulation
+负载管理：Load management
+光学信号处理：optical signal processing
+低轨卫星通信：LEO satellite communication
+PCI设备驱动：PCI device driver
+互补滤波：complementary filter
+野值剔除：outlier elimination
+SCM：supply chain management
+MUSIG模型：MUSIG model
+横向射流：transverse jet
+主成份分析法：Principal component analysis
+Lissajous轨道：Lissajous orbit
+最小方差估计：minimum variance estimation
+边界层流动：boundary layer flow
+惯性测量系统：inertial surveying system
+混合蛙跳算法：Shuffled Frog Leaping Algorithm
+混合现实：mixed reality
+机载防撞系统：Traffic Alert Collision Avoidance System
+安全性验证：Safety verification
+信号仿真器：signal simulator
+无尾式飞行器：tailless aircraft
+"萤火1号"火星探测器(YH-1)：YH-1 Satellite
+光学反射镜：optical reflector
+阻燃材料：flame retardant materials
+重构技术：reconstruction technique
+安全管理体系：safety control system
+军事装备：military equipments
+中性聚合物键合剂：neutral polymeric bonding agent
+渗透时间：wet-out time
+精度检验：precision verification
+镍基单晶合金：single crystal superalloys
+多点拉形：multi-point stretch forming
+结构演化：microstructure evolution
+老化规律：Aging rule
+飞机事故：aircraft accident
+故障维修：Fault Maintenance
+静态评估：static assessment
+接触角法：contact angle
+粘附功：work of adhesion
+红外测温仪：infrared pyrometer
+POSER软件：POSER software
+冲突区域：conflict region
+离散相模型：discrete phase models
+纠偏控制：deviation control
+颗粒轨道模型：particle-trajectory model
+光学系统设计：optical design
+进口温度：inlet temperature
+黏附功：adhesion work
+测量设备：Measure Equipment
+近净成形：near-net shape
+填充系数：filling coefficient
+传热计算：calculation of heat transfer
+椭圆拟合：elliptic fitting
+树脂改性：resin modification
+参数标定：parametric calibration
+特性试验：identity experiment
+连接方式：connecting mode
+事故致因：Accident cause
+微粒碰撞噪声检测：particle impact noise detection(PIND)
+被动视觉：passive vision
+螺旋传动：screw drive
+镁热还原：magnesiothermic reduction
+内模原理：Internal model theory
+工艺创新：technological innovation
+楔形锁紧装置：wedge lock
+合成效率：Synthesis yield
+粘接工艺：adhesion technology
+优质铸件：high quality casting
+临近层：proximity shell
+碰撞模板：collision slab
+固体火箭发动机衬层：solid rocket motor liner
+缠绕角：winding angle
+工作负荷：work load
+激光焊接技术：laser welding technology
+安全决策：safety decision
+环境监控：environmental monitor
+航空材料：Aeronautical materials
+低温变形：cryogenic deformation
+时频特性：time-frequency characteristic
+外压：outer pressure
+CAE仿真：CAE simulation
+湿法缠绕：Wet filament winding
+六自由度并联平台：6-DOF Parallel Platform
+环氧树脂基体：epoxy matrix
+驱动控制系统：driving control system
+介质材料：medium material
+高速信号：High speed signal
+三维实体建模：3D entity modeling
+7003铝合金：7003 aluminum alloy
+防腐体系：preservative system
+阻力矩：moment of resistance
+3-硝基-1,2,4-三唑-5-酮(NTO)：3-nitro-1,2,4-triazol-5-one (NTO)
+几何描述：Geometrical description
+Voronoi模型：Voronoi model
+随机载荷：stochastic loads
+标准大气：standard atmosphere
+空间状态：space state
+精密辊锻：precision roll forging
+1,3,3-三硝基氮杂环丁烷(TNAZ)：1,3,3-trinitroazetidine (TNAZ)
+补偿法：penalty method
+角度差：angle difference
+类金刚石碳薄膜：DLC film
+三冲量控制：Three-element control
+安全高度：safety height
+工作状态：Operating state
+轮盘：wheel disc
+应力波因子：Stress wave factor
+非甲烷烃：non-methane hydrocarbon
+相变过程：phase transformation
+三维编织物：3D braided fabrics
+氧化诱导期：oxidation induction time
+过载系数：overload coefficient
+工时：man hour
+热力循环：thermodynamic cycles
+高精度控制：high precision control
+数字化齿面：digital tooth surface
+失效特征：failure characteristic
+叶型：blade shape
+自动分拣系统：automated sorting system
+电子数密度：electron density
+惯性系数：inertia coefficient
+同步驱动：Synchronous driving
+电耦合：Electrical coupling
+能量计算：energy calculating
+数据修补：Data mending
+直接配置法：direct collocation method
+一次燃烧：primary combustion
+WKB法：WKB method
+冲击振动：vibro impact
+轨道参数：track parameter
+三轴转台：three axis turntable
+减压器：Pressure reducer
+惯性技术：inertia technology
+固体推进剂药柱：solid propellant grain
+分程控制：step control
+智能PID控制：intelligence PID control
+舵面：control surface
+断裂特性：fracture characteristic
+极限尺寸：limit size
+评价函数法：evaluation function method
+排放指数：emission index
+安全综合评价：safety comprehensive evaluation
+初始设计：primary design
+等离子体浸没离子注入与沉积：Plasma Immersion Ion Implantation and deposition
+功能需求：functional demand
+可能性分布：distribution of possibility
+冲角：impact angle
+化学反应模型：chemical reaction model
+红外特征：IR characteristics
+自适应神经网络：self-adapting neural network
+非线性响应：non-linear response
+清根加工：clean-up machining
+氧化亚氮(N2O)：nitrous oxide (N 2O)
+差速机构：Differential mechanism
+应变-寿命曲线：strain life curve
+资源卫星：Resource satellite
+模块接口：module interface
+飞行速度：flying speed
+暴露面积：exposed area
+轴承刚度：Bearing rigidity
+误差传播：Error transmission
+纤维缠绕壳体：filament wound case
+光耦：Photo coupler
+电热水器：electric heater
+总体参数：general parameters
+统计计算：statistic calculation
+蒸发管：Evaporating Pipe
+阻尼最小二乘法：damping least square method
+数字闭环：digital closed loop
+不稳定燃烧：Unsteady combustion
+遥感成像：remotely sensed imaging
+Nomex蜂窝：Nomex honeycomb
+锁定机构：locking mechanism
+临界管长：critical duct length
+快速模拟退火：Fast simulated annealing
+变形网格：deforming mesh
+复合冷却：compound cooling
+SVD分解：singular value decomposition
+空间充气展开结构：space inflatable structure
+柔性加工：flexible machining
+节点强度：Node Strength
+曲面逼近：curved surface approximation
+声纳浮标：Sonar buoy
+贝叶斯规则：Bayesian rules
+SVR：support vector regression(SVR)
+闭环反馈控制：Closed-loop feedback control
+立体化教材：Stereoscopic teaching materials
+磁敏感性：magnetic susceptibility
+参数传递：parameter transmit
+生态防治：Ecological measures
+非最小相位：Non minimum phase
+三维构型：3D architecture
+航天产品：space products
+突扩燃烧室：sudden expansion combustor
+后掠角：sweep angle
+雷达截面积：radar cross-section
+飞机性能：aircraft performance
+作战能力：combat capacity
+综合保障：Comprehensive support
+空气流量：air flow
+直升机旋翼：helicopter blade
+健康诊断：healthy diagnosis
+EMI滤波器：EMI filters
+联邦卡尔曼滤波：federal Kalman filter
+复杂自适应系统：complex adaptive system(CAS)
+挠性陀螺：flexible gyro
+传感器配准：sensor registration
+推力系数：Thrust coefficient
+液膜冷却：Liquid film cooling
+通信卫星：communications satellite
+钣金制造：sheet metal manufacturing
+可重复使用飞行器：Reusable launch vehicle
+移相电路：phase-shift circuit
+螺旋桨滑流：turbo-propeller slipstream
+椭圆翼型：elliptic airfoil
+复合滤波：compound filter
+泵阀联合：pump and valve combined
+压力边界：pressure boundary
+卫星编队：Spacecraft formation
+轨迹安全：Trajectory safety
+北斗卫星：Beidou satellites
+微型航天器：micro spacecraft
+航空机轮：aircraft wheel
+两级维修：two level maintenance
+三线制：three-wire system
+捷联惯性导航系统：Strapdown Inertial Navigation System (SINS)
+控制特性：control characteristics
+转移轨道：Transfer orbit
+安全校核：security checking
+低雷诺数流动：low Reynolds number flow
+驱动特性：actuating characteristic
+ARINC429：ARINC 429
+作战飞机：operational aircraft
+特性计算：Performance computation
+簸箕形孔：dust-pan shaped hole
+拓扑优化设计：topology optimal design
+格林定理：Green's theorem
+无人机数据链：UAV data link
+非定常相互作用：unsteady interaction
+内流特性：internal performance
+试车台：test bed
+反接制动：reverse braking
+压力面：pressure side
+飞机模型：aircraft model
+Lambert问题：Lambert problem
+固定翼飞机：fixed-wing aircraft
+着陆引导：landing guide
+纵向制导：longitudinal guidance
+机载武器：airborne weapons
+电视制导：TV guided
+规范体系：standardized system
+燃油雾化：fuel atomization
+飞机起落架：landing gear
+压电石英：piezoelectricity quartz
+人机耦合：human-machine coupling
+查找方法：search method
+近自由表面：free surface
+边界层分离：boundary-layer separation
+雷暴冲击风：thunderstorm downbursts
+热尺寸稳定性：stability of thermal dimension
+冷气掺混：coolant mixing
+旋翼流场：rotor flow fields
+航迹投影：route projection
+紫外敏感器：Ultraviolet sensor
+可观测度：observable degree
+动态网格：dynamic grids
+MEMS陀螺仪：MEMS gyro
+微机械陀螺仪：micro-machined gyroscope
+超短波通信：Ultrashort wave communication
+吸气位置：suction slot location
+多功能结构：multi-functional structure
+调节特性：adjustment characteristic
+喉部面积：throat area
+等效电磁流法：method of equivalent currents(MEC)
+Lyapunov分析：Lyapunov analysis
+滚转力矩：rolling moment
+格式分析：format analysis
+太阳帆航天器：Solar sail spacecraft
+系留气球：captive balloon
+调焦机构：focusing structure
+稳定性裕度：Energy margin
+非线性状态估计：nonlinear state estimation
+静止轨道卫星：geostationary satellite
+混压式进气道：mixed-compression inlet
+应力均匀：stress equilibrium
+快速反射镜：fast steering mirror
+参数敏感度：parameter sensitivity
+空间观测：space observation
+饱和非线性：saturation nonlinear
+热流模拟：heat flux simulation
+耗油率：oil consumption rate
+航天测量船：TT&C ship
+捷联航姿系统：strapdown attitude heading reference system
+伴随轨道：concomitant orbit
+压电堆：piezoelectric stack
+三维振动：Three-dimensional vibration
+串联谐振频率：series resonant frequency
+微波散射计：microwave scatterometer
+工程算法：engineering method
+INS/GPS组合导航：INS/GPS integrated navigation
+直接模拟蒙特卡罗：Direct Simulation Monte Carlo
+机场净空：airport clearance
+负载自动管理系统：load auto management system(LAMS)
+航线规划：Route Planning
+二次涡：secondary vortex
+叶素理论：blade element theory
+小展弦比：low aspect-ratio
+非定常激励：unsteady excitation
+立方镜：cubic prism
+数字磁罗盘：digital magnetic compass
+脉冲涡流：pulsed eddy-current
+发动机试验：engine testing
+星载计算机系统：On-board computer system
+表面压力分布：surface pressure distribution
+扫描相机：Streak camera
+等达因法：isodyne method
+位置关系：location relationship
+瞬时流量：Discharge flow
+子阵划分：subarray partition
+星载天线：spaceborne antenna
+搜索与救援：search and rescue
+红外抑制：infrared suppressing
+Hall推力器：Hall thruster
+动力补偿：power compensation
+高低温：high-low temperature
+分子流：molecular flow
+直连式试验：direct-connect test
+破坏试验：failure test
+互调干扰：Mutual interference
+吸气式高超声速飞行器：Air-breathing hypersonic vehicle
+Bragg光栅：fiber Bragg grating
+叶片造型：blade modeling
+拖动系数：traction coefficient
+结构响应主动控制：active control of structural responses
+水燃比：water-fuel ratio
+航材：aerial material
+逆升压：reverse bootstrap
+高超进气道：hypersonic inlet
+单相流体回路：single-phase fluid loop
+批生产：batch production
+容错滤波：fault tolerant filter
+构型管理：configuration management
+临界面法：critical plane approach
+推力特性：thrust characteristic
+Bump进气道：Bump inlet
+无人驾驶飞机：unmanned aerial vehicle
+组合定姿：integrated attitude determination
+侦察无人机：reconnaissance UAV
+流动和传热：fluid flow and heat transfer
+区域导航：regional navigation
+飞翼构型：flying wing configuration
+反作用控制系统：reaction control system
+多电飞机：more-electric aircraft
+可燃混合气：Combustible mixture
+部件特性：component characteristic
+偏振误差：Polarization error
+温度误差模型：temperature error model
+木材热解：wood pyrolysis
+不完备检测：imperfect inspection
+可靠性鉴定试验：reliability evaluation test
+移动性能：mobility performance
+缩比模型：scale model
+小展弦比机翼：low-aspect-ratio wing
+声学模态：acoustic modality
+隐藏腐蚀：hidden corrosion
+行星探测：planetary exploration
+飞行器管理计算机：vehicle management computer
+外物损伤：foreign object damage
+空间推进算法：space-marching algorithms
+优化布局：layout optimization
+航材保障：Air materiel support
+点火位置：ignition position
+可展开结构：deployable structure
+混合火箭发动机：hybrid rocket motor
+航空电子综合化：avionics integration
+高度估计：altitude estimation
+非结构重叠网格：overset unstructured grid
+容量利用：capacity utilization
+柔性扑翼：flexible flapping-wing
+栅格翼：grid fins
+卫星工具包：satellite tool kit
+飞机总体设计：aircraft conceptual design
+壁面压力脉动：wall pressure fluctuations
+球型收敛调节片喷管：spherical convergent flap nozzle
+闭锁误差：lock-in error
+无桨混合机：non-blade mixer
+一体化高超声速飞行器：integrated hypersonic vehicle
+气动-推进性能：aero-propulsive performance
+多层递阶：multi-layer recursive
+定向灵敏度：Directional sensitivity
+FIR数字滤波：FIR digital filtering
+载波相位差分：carrier phase difference
+扩压叶栅：diffusion cascade
+截面特性：sectional characteristic
+径向基函数(RBF)神经网络：RBF neural network
+加工路径：machining path
+分布式SAR：distributed SAR
+全物理仿真：full-physical simulation
+载波捕获：carrier acquisition
+三维两相湍流燃烧：3D two phase turbulent combustion
+镍基单晶：nickel-based single crystal
+微型燃烧室：micro combustor
+战车：Combat Vehicle
+机动模型：maneuver model
+数据检测：data measure
+矢量喷管：vectoring thrust nozzle
+高空弹道：high altitude ballistic
+继电器盒：relay box
+安全间隔：safety separation
+气动弹性系统：aeroelastic system
+陶瓷轴承：ceramic bearings
+小波变换阈值滤波：wavelet threshold-value filter
+Busemann进气道：Busemann inlet
+大椭圆轨道：highly elliptic orbit
+大型运输机：large transport
+主动热控：active thermal control
+H∞回路成形：H_∞ loop shaping
+电液舵机：Electro-hydraulic actuator
+地面等待策略：ground-holding strategy
+单膨胀斜面喷管：single expansion ramp nozzle
+负载压力：Load pressure
+SINS/GPS组合导航系统：SINS/GPS integrated navigation system
+气流扰动：air disturbance
+非齐次Poisson过程：Non-homogeneous Poisson Process
+微型无人机：micro air vehicle
+反舰巡航导弹：anti-ship cruise missile
+大折转角：high-turning angle
+电控旋翼：electrically controlled rotor
+标准工艺：standard process
+光电成像：Photoelectric imaging
+形态学处理：Morphologic processing
+间隙泄漏流：tip leakage flow
+陷落腔：cave-in cavity
+飞机结构件：aircraft structural part
+两相燃烧：Two phase combustion
+牵制释放：Hold-down and release
+重载荷：heavy load
+气动失稳：aerodynamic instability
+可重构柔性模具：reconfigurable tooling
+乘波飞行器：waverider aircraft
+相对运动方程：Relative motion equation
+组合发动机：combined engine
+跨声速风扇：transonic fan
+对接仿真：Docking simulation
+天基测控：Space-based TT&C
+扑翼飞行器：flapping wing air vehicle
+航天工程：Aerospace engineering
+方位控制：azimuth control
+可压缩边界层：compressible boundary layer
+轨道运动：Orbital motion
+再入轨迹优化：reentry trajectory optimization
+成像辐射计：Imaging radiometer
+组合畸变：combined distortion
+S形进气道：S-shaped inlet
+惯性坐标系：Inertial coordinate system
+软件修正：software correction
+折转角：turning angle
+非线性非高斯：nonlinear and non-Gaussian
+低速压气机：low speed compressor
+导航/飞控系统：Navigation/Flight control system
+飞行动力学模型：flight dynamics model
+叶盘：bladed disk
+伪码跟踪环：PN code tracking loop
+跟驰理论：car-following theory
+叶型设计：Blade design
+维修保障能力：maintenance support capability
+真空容器：vacuum container
+表面热流：heating rate
+伪距率：pseudo-range rate
+航空声纳：dipping sonar
+地球敏感器：earth sensor
+锯齿冠：serrated shroud
+高焓激波风洞：high enthalpy shock tunnel
+控制谱：control spectrum
+试验设计(DOE)：Design Of Experiment(DOE)
+空间划分：spatial partitioning
+平衡速度：equilibrium speed
+电路控制：circuit control
+检测电容：Detection capacitance
+探月工程：lunar exploration project
+边界层稳定性：boundary layer stability
+无人驾驶直升机：Pilotless helicopter
+时间推进法：explicit time marching method
+主燃油泵：main fuel pump
+风车特性：windmilling characteristics
+数字高程图：digital elevation model
+对转技术：counter-rotating technique
+在轨测试：In-orbit Test
+陀螺仪漂移：gyro drift
+舰载飞机：carrier-based aircraft
+飞行剖面：Flight profile
+频率设计：frequency design
+工艺文件：Process Document
+层次关系：Hierarchical Relation
+航空电子综合系统：integrated avionics system
+高分辨率空间相机：High resolution space camera
+端系统：End system
+信号积累：Signal accumulation
+角随机游走：Angle Random Walk
+区域性星座：regional constellation
+重调度策略：rescheduling strategy
+再入飞行：reentry flight
+运动基座：Moving base
+座舱显示系统：cockpit display system
+MapInfo软件：MapInfo software
+容量评估：capacity estimation
+电路法：circuit approach
+挂钩牵引力：drawbar pull
+视线制导：Line-of-sight guidance
+读出系统：readout system
+控制效能：control efficiency
+控制重构：control reconfiguration
+螺旋桨飞机：Propeller-driven aircraft
+航天测控系统：space TT&C system
+策略集：strategy set
+Lyapunov维数：Lyapunov dimension
+相似系统：similar system
+材料优选：material optimization
+多次点火：Multi-Time Ignition
+北京一号小卫星：Beijing-1 micro-satellite
+装配信息模型：assembly information model
+差分滤波：differential filter
+二次响应面：square response surface
+胚胎电子系统：Embryonic systems
+系统重用：system reuse
+涡轮前温度：turbine inlet temperature
+航迹优化：route optimization
+优化布站：optimal disposition
+状态递推器：state propagator
+随机不平顺：stochastic irregularity
+扩压因子：diffusion factor
+航空运输管理：aviation transportation management
+偏心率矢量：eccentricity vector
+过零时间：zero-crossing time
+扑翼机构：flapping-wing mechanism
+电子飞行仪表系统：electronic flight instrument system
+智能发动机：intelligent engine
+生产诱发系数：production induction coefficient
+姿态干扰：attitude disturbance
+容差分配：tolerance distribution
+电流变送器：current transducer
+高精度定位：high-precision positioning
+微扑翼飞行器：flapping-wing micro air vehicles
+可压流：compressible fluid
+频响分析：frequency response analysis
+海洋卫星：Ocean satellite
+飞机装配型架：aircraft assembly fixture
+不对称间隙：asymmetry freeplay
+特征值配置：eigenvalue assignment
+空载磁场：no-load magnetic field
+物料配送：material supply
+负序补偿：negative sequence compensation
+离心载荷：centrifugal load
+瓶颈工序：Bottleneck process
+非线性PD控制：nonlinear PD control
+风洞天平：Wind tunnel balance
+双控：dual control
+编队飞行小卫星：formation flying small satellites
+显模型跟踪控制：explicit model-following control
+超声速混合层：Supersonic mixing layer
+Nash对策：Nash game
+Smagorinsky模型：Smagorinsky model
+致命性部件：Critical component
+静风荷载：mean wind load
+空管自动化系统：ATC automation system
+经济维修：economic maintenance
+卫星电源系统：Satellite power system
+规划调度：planning and scheduling
+跟踪规律：Tracking law
+引射火箭：rocket ejector
+姿态敏感器：Attitude sensor
+纹影照相：schlieren photograph
+弹性BP算法：resilient BP algorithm
+发动机缸盖：Cylinder head
+活动模板库：active template library
+循环计数：cycle count
+靶机：target drone
+嵌入式DSP系统：Embedded DSP system
+T-S模糊建模：T-S fuzzy modeling
+迭代制导：Iterative guidance
+无人机(UAV)：Unmanned Aerial Vehicle (UAV)
+弯扭叶片：twisted blade
+流场校测：flow field calibration
+上翘后体：upswept afterbody
+非线性跟踪-微分器：nonlinear tracking-differentiator
+机械结构设计：mechanical design
+增升装置：high lift devices
+爆炸模型：explosion model
+分层系统：hierarchical systems
+燃烧室设计：combustor design
+航迹仿真：track simulation
+内方位元素：Inner orientation elements
+稀薄气体效应：rarefied gas effect
+子模型方法：sub-model method
+地球同步轨道卫星：Geosynchronous satellite
+和差波束：sum and difference beam
+流场品质：flow quality
+测控站：TT&C station
+主要部件：main parts
+柔索驱动：Wire driven
+长期项：secular term
+波瓣混合器：lobed mixer
+负刚度模型：negative stiffness model
+单通道控制：single channel control
+飞机电源：airplane power supply
+网络鲁棒性：network robustness
+非平行流：nonparallel flow
+数字化瞄准具：digital collimator
+拦阻系统：arresting system
+系列课程：series course
+图像运动补偿：Image motion compensation
+报警联动：alarm linkage
+微光夜视：night vision
+真空获得：vacuum acquirement
+多元非线性方程组：systems of nonlinear multivariable equations
+奇异扰动：singularly perturbed
+超高分辨率：ultra high resolution
+自主导航与控制：autonomous navigation and control
+热传导逆问题：inverse heat conduction problem
+激光陀螺(RLG)：Ring laser gyro(RLG)
+系统不确定性：system uncertainty
+零位漂移：zero drift
+神经网络自适应控制：Neural network adaptive control
+静压润滑：hydrostatic lubrication
+流体惯性：liquid inertia
+直接升力控制：direct lift control
+配置控制：configuration control
+间隙非线性：freeplay nonlinearity
+H_∞控制理论：H ∞ control theory
+边界层抽吸：boundary layer suction
+制导方案：guidance scheme
+不同厚度：different thickness
+S型函数：S function
+燃烧室构型：combustor configuration
+技术成熟度：technology maturity
+畸变指数：Distortion index
+月球基地：Lunar base
+损耗模型控制：Loss model control
+时域辨识：time domain identification
+环控：environmental control
+两相爆轰：two phase detonation
+等效面积法：equivalent area method
+java多线程：java multithread
+张力场：tension field
+辐射性质：radiative properties
+气动构型：Aerodynamic configuration
+在线校准：on-line calibration
+涡系：vortex system
+远程终端(RT)：remote terminal(RT)
+分布式计算机网络：distributed computer network
+轨道偏心率：orbital eccentricity
+火箭滑橇：rocket sled
+气象保障：Meteorological support
+LM优化算法：LM optimization algorithm
+模型偏差：Model bias
+模数变换器：analog to digital converter
+雷达特征信号：Radar signature
+像移测量：image motion measurement
+综合测控系统：integrated measurement and control system
+水平姿态：level posture
+单模光纤耦合器：single mode fiber coupler
+微分方程法：differential equation method
+位姿检测：position and orientation measurement
+作战实验室：Battle lab
+多模型切换：multi-model switching
+热疏导：heat leading
+晕轨道：halo orbit
+双模滤波器：dual-mode filter
+Lindstedt-Poincare方法：Lindstedt-Poincare method
+工科专业：engineering profession
+Cramer-Rao下界：Cramer-Rao low bound
+总线模型：bus model
+尾流可视化仿真：wake vortex visual simulation
+太空碎片：Space debris
+无人机遥感：UAV Remote Sensing
+工程适用性：engineering applicability
+可信系统：trusted system
+复杂终端：complex termination
+动态混合网格：dynamic hybrid mesh
+移动域控制：Receding horizon control
+基线模型：baseline model
+性能度量：performance measurement
+弥散斑：defocused spots
+展开桁架：deployable truss
+多Agent模型：multi-agent model
+不平等差错保护：unequal error protection
+迭代线性矩阵不等式：iterative linear matrix inequality (ILMI)
+直接扩频：direct spread spectrum
+单观测站：single observer
+分布式配电：Distributed power
+切片分析：slice analysis
+等离子体振荡：plasma oscillation
+Bragg光纤光栅：Bragg fiber grating
+静态滤波：static filtering
+缓变故障：soft fault
+Z域：Z domain
+模拟总线：analog bus
+飞机拦阻：Aircraft arresting
+卫星控制系统：satellite control system
+操纵特性：control characteristic
+波束置零：beam nulling
+参数监控：parameter monitoring
+Y波导：Y waveguide
+磁通门磁强计：fluxgate magnetometer
+小尺度衰落：Small scale fading
+部件模型：Component model
+拦阻钩：Arresting hook
+模拟月壤：Simulant lunar soil
+自适应带宽调整：adaptive bandwidth adjustment
+代表体元法：representative volume element method
+测控通信：TT&C and communication
+日地系统：sun-terrestrial system
+地震电磁卫星：seismo-electromagnetic satellite
+装配工装：assembly tooling
+中值法：Median Method
+LPV系统：LPV system
+CCD立体相机：CCD Stereo Camera
+GPS载波相位：GPS carrier phase
+模型飞机：model aircraft
+非理想气体：non-ideal gas
+基结构法：ground structure method
+燃烧风洞：combustion wind tunnel
+被动变形：passive deformation

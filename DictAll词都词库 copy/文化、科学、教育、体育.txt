@@ -1,0 +1,5000 @@
+神经网络：neural network
+大学生：college students
+和谐社会：harmonious society
+质量控制：Quality Control
+高校图书馆：university library
+指标体系：index system
+素质教育：quality education
+健康教育：Health education
+数据仓库：data warehouse
+知识管理：knowledge management
+现状：present situation
+心理健康：mental health
+高校：colleges and universities
+教学方法：teaching method
+环境保护：environmental protection
+数字图书馆：digital library
+英语教学：English teaching
+知识经济：knowledge economy
+发展战略：Development Strategy
+粗糙集：Rough set
+信息服务：information service
+思想政治教育：ideological and political education
+计算机应用：computer application
+信息安全：Information security
+职业教育：vocational education
+毛泽东：Mao Zedong
+教学模式：teaching mode
+危险因素：risk factor
+发展趋势：development trend
+传统文化：Traditional culture
+大学英语：college English
+网络环境：network environment
+博弈论：game theory
+区域经济：Regional economy
+质量管理：quality management
+实验教学：experimental teaching
+定量分析：Quantitative analysis
+经济效益：economic benefit
+统计分析：statistical analysis
+研究进展：research progress
+时间序列：time series
+课堂教学：classroom teaching
+影响因素：influence factors
+德育：moral education
+原位杂交：in situ hybridization
+高等职业教育：higher vocational education
+计算机网络：computer network
+价值链：value chain
+质量标准：quality standard
+决策支持系统：decision support system
+社会支持：social support
+绩效管理：performance management
+SWOT分析：SWOT analysis
+双语教学：bilingual teaching
+河南省：Henan Province
+思想政治工作：ideological and political work
+血糖：blood glucose
+绩效评价：performance evaluation
+营销策略：marketing strategy
+资本市场：capital market
+内蒙古：Inner Mongolia
+实证研究：Empirical Study
+评价指标：evaluation index
+因素分析：factor analysis
+骨密度：bone mineral density
+道德教育：moral education
+系统仿真：system simulation
+地方政府：local government
+比较优势：Comparative Advantage
+成人教育：adult education
+河北省：Hebei Province
+山东省：Shandong Province
+数据结构：data structure
+制度创新：system innovation
+公共图书馆：Public Library
+高等学校：colleges and universities
+人权：human rights
+价值取向：value orientation
+对比研究：comparative study
+移动Agent：mobile agent
+膝关节：knee joint
+模糊综合评判：Fuzzy comprehensive evaluation
+政治文明：political civilization
+山西省：Shanxi Province
+吉林省：Jilin province
+系统动力学：system dynamics
+高职院校：higher vocational college
+合作学习：cooperative learning
+福建省：Fujian province
+仿真分析：simulation analysis
+江苏省：Jiangsu Province
+浙江省：Zhejiang province
+开发利用：development and utilization
+文化差异：cultural difference
+空间分析：spatial analysis
+教学内容：teaching content
+数据集成：Data integration
+学分制：credit system
+体育教学：Physical education
+教师教育：teacher education
+人力资源管理：human resources management
+教学实践：teaching practice
+体育教育：physical education
+体育：physical education
+自主学习：autonomous learning
+新课程：new curriculum
+概念设计：conceptual design
+江泽民：Jiang Zemin
+宋代：Song Dynasty
+评价指标体系：evaluation index system
+知识表示：knowledge representation
+教学效果：teaching effect
+和谐校园：harmonious campus
+信息资源：information resource
+质量评价：quality evaluation
+工业设计：industrial design
+危机管理：crisis management
+黑龙江省：Heilongjiang province
+心率：Heart rate
+交易成本：transaction cost
+建设项目：construction project
+汶川地震：Wenchuan earthquake
+英语写作：English writing
+义务教育：Compulsory education
+持续发展：sustainable development
+创新能力：innovation ability
+交际能力：Communicative competence
+甘肃省：Gansu province
+社会责任：social responsibility
+教学策略：teaching strategy
+管理模式：Management Model
+程序设计：program design
+明代：Ming Dynasty
+医院管理：hospital management
+正态分布：normal distribution
+模糊评价：fuzzy evaluation
+核心竞争力：core competitiveness
+产权：property rights
+先进文化：Advanced Culture
+语文教学：Chinese teaching
+湖南省：Hunan Province
+管理创新：management innovation
+多媒体技术：multimedia technology
+心率变异性：Heart rate variability
+创伤和损伤：Wounds and injuries
+逆向物流：reverse logistics
+广东省：Guangdong Province
+动态变化：dynamic change
+发展策略：development strategy
+图书馆管理：library management
+社会发展：social development
+学习策略：learning strategy
+国际竞争力：international competitiveness
+创造性思维：creative thinking
+网络技术：network technology
+应对方式：coping style
+意境：artistic conception
+安徽省：Anhui Province
+肺结核：Pulmonary tuberculosis
+知识发现：knowledge discovery
+民族精神：national spirit
+层次分析法：analytical hierarchy process
+乳酸：Lactic acid
+湖北省：Hubei Province
+公共服务：public service
+开放教育：open education
+骨骼肌：skeletal muscle
+香港：Hong Kong
+教学改革：teaching reformation
+人文精神：humanistic spirit
+产品开发：product development
+教学设计：instructional design
+网络教学：network teaching
+竞争情报：competitive intelligence
+原因分析：cause analysis
+数学教学：mathematics teaching
+科研：scientific research
+市场机制：market mechanism
+绩效评估：performance evaluation
+现代农业：modern agriculture
+科学发展：scientific development
+复杂网络：complex network
+理论分析：theoretical analysis
+新时期：new period
+心理干预：psychological intervention
+中学：middle school
+流动人口：floating population
+信息素养：information literacy
+听力理解：Listening comprehension
+辽宁省：Liaoning province
+跨文化交际：cross-cultural communication
+老年人：the elderly
+阅读理解：reading comprehension
+音乐教育：music education
+综合素质：comprehensive quality
+中国文化：Chinese culture
+小康社会：Well-off society
+多媒体课件：multimedia courseware
+县域经济：County Economy
+马克思主义哲学：Marxist philosophy
+教育技术：educational technology
+教育改革：educational reform
+信息处理：information processing
+体制改革：System reform
+文本分类：text classification
+政府职能：government function
+知识获取：knowledge acquisition
+医学生：medical students
+马尔可夫链：Markov chain
+有机化学：organic chemistry
+能量代谢：energy metabolism
+知识创新：knowledge innovation
+物理教学：physics teaching
+心理契约：psychological contract
+系统工程：System engineering
+教学体系：teaching system
+环境教育：environmental education
+人才培养：talent cultivation
+社会工作：social work
+四川省：Sichuan province
+数字电视：digital TV
+数字城市：digital city
+学校体育：School physical education
+行动研究：action research
+地域文化：regional culture
+心理健康教育：Mental health education
+民主政治：democratic politics
+青藏铁路：Qinghai-Tibet Railway
+施工质量：construction quality
+心理素质：Psychological quality
+中国特色社会主义：socialism with Chinese characteristics
+创新教育：creative education
+时间序列分析：time series analysis
+科学研究：scientific research
+科学管理：scientific management
+逆向选择：adverse selection
+课程改革：course reform
+非线性动力学：nonlinear dynamics
+学习动机：learning motivation
+终身教育：Lifelong education
+高等院校：colleges and universities
+社会功能：social function
+新经济：New economy
+图书馆学：library science
+汉代：Han Dynasty
+个案研究：Case study
+现代企业制度：modern enterprise system
+贵州省：Guizhou province
+治理结构：Governance structure
+信息抽取：Information Extraction
+公共卫生：Public health
+家庭教育：Family education
+战略管理：strategy management
+知识结构：knowledge structure
+生活方式：life style
+预防措施：preventive measures
+体育锻炼：physical exercise
+大众传媒：Mass media
+发展对策：development countermeasure
+社会实践：social practice
+大众文化：Popular Culture
+绿色食品：green food
+教学评价：teaching evaluation
+冷却塔：cooling tower
+资源共享：resources sharing
+资源配置：Resource allocation
+引文分析：citation analysis
+高职：higher vocational education
+消费结构：consumption structure
+化学教学：chemistry teaching
+组织学习：organizational learning
+读者服务：Reader service
+培养模式：training mode
+中学生：middle school student
+知识转移：knowledge transfer
+乳酸脱氢酶：lactate dehydrogenase
+独立学院：independent college
+神经肽Y：neuropeptide Y
+语篇分析：Discourse analysis
+服务创新：service innovation
+学校教育：school education
+通识教育：general education
+化学清洗：chemical cleaning
+回归方程：regression equation
+虚拟环境：virtual environment
+梁启超：Liang Qichao
+科学精神：scientific spirit
+城市发展：urban development
+思想教育：ideological education
+乒乓球：table tennis
+二语习得：Second language acquisition
+概念隐喻：Conceptual metaphor
+田径：track and field
+教学研究：teaching research
+预算管理：budget management
+组织承诺：organizational commitment
+区域发展：Regional development
+朱熹：Zhu Xi
+公共物品：public goods
+评价研究：Evaluation studies
+图书馆服务：library service
+近代：Modern Times
+过程管理：Process management
+基尼系数：Gini coefficient
+概念格：concept lattice
+青海省：Qinghai Province
+公共空间：public space
+近代中国：modern China
+课程设计：course design
+新形势：new situation
+文学批评：literary criticism
+应急管理：emergency management
+经济结构：economic structure
+发展方向：development direction
+实践能力：practical ability
+隐马尔可夫模型：Hidden Markov Model
+和谐文化：harmonious culture
+管理机制：management mechanism
+唯物史观：historical materialism
+理论创新：theoretical innovation
+信息素质：Information literacy
+中国传统文化：Chinese traditional culture
+工作记忆：Working memory
+基本原则：basic principle
+学科建设：subject construction
+教学过程：teaching process
+网络经济：network economy
+食品工业：food industry
+社会和谐：social harmony
+CAI课件：CAI courseware
+文化背景：cultural background
+市场失灵：market failure
+电子技术：electron technology
+产业政策：industrial policy
+IP地址：IP address
+社会网络：social network
+语用能力：pragmatic competence
+服务贸易：service trade
+农村教育：rural education
+体育消费：sports consumption
+汉族：Han nationality
+现代远程教育：modern distance education
+社会转型：social transition
+系统论：system theory
+北京奥运会：Beijing Olympic Games
+抗日战争：Anti-Japanese War
+理论基础：theoretical basis
+社会结构：social structure
+运行机制：operation mechanism
+汉字：Chinese character
+语用功能：pragmatic function
+财务分析：financial analysis
+艺术设计：art design
+可行性分析：feasibility analysis
+美国：United States
+顾客忠诚：customer loyalty
+档案管理：archives management
+高等数学：advanced Mathematics
+应用效果：application effect
+审美教育：aesthetic education
+产业组织：industrial organization
+VAR模型：VAR Model
+英语阅读：English reading
+政治发展：political development
+规模经济：scale economy
+研究方法：research methods
+清代：the Qing Dynasty
+路径依赖：path dependence
+模糊系统：fuzzy system
+计算机病毒：computer virus
+动态管理：dynamic management
+社会控制：social control
+政策建议：policy suggestion
+国家标准：national standard
+管理制度：management system
+孙中山：Sun Yat-sen
+社会主义和谐社会：socialist harmonious society
+历史唯物主义：historical materialism
+网络信息：Network information
+金融支持：financial support
+物理实验：physical experiment
+领域本体：Domain Ontology
+髋关节：hip joint
+劳动力市场：labor market
+生命教育：life education
+阅读能力：reading ability
+性别差异：gender difference
+业绩评价：performance evaluation
+贝叶斯网络：Bayesian networks
+信息流：information flow
+言语行为：speech act
+语言教学：language teaching
+经济价值：economic value
+晚清：late Qing Dynasty
+东南亚：Southeast Asia
+社区教育：community education
+现代企业：modern enterprise
+大学语文：College Chinese
+绩效考核：performance evaluation
+机理分析：mechanism analysis
+应用研究：applied research
+认知语境：cognitive context
+趋势分析：trend analysis
+武汉市：Wuhan city
+西部大开发：western development
+临床医学：Clinical medicine
+国民经济：national economy
+运动训练：sports training
+体育旅游：sports tourism
+服务营销：Service marketing
+文化教学：culture teaching
+国家安全：National security
+市场需求：market demand
+项目融资：Project Financing
+全面质量管理：total quality management
+骨代谢：Bone metabolism
+公共行政：public administration
+精神文明：spiritual civilization
+课程建设：curriculum construction
+广州市：Guangzhou City
+大学图书馆：University library
+D-S证据理论：D-S evidence theory
+基础研究：basic research
+会计制度：accounting system
+椎间盘移位：Intervertebral disk displacement
+优化控制：optimal control
+教育思想：educational thought
+数理统计：mathematical statistics
+重庆市：Chongqing City
+社会环境：social environment
+人际关系：interpersonal relationship
+工作倦怠：job burnout
+数字化校园：digital campus
+校本课程：school-based curriculum
+服务体系：service system
+负迁移：negative transfer
+动力机制：dynamic mechanism
+合同法：contract law
+文化遗产：cultural heritage
+高职教育：Vocational education
+高等教育：high education
+生态伦理：ecological ethics
+华北：North China
+技术转移：technology transfer
+云模型：cloud model
+区域合作：Regional cooperation
+质量体系：quality system
+生殖健康：Reproductive Health
+信息过滤：information filtering
+技术标准：technical standard
+小学：Primary school
+健康促进：Health promotion
+信用体系：Credit system
+话语分析：discourse analysis
+现代价值：modern value
+湖南：Hunan Province
+有效教学：effective teaching
+中等职业教育：Secondary vocational education
+文化产业：culture industry
+就业指导：Employment guidance
+听力教学：listening teaching
+新方法：new method
+本科教育：undergraduate education
+产业发展：industrial development
+网络课程：network course
+考证：Textual research
+动态控制：dynamic control
+城市景观：urban landscape
+新媒体：new media
+政府规制：government regulation
+价值分析：value analysis
+肌酸激酶：creatine kinase
+信息素质教育：information literacy education
+胜利油田：Shengli Oilfield
+理论与实践：theory and practice
+体验经济：experience economy
+学术自由：academic freedom
+主体：main body
+公共危机：public crisis
+现代教育：modern education
+实验室管理：laboratory management
+研究生：graduate student
+效果分析：effect analysis
+新型工业化：new industrialization
+经济学分析：economic analysis
+内容分析：Content analysis
+数据同步：data synchronization
+综合能力：Comprehensive ability
+网络营销：Network Marketing
+海南省：Hainan Province
+资本运营：capital operation
+新公共管理：new public management
+农业机械：agricultural machinery
+职业学校：Vocational school
+控制理论：control theory
+元认知策略：Metacognitive strategies
+电子阅览室：Electronic reading room
+日常生活：daily life
+中国哲学：Chinese philosophy
+西方文化：western culture
+群众体育：mass sports
+21世纪：21st century
+城市环境：urban environment
+财政政策：financial policy
+评估体系：evaluation system
+认知心理学：Cognitive psychology
+开放存取：open access
+和谐世界：Harmonious World
+机制设计：mechanism design
+历史教学：history teaching
+虚拟现实技术：Virtual reality technology
+能力培养：ability cultivation
+教学实验：teaching experiment
+生命意识：Life Consciousness
+均衡发展：balanced development
+个人所得税：individual income tax
+决策分析：decision analysis
+工程力学：engineering mechanics
+自然灾害：natural disasters
+山东：Shandong province
+外资：foreign capital
+有氧运动：aerobic exercise
+酸性磷酸酶：acid phosphatase
+公务员：Civil servants
+新课程改革：new curriculum reform
+产品结构：product structure
+高效：High efficiency
+医院图书馆：hospital library
+职业生涯规划：career planning
+混沌理论：chaos theory
+政策分析：policy analysis
+德育教育：moral education
+宪政：constitutional government
+动态优化：dynamic optimization
+数学分析：mathematical analysis
+心理应激：Psychological stress
+教育质量：education quality
+语法教学：grammar teaching
+动态测量：dynamic measurement
+公共管理：public administration
+高新技术产业：high-tech industry
+心理问题：Psychological problems
+早期干预：early intervention
+中等职业学校：secondary vocational school
+心理理论：Theory of mind
+成就动机：Achievement motivation
+第二语言习得：second language acquisition
+大学物理：college physics
+回顾性分析：Retrospective Analysis
+社会分层：social stratification
+科技创新：science and technology innovation
+心理因素：psychological factors
+女性形象：female image
+图书馆建设：Library Construction
+福建：Fujian Province
+语言习得：Language acquisition
+信息社会：information society
+教学手段：teaching means
+课程资源：curriculum resources
+现代教育技术：modern education technology
+文化认同：cultural identity
+社会心理：Social psychology
+软实力：soft power
+家庭环境：family environment
+司法独立：judicial independence
+综合评判：comprehensive evaluation
+社会价值：social value
+信息结构：Information Structure
+西部开发：western development
+经济危机：economic crisis
+江西：Jiangxi Province
+非营利组织：non-profit organization
+就业结构：employment structure
+创新体系：Innovation system
+专业建设：specialty construction
+自然法：Natural law
+分析力学：analytical mechanics
+人与自然：man and nature
+机械工程：mechanical engineering
+教学评估：Teaching evaluation
+司法公正：judicial justice
+博弈模型：game model
+数学模拟：mathematical simulation
+认知结构：cognitive structure
+学校管理：School management
+案例推理：case-based reasoning
+江苏：Jiangsu Province
+创新设计：Innovative design
+学习风格：learning style
+冷战：Cold War
+民族文化：ethnic culture
+教育功能：educational function
+城市文化：urban culture
+课程开发：curriculum development
+背景知识：background knowledge
+资源整合：resources integration
+品牌形象：brand image
+数字视频：digital video
+儒家文化：Confucian culture
+韩愈：HAN Yu
+政府责任：government responsibility
+新制度经济学：new Institutional economics
+大学文化：university culture
+网格技术：grid technology
+城市形象：city image
+教学管理：teaching administration
+数字校园：digital campus
+理想人格：ideal personality
+时间管理：Time management
+文化传统：cultural tradition
+环境分析：Environmental analysis
+软件平台：software platform
+训练方法：training method
+案例分析：case study
+旅游管理：Tourism management
+龋齿：dental caries
+社会科学：Social science
+培训体系：training system
+教学能力：Teaching ability
+周作人：Zhou Zuoren
+兰州市：Lanzhou city
+课程标准：curriculum standard
+体制创新：system innovation
+批判性思维：critical thinking
+反思性教学：Reflective teaching
+知识工程：knowledge engineering
+机会成本：opportunity cost
+实效性：actual effect
+运动处方：exercise prescription
+建筑文化：Architectural culture
+南京市：Nanjing City
+系统功能：system function
+政府管制：government regulation
+终身学习：Lifelong learning
+文学理论：literary theory
+中国文学：Chinese literature
+质量改进：quality improvement
+生态因子：ecological factor
+计算机管理：computer management
+社会经济：social economy
+数据库管理系统：database management system
+国际关系：international relations
+视觉文化：visual culture
+政治社会化：Political socialization
+概率模型：probability model
+结构模型：structural model
+公共领域：Public sphere
+生态文化：ecological culture
+学习兴趣：Learning interest
+自然科学：Natural science
+可持续发展：continuable development
+网络平台：network platform
+价值管理：value management
+民国：the Republic of China
+性行为：Sexual behavior
+描述逻辑：description logic
+量化分析：quantitative analysis
+学习能力：learning ability
+20世纪：the 20th Century
+性教育：sex education
+计算机教学：Computer Teaching
+高校体育：college physical education
+隶属度函数：membership function
+民主管理：democratic management
+商品经济：commodity economy
+思维能力：thinking ability
+双语教育：bilingual education
+NO：nitric oxide
+远程教育：long-distance education
+信息可视化：information visualization
+专利战略：patent strategy
+社会因素：social factors
+自然语言：natural language
+财政分权：fiscal decentralization
+财务困境：financial distress
+保健：health care
+黄河三角洲：The Yellow River Delta
+城市建设：city construction
+工作过程：working process
+教师专业发展：teachers professional development
+人际意义：interpersonal meaning
+指导思想：guiding ideology
+标准差：standard deviation
+启发式搜索：heuristic search
+特殊教育：Special education
+行政权力：Administrative power
+张謇：Zhang Jian
+生化指标：biochemical index
+古希腊：Ancient Greece
+周恩来：Zhou Enlai
+学术研究：academic research
+集成系统：integrated system
+农民工：peasant worker
+显性知识：explicit knowledge
+课程教学：course teaching
+区域经济发展：regional economic development
+战略规划：strategic planning
+机械振动：mechanical vibration
+柔性管理：Flexible management
+教育管理：educational management
+蔡元培：Cai Yuanpei
+国际经验：international experience
+主题公园：theme park
+工程教育：engineering education
+智能Agent：intelligent agent
+生态平衡：ecological balance
+知识模型：knowledge model
+改革与发展：reform and development
+身体素质：Physical fitness
+语言迁移：language transfer
+群决策：group decision making
+认知风格：Cognitive style
+词汇学习：vocabulary learning
+文化精神：cultural spirit
+生命科学：life science
+核心价值：core value
+实践性教学：Practical teaching
+大学精神：University spirit
+教育创新：educational innovation
+网络组织：network organization
+生活世界：life world
+传统图书馆：traditional library
+研究性学习：research learning
+改进措施：improvement measure
+三角模糊数：triangular fuzzy number
+网络课件：network courseware
+广东：Guangdong Province
+师资队伍：teaching staff
+国家利益：National interests
+内部会计控制：internal accounting control
+异同：similarities and differences
+卫生教育：Health Education
+社会地位：social status
+高考：College Entrance Examination
+口语教学：oral english teaching
+导航系统：Navigation system
+系统管理：system management
+分配制度：distribution system
+教学系统：teaching system
+知情权：right to know
+教育研究：educational research
+组织绩效：organizational performance
+英语词汇：English vocabulary
+服务功能：service function
+基础理论：basic theory
+权益：rights and interests
+评价标准：evaluation criteria
+工程实践：engineering practice
+社区图书馆：community library
+陶行知：Tao Xingzhi
+词汇习得：vocabulary acquisition
+科学素养：scientific literacy
+建模方法：modeling method
+计划经济：Planned economy
+生活满意度：Life satisfaction
+体裁分析：genre analysis
+医院文化：hospital culture
+经济管理：economic management
+模型分析：model analysis
+边际成本：marginal cost
+高校教师：college teacher
+比较教育：comparative education
+生态工程：ecological engineering
+武术：Martial arts
+作文教学：composition teaching
+郑州市：Zhengzhou City
+业务流程重组：Business process reengineering
+优质：high quality
+职业紧张：Occupational stress
+篮球教学：basketball teaching
+创业教育：Enterprise education
+社会主义核心价值体系：socialist core value system
+经济资本：economic capital
+安徽：Anhui Province
+农村社区：rural community
+流式细胞仪：flow cytometer
+农村人口：Rural population
+制度分析：institutional analysis
+品牌管理：brand management
+最大似然估计：Maximum likelihood estimation
+虚拟社区：Virtual Community
+语文教育：Chinese education
+接受美学：reception aesthetics
+历史经验：historical experience
+农业结构：agricultural structure
+传统教育：traditional education
+对策建议：countermeasures and suggestions
+幂级数：power series
+信息需求：information demand
+情绪智力：emotional intelligence
+质量监控：quality control
+驱动机制：driving mechanism
+多元回归：multiple regression
+统计方法：statistical method
+旅游开发：tourism exploitation
+壮族：Zhuang nationality
+文化整合：Cultural integration
+钢桁架：steel truss
+资源利用：resource utilization
+密度函数：density function
+风险社会：risk society
+世界遗产：world heritage
+案例教学法：Case teaching method
+力量训练：strength training
+心率变异：heart rate variability
+地理教学：geography teaching
+社会教育：Social education
+初等变换：Elementary transformation
+本科教学：undergraduate teaching
+产业竞争力：industrial competitiveness
+绩效考评：performance appraisal
+教学方式：teaching method
+人事制度：Personnel system
+医学伦理学：medical ethics
+敏捷供应链：Agile supply chain
+审美文化：aesthetic culture
+特征分析：characteristic analysis
+长沙市：Changsha City
+济南市：Jinan city
+近似解：approximate solution
+和谐教育：Harmonious education
+文化意识：cultural awareness
+学校文化：School culture
+社会体育：Social sports
+体育产业：sport industry
+利弊：advantages and disadvantages
+开放系统：open system
+教育政策：educational policy
+市场前景：market prospect
+教学原则：teaching principle
+校园规划：Campus planning
+人际功能：Interpersonal function
+保障体系：Guarantee System
+教师素质：Teachers Quality
+词汇学习策略：vocabulary learning strategies
+系统科学：system science
+教育实习：teaching practice
+预防医学：Preventive Medicine
+文化生态：cultural ecology
+执行功能：executive function
+教育理论：Educational theory
+世界杯：world cup
+媒介素养：Media literacy
+Web数据挖掘：web data mining
+心理分析：psychological analysis
+判断矩阵：judgement matrix
+力学分析：mechanics analysis
+模糊矩阵：fuzzy matrix
+黄河流域：Yellow River Basin
+创新精神：innovative spirit
+按劳分配：distribution according to work
+设计策略：design strategy
+班级管理：class management
+德育工作：Moral education
+教学环境：teaching environment
+形态特征：morphological character
+资源建设：Resource construction
+竞争策略：competitive strategy
+法律意识：legal consciousness
+教育投资：Education investment
+社区文化：community culture
+期刊管理：periodical management
+西部地区：western area
+功能设计：function design
+人本管理：Humanistic management
+民俗文化：folk culture
+科技期刊：Sci-tech Periodicals
+服务模式：service model
+冲突管理：conflict management
+体育市场：sports market
+社会排斥：Social Exclusion
+茶文化：tea culture
+现代社会：modern society
+制度环境：institutional environment
+智能决策支持系统：intelligent decision support system
+地磁场：geomagnetic field
+土家族：Tujia nationality
+区域创新系统：regional innovation system
+语言接触：language contact
+消费行为：consumption behavior
+安全防护：safety protection
+网络资源：network resource
+热辐射：thermal radiation
+社会背景：social background
+中小学：primary and secondary schools
+地理环境：geographical environment
+数字化医院：Digital hospital
+社会生活：social life
+写作能力：Writing ability
+艺术价值：artistic value
+西方哲学：western philosophy
+新历史主义：New historicism
+服务外包：service outsourcing
+教学法：teaching methods
+外语：foreign language
+文化全球化：Cultural globalization
+理论研究：theory research
+农业基础科学：agricultural basic science
+动力系统：dynamical system
+信息反馈：information feedback
+质的研究：qualitative research
+形式概念分析：formal concept analysis
+云计算：cloud computing
+对策研究：countermeasure study
+现实意义：realistic significance
+中华民族：Chinese nation
+技能训练：Skill training
+质性研究：qualitative research
+用户管理：user management
+文化资本：cultural capital
+有限政府：limited government
+功能特性：functional properties
+生态价值：ecological value
+生理效应：Physiological effect
+社会变迁：social changes
+管理模型：management model
+建立模型：Model building
+清末：late Qing Dynasty
+阅读策略：reading strategy
+市场环境：Market environment
+课程结构：curriculum structure
+社区发展：Community development
+心理机制：psychological mechanism
+数字鸿沟：Digital Divide
+健康知识：Health Knowledge
+眼动：eye movement
+数字资源：digital resource
+区域创新：regional innovation
+人格教育：personality education
+国际政治：international politics
+康有为：Kang Youwei
+颗粒物：Particulate matter
+事故预防：Accident prevention
+路径分析：path analysis
+滨海新区：Binhai New Area
+民办高等教育：private higher education
+语言风格：language style
+欧洲一体化：European integration
+创新意识：innovative consciousness
+相对效率：relative efficiency
+科学方法：scientific method
+初中：Junior middle school
+特色数据库：Characteristic Database
+英语学习：English study
+学前教育：preschool education
+新闻报道：news report
+阅读教学：teaching of reading
+教师话语：teacher talk
+数字化图书馆：digital library
+策略训练：strategy training
+可持续性发展：sustainable development
+历史发展：historical development
+人的发展：human development
+舆论：Public opinion
+中华文化：Chinese culture
+可行性研究：feasibility research
+国际竞争：international competition
+孕妇：pregnant woman
+保障措施：safeguard measures
+护生：nursing students
+网络社会：network society
+网络信息资源：network information resource
+民间文学：folk literature
+选材：material selection
+比较研究：comparison study
+发达国家：Developed country
+主成份分析：principal component analysis
+审美意识：Aesthetic Consciousness
+角色定位：role orientation
+生长和发育：Growth and Development
+粗集理论：rough set theory
+图书馆文化：Library culture
+胜任力模型：Competency Model
+教育职能：Educational function
+公共选择：public choice
+词汇衔接：lexical cohesion
+研究方向：research direction
+随机数：random number
+社会角色：social role
+学习理论：learning theory
+教师发展：teacher development
+校园网络：campus network
+农村职业教育：rural vocational education
+思维方式：way of thinking
+运行模式：operation mode
+消费文化：consumption culture
+宗教文化：religious culture
+社会网络分析：Social network analysis
+数据库建设：Database construction
+职业生涯管理：career management
+知识地图：knowledge map
+电视新闻：TV news
+教学平台：Teaching platform
+质量问题：quality problem
+服务平台：service platform
+地方经济：local economy
+基本理论：basic theory
+词义：Word meaning
+薪酬管理：salary management
+学术权力：Academic power
+政治经济学：Political Economics
+政治稳定：political stability
+多元回归分析：multiple regression analysis
+设计理念：design idea
+人格特征：personality characteristics
+社会性别：Social gender
+奥林匹克运动：Olympic movement
+健康第一：health first
+个性化推荐：personalized recommendation
+有效需求：effective demand
+离职倾向：turnover intention
+传统知识：traditional knowledge
+环境意识：environmental awareness
+政策体系：policy system
+中国西部：Western China
+税率：Tax rate
+农村城镇化：rural urbanization
+教学效率：teaching efficiency
+教务管理：educational administration
+学术期刊：academic journals
+社会服务：Social service
+文化自觉：cultural consciousness
+资料室：reference room
+技术参数：technical parameters
+巢湖：Chaohu Lake
+现状分析：present situation analysis
+技术管理：Technical management
+角动量：angular momentum
+信息传输：information transmission
+发展研究：development research
+横断面研究：Cross-sectional studies
+体成分：Body composition
+出生体重：Birth weight
+高职学生：Higher vocational students
+高原训练：altitude training
+高中：Senior high school
+政府绩效：government performance
+条件概率：conditional probability
+发展现状：Development situation
+研究与开发：research and development
+体系构建：system construction
+心肌肌钙蛋白I：Cardiac troponin I
+醛糖还原酶：Aldose Reductase
+思想政治理论课：Ideological and Political Theory course
+向量空间：vector space
+孝：Filial piety
+著作权法：copyright law
+英语听力：English listening
+金融全球化：financial globalization
+出路：way out
+学习方法：Learning method
+网络文化：Internet culture
+身高：body height
+学习共同体：learning community
+党的建设：party construction
+政府信息：government information
+远程教学：distance education
+社会流动：social mobility
+控制模式：control mode
+室内空气质量：indoor air quality
+区域文化：regional culture
+生态美学：ecological aesthetics
+科学教育：scientific education
+学生工作：student work
+辅助函数：auxiliary function
+学生模型：student model
+链接分析：link analysis
+数控技术：numerical control technology
+文献综述：literature review
+自动生成：automatic generation
+实施策略：implementation strategy
+历史背景：Historical background
+概念图：concept map
+数学教育：mathematical education
+消费社会：Consumer Society
+硬件平台：Hardware platform
+全民健身：national fitness
+基本原理：basic principle
+品牌文化：Brand culture
+楚文化：Chu culture
+心理压力：psychological pressure
+正反馈：positive feedback
+信息时代：information times
+知识集成：knowledge integration
+职业素质：professional quality
+投资效益：Investment benefit
+教学艺术：teaching art
+视觉诱发电位：Visual Evoked Potential
+青年教师：Young teacher
+随机控制：stochastic control
+国家创新体系：national innovation system
+文化哲学：cultural philosophy
+协调发展：coordinative development
+沈阳市：Shenyang city
+人体：human body
+法制建设：legal construction
+社会正义：social justice
+回族：Hui nationality
+个体差异：Individual differences
+软环境：soft environment
+语言艺术：Language art
+多元智能：Multiple intelligences
+主体意识：subject consciousness
+无标度网络：scale-free network
+图书馆工作：library work
+功能语法：Functional grammar
+系统控制：system control
+联想记忆：associative memory
+书评：book review
+失业保险：unemployment insurance
+价值体系：value system
+国家形象：national image
+区域创新体系：regional innovation system
+生产效率：production efficiency
+能量消耗：energy consumption
+经济绩效：economic performance
+趋势预测：trend prediction
+肾动脉：Renal artery
+新课改：new curriculum reform
+创新绩效：innovation performance
+知识资本：Knowledge capital
+信息经济：information economy
+数据库：data bank
+生理生化指标：physiological and biochemical index
+多体系统：Multi-body System
+全面预算管理：comprehensive budget management
+实践教学体系：practice teaching system
+公共治理：Public governance
+教学软件：teaching software
+市场开发：market development
+乳清蛋白：Whey protein
+音乐疗法：music therapy
+教学资源：teaching resource
+团队精神：Team spirit
+个人信用：personal credit
+数字参考咨询：digital reference service
+文化霸权：Cultural hegemony
+环境工程：environment engineering
+利用率：utilization rate
+实验教学体系：experimental teaching system
+安全教育：safety education
+学术价值：academic value
+Malmquist指数：Malmquist index
+教师评价：teacher evaluation
+英语口语：Spoken English
+信息环境：information environment
+系统功能语法：systemic functional grammar
+农业信息：agricultural information
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+整合营销：integrated marketing
+创新系统：innovation system
+文化素质：cultural quality
+发展阶段：development stage
+信息资源管理：information resource management
+月经周期：Menstrual cycle
+认知方式：cognitive style
+刑事侦查：criminal investigation
+现代图书馆：modern library
+和平崛起：Peaceful Rise
+民族意识：national consciousness
+主要问题：Main problems
+社会心理学：social psychology
+管理体制：administration system
+强迫症：Obsessive-compulsive disorder
+教师专业化：teacher professionalization
+软式排球：soft volleyball
+田径运动：track and field
+信息经济学：information economics
+音乐欣赏：music appreciation
+人生观：outlook on life
+法学教育：law education
+苗族：Miao nationality
+压力测量：Pressure measurement
+体育人口：sports population
+睫状神经营养因子：ciliary neurotrophic factor
+历史地位：historical status
+Web2.0：Web 2.0
+衔接手段：cohesive devices
+体态语：body language
+执政党：ruling party
+审美现代性：aesthetic modernity
+族群：Ethnic Group
+技术发展：technology development
+组织文化：organization culture
+政府：the government
+市场秩序：market order
+精神文化：spiritual culture
+投资体制：investment system
+线性代数：linear algebra
+组织创新：Organization innovation
+古籍：ancient books
+跨文化交际能力：Intercultural communicative competence
+课堂互动：classroom interaction
+XML加密：XML encryption
+管理措施：Management measures
+安全措施：safety measure
+弱势群体：disadvantaged groups
+开发策略：development strategy
+新西兰：New Zealand
+药物滥用：Drug abuse
+身体形态：body shape
+南京国民政府：Nanjing National Government
+正迁移：positive transfer
+知识整合：knowledge integration
+知识网络：knowledge network
+顺应理论：adaptation theory
+英语口语教学：oral english teaching
+发展历程：development process
+化学工程：chemical engineering
+实证分析：demonstration analysis
+社会影响：social influence
+西部：the west
+心肌：cardiac muscle
+素质结构：quality structure
+武术教学：wushu teaching
+教育发展：educational development
+师生关系：relationship between teachers and students
+《孙子兵法》：Military Science of Sun Tzu
+自动化系统：automatic system
+数学建模：mathematics modeling
+珠三角：Pearl River Delta
+区域竞争力：regional competitiveness
+层次结构：hierarchical structure
+教育培训：education and training
+积件：integrable ware
+市场份额：market share
+文化多样性：cultural diversity
+西欧：Western Europe
+社会问题：social problem
+宋朝：Song Dynasty
+支柱产业：pillar industry
+体操教学：gymnastics teaching
+合作机制：cooperation mechanism
+主位结构：thematic structure
+教育技术学：educational technology
+实验设计：experimental design
+运动学分析：kinematic analysis
+新模式：new mode
+信息整合：Information Integration
+受迫振动：Forced Vibration
+信息分析：information analysis
+医学院校：medical college
+免疫机能：immune function
+耐力训练：endurance training
+人际信任：interpersonal trust
+学生管理：students management
+特质焦虑：Trait anxiety
+物质文明：material civilization
+风险资本：venture capital
+李大钊：Li Dazhao
+道德人格：moral personality
+废塑料：waste plastics
+序参量：order parameter
+市场体系：market system
+开封市：Kaifeng City
+消防安全：fire safety
+管理软件：management software
+创新管理：innovation management
+人员素质：personnel quality
+内部控制：inner control
+内容体系：content system
+身体成分：Body composition
+医学伦理：Medical ethics
+信息质量：information quality
+开源软件：open source software
+北宋：The Northern Song Dynasty
+学术史：academic history
+金融工程：financial engineering
+前景理论：prospect theory
+价值判断：Value judgment
+文化转向：cultural turn
+外国文学：foreign literature
+信任机制：trust mechanism
+会话分析：Conversation analysis
+发散思维：divergent thinking
+历史文化：History and Culture
+定量研究：quantitative research
+教育模式：education model
+分配系数：distribution coefficient
+电解质溶液：electrolyte solution
+基地建设：base construction
+专利保护：patent protection
+地方高校：local college
+品牌定位：brand positioning
+经营战略：management strategy
+民间文化：folk culture
+制度变迁：system change
+国民政府：National Government
+古村落：ancient village
+服务补救：service recovery
+危机干预：crisis intervention
+口语：oral English
+核心价值体系：core value system
+交际教学法：communicative approach
+音乐教学：music teaching
+虚拟经济：virtual economy
+演示实验：demonstration experiment
+科学内涵：scientific connotation
+分类体系：classification system
+社会评价：social evaluation
+战略分析：strategic analysis
+新体系：new system
+入世：entry into WTO
+数学实验：mathematical experiment
+无形资产：intangible asset
+积极心理学：positive psychology
+教师培训：teachers training
+参考咨询服务：reference service
+信息加工：information processing
+专利分析：patent analysis
+有效途径：effective way
+教学理论：teaching theory
+简化计算：simplified calculation
+文献资源：literature resources
+德治：rule of virtue
+教学创新：teaching innovation
+军事医学：military medicine
+财务绩效：financial performance
+理论力学：theoretical mechanics
+网络媒体：network media
+跳高：high jump
+时间管理倾向：Time management disposition
+创新人才：innovative talent
+科学探究：scientific inquiry
+自然选择：natural selection
+家庭结构：family structure
+领域分析：domain analysis
+社区管理：Community Management
+性骚扰：Sexual Harassment
+现代意义：modern significance
+界面管理：interface management
+文体分析：stylistic analysis
+华侨：Overseas Chinese
+王国维：WANG Guo-wei
+科技查新：Sci-tech Novelty Retrieval
+戴震：Dai Zhen
+质量文化：quality culture
+系统理论：system theory
+生命哲学：life philosophy
+中心极限定理：central limit theorem
+非物质文化遗产：non-material cultural heritage
+品牌策略：brand strategy
+融资模式：financing mode
+元代：the Yuan Dynasty
+研究设计：research design
+血乳酸：blood lactic acid
+单摆：Simple pendulum
+高等工程教育：higher engineering education
+健康人格：healthy personality
+学术质量：Academic quality
+网络语言：network language
+社区学院：community college
+创造教育：creative education
+概念整合：conceptual integration
+选修课：elective course
+饮水：drinking water
+主成分：Principal component
+成本估算：cost estimation
+管理方法：management method
+消费水平：consumption level
+人文素质：humane quality
+价值创新：Value Innovation
+探究性学习：inquiry learning
+荀子：Xun Zi
+对立统一：unity of opposites
+高校管理：university management
+英语教育：English education
+排球教学：volleyball teaching
+大学城：university town
+旅游教育：tourism education
+体育教育专业：Physical Education
+语言学习策略：language learning strategies
+系统功能语言学：Systemic Functional Linguistics
+速度滑冰：Speed Skating
+徐州市：Xuzhou City
+可持续发展战略：sustainable development strategy
+STS教育：STS education
+调查与分析：Investigation and analysis
+发展观：development view
+语义网络：semantic network
+基础教育：fundamental education
+家庭功能：Family function
+学习方式：Learning style
+认知发展：cognitive development
+美国文学：American literature
+实训基地：training base
+雷州半岛：Leizhou Peninsula
+合理利用：Rational utilization
+教学目标：teaching objective
+灰色聚类：grey clustering
+示范中心：demonstration center
+现代大学制度：modern university system
+负荷控制：load control
+创造能力：creative ability
+商务谈判：business negotiation
+公平竞争：fair competition
+多媒体教室：multimedia classroom
+非语言交际：nonverbal communication
+主题标引：subject indexing
+残疾人：the disabled
+民国时期：the period of the Republic of China
+个性化信息服务：personalized information service
+诚信教育：honesty education
+精读：Intensive reading
+训练序列：Training sequence
+信息共享空间：Information Commons
+市场价值：market value
+二元经济结构：dual economic structure
+汤显祖：Tang Xianzu
+合肥市：Hefei City
+层次分析法(AHP)：analytic hierarchy process(AHP)
+岭回归：ridge regression
+饮食习惯：food habits
+体育彩票：sports lottery
+安全设计：safety design
+组织管理：organization and management
+校园环境：campus environment
+社交焦虑：social anxiety
+在线学习：online learning
+管理理论：Management Theory
+文化教育：cultural education
+工程训练：Engineering training
+民办高校：private college
+徐志摩：Xu Zhimo
+新诗：New Poetry
+实体经济：real economy
+逻辑起点：logical starting point
+开放获取：open access
+民航：Civil Aviation
+天津市：Tianjin City
+综合性实验：Comprehensive experiment
+服务系统：service system
+验证性因素分析：confirmatory factor analysis
+定性研究：qualitative study
+公共关系：public relation
+科学素质：scientific quality
+伊拉克战争：Iraq war
+社会行为：social behavior
+电子签名：electronic signature
+隐性课程：Hidden curriculum
+网络教育：Web-based education
+用户教育：user education
+信息网格：information grid
+语用意义：pragmatic meaning
+公共品：public goods
+生命体验：life experience
+互动发展：interactive development
+文化环境：cultural environment
+知识体系：knowledge system
+终极关怀：ultimate concern
+市场势力：market power
+知识链：knowledge chain
+认知过程：cognitive process
+心理危机：Psychological crisis
+高等教育大众化：popularization of higher education
+语感：language sense
+虚拟图书馆：virtual library
+代建制：agent construction system
+投资行为：investment behavior
+文化人类学：Cultural Anthropology
+知识创造：knowledge creation
+性别歧视：gender discrimination
+全纳教育：inclusive education
+技术特点：technical characteristics
+价值链管理：value chain management
+资金管理：fund management
+青海：Qinghai Province
+地区差异：regional difference
+教育体系：educational system
+重心：center of gravity
+工业革命：industrial revolution
+薪酬制度：salary system
+智商：intelligence quotient
+高职生：Vocational college students
+教学语言：Teaching language
+制度改革：system reform
+馆员素质：Quality of librarians
+精英教育：Elite education
+英语教师：English teachers
+英文摘要：English abstract
+修辞格：figures of speech
+被动语态：passive voice
+就业政策：employment policy
+改革发展：reform and development
+实验方法：experimental method
+案例教学：Case study
+创新型人才：innovative talents
+互动关系：interactive relationship
+实验平台：experiment platform
+行为问题：behavior problem
+系统维护：system maintenance
+教学应用：teaching application
+蛋白质代谢：protein metabolism
+年龄相关性黄斑变性：age-related macular degeneration
+认知机制：cognitive mechanism
+城市居民：Urban residents
+服务网格：Service Grid
+科举制度：Imperial examination system
+数学归纳法：mathematical induction
+信用风险管理：credit risk management
+政党政治：party politics
+古代文学：ancient literature
+主导作用：leading role
+勘探开发：exploration and development
+综合管理：integrated management
+自然景观：natural landscape
+光电效应：photoelectric effect
+实习基地：Practice base
+跨文化管理：cross-cultural management
+等待时间：waiting time
+网络应用：Network application
+有效供给：effective supply
+网络服务：network service
+人口素质：population quality
+资源调查：resource investigation
+内科学：internal medicine
+中学教师：Middle school teachers
+心理障碍：psychological obstacle
+技术预见：technology foresight
+磁盘阵列：disk array
+田径教学：track and field teaching
+日本文化：Japanese culture
+文化信息：Cultural information
+袁枚：Yuan Mei
+考试改革：examination reform
+质量屋：house of quality
+机遇与挑战：opportunity and challenge
+会计控制：accounting control
+硬件系统：Hardware system
+学习过程：learning process
+电流源：Current source
+团队绩效：team performance
+风险偏好：risk preference
+朱自清：ZHU Ziqing
+建设模式：construction mode
+检索系统：retrieval system
+标志设计：logo design
+时空：time and space
+矩阵分析：matrix analysis
+塔里木河流域：Tarim River Basin
+教育制度：Educational System
+历史演进：Historical Evolution
+虚拟团队：Virtual team
+新课程标准：new curriculum standard
+人口结构：Population structure
+人际交往：interpersonal communication
+人体质量指数：Body mass index
+认知能力：cognitive ability
+虚拟参考咨询：Virtual Reference Service
+文献传递：document delivery
+包装工程：packaging engineering
+手机电视：mobile TV
+洋务运动：Westernization Movement
+美国文化：American culture
+汶川大地震：Wenchuan Earthquake
+刘禹锡：Liu Yuxi
+国际金融危机：international financial crisis
+影响因子：influence factors
+风险投资：venture capital investment
+设计模型：design model
+效应分析：effect analysis
+西安市：Xi'an city
+明清：the Ming and Qing Dynasties
+价格机制：Price Mechanism
+目标成本：target cost
+典型相关：Canonical correlation
+过错责任：fault liability
+科学知识：scientific knowledge
+缄默知识：tacit knowledge
+教学秘书：Teaching secretary
+隐私权：privacy right
+公益性：public welfare
+心理效应：psychological effect
+教学反思：Teaching reflection
+教育现代化：educational modernization
+教育体制：Education system
+社会建构主义：social constructivism
+沙滩排球：beach volleyball
+数学文化：mathematics culture
+小组活动：group work
+民族教育：national education
+指标权重：index weight
+和谐管理：harmonious management
+高等职业技术教育：higher vocational education
+生物多样性保护：biodiversity conservation
+3dsMax：3ds MAX
+思维模式：thinking mode
+政策环境：policy environment
+党建：party building
+认知模型：Cognitive model
+城市空间：city space
+手卫生：hand hygiene
+学习倦怠：Learning burnout
+医学图书馆：medical library
+图书馆法：library law
+学术腐败：academic corruption
+颜元：Yan Yuan
+科学传播：science communication
+胜任特征模型：competency model
+实验教学改革：experimental teaching reform
+环境管理体系：environmental management system
+运作机制：operation mechanism
+黄山市：Huangshan City
+教育资源：education resource
+信息咨询：information consultation
+发展水平：development level
+网络教学平台：network teaching platform
+法经济学：law and economics
+信息资源共享：information resource sharing
+行为分析：behavior analysis
+高校学生：college student
+国防教育：national defense education
+唯物辩证法：materialist dialectics
+范例推理：case-based reasoning
+与时俱进：Keeping Pace with the Times
+任务型教学：task-based teaching
+委托-代理理论：principal-agent theory
+二部图：bipartite graph
+数字音频：digital audio
+智能教学系统：intelligent tutoring system
+杜威：John Dewey
+传统媒体：traditional media
+文化批判：cultural criticism
+叙事时间：Narrative time
+结果分析：Result analysis
+性别平等：gender equality
+反馈机制：feedback mechanism
+大学教育：College Education
+南昌市：Nanchang city
+生活事件：life event
+抗战时期：anti-Japanese war
+可拓集合：extension set
+社会建构：Social construction
+物质文化：material culture
+现代管理：modern management
+初中生：middle school students
+同伴教育：Peer education
+培训模式：Training model
+内隐自尊：Implicit self-esteem
+灾难恢复：disaster recovery
+湖湘文化：HuXiang culture
+契约理论：contract theory
+听证制度：Hearing system
+言论自由：freedom of speech
+精神家园：Spiritual Home
+口语交际：oral communication
+社会契约：social contract
+自由教育：liberal education
+培养目标：training goal
+增长率：growth rate
+财务信息：financial information
+贵阳市：Guiyang city
+政府政策：government policy
+临界速度：critical velocity
+临沂市：Linyi City
+语言与文化：Language and Culture
+诺贝尔奖：Nobel Prize
+资源优化：resource optimization
+黄金分割：golden section
+知识网格：Knowledge grid
+公安：Public security
+科学体系：Scientific system
+绩效技术：performance technology
+肩关节：Shoulder joint
+步态分析：gait analysis
+情绪调节：Emotion regulation
+儒家伦理：Confucian ethics
+深层结构：deep structure
+归因理论：Attribution Theory
+科技政策：science and technology policy
+体育意识：sports consciousness
+听力策略：listening strategies
+交际功能：communicative function
+司法制度：judicial system
+图书馆精神：library spirit
+职业体育：professional sports
+族群认同：ethnic identity
+优选论：Optimality Theory
+PDCA循环：PDCA cycle
+奥运：olympic games
+铁缺乏：Iron deficiency
+教育理念：educational idea
+温泉：Hot spring
+道德价值：moral value
+分析系统：analysis system
+师资培训：teacher training
+气动力：aerodynamic force
+铁代谢：iron metabolism
+体能：physical fitness
+现代大学：modern university
+变革型领导：transformational leadership
+唐山地震：Tangshan earthquake
+输入法：input method
+中产阶级：Middle Class
+参考点：Reference Point
+处理方法：processing method
+Delphi法：Delphi method
+生产实习：Production practice
+数字化技术：digital technology
+DEA方法：DEA method
+经济责任：economic responsibility
+成本效益分析：Cost-benefit analysis
+经济环境：economic environment
+市场行为：market conduct
+道德素质：moral quality
+实验室建设：lab construction
+未来发展：future development
+区域品牌：regional brand
+质量保证体系：quality assurance system
+分布式网络：distributed network
+舆论监督：Supervision by public opinion
+护理教学：nursing teaching
+反应时：Reaction time
+医学期刊：Medical journal
+后备人才：Reserve Talents
+行为建模：behavior modeling
+历史价值：Historical value
+剩余劳动力：surplus labor force
+体育新闻：Sports News
+警察权：Police power
+文化人格：Cultural personality
+实时荧光PCR：real-time PCR
+新趋势：new trend
+公共安全：public safety
+共享平台：sharing platform
+改革措施：reform measures
+恒功率：constant power
+环境因素：environment factor
+贸易壁垒：trade barriers
+探索性因素分析：exploratory factor analysis
+免疫球蛋白G：immunoglobulin G
+科学文化：scientific culture
+新理念：New concept
+战略措施：strategic measures
+集成平台：integration platform
+先进生产力：advanced productivity
+解放思想：emancipate the mind
+体征和症状：signs and symptoms
+期刊评价：journal evaluation
+社会意义：social significance
+区位商：location quotient
+城市品牌：City Brand
+地方文化：local culture
+二分图：Bipartite graph
+语言焦虑：language anxiety
+公民教育：Citizen education
+大众媒介：Mass media
+语义标注：semantic annotation
+政治权力：political power
+语用策略：pragmatic strategy
+全运会：National Games
+废名：Fei Ming
+管理水平：management level
+健康发展：healthy development
+综合实验：comprehensive experiment
+解析几何：analytic geometry
+空间差异：spatial difference
+经营模式：management model
+教材建设：textbook construction
+高可靠性：high reliability
+现况调查：Cross-sectional study
+商代：Shang dynasty
+形成性评价：formative evaluation
+网络传播：network communication
+延边地区：Yanbian area
+青年学生：Young students
+血清酶：serum enzyme
+血管内皮：Vascular endothelium
+职业发展：career development
+远程访问：remote access
+语言能力：Language ability
+教与学：teaching and learning
+运动心理学：sports psychology
+信息能力：Information ability
+产业创新：industrial innovation
+企业培训：enterprise training
+体育行为：sports behavior
+理论价值：theoretical value
+权责发生制：accrual basis
+媒介素养教育：media literacy education
+学习化社会：learning society
+会计法：accounting law
+战略管理会计：strategic management accounting
+图书馆自动化：library automation
+语言规划：language planning
+行政效率：administrative efficiency
+供求：supply and demand
+遗传神经网络：genetic neural network
+策略研究：strategy research
+耗散结构：dissipation structure
+非线性理论：nonlinear theory
+强化机制：strengthening mechanism
+石家庄市：Shijiazhuang City
+核心能力：core capability
+分类系统：classification system
+评估模型：assessment model
+国际战略：international strategy
+战略决策：strategic decision
+水文化：Water culture
+南阳市：Nanyang city
+层次模型：Hierarchical model
+医学信息：medical information
+专利制度：Patent system
+武术套路：wushu routine
+选择性注意：Selective attention
+心理调适：psychological adjustment
+网络时代：network age
+发展分析：development analysis
+模糊评估：fuzzy evaluation
+词块：lexical chunks
+通俗文学：popular literature
+中国政府：Chinese government
+中国美学：Chinese aesthetics
+组织形式：organization form
+地方性知识：local knowledge
+CAD软件：CAD software
+生态哲学：ecological philosophy
+高师：normal university
+南宋：Southern Song Dynasty
+业务素质：Professional quality
+流动儿童：Floating children
+党建工作：party construction
+阅读技巧：Reading skills
+翻译原则：Translation principles
+新公共服务：new public service
+知识生产：knowledge production
+酒店管理：hotel management
+知识流：knowledge flow
+数字媒体：digital media
+健美操教学：aerobics teaching
+学习评价：learning evaluation
+热泵热水器：heat pump water heater
+最优化方法：optimization method
+测定方法：measuring method
+汽车工业：auto industry
+成本核算：cost calculation
+企业集群：enterprise clusters
+使用价值：use value
+石油工程：petroleum engineering
+问题与对策：problems and solutions
+设计模式：design mode
+资源开发：resource exploitation
+现代文明：modern civilization
+产生式系统：production system
+土地开发：land development
+组织和管理：Organization and Administration
+服务意识：Service consciousness
+早期教育：early education
+体能训练：physical training
+信息教育：Information education
+监控体系：monitoring system
+文化因素：cultural factor
+批评话语分析：critical discourse analysis
+网管：Network management
+战略转型：strategic transformation
+天气预报：weather forecast
+经济哲学：economic philosophy
+书目数据：bibliographic data
+当代意义：contemporary significance
+演化经济学：evolutionary economics
+体育法：sports law
+发展建议：development suggestion
+研究与应用：research and application
+中西文化：Chinese and Western cultures
+前馈控制：feed-forward control
+民族地区：minority regions
+专利申请：patent application
+探究教学：inquiry teaching
+预警机制：early warning mechanism
+产业融合：industrial convergence
+产值：output value
+关键词：key words
+师范教育：teacher education
+政府管理：government administration
+视觉语言：visual language
+卫生保健：Health care
+信息检索课：Information Retrieval Course
+心理旋转：mental rotation
+学科馆员制度：subject librarian system
+服务品牌：service brand
+思想道德教育：Moral Education
+美国高等教育：American higher education
+艺术表现：Artistic expression
+道德实践：moral practice
+虚拟学习社区：Virtual Learning Community
+社会冲突：social conflict
+馆际互借：interlibrary loan
+开源：open source
+工程技术：engineering technology
+服务理念：service concept
+数据管理系统：Data Management System
+控制环境：control environment
+高职高专：vocational colleges
+过度竞争：excessive competition
+程序开发：program development
+时间价值：Time Value
+情感教育：emotion education
+文件格式：file format
+比较分析：Comparison analysis
+培训系统：training system
+膳食调查：Diet surveys
+成本函数：cost function
+文化冲突：culture conflict
+价格弹性：Price elasticity
+同伴关系：Peer Relationship
+组织支持感：perceived organizational support
+学习心理：learning psychology
+休闲体育：leisure sport
+奥运经济：Olympic Economy
+计算机专业：computer specialty
+民族音乐：national music
+文化安全：cultural security
+意义建构：meaning construction
+武术文化：Wushu culture
+评估系统：Evaluation system
+哈尔滨市：Harbin City
+有效管理：effective management
+半衰期：half life
+虚拟技术：virtual technique
+有机化合物：organic compound
+集成创新：integrated innovation
+政策取向：policy orientation
+系统规划：system planning
+三角函数：Trigonometric function
+随机抽样：random sampling
+网络效应：network effect
+信息资源建设：construction of information resources
+竞争环境：competitive environment
+知识建构：Knowledge construction
+合资企业：joint venture
+数学思维：mathematical thinking
+体质量指数：body mass index
+心理特点：Psychological characteristics
+组织特异性：tissue specificity
+默会知识：tacit knowledge
+政府角色：government role
+细胞色素氧化酶：cytochrome Oxidase
+教学技能：Teaching skill
+词性：part of speech
+体育课程：physical education course
+思想工作：Ideological work
+英语语法：English grammar
+高等教育改革：Higher education reform
+信息用户：information user
+效用理论：utility theory
+互动教学：interactive teaching
+本体学习：ontology learning
+新变化：new changes
+绩效分析：performance analysis
+院校研究：institutional research
+研究与实践：research and practice
+自组织理论：self-organization theory
+建设与管理：construction and management
+经济增长方式：economic growth mode
+教学理念：teaching concept
+区域分布：regional distribution
+黄体生成素：luteinizing hormone
+负性情绪：negative emotion
+科技论文：sci-tech paper
+身体机能：physical function
+学习适应性：learning adaptability
+高校教育：higher education
+进化心理学：evolutionary psychology
+艺术体操：artistic gymnastics
+运动队：sports team
+数据库访问：database access
+新闻自由：freedom of the press
+函授教育：correspondence education
+信息理论：information theory
+大学自治：university autonomy
+福利国家：welfare state
+经济因素：economic factors
+白色污染：white pollution
+毕业设计：graduate design
+铁粉：iron powder
+氮源：nitrogen sources
+接触模型：contact model
+生态评价：ecological evaluation
+比较法：comparative law
+继续教育：continual education
+无障碍设计：barrier-free design
+互动式教学：Interactive teaching
+形象设计：Image design
+信息获取：information acquisition
+时序分析：time series analysis
+欠发达地区：underdeveloped area
+AHP方法：AHP method
+科技成果：scientific and technological achievements
+资产专用性：asset specificity
+人文素质教育：humanistic quality education
+科研能力：scientific research ability
+肺活量：Vital capacity
+开发与管理：development and management
+创造思维：creative thinking
+创新发展：innovation and development
+运动性疲劳：sports fatigue
+水迷宫：Morris water maze
+人格特质：personality trait
+数据迁移：data migration
+中小学教师：Primary and middle school teachers
+语音意识：phonological awareness
+大学教师：University teacher
+批判精神：critical spirit
+学习效率：Learning efficiency
+行政体制：administrative system
+泛读：Extensive reading
+中国近代：Modern China
+违约：Breach of contract
+任务设计：task design
+出版业：publishing industry
+中介组织：Intermediary organization
+统战工作：United Front work
+教育产业：Education industry
+辩证逻辑：Dialectical logic
+汉英翻译：C-E translation
+课堂管理：classroom management
+就业形势：employment situation
+农业推广：Agricultural extension
+阅读心理：Reading psychology
+图书馆事业：library cause
+奥林匹克教育：Olympic education
+主成分回归：principal component regression
+对比分析：comparison and analysis
+修正系数：correction coefficient
+应急机制：emergency mechanism
+基本建设：capital construction
+品牌传播：brand communication
+基础设施建设：infrastructure construction
+突发公共事件：public emergency
+地球自转：earth rotation
+科学理论：scientific theory
+竞争情报系统：competitive intelligence system
+民间信仰：Folk Beliefs
+大容量：large capacity
+学术交流：Academic Exchange
+统计数据：statistical data
+政治素质：Political Quality
+长期保存：long-term preservation
+高中生：high school student
+运动医学：Sports medicine
+文献检索课：Literature retrieval course
+全文数据库：full-text database
+信息战：information warfare
+历史意义：Historical significance
+英语水平：English proficiency
+构词法：word formation
+软权力：soft power
+法兰克福学派：Frankfurt school
+历史观：conception of history
+图书馆联盟：Library consortia
+体育保险：sports insurance
+新民主主义：new democracy
+国际体系：international system
+磁通量：magnetic flux
+商业文化：commercial culture
+耗氧量：oxygen consumption
+工作效率：work efficiency
+评定方法：evaluation method
+苏州河：Suzhou Creek
+偏最小二乘回归：partial least square regression
+生存环境：living environment
+陕西省：Shanxi Province
+表层结构：surface structure
+对话教学：dialogue teaching
+控制论：control theory
+保护利用：protection and utilization
+人才资源：talent resource
+设计风格：design style
+信息资源整合：information resource integration
+学习机制：learning mechanism
+管理理念：management concept
+公民意识：citizen consciousness
+公平与效率：fairness and efficiency
+心理训练：Mental training
+教育公平：fair education
+教学观念：Teaching concept
+成就目标：Achievement goal
+教育实践：Education Practice
+SQL数据库：SQL database
+体脂：body fat
+太平天国：the Taiping Heavenly Kingdom
+政治教育：political education
+饭店业：hotel industry
+内容分析法：content analysis
+远程开放教育：distance open education
+语言语境：linguistic context
+精英文化：elite culture
+中图法：Chinese Library Classification
+计算机科学：computer science
+新文化运动：New Culture Movement
+群众路线：the mass line
+地方文献：local documents
+民事主体：Civil subject
+血液化学分析：blood chemical analysis
+中产阶层：Middle Class
+两型社会：two-oriented society
+经济地理学：economic geography
+示范工程：demonstration project
+无锡市：Wuxi City
+糖代谢：sugar metabolism
+邻接矩阵：adjacent matrix
+社会公平：Social equality
+评估指标体系：evaluation index system
+素质培养：quality training
+哲学思考：philosophical thinking
+品牌个性：brand personality
+信息科学：information science
+新课标：new curriculum standard
+经济制度：economic system
+发展环境：Development environment
+管理信息：management information
+制度文化：system culture
+知识共享：Knowledge Share
+电子政府：electronic government
+压力管理：Stress management
+体力活动：physical activity
+英文写作：English writing
+电子期刊：electronic journal
+心理控制源：Locus of control
+专业成长：Professional development
+课件制作：courseware making
+北京大学：Peking University
+基础训练：basic training
+流行文化：popular culture
+清华大学：Tsinghua University
+知识检索：knowledge retrieval
+体育营销：sports marketing
+脚本语言：script language
+信用危机：credit crisis
+翻译标准：translation criterion
+自然人：natural person
+林则徐：Lin Zexu
+应用语言学：applied linguistics
+认知负荷：cognitive load
+李觏：LI Gou
+应用领域：application field
+防治对策：control countermeasure
+生物资源：biological resources
+历史沿革：historical evolution
+专家知识：expert knowledge
+探索与实践：exploration and practice
+南通市：Nantong city
+发展状况：development status
+泰勒公式：Taylor formula
+经济开发：Economic Development
+人类社会：human society
+任务绩效：task performance
+实践探索：practical exploration
+信息分类：information classification
+系统建设：system construction
+资本运作：capital operation
+国际环境：International environment
+石油化学工业：petrochemical industry
+人性化服务：Humanized service
+独生子女：only child
+小学教师：Primary school teacher
+心血管功能：cardiovascular function
+专业学位：professional degree
+竞争机制：competitive mechanism
+情报服务：information service
+钱学森：Qian Xuesen
+消极影响：negative influence
+技术统计：technical statistics
+三个代表：three representations
+分位数回归：quantile regression
+内容过滤：content filtering
+数学教师：mathematics teacher
+项目团队：project team
+二元关系：binary relation
+民意：public opinion
+情景语境：Situational context
+价值冲突：value conflict
+结构性失业：structural unemployment
+传媒产业：media industry
+信息沟通：information communication
+旅游企业：tourism enterprises
+农村信息化：Rural informatization
+公共选择理论：public choice theory
+句式：sentence pattern
+哈佛大学：Harvard University
+叶圣陶：Ye Shengtao
+独立人格：independent personality
+成就目标定向：Achievement goal orientation
+状态焦虑：State anxiety
+职业足球：professional football
+钱穆：Qian Mu
+国际经济法：international economic law
+宗白华：Zong Baihua
+人力资本：Human resource
+世界观：world view
+产业经济：industrial economy
+青年：young people
+哲学基础：philosophical foundation
+防灾：disaster prevention
+文化管理：cultural management
+能力建设：capacity building
+机械能：Mechanical energy
+投影法：projection method
+社会空间：social space
+设计与开发：Design and development
+问题意识：question consciousness
+模型结构：model structure
+基本结构：basic structure
+数字信息：digital information
+宝鸡市：Baoji City
+城市现代化：Urban modernization
+丰子恺：Feng Zikai
+社会医疗保险：Social medical insurance
+在职培训：Inservice Training
+内隐联想测验：Implicit association Test
+室旁核：paraventricular nucleus
+科研工作：Scientific research
+低出生体重：Low birth weight
+物理教育：physics education
+视频分析：Video analysis
+叙事策略：narrative strategies
+人工心理：artificial psychology
+社会主义荣辱观：socialist concept of honor and disgrace
+历史渊源：historical origin
+充分就业：full employment
+业务创新：business innovation
+融资策略：financing strategy
+知识产权战略：intellectual property strategy
+ISO9000：ISO 9000
+文化帝国主义：cultural imperialism
+篮球文化：basketball culture
+教育人类学：educational anthropology
+王船山：Wang Chuanshan
+体育仲裁：sports arbitration
+指数函数：exponential function
+环境建设：environment construction
+开放实验室：opening laboratory
+统计工作：statistical work
+维修管理：maintenance management
+大庆市：Daqing City
+合格率：qualified rate
+地方保护主义：local protectionism
+开发与利用：development and utilization
+基本概念：basic concept
+股份制：shareholding system
+系统构建：system construction
+市场经济体制：Market economy system
+阅读疗法：Reading therapy
+工作能力：Work ability
+文献信息：Document information
+学习行为：learning behavior
+领导行为：leadership behavior
+教育教学：education and teaching
+艺术教育：artistic education
+足球教学：football teaching
+概率测度：probability measure
+信息成本：information cost
+社会信用体系：social credit system
+英语新闻：English news
+语用失误：pragmatic failures
+网络治理：network governance
+认知分析：cognitive analysis
+吴宓：WU Mi
+体育社会学：sports sociology
+私立高等教育：private higher education
+机理研究：mechanism research
+专利信息：patent information
+漏磁：magnetic flux leakage
+贡献率：contribution ratio
+自然观：view of nature
+柠檬酸钠：sodium citrate
+SPSS软件：SPSS software
+海南：Hainan province
+功率谱分析：power spectrum analysis
+综合预防：Universal precautions
+核心期刊：core journals
+健康体检：health examination
+社会互动：Social interaction
+心理表征：mental representation
+高等教育质量：quality of higher education
+农村居民点：rural residential area
+电路实验：circuit experiment
+网络财务：network finance
+事业单位：public institution
+智能检索：intelligent retrieval
+素描教学：sketch teaching
+语言政策：language policy
+复合图书馆：compound library
+幼儿教育：preschool education
+国际组织：International organization
+数据平台：Data platform
+特色馆藏：characteristic collection
+新批评：New Criticism
+石油地质：petroleum geology
+社会关系：social relation
+人才培养模式：talent training mode
+西湖：West Lake
+数据包络分析(DEA)：data envelopment analysis(DEA)
+人文地理学：human geography
+闭环：closed loop
+模糊方法：fuzzy method
+项目教学法：project teaching method
+基本要求：basic requirement
+公共利益：Public benefits
+包头市：Baotou City
+发展机制：Development Mechanism
+一体化管理：integrated management
+支撑系统：supporting system
+软科学：soft science
+贫困地区：poor area
+对照研究：Control study
+社会意识：social consciousness
+心理卫生：Psychological health
+血清铁：serum iron
+人格障碍：Personality disorder
+肌肉疲劳：muscle fatigue
+人性化管理：humanized management
+财务监督：financial supervision
+视觉搜索：visual search
+人际传播：interpersonal communication
+信息传播：Information dissemination
+Granger因果关系检验：Granger causality test
+元认知知识：metacognitive knowledge
+信息源：Information source
+流通服务：circulation service
+集体记忆：collective memory
+数据更新：data updating
+地籍管理：cadastral management
+《世说新语》：Shi Shuo Xin Yu
+民主社会主义：democratic socialism
+公共精神：Public spirit
+高素质：high quality
+用户认证：User authentication
+郭嵩焘：Guo Songtao
+县级政府：county government
+刘向：Liu Xiang
+开放式创新：open innovation
+现代人格：modern personality
+天津滨海新区：Tianjin Binhai New Area
+SWOT矩阵：SWOT matrix
+饮食文化：diet culture
+流程设计：process design
+经济形势：economic situation
+效率优化：efficiency optimization
+工作方法：working method
+丝绸之路：Silk Road
+人文关怀：humanistic solicitude
+标准成本：standard cost
+投资规模：investment scale
+建构主义理论：Constructivism Theory
+设计与应用：design and application
+网络化管理：network management
+周代：Zhou Dynasty
+认知模式：cognitive model
+审美活动：aesthetic activity
+语义模型：semantic model
+基本内容：basic content
+主流文化：mainstream culture
+乡村景观：Rural landscape
+教法：teaching methods
+初级阶段：primary stage
+病案：Medical records
+医德：Medical ethics
+维生素A缺乏：Vitamin A deficiency
+外显自尊：Explicit self-esteem
+程序性知识：Procedural knowledge
+跨文化意识：Intercultural awareness
+大学制度：University system
+新机制：New mechanism
+灾后重建：post-disaster reconstruction
+布局设计：layout design
+文化变迁：cultural changes
+视觉形象：visual image
+童话：fairy tale
+语义网格：Semantic Grid
+语文教师：Chinese teacher
+翻译文学：translated literature
+校本管理：school-based management
+问题求解：problem solving
+英语听力教学：English listening teaching
+政府形象：government image
+远程学习：distance learning
+文献资源建设：literature resources construction
+目标定向：Goal Orientation
+创新型国家：innovative country
+档案袋评价：portfolio assessment
+班固：BAN Gu
+竞技武术：competitive Wushu
+实践性知识：practical knowledge
+α-硫辛酸：α-lipoic acid
+实践教学：practical education
+实习教学：practice teaching
+生产方式：Production mode
+信息公开：information disclosure
+弹性纤维：elastic fiber
+研究现状：research actuality
+东莞市：Dongguan city
+化学热力学：chemical thermodynamics
+视觉艺术：visual art
+实践研究：practical research
+压电变压器：piezoelectric transformer
+聊城市：Liaocheng city
+问题及对策：Problems and countermeasures
+资本经营：capital management
+主动服务：Active service
+内因：internal cause
+利益相关者理论：Stakeholder Theory
+教育环境：educational environment
+现代科技：Modern science and technology
+民族传统体育：traditional national sports
+人类文明：Human civilization
+历史意识：historical consciousness
+国家经济安全：National Economic Security
+时空效应：time-space effect
+本土文化：local culture
+动态配置：dynamic configuration
+晋商：shanxi merchants
+国家战略：national strategy
+审计监督：audit supervision
+信息政策：information policy
+新文学：new literature
+六朝：the Six Dynasties
+学术管理：academic management
+乡村治理：rural governance
+个体生命：individual life
+传统社会：Traditional society
+视域融合：fusion of horizons
+儿童文学：children literature
+质量管理体系：quality control system
+变化规律：change law
+设计特点：design feature
+实训教学：practical teaching
+工作压力：working pressure
+信息查询：Information query
+隐患：hidden danger
+对策与建议：countermeasures and suggestions
+改进方法：improved method
+组织体系：organization system
+政策评估：Policy evaluation
+科研管理：research management
+传播特性：propagation characteristics
+保护与开发：protection and development
+江汉油田：Jianghan Oilfield
+儒家思想：Confucian thought
+成功经验：successful experience
+实效：actual effect
+体育赞助：sports sponsorship
+电子信息：electronic information
+人才管理：talent management
+蓝海战略：Blue Ocean Strategy
+基本功能：basic function
+补偿效应：compensation effect
+体育经济：sports economy
+商业价值：commercial value
+现代文化：modern culture
+生活变动事件：Life change events
+思维方法：thinking method
+保护机制：protection mechanism
+运动损伤：athletic injury
+背景音乐：background music
+弓状核：arcuate nucleus
+知识服务：Knowledge services
+中介效应：Mediating effect
+内在动机：intrinsic motivation
+家庭因素：Family factors
+运动跟踪：motion tracking
+大学毕业生：University graduates
+教育信息化：educational informationization
+传统体育：traditional sport
+优惠政策：preferential policy
+用户建模：user modeling
+文化发展：cultural development
+电子出版物：electronic publications
+薪酬设计：salary design
+审美主体：aesthetic subject
+数字博物馆：digital museum
+都市文化：Urban Culture
+文化价值观：cultural values
+假日经济：holiday economy
+动态语境：dynamic context
+学习资源：learning resources
+数理逻辑：mathematical logic
+休闲教育：leisure education
+思想内容：ideological content
+数字档案馆：digital archives
+章学诚：Zhang Xuecheng
+媒介生态：media ecology
+姜夔：Jiang Kui
+文化诗学：cultural poetics
+课程领导：curriculum leadership
+被引分析：citation analysis
+科学思维：scientific thinking
+化学元素：chemical elements
+决策支持：decision support system
+移动电话：Mobile phone
+知识流动：knowledge flow
+中日：China and Japan
+就业能力：employment ability
+C-D生产函数：C-D production function
+自然权利：natural rights
+国际标准：international standards
+改革与创新：reform and innovation
+负面影响：negative impact
+少数民族地区：minority area
+实验室技术和方法：Laboratory techniques and procedures
+教育价值：education value
+理论依据：theoretical foundation
+信息交流：Information Exchange
+分布式结构：distributed architecture
+重要作用：Important role
+发展理论：development theory
+信息工程：information engineering
+音乐治疗：music therapy
+口腔健康：oral health
+成人依恋：Adult attachment
+自我和谐：Self consistency and congruence
+视觉设计：Visual design
+自杀意念：Suicide ideation
+社会动员：Social mobilization
+人格结构：Personality structure
+隐性知识：implicit knowledge
+K-means聚类：K-means clustering
+肌肉力量：muscle strength
+脑科学：brain science
+信息价值：information value
+亲子关系：Parent-child relationship
+后勤社会化：Logistics socialization
+科学革命：scientific revolution
+形象思维：image thinking
+文化取向：Cultural orientation
+概念结构：Conceptual structure
+矩阵模型：Matrix model
+学习对象：Learning object
+应用层：Application layer
+新闻英语：journalistic English
+英语学习动机：English learning motivation
+当代中国：modern China
+政治心理：political psychology
+数字环境：digital environment
+高等代数：higher algebra
+公安院校：police college
+虚拟世界：Virtual world
+道德哲学：moral philosophy
+叙事话语：narrative discourse
+文化经济：cultural economy
+生涯发展：career development
+大众媒体：Mass media
+问题表征：Problem representation
+工程实例：engineering example
+治理措施：treatment measure
+非正式制度：informal system
+多媒体教学：multimedia-aided teaching
+科学方法论：scientific methodology
+反应过程：reaction process
+制度建设：system building
+执政能力：Governing ability
+破坏形态：Failure mode
+伊辛模型：Ising model
+人为因素：human factors
+检索方法：Retrieval method
+创新素质：innovation quality
+经验教训：experiences and lessons
+保护与利用：protection and utilization
+师范生：normal students
+建设与发展：construction and development
+信息革命：information revolution
+《说文解字》：Shuo Wen Jie Zi
+基于问题的学习：Problem-Based Learning
+应付方式：Coping Styles
+心肺功能：cardiopulmonary function
+教学案例：teaching case
+性心理：Sexual psychology
+印象管理：impression management
+历史考察：historical investigation
+学业成就：academic achievement
+价值定位：value orientation
+家庭背景：Family background
+词汇教学：lexical teaching
+快速阅读：Fast reading
+帕累托改进：Pareto improvement
+校园文化建设：campus culture construction
+教学团队：teaching team
+服务器集群：server cluster
+阅览室：Reading room
+虚拟语气：Subjunctive mood
+治理理论：governance theory
+继承与发展：inheritance and development
+社会职能：social function
+负债融资：debt financing
+实践理性：practical reason
+运动活动：Motor activity
+新媒介：new media
+中华文明：Chinese civilization
+海洋产业：marine industry
+体育信息：sports information
+批评性话语分析：Critical discourse analysis
+图书情报学：library and information science
+图书馆网站：library website
+世界文学：world literature
+文化外交：cultural diplomacy
+层次分析：hierarchical analysis
+信息系统集成：Information system integration
+市场研究：market research
+北美：North America
+多元统计：multivariate statistics
+过程方法：process method
+图解法：graphical method
+相关分析：related analysis
+设计性实验：designed experiment
+热点：hot spot
+专业英语：professional English
+社会调查：social investigation
+政策创新：policy innovation
+企业精神：enterprise spirit
+生理机能：physiological function
+社会资源：Social resources
+人文教育：humanism education
+政策研究：policy study
+社会参与：Social Participation
+信息挖掘：information mining
+产权结构：Property right structure
+王韬：Wang Tao
+工程地质学：engineering geology
+阅读速度：reading speed
+运动能力：sports ability
+药学教育：Pharmaceutical education
+文化研究：cultural study
+现代科学：modern science
+教学管理系统：teaching management system
+叙事研究：Narrative Inquiry
+网络实验室：Network laboratory
+准公共产品：quasi-public goods
+华侨华人：overseas Chinese
+同行评议：peer review
+汉译：Chinese translation
+孟浩然：Meng Haoran
+服务模型：service model
+IT治理：IT governance
+网络广告：network advertisement
+高新区：high-tech zone
+竞技健美操：Sports aerobics
+语言使用：language use
+议程设置：agenda setting
+数字参考咨询服务：Digital reference service
+传统音乐：traditional music
+闲暇教育：leisure education
+王阳明：WANG Yang-ming
+批判理论：Critical theory
+王充：Wang Chong
+性别意识：gender consciousness
+公共外交：public diplomacy
+学术职业：Academic profession
+评价模型：appraisal model
+历史地理学：Historical Geography
+消费者剩余：consumer surplus
+判别函数：discriminant function
+精品课程：top-quality course
+战略定位：strategic positioning
+抽样方法：Sampling method
+网络视频：network video
+地方院校：local college
+行为模型：behavior model
+美感：sense of beauty
+实验室开放：laboratory opening
+改制：system reform
+要素禀赋：factor endowment
+风险矩阵：risk matrix
+课程整合：course integration
+教学水平：teaching level
+行政性垄断：Administrative Monopoly
+逻辑结构：Logic structure
+国情：national conditions
+伊斯兰文化：Islamic Culture
+庐山：Lushan Mountain
+生存质量：living quality
+学习效果：learning effect
+英语课堂：English class
+人文素养：humanistic quality
+情商：Emotional quotient
+自主学习能力：autonomous learning ability
+制度伦理：institutional ethics
+价值选择：value choice
+收入不平等：Income inequality
+学科馆员：subject librarians
+幼儿教师：Kindergarten teachers
+农村教师：Rural teachers
+科举：imperial examinations
+黄宗羲：Huang Zongxi
+Lagrange乘子：Lagrange multiplier
+公权力：public power
+思想道德建设：Ideological and Moral Construction
+web文本挖掘：web text mining
+语言技能：language skills
+审美功能：aesthetic function
+民营资本：private capital
+现代传媒：modern media
+交际意图：communicative intention
+公共信息：public information
+外来文化：Foreign culture
+和谐校园文化：harmonious campus culture
+用户服务：User Service
+挫折教育：frustration education
+社会救济：social relief
+机构知识库：institutional repository
+民权：civil rights
+文化融合：cultural integration
+课程文化：curriculum culture
+标记理论：markedness theory
+认知环境：cognitive environment
+邯郸市：Handan city
+综合指数：comprehensive index
+负熵：negative entropy
+大气压：atmospheric pressure
+可持续开发：Sustainable development
+生产关系：production relations
+L-M算法：L-M algorithm
+教学课件：teaching courseware
+回归分析法：regression analysis
+毕业实习：graduation practice
+不同部位：Different parts
+负效应：negative effects
+生物固氮：biological nitrogen fixation
+小波阈值：wavelet threshold
+胶东半岛：Jiaodong peninsula
+生产要素：Production factor
+保护与发展：Protection and development
+电子产品：electronic products
+负面效应：negative effects
+D-S理论：D-S theory
+动态竞争：Dynamic competition
+数学软件：mathematical software
+中学化学：middle school chemistry
+校企合作：cooperation between school and enterprise
+外因：external cause
+生命价值：Value of life
+历史地理：historical geography
+图书分类：Book classification
+游泳教学：swimming teaching
+虚拟教室：virtual classroom
+高职学院：Higher vocational college
+专业知识：professional knowledge
+健全人格：healthy personality
+职业指导：Career guidance
+参考咨询：reference consultation
+纽约：New York
+教学质量评价：teaching quality evaluation
+中国传统：Chinese tradition
+经济功能：economic function
+校园体育文化：campus sports culture
+自主计算：autonomic computing
+文化价值：Culture value
+民族体育：national sports
+地形模型：terrain model
+教学结构：teaching structure
+证券投资：security investment
+自动标引：automatic indexing
+成本补偿：cost compensation
+Web应用系统：Web application system
+亲社会行为：prosocial behavior
+政治权威：political authority
+交往理性：communicative rationality
+对比修辞：contrastive rhetoric
+内隐社会认知：Implicit social cognition
+全生命周期：life cycle
+照明系统：Lighting system
+技术开发：technology development
+加速遗传算法：accelerating genetic algorithm
+开发建设：development and construction
+实时数据采集：real-time data acquisition
+化学教育：Chemistry education
+改革与实践：Reform and practice
+参数方程：parameter equation
+运营模式：operation model
+常德市：Changde city
+远程管理：Remote management
+价值工程(VE)：value engineering(VE)
+数字技术：digital technique
+环境价值：environmental value
+专利技术：patent technology
+市场竞争力：market competitiveness
+专业课：specialized course
+概念教学：concept teaching
+营销组合：marketing combination
+感知质量：Perceived quality
+公共卫生管理：Public health administration
+经济外交：Economic diplomacy
+设计流程：design process
+教学思想：teaching thought
+农业经济学：agricultural economics
+社会主义文化：socialist culture
+第二课堂：second classroom
+古代中国：ancient China
+思维品质：thinking quality
+平面连杆机构：planar linkage
+军队院校：military academy
+校园文化：school culture
+生命质量：Life quality
+认知神经科学：cognitive neuroscience
+射影变换：projective transformation
+计量分析：econometric analysis
+骨量：Bone mass
+教育哲学：philosophy of education
+放松训练：relaxation training
+科学价值：scientific value
+SARS：severe acute respiratory syndrome
+钙稳态：calcium homeostasis
+近代科学：modern science
+社会公德：social morality
+助学贷款：Student loans
+后发优势：advantage of backwardness
+运动链：kinematic chain
+信息资源规划：information resource planning
+国家干预：State intervention
+利用效率：utilization efficiency
+经济发展水平：Economic development level
+福利效应：welfare effect
+价格规制：price regulation
+信息推送：information push
+就业教育：employment education
+精神世界：spiritual world
+古典诗词：classical poetry
+梅花：Prunus mume
+平台建设：platform construction
+钱谦益：Qian Qianyi
+国民素质：national quality
+奥林匹克文化：Olympic culture
+中国武术：Chinese Wushu
+华文教育：Chinese education
+政治民主：political democracy
+就业压力：Employment pressure
+现代医学：Modern medicine
+中试：pilot test
+战略研究：strategic study
+逻辑关系：logical relation
+产品策略：product strategy
+资源优势：resource advantage
+生态管理：ecological management
+市场调研：market research
+客户管理：Customer management
+乡镇：Villages and towns
+产业价值链：industrial value chain
+地质工程：geological engineering
+德州市：Dezhou City
+核算体系：accounting system
+反馈系统：feedback system
+视觉系统：Visual system
+计算机管理系统：computer management system
+联系度：connection degree
+人机系统：man-machine system
+荷兰：the Netherlands
+关键绩效指标：Key performance indicators
+北京奥运：Beijing Olympics
+分类模型：Classification model
+智能技术：intelligent technology
+吉林市：Jilin City
+泉州市：Quanzhou City
+高校学报：College journals
+创新与发展：innovation and development
+权向量：weight vector
+脉搏波传导速度：pulse wave velocity
+心理发展：Psychological development
+伦理原则：Ethical principles
+卫生系统：Health system
+女生：female students
+训练系统：training system
+数字化建设：digitalization construction
+社会比较：social comparison
+葛洪：GE Hong
+军训：Military training
+语言教育：Language education
+跨文化交流：intercultural communication
+传统教学法：traditional teaching method
+人本主义心理学：Humanistic Psychology
+高校辅导员：college counselor
+活动理论：activity theory
+考辨：Textual research
+财政支持：financial support
+共享机制：sharing mechanism
+哲学社会科学：Philosophy and social sciences
+复数：complex number
+值约简：value reduction
+外语教学：foreign language teaching and learning
+教学情境：teaching situation
+西方文学：western literature
+新型农民：new farmers
+社会性软件：social software
+清初：early Qing Dynasty
+服务职能：service function
+共青团：Communist Youth League
+哲学解释学：philosophical hermeneutics
+数字信息资源：digital information resources
+合作教育：cooperative education
+著作权保护：copyright protection
+高等教育研究：higher education research
+信贷管理：credit management
+物理学史：history of physics
+竞技运动：competitive sports
+信息文化：Information culture
+新闻传播：news communication
+语义韵：semantic prosody
+道德信仰：moral belief
+国家认同：National identity
+飞行安全：flight safety
+安全培训：safety training
+火灾危险性：fire risk
+设计准则：design criteria
+统计力学：statistical mechanics
+平顶山市：Pingdingshan city
+信用经济：credit economy
+扎根理论：grounded theory
+发展过程：development process
+中国制造：Made in China
+支持系统：supporting system
+跨越式发展：leap-forward development
+数据信息：data information
+目标体系：target system
+长三角地区：Yangtze River Delta
+建设规模：construction scale
+古罗马：Ancient Rome
+高寒地区：Alpine region
+文化渊源：cultural origin
+森林文化：Forest Culture
+免疫细胞：Immune cell
+HBV：Hepatitis B virus
+高校毕业生：University graduates
+儿童青少年：Children and adolescents
+教学医院：teaching hospital
+功能定位：functional orientation
+用户研究：user study
+文化心理学：cultural psychology
+风险态度：Risk attitude
+科学哲学：Scientific Philosophy
+语言知识：language knowledge
+生物教学：biological teaching
+积极作用：positive role
+数学概念：Mathematics concept
+文化创新：culture innovation
+大学数学：college mathematics
+学生干部：Student Cadres
+大学科技园：university science park
+传统聚落：Traditional settlement
+英汉习语：English and Chinese idioms
+理想点：ideal point
+刘翔：Liu Xiang
+信用信息：credit information
+竞争学习：competitive learning
+话语权：Discourse right
+商业广告：commercial advertisement
+数据标准：data standard
+良性互动：positive interaction
+企业危机：enterprise crisis
+沟通管理：communication management
+存储模型：storage model
+礼仪教育：etiquette education
+客户知识：customer knowledge
+政治体制改革：political system reform
+陆九渊：Lu Jiuyuan
+政治动员：political mobilization
+张之洞：Zhang Zhi-dong
+图书馆2.0：library 2.0
+新闻价值：news value
+陈述性知识：declarative knowledge
+历史语境：historical context
+社会理想：Social Ideal
+社会文明：social civilization
+能源危机：energy crisis
+外语学习焦虑：foreign language anxiety
+新人文主义：New Humanism
+同伴接纳：peer acceptance
+司法权威：judicial authority
+服务行政：service administration
+Bass模型：Bass model
+绿色教育：green education
+财务管理：financial control
+社会工程：social engineering
+形成过程：formation process
+实例分析：example analysis
+农业院校：agricultural university
+安阳市：Anyang City
+柳州市：Liuzhou City
+定量模型：Quantitative model
+应急处理：emergency treatment
+毕节地区：Bijie prefecture
+温州市：Wenzhou City
+战略选择：strategic selection
+分类管理：classified management
+深层生态学：deep ecology
+光杠杆：optical lever
+生态模型：ecological model
+信息存储：Information storage
+社会效应：social effect
+欧洲联盟：European Union
+天水市：Tianshui City
+行业发展：industry development
+科学决策：scientific decision
+社会生态：social ecology
+目标选择：Target selection
+危险行为：Dangerous behavior
+血氨：Blood ammonia
+医德教育：medical ethics education
+紧急避孕：Emergency contraception
+数据元：data element
+外显记忆：explicit memory
+智力测验：Intelligence test
+任务型教学法：Task-based approach
+虚拟实践：virtual practice
+花样滑冰：figure skating
+组织公平：Organizational justice
+积极影响：Positive influence
+学习模式：learning mode
+服务文化：service culture
+基金管理：fund management
+企业应用：enterprise application
+人民：the people
+前馈神经网络：Feedforward Neural Network
+海洋文化：marine culture
+知识资源：knowledge resource
+创新政策：innovation policy
+创新文化：innovative culture
+信息服务系统：Information service system
+知识分享：knowledge sharing
+实践价值：practical value
+法律素质：legal quality
+定语从句：attributive clause
+信用增级：credit enhancement
+图书馆网络：library network
+支持体系：Support system
+晏阳初：Yan Yangchu
+信息消费：information consumption
+电视文化：TV culture
+媒介文化：media culture
+对外汉语：teaching Chinese as a foreign language
+胡适：Hu Shih
+语文课程：Chinese curriculum
+职业篮球：professional basketball
+审美意识形态：aesthetic ideology
+执行力：executive power
+优化配置：optimal placement
+化学实验室：chemical laboratory
+相对有效性：Relative efficiency
+工作满意感：job satisfaction
+政策过程：Policy Process
+食品科学：food science
+技术革新：technical innovation
+就业质量：employment quality
+咨询服务：consulting service
+农村现代化：rural modernization
+竞争力评价：competitiveness evaluation
+社会危机：social crisis
+风险规避：risk avoidance
+城市人口：urban population
+信息门户：Information Portal
+信息污染：information pollution
+茶业：Tea industry
+成人高等教育：Adult Education
+理论与方法：theory and method
+城市雕塑：City Sculpture
+元数据标准：metadata standard
+竹文化：Bamboo Culture
+弱信号：weak signal
+健康城市：healthy city
+干预措施：intervention measure
+多媒体系统：multimedia system
+应用心理学：Applied psychology
+职业道德：Occupational ethics
+外文期刊：foreign periodicals
+工作家庭冲突：Work-family conflict
+营养障碍：Nutrition disorders
+流感病毒A型：influenza A virus
+体态语言：Body language
+耐力运动：endurance exercise
+高中学生：Senior high school students
+关键期：critical period
+游泳训练：swimming training
+法人治理：corporate governance
+类比推理：analogical reasoning
+创造性人格：creative personality
+训练负荷：Training load
+语义匹配：semantic matching
+开放式教学：open teaching
+颜色词：color terms
+福利经济学：welfare economics
+身势语：body language
+基本矛盾：basic contradiction
+核心员工：core staff
+雪灾：snow disaster
+数字逻辑：digital logic
+民俗体育：folk sports
+质量观：quality view
+PageRank算法：pageRank algorithm
+社会学分析：sociological analysis
+财务预算：financial budget
+检索模型：retrieval model
+开放的复杂巨系统：open complex giant system
+文化市场：cultural market
+框架理论：frame theory
+输入假说：input hypothesis
+民族性格：national character
+自动推理：Automated Reasoning
+组策略：group policy
+债务风险：debt risk
+科学发现：scientific discovery
+道德发展：moral development
+绩效反馈：performance feedback
+左宗棠：Zuo Zongtang
+市场管理：market management
+政府创新：government innovation
+文化民族主义：cultural nationalism
+训练法：Training method
+史料价值：historical value
+创业型大学：Entrepreneurial University
+文化分析：cultural analysis
+学术批评：academic criticism
+均衡分析：equilibrium analysis
+教育平等：educational equality
+静态：static state
+新思路：new thinking
+工程材料：Engineering materials
+创新网络：innovation networks
+信阳市：Xinyang city
+衡阳市：Hengyang city
+创新思维：creative thought
+物联网：internet of things
+技能培训：Skill Training
+评估标准：Evaluation criteria
+审美价值：Esthetic value
+新标准：new standard
+绵阳市：mianyang city
+农业教育：agricultural education
+成本分摊：cost allocation
+自学能力：self-study ability
+质量工程：quality engineering
+可持续：sustainable development
+线性分析：linear analysis
+中国社会：Chinese Society
+重点实验室：Key laboratory
+风险认知：Risk Perception
+规模经营：scale operation
+价值标准：value standard
+数据质量控制：data quality control
+创造性教学：creative teaching
+结果评价(卫生保健)：Outcome Assessment(Health Care)
+性发育：sexual development
+职业倦怠：Occupational burnout
+检验医学：laboratory medicine
+康复医学：rehabilitation medicine
+儿童保健服务：Child Health Services
+神经机制：neural mechanism
+畲族：She nationality
+生死：life and death
+手语：Sign language
+科学数据：scientific data
+创意经济：creative economy
+组织认同：organizational identification
+分类树：Classification tree
+公平理论：equity theory
+教学工作：Teaching work
+财务软件：financial software
+普通教育：general education
+小学教育：primary education
+体育竞赛：sports competition
+信息产品：information products
+中文期刊：Chinese periodical
+英语翻译：English translation
+民族认同：ethnic identity
+生活教育：life education
+建筑环境：building environment
+体育设施：sports facilities
+技术理性：technical rationality
+公共项目：public project
+条件极值：conditional extremum
+伦理价值：ethical value
+终结性评价：summative assessment
+技术保障：technical support
+延安时期：Yan an period
+服务描述：service description
+就业问题：Employment problem
+第29届奥运会：the 29th Olympic Games
+世锦赛：World Championship
+社会技术：social technology
+地区经济：regional economy
+个体价值：individual value
+管理效率：management efficiency
+学术规范：academic norm
+用户行为：user behavior
+战略思维：strategic thinking
+党校：party school
+集聚效应：agglomeration effect
+数字艺术：digital art
+导游：tour guide
+宿舍文化：dormitory culture
+冯友兰：Feng You-lan
+信息生态：information ecology
+远程高等教育：distance higher education
+政治价值：political value
+版权贸易：copyright trade
+青年文化：youth culture
+实践智慧：Practical wisdom
+军医大学：military medical university
+中学物理：Middle school physics
+现代转换：Modern transformation
+质化研究：qualitative research
+遗产旅游：Heritage Tourism
+处置效应：Disposition Effect
+徐复观：Xu Fuguan
+政局：political situation
+识别方法：identification method
+GIS：geographic information system(GIS)
+洛阳市：Luoyang City
+技术方法：technical method
+社会营销：Social marketing
+规范管理：Standard management
+动态系统：dynamic systems
+利益分配：profit allocation
+实践技能：practical skill
+优势分析：advantage analysis
+AHP：analytic hierarchy process
+公共服务体系：public service system
+学生公寓：Student Apartment
+连续介质力学：continuum mechanics
+立体几何：solid geometry
+地方特色：local characteristics
+高质量：high quality
+样本空间：sample space
+科技管理：science and technology management
+电子教案：electronic teaching plan
+战略创新：strategic innovation
+路径选择：route selection
+网络信息系统：network information system
+E-R模型：E-R model
+分段函数：piecewise function
+平衡功能：balance function
+终身体育：life-long physical education
+教案：teaching plan
+青少年保健服务：Adolescent Health Services
+内隐态度：Implicit Attitude
+心理授权：psychological empowerment
+信息行为：information behavior
+心理描写：psychological description
+工作价值观：Work values
+个性化教学：individualized teaching
+主位推进模式：thematic progression
+外语焦虑：Foreign Language Anxiety
+美国大学：American universities
+科学训练：scientific training
+市场调节：Market regulation
+儿童教育：Children education
+大学英语教师：College English teachers
+改革开放：reform and open policy
+城市化进程：Urbanization process
+海量存储：mass storage
+部门预算：department budget
+复杂性理论：complexity theory
+网络建模：network modeling
+文化背景知识：cultural background knowledge
+和谐思想：harmonious thought
+情感化设计：Emotional Design
+SECI模型：SECI model
+文本表示：text representation
+体育产业化：Sports industrialization
+内容管理系统：content management system
+古典诗歌：Classical poetry
+边际效用：marginal utility
+新闻教育：journalism education
+党报：party newspaper
+道家文化：Taoist culture
+战略性调整：strategic adjustment
+政府信息公开：government information publicity
+新闻写作：news writing
+职业生涯发展：Career development
+活动教学：activity teaching
+音乐创作：music creation
+政策网络：policy network
+输出假设：Output Hypothesis
+任务难度：task difficulty
+课程政策：curriculum policy
+刘基：Liu Ji
+成人学习：Adult learning
+地方社会：Local society
+球面：spherical surface
+动情周期：estrous cycle
+实验能力：experimental ability
+体液：body fluid
+教学计划：teaching program
+定量方法：Quantitative method
+市场预测：Market forecasting
+战略价值：strategic value
+多元线性回归分析：multiple linear regression analysis
+编码系统：coding system
+设计思想：design thought
+评价模式：evaluation model
+学位论文：Degree thesis
+反应速度：reaction rate
+发展特点：development characteristics
+风景区：scenic spot
+教学基地：teaching base
+生态移民：ecological migration
+综合竞争力：comprehensive competitiveness
+系统方法：system method
+工作环境：working environment
+世界市场：world market
+科学态度：scientific attitude
+史料：historical data
+学科发展：discipline development
+审美素质：aesthetic quality
+发散性思维：divergent thinking
+生活环境：living environment
+世界银行：World bank
+留学生：Overseas students
+低氧预适应：hypoxic preconditioning
+领悟社会支持：Perceived social support
+一般自我效能感：General self-efficacy
+家庭治疗：family therapy
+运动生理学：sports physiology
+自由基代谢：Free radical metabolism
+信息安全管理：information security management
+社会交往：social communication
+团体咨询：group counseling
+道德原则：moral principle
+小世界网络：small world network
+概化理论：Generalizability Theory
+组织气氛：organizational climate
+自学考试：self-study examination
+教育评估：educational evaluation
+篮球意识：basketball consciousness
+传统伦理：Traditional Ethics
+文献信息资源：Literature information resources
+考释：textual research
+入学教育：entrance education
+费孝通：Fei Xiaotong
+古镇：ancient town
+文化特征：cultural characteristic
+文化空间：cultural space
+英语学习策略：English learning strategy
+语言变量：linguistic variable
+供给机制：Supply Mechanism
+形成性评估：formative assessment
+多媒体信息：multimedia information
+数据库应用：database application
+门户网站：portal website
+知识仓库：knowledge warehouse
+俄语教学：Russian teaching
+王世贞：Wang Shizhen
+高中物理：high school physics
+信息系统安全：Information system security
+网络出版：Network Publishing
+用户兴趣模型：user interest model
+质量保障体系：quality assurance system
+许地山：Xu Dishan
+体育舞蹈：sport dance
+线性无关：linear independence
+办公室工作：office work
+激励模型：incentive model
+女性话语：female discourse
+文化史：cultural history
+CI战略：CI Strategy
+写作风格：writing style
+表现力：expressive force
+国际传播：international communication
+中等教育：secondary education
+供给制度：supply system
+目标域：target domain
+民族团结：National unity
+产出性词汇：productive vocabulary
+创业机会：entrepreneurial opportunity
+表现性评价：performance assessment
+动漫产业：Cartoon Industry
+危机传播：crisis communication
+公众舆论：public opinion
+沈家本：Shen Jiaben
+西游记：Journey to the West
+武则天：Wu Zetian
+文本类型：text type
+中学数学：middle school mathematics
+过程哲学：process philosophy
+课程理论：curriculum theory
+农村成人教育：rural adult education
+教师反馈：Teacher Feedback
+法国大革命：french revolution
+第二语言教学：Second language teaching
+主流意识形态：mainstream ideology
+电子文件：electronic document
+保护区：Nature reserve
+安全意识：Safety consciousness
+应用型人才：Applied Talent
+农业文明：agricultural civilization
+地质资料：geological data
+医疗改革：medical reform
+技术体系：technological system
+存在的问题：existing problem
+性激素：sexual hormones
+管理实践：management practice
+哲学反思：philosophical reflection
+葡萄籽提取物：grape seed extract
+形成演化：Formation and evolution
+化学试剂：chemical reagent
+逻辑思维：logic thinking
+本体构建：ontology construction
+教学经验：teaching experience
+波普艺术：POP art
+信息量：Information content
+系统应用：system application
+教学大纲：teaching syllabus
+绿色空间：green space
+钾离子：potassium ion
+量化研究：quantitative research
+流体机械：fluid machinery
+个案分析：case study
+生化分析：Biochemical analysis
+安全战略：security strategy
+胸腺：Thymus gland
+新挑战：new challenge
+导师制：tutor system
+数据维护：data maintenance
+价值追求：value pursuit
+相对位移：Relative Displacement
+人员管理：Personnel Management
+闲暇生活：Leisure life
+思维导图：mind map
+角色扮演：role play
+医学心理学：medical psychology
+表面肌电图：surface electromyography
+家庭特征：Family characteristics
+科学定位：Scientific orientation
+心理资本：psychological capital
+幼儿园教师：Kindergarten teachers
+灵活就业：flexible employment
+职业高原：career plateau
+组织公平感：organizational justice
+野外实习：field practice
+阅读过程：reading process
+文本阅读：text reading
+运动性贫血：sports anemia
+社会信任：social trust
+团队学习：Team learning
+教育服务：educational service
+自由裁量权：discretionary power
+人才开发：talent development
+教育科研：educational research
+信息搜索：information search
+历史研究：historical research
+公共文化：public culture
+ARP病毒：ARP virus
+注意力经济：attention economy
+智能搜索：intelligent search
+基础英语：basic English
+机制建设：mechanism construction
+常规关系：stereotypical relation
+商业生态系统：business ecosystem
+科学学：science of science
+即时消息：instant message
+乡土文学：local literature
+服务网络：service network
+硅谷：silicon valley
+和谐美：harmonious beauty
+财政转移支付：financial transfer payment
+目标强度：target strength
+价值目标：value goal
+区域高等教育：regional higher education
+软件业：software industry
+服务集成：service integration
+理性思维：rational thinking
+财政风险：financial risk
+图书采访：Book acquisitioning
+社会融合：Social integration
+流行音乐：Popular music
+非正式学习：Informal learning
+党校图书馆：Party school library
+历史变迁：historical changes
+民主制度：democratic system
+信息营销：information marketing
+阮元：Ruan Yuan
+公众理解科学：Public Understanding of Science
+文化工业：cultural industry
+公共新闻：public journalism
+公立高校：public university
+雇佣关系：employment relationship
+自由时间：free time
+汉语语法：Chinese grammar
+历史叙事：historical narration
+国家与社会：state and society
+消费伦理：consumption ethics
+徐特立：XU Te-li
+自我调节学习：self-regulated learning
+普洱茶：Pu'er tea
+女大学生：female university student
+物质代谢：material metabolism
+最优化模型：optimization model
+行业管理：industry management
+科技进步：technological progress
+老龄化社会：aging society
+莆田市：Putian City
+发展目标：development goal
+技术装备：technical equipment
+动态聚类：dynamic cluster
+评估方法：evaluation methods
+视觉信息：Visual information
+服务失误：service failure
+开发对策：development strategy
+图形建模：graphic modeling
+加权平均法：weighted average method
+纳西族：Naxi nationality
+模糊综合评价模型：fuzzy comprehensive evaluation model
+高蛋白：high protein
+模型构建：model construction
+平均速度：average velocity
+旅游地：tourism destination
+审美风格：Aesthetic style
+勘察设计：survey and design
+运营管理：operation and management
+基本问题：basic problems
+价值理性：value reason
+对应原理：correspondence principle
+菲律宾：the Philippines
+十堰市：Shiyan city
+二面角：dihedral angle
+课件设计：courseware design
+信息开发：Information Development
+教育技术培训：educational technology training
+教学体会：teaching experience
+医学模式：medical mode
+人口规模：Population scale
+情感教学：affective teaching
+组织学与胚胎学：histology and embryology
+信息利用：information utilization
+增殖分化：Proliferation and differentiation
+发展心理学：Developmental psychology
+互动机制：Interaction mechanism
+岗位评价：Job evaluation
+反思性学习：Reflective learning
+非正式组织：informal organization
+文化氛围：cultural atmosphere
+文化心理：cultural mentality
+混合学习：blended learning
+大学治理：University governance
+研究型大学：Research-oriented university
+隐函数：Implicit function
+辅助教学：auxiliary teaching
+c-fos：c fos
+跨栏跑：hurdle race
+教学实习：teaching practice
+品牌效应：Brand effect
+心理品质：psychological quality
+无氧阈：Anaerobic threshold
+核心价值观：core value
+CRM：customer relationship management
+课堂环境：classroom environment
+自测健康：Self-rated health
+管理伦理：management ethics
+一流大学：first-class university
+闲暇时间：leisure time
+陈寅恪：Chen Yinque
+铁路企业：railway enterprise
+近代教育：modern education
+原生态：Original ecology
+中职学校：secondary vocational school
+和谐城市：harmonious city
+资源选择：resource selection
+应用文写作：practical writing
+知识价值链：knowledge value chain
+近现代：Modern Times
+描述语言：description language
+规划与设计：Planning and Design
+数学史：Mathematics history
+公共生活：public life
+分析框架：analysis framework
+育人功能：educational function
+听说：listening and speaking
+社会体育指导员：social sports instructor
+价值功能：value function
+平面几何：plane geometry
+知识产权法：intellectual property law
+民主革命：democratic revolution
+梁漱溟：Liang Shu-ming
+文化符号：Cultural symbol
+广告语言：advertisement language
+自动化专业：automation specialty
+汉语教学：Chinese Language teaching
+道德选择：moral choice
+高等农业教育：Higher agricultural education
+农村人力资源：rural human resources
+双边市场：Two-sided market
+高职院校图书馆：higher vocational college library
+新文化：New Culture
+共词分析：co-word analysis
+叙事风格：narrative style
+有效沟通：effective communication
+多媒体学习：multimedia learning
+顾颉刚：Gu Jiegang
+公立学校：Public school
+蔡邕：Cai Yong
+社会现代化：social modernization
+心理契约违背：psychological contract violation
+基本公共服务：basic public service
+学校社会工作：School Social Work
+地方课程：local curriculum
+黑人文化：black culture
+小组讨论：group discussion
+传统文学：traditional literature
+人工神经网络模型：artificial neural network model
+优质服务：high quality service
+发展政策：development policy
+社会经济发展：social and economic development
+藏族：Tibetan nationality
+关键问题：key problem
+大型：large scale
+创新实践：innovation practice
+版式设计：format design
+教学质量：educational quality
+电子纸：electronic paper
+应用伦理学：applied ethics
+合作创新：Cooperation Innovation
+连云港市：Lianyungang city
+基本特征：basic character
+回顾与展望：review and prospect
+制度设计：institution design
+基础课：basic course
+激励制度：incentive system
+指数模型：exponential model
+TRIZ理论：TRIZ theory
+衡水市：Hengshui City
+经济风险：economic risk
+文化营销：culture marketing
+区域地质调查：regional geological survey
+双因素理论：Two-factor theory
+模型应用：model application
+辅助决策：assistant decision
+L-苹果酸：L-malic acid
+职业培训：Professional training
+卫生服务需求：Health services needs and demand
+物理环境：physical environment
+信息控制：information control
+西北：northwest China
+信息服务平台：information service platform
+综合国力：comprehensive national power
+管理职能：Management function
+理想模型：ideal model
+成本优势：cost advantage
+知识社会：Knowledge Society
+系统思维：systematic thinking
+保护模式：Protected mode
+基因多态：gene polymorphism
+注意偏向：Attentional bias
+城镇居民：Urban resident
+信息中心：Information Center
+分层教学：Stratified Teaching
+Gini系数：Gini coefficient
+卡方检验：chi-square test
+家庭支持：family support
+离心运动：eccentric exercise
+启动效应：priming effect
+形成与发展：formation and development
+中国足球：Chinese football
+郑观应：Zheng Guanying
+图形语言：graphic language
+撞击力：impact force
+会计专业：Accounting Major
+设计实践：design practice
+国际商务：international business
+职业规划：career planning
+进化稳定策略：evolutionary stable strategy
+可支配收入：disposable income
+异步交互：asynchronous interaction
+成长机制：growth mechanism
+人力资源整合：human resource integration
+交往行为：Communicative action
+虚拟训练：virtual training
+知识元：knowledge element
+体育与健康：Sports and health
+叙述视角：narrative perspective
+哲学诠释学：Philosophical Hermeneutics
+服务策略：service strategy
+新闻传媒：news media
+蝴蝶效应：butterfly effect
+项目开发：Project development
+资源集成：resource integration
+科学普及：science popularization
+网络计费：network accounting
+人格发展：Personality development
+语用模糊：pragmatic ambivalence
+语义映射：semantic mapping
+岭南文化：Lingnan culture
+模式创新：mode innovation
+绩效指标：performance index
+学科导航：subject navigation
+高水平运动队：high-level sports team
+党性：Party Spirit
+批判现实主义：critical realism
+朱彝尊：Zhu Yizun
+学科教学：subject teaching
+政策性金融：Policy finance
+信息伦理：Information ethics
+胡应麟：Hu Yinglin
+中学图书馆：middle school library
+顾炎武：Gu Yanwu
+学术创新：academic innovation
+文化比较：cultural comparison
+文化政策：Cultural policy
+外溢效应：spillover effect
+瀑布模型：waterfall model
+品格教育：character education
+现代学校制度：modern school system
+审美人类学：aesthetic anthropology
+幼儿园课程：kindergarten curriculum
+政治环境：political environment
+道德判断：moral judgment
+刑事审判：criminal trial
+三维空间：three-dimensional space
+实验室认可：laboratory accreditation
+发展态势：development trend
+政策措施：policy measures
+品牌竞争：brand competition
+问题情境：problem situation
+廊坊市：Langfang city
+空间信息技术：spatial information technology
+有效措施：effective measures
+分析与评价：analysis and evaluation
+城市开发：urban development
+和谐关系：harmonious relationship
+焦作市：Jiaozuo City
+上海地区：Shanghai area
+过程质量：Process quality
+南京：Nanjing city
+报刊：Newspapers and periodicals
+软件应用：software application
+过程设计：process design
+艺术语言：art language
+基点：base point
+盈利模式：profit pattern
+社会监督：social supervision
+分类标准：classification standard
+私权：private rights
+投资机制：Investment mechanism
+网络理论：Network theory
+政策评价：policy evaluation
+协同发展：Coordinated Development
+民族传统：national tradition
+研究报告：research report
+T检验：T Test
+产业革命：industrial revolution
+综合改革：comprehensive reform
+保护规划：conservation planning
+心理特征：psychological feature
+基建：Capital construction
+朝鲜族：Korean nationality
+心源性猝死：sudden cardiac death
+诊疗：diagnosis and treatment
+有氧训练：Aerobic training
+个性化服务：individual service
+营养知识：Nutrition knowledge
+师生：Teachers and students
+攻击性行为：aggressive behavior
+问题行为：Problem behavior
+精益管理：Lean management
+急性运动：acute exercise
+内容效度：Content validity
+党支部：Party branch
+社会交换：social exchange
+网络维护：network maintenance
+少数民族学生：Minority Students
+视觉素养：visual literacy
+学习障碍：Learning disorders
+绩效预算：Performance budget
+教育实验：Educational experiment
+经济基础：economic basis
+社会基础：social basis
+学习型图书馆：Learning library
+学术水平：academic level
+实践教育：Practice education
+学生事务：Student affairs
+主要内容：main contents
+价值中立：value neutrality
+项目分析：item analysis
+计算机基础：computer basis
+灰色文献：grey literature
+审美能力：aesthetic judgment
+委托代理关系：principal-agent relationship
+文学作品：literature works
+文化品格：cultural character
+顾客满意度指数：customer satisfaction index
+多媒体应用：multimedia application
+内容产业：content industry
+Lebesgue积分：Lebesgue integral
+国家重点实验室：state key laboratory
+职业判断：professional judgment
+物理实验教学：physics experiment teaching
+网络文学：internet literature
+大众传播媒介：mass media
+资产负债表：balance sheet
+职业锚：career anchor
+逻辑程序：logic program
+大学发展：university development
+社会改革：social reform
+语音教学：phonetic teaching
+出版社：publishing house
+体育赛事：Sports events
+审美趣味：aesthetic taste
+书目数据库：bibliographic database
+程序法：procedural law
+史记：Historical Records
+庙会：temple fair
+语言实验室：language laboratory
+起点：starting point
+农村图书馆：Rural library
+素质建设：quality construction
+企业竞争情报：enterprise competitive intelligence
+科学共同体：scientific community
+手机媒体：mobile media
+学习支持服务：Learning support service
+社会距离：social distance
+知识社会学：Sociology of Knowledge
+虚拟参考咨询服务：virtual reference service
+个人知识：personal knowledge
+教育装备：educational equipment
+《中图法》：Chinese Library Classification
+社会主义意识形态：Socialist ideology
+兼爱：universal love
+地质教育：geological education
+非形式逻辑：informal logic
+责任教育：responsibility education
+布什政府：Bush Administration
+国民教育：national education
+和谐人格：harmonious personality
+双语词典：bilingual dictionary
+分布式虚拟现实：distributed virtual reality
+生态廊道：ecological corridor
+视觉思维：Visual Thinking
+形态指标：morphological index
+淄博市：Zibo City
+技术问题：technical problem
+体育运动：athletic sports
+创新理论：Innovation theory
+传统医药：Traditional medicine
+培养方案：training scheme
+龙岩市：Longyan city
+游牧文化：nomadic culture
+学习迁移：learning transfer
+电桥：electric bridge
+职业能力：professional competence
+新概念：new concept
+听力障碍：Hearing disorders
+师范院校：normal universities
+强制许可：compulsory license
+地域分布：regional distribution
+工作机构：working mechanism
+训练样本：training sample
+语境：language environment
+工具理性：Instrumental reason
+开发模型：development model
+呼吸链：respiratory chain
+年龄分布：age distribution
+应用策略：Application strategy
+智能分析：Intelligent analysis
+经验分析：empirical analysis
+垂直速度：vertical velocity
+开发与保护：Development and protection
+跨学科研究：interdisciplinary research
+经济信息：Economic information
+症状自评量表：Symptom checklist 90
+平衡能力：balance ability
+专利联盟：patent pool
+儿童行为：child behavior
+人脑：human brain
+导读工作：reading guidance
+聋生：Deaf students
+实践基地：Practice base
+流行病模型：epidemic model
+道德认知：moral cognition
+核心作者：core author
+健康传播：health communication
+非正式群体：informal group
+科学社会学：sociology of science
+元认知能力：Metacognitive ability
+文化大革命：Cultural Revolution
+学术影响力：academic influence
+形势与政策：Situation and policy
+继承与创新：Inheritance and Innovation
+传统武术：Traditional martial arts
+色彩词：color words
+工学结合：combining learning with working
+历史文化名城：historic city
+实施机制：implementation mechanism
+精神内涵：spiritual connotation
+粘性流：viscous flow
+策略分析：Strategy analysis
+会计舞弊：Accounting fraud
+人力资本理论：Human capital theory
+可行域：feasible region
+农耕文化：farming culture
+德育功能：moral education function
+MBA教育：MBA Education
+企业知识管理：enterprise knowledge management
+教学组织：teaching organization
+内部控制环境：internal control environment
+学习支持：learning support
+知识供应链：knowledge supply chain
+分布式管理：distributed management
+迁移策略：migration strategy
+现实生活：real life
+课外体育活动：extracurricular sports activities
+开发性金融：Development Finance
+整合营销传播：integrated marketing communications
+数感：Number Sense
+后殖民理论：postcolonial theory
+概念学习：concept learning
+文学教育：literary education
+语用原则：pragmatic principle
+新贡献：new contribution
+家庭文化：family culture
+社会变革：social transformation
+图书馆立法：Library Legislation
+引文索引：citation index
+网络阅读：Network reading
+跨文化传播：cross-cultural communication
+专利地图：patent map
+表达自由：freedom of Expression
+报业集团：newspaper group
+输入假设：Input Hypothesis
+社会权力：social power
+红色经典：Red classics
+男性形象：male image
+国际结算：international settlement
+商标翻译：trademark translation
+张学良：Zhang Xueliang
+人才流动：talent flow
+玉文化：jade culture
+农村学校：rural schools
+考据：textual research
+赢利模式：profit model
+30年：30 years
+农村小学：Rural Primary School
+多元系统论：Polysystem Theory
+生涯教育：career education
+文化互动：cultural interaction
+纪昀：Ji Yun
+私学：private school
+李达：Li Da
+政治沟通：political communication
+地方病：endemic diseases
+文献计量：literature metrology
+冰点：freezing point
+利益冲突：Benefit conflict
+信息收集：information collection
+化学教师：chemistry teacher
+质量监测：quality monitoring
+环境变迁：environmental changes
+安全问题：Security problem
+日照市：Rizhao city
+发展思路：development ideas
+职业安全：Occupational safety
+文化解读：cultural interpretation
+软件编程：software programming
+司法介入：Judicial intervention
+高层次人才：high-level talents
+研究趋势：research trend
+购买行为：purchasing behavior
+研究意义：research significance
+ISO9000标准：ISO9000 standard
+经济利益：Economic interest
+生成机制：formation mechanism
+市场运作：market operation
+师专：teachers college
+信息发布：information release
+营养教育：nutrition education
+运城市：Yuncheng City
+非参数检验：nonparametric test
+投资模型：investment model
+发展空间：development space
+K-S检验：K-S test
+县域：county area
+科学实验：scientific experiment
+医学教学：Medical teaching
+研究框架：research framework
+度量模型：measurement model
+改革方向：reform direction
+智能识别：intelligent recognition
+市场策略：market strategy
+护理本科生：nursing undergraduate
+户外运动：outdoor sports
+肩袖：rotator cuff
+归因方式：Attributional Style
+抑郁症状：depressive symptoms
+静电感应：electrostatic induction
+学制：educational system
+健康心理学：Health psychology
+短波：short wave
+心脏保存：Heart preservation
+保定市：Baoding city
+纵向研究：longitudinal study
+人群监测：Population surveillance
+心理辅导：psychological guidance
+精神危机：spiritual crisis
+政府调控：government regulation
+伤害事故：injury accident
+道德规范：Moral Norm
+电视媒体：television media
+血尿素：Blood urea
+体育文化：physical education culture
+长征：the long march
+办学特色：school-running characteristics
+认知地图：cognitive map
+情报检索：Information retrieval
+色彩心理：color psychology
+形声字：pictophonetic characters
+语言评价信息：linguistic assessment information
+学习领域：Learning Field
+住宅建设：housing construction
+城市特色：City characteristic
+挣值管理：earned value management
+信息组织：information organizing
+建筑语言：architectural language
+撑竿跳高：pole vault
+高校档案：university archives
+产业经济学：industrial economics
+应用平台：application platform
+创新平台：innovation platform
+区域发展战略：regional development strategy
+阅读模式：Reading model
+移动管理：mobility management
+精神价值：spiritual value
+道德自律：moral self-discipline
+区域整合：Regional integration
+电子白板：electronic whiteboard
+谈话节目：talk show
+传统美德：Traditional virtues
+组织社会化：organizational socialization
+速滑：speed skating
+绩效评价体系：performance evaluation system
+土地资源管理：land resource management
+原始创新：original innovation
+创新过程：innovation process
+营销风险：marketing risk
+英语语音：English pronunciation
+演化博弈论：evolutionary game theory
+领导风格：leadership style
+逆定理：inverse theorem
+两课：two courses
+法律事实：legal fact
+报业：newspaper industry
+小学英语：Primary School English
+专利池：patent pool
+管理文化：management culture
+混合式学习：blended learning
+心理模型：mental model
+齐鲁文化：Qilu culture
+劳动分工：division of labor
+教育智慧：educational wisdom
+当代价值：modern value
+责任伦理：responsibility ethics
+现代启示：modern enlightenment
+犹太文化：Jewish culture
+村委会：village committee
+过程法：process approach
+集体合同：collective contract
+多边外交：Multilateral Diplomacy
+人际沟通：Interpersonal communication
+岗位培训：post training
+复合载体：composite support
+技术评价：technology assessment
+工业工程：industry engineering
+开放实验：opening experiment
+空间分异：spatial variation
+统计指标：statistical index
+评价系统：assessment system
+模块教学：module teaching
+梅州市：Meizhou city
+历史演变：historical evolvement
+实践与探索：practice and exploration
+多维模型：multidimensional model
+质量意识：quality consciousness
+大规模：large scale
+评价体系：evaluate system
+自然因素：natural factors
+专业能力：professional ability
+一致性检验：consistency check
+技术风险：technical risk
+教学科研：teaching and research
+政府决策：government decision-making
+人事制度改革：personnel system reform
+群体行为：group behavior
+实时分析：real-time analysis
+社会属性：social attribute
+生物节律：biological rhythm
+专业教育：specialty education
+文化思想：cultural thought
+理论思维：theoretical thinking
+基本方法：Basic method
+科学思想：scientific thought
+睡眠质量：sleeping quality
+因果关系：Causal relation
+高校德育：Moral education in university
+营养调查：Nutrition surveys
+职业伦理：Professional ethics
+心肌超微结构：myocardial ultrastructure
+机制分析：Mechanism analysis
+虚拟局域网：Virtual local area network
+全科医师：General practitioner
+信息导航：Information navigation
+职业生涯：professional career
+课程评价：course evaluation
+大学生就业：college students employment
+角色转换：role transformation
+政府转型：Government transformation
+就业心理：Employment psychology
+英语教学改革：English teaching reform
+适应性学习：adaptive learning
+身体训练：physical training
+佛教文化：Buddhism culture
+信仰危机：Belief crisis
+生涯规划：Career planning
+运动负荷：exercise load
+面子理论：face theory
+概率方法：probability method
+动态模糊集：dynamic fuzzy sets
+人性假设：humanity hypothesis
+信息服务体系：information service system
+视频技术：video technology
+公共教育：public education
+公共参与：Public Participation
+战术意识：tactical consciousness
+策略选择：strategy choice
+科学实践：scientific practice
+数字版权：digital copyright
+资源均衡：resource leveling
+现代教学：modern teaching
+图书管理系统：library management system
+思想性：ideological content
+师生互动：interaction between teachers and students
+角色分配：role assignment
+理想类型：ideal type
+大学体育：college physical education
+和谐环境：Harmonious environment
+肢体语言：body language
+精神实质：spiritual essence
+电视谈话节目：TV talk show
+听说能力：listening and speaking ability
+教学价值：teaching value
+语言形式：language form
+价值观教育：value education
+电子文献：electronic document
+HFC网：HFC network
+阶级性：class nature
+罗马帝国：Roman Empire
+现代人：modern people
+西方文明：western civilization
+实体法：substantive law
+口述历史：oral history
+体育史：sports history
+认同危机：identity crisis
+词汇特征：lexical features
+学校效能：School effectiveness
+语言实践：language practice
+性别视角：gender perspective
+文化阐释：cultural interpretation
+班级文化：class culture
+实业教育：industrial education
+初中英语：Junior English
+足球俱乐部：football club
+课程发展：curriculum development
+图示理论：schema theory
+新闻翻译：News translation
+绘画语言：painting language
+概念功能：ideational function
+科举考试：imperial examination
+目标设置：goal setting
+兴衰：rise and fall
+人均GDP：GDP per capita
+茉莉花茶：Jasmine tea
+水质指标：Water quality index
+济宁市：Jining City
+广州地区：Guangzhou area
+优化管理：optimal management
+高效化：high efficiency
+湘南：southern Hunan
+湘西：West Hunan
+研究展望：research prospect
+烟草烟污染：Tobacco smoke pollution
+定量指标：quantitative index
+乳糖不耐受：lactose intolerance
+选择方法：selection method
+淮南市：Huainan city
+业务外包：business outsourcing
+生态模式：Ecological model
+培养质量：cultivation quality
+有机结合：organic combination
+应用能力：practical ability
+框架模型：Framework model
+藏书：Book collection
+复合期权：compound option
+政策设计：policy design
+研究性教学：research-oriented teaching
+人的因素：human factor
+安防系统：Security system
+基本框架：Basic frame
+舟山群岛：Zhoushan Archipelago
+共同愿景：shared vision
+现代科学技术：modern science and technology
+绿色文化：Green culture
+盐城市：Yancheng City
+智力因素：intelligence factor
+基本技能：basic skill
+过程质量控制：process quality control
+教育科学：Educational science
+常熟市：Changshu city
+实用价值：practical value
+基础工作：basic work
+社会主义市场经济：the socialist market economy
+历史分析：historical analysis
+传统教学模式：traditional teaching mode
+卫生筹资：health financing
+表面肌电：surface electromyography
+篮球比赛：basketball game
+制度缺陷：system defect
+协调机制：Coordinating mechanism
+工作特征：Job characteristics
+教育投入：education investment
+动脉顺应性：arterial compliance
+Cox回归：Cox regression
+校风：School spirit
+神经肌肉接头：Neuromuscular junction
+社会责任感：sense of social responsibility
+贫困生：impoverished students
+面部表情识别：Facial Expression Recognition
+行为心理：Behavior psychology
+课程目标：curriculum goal
+人的价值：human value
+知识可视化：knowledge visualization
+注册表：register table
+社会支持系统：social support system
+领导班子：leading group
+情报研究：Information research
+新视角：new perspective
+信息技术环境：information technology environment
+心理调节：psychological adjustment
+内部动机：intrinsic motivation
+绝对速度：absolute speed
+范围经济：scope economy
+知识产权管理：Intellectual Property Management
+旅游体验：tourism experience
+影响矩阵：influence matrix
+渐进式改革：gradual reform
+客观规律：objective law
+决策机制：decision mechanism
+理想信念：ideal and faith
+实数：real number
+激励效应：incentive effect
+教育市场：educational market
+财务管理体制：financial management system
+人工成本：labor cost
+空间形式：space form
+冗余信息：redundant information
+信仰教育：belief education
+图书管理：books management
+颜之推：Yan Zhitui
+文献采访：document acquisition
+C#语言：C# language
+和谐精神：harmonious spirit
+英语词汇学习：English vocabulary learning
+墨家：Mohist School
+文化反思：Cultural reflection
+本体建模：ontology modeling
+虚拟社会：virtual society
+民主参与：Democratic Participation
+角色意识：role consciousness
+农村经济发展：rural economic development
+权力话语：power discourse
+大学教学：university teaching
+通项：general term
+文化危机：Cultural Crisis
+知识导航：knowledge navigation
+宿舍管理：dormitory management
+知识价值：knowledge value
+心理活动：Psychological activity
+就业信息：Employment information
+H指数：H index
+文化知识：cultural knowledge
+业余训练：amateur training
+数字内容：digital content
+大学评价：university evaluation
+体育统计：Sports statistics
+娱乐新闻：entertainment news
+叶适：YE Shi
+大学组织：university organization
+实力分析：strength analysis
+博洛尼亚进程：Bologna Process
+延安精神：Yan an spirit
+政治理论：political theory
+身份危机：identity crisis
+政治人格：political personality
+学业求助：academic help-seeking
+哲学教学：Philosophy teaching
+陈鹤琴：Chen Heqin
+道德危机：moral crisis
+价值基础：value basis
+目标取向：goal orientation
+法律规避：evasion of law
+QC小组：QC group
+抗氧化能力：antioxidant activity
+内部质量：internal quality
+振动理论：vibration theory
+应急体系：emergency system
+肌糖原：muscle glycogen
+技术分析：technological analysis
+吉林：Jilin Province
+静态博弈：static game
+利益机制：benefit mechanism
+门禁系统：entrance guard system
+越文化：Yue culture
+重庆地区：Chongqing Area
+演化稳定策略：evolutionary stable strategy
+海外华人：overseas Chinese
+消防管理：fire management
+激励政策：Incentive policy
+组织制度：organization system
+绿色生态：green ecology
+结构功能：structure and function
+监管机制：supervision mechanism
+首饰设计：jewelry design
+AHP法：Analytic hierarchy process
+发展措施：development measures
+信息化管理：informatization management
+深化改革：deepen reform
+新生代：Cenozoic era
+农业系统：Agricultural system
+支撑平台：support platform
+人员培训：personnel training
+春节：Spring Festival
+新思维：New thinking
+展示设计：exhibition design
+职称：professional title
+价值主体：value subject
+邢台市：Xingtai City
+评估指标：assessment index
+视觉识别：visual identity
+二次函数：quadratic function
+行为模式：behavior mode
+研究内容：research contents
+核算方法：accounting method
+区域特征：regional characteristics
+指标分析：index analysis
+定额管理：quota management
+电阻测量：resistance measurement
+水族：Shui Nationality
+核心课程：core curriculum
+中医理论：TCM theory
+营养干预：Nutritional intervention
+近代上海：modern Shanghai
+护理科研：Nursing research
+学业自我概念：Academic self-concept
+语言训练：language training
+低氧训练：hypoxic training
+工作模式：work mode
+服务流程：service process
+自主性学习：autonomous learning
+多水平模型：multilevel model
+高山滑雪：alpine skiing
+情绪劳动：Emotional labor
+学生评教：students evaluation of teaching
+科学化管理：scientific management
+人格类型：personality type
+语言发展：language development
+体罚：Corporal punishment
+道德意识：Moral Consciousness
+时间知觉：time perception
+心理幸福感：psychological well-being
+第二语言学习：second language learning
+学术论文：research paper
+三个阶段：three stages
+《道德经》：Tao Te Ching
+学术贡献：academic contribution
+情绪理解：emotion understanding
+平行进口：Parallel Importation
+测不准原理：uncertainty principle
+工作满意：job satisfaction
+语文学习：Chinese learning
+校园精神：campus spirit
+法律人格：legal personality
+国家安全战略：National Security Strategy
+SWOT模型：SWOT model
+概念规划：Conceptual planning
+黑龙江垦区：Heilongjiang reclamation area
+文化策略：Cultural Strategy
+Web站点：web site
+高职院：higher vocational colleges
+防范机制：prevention mechanism
+非理性行为：irrational behavior
+地方高校图书馆：local university library
+中原城市群：Zhongyuan urban agglomeration
+BA模型：BA model
+符号消费：symbol consumption
+创意城市：creative city
+数字印刷：digital printing
+服务质量管理：service quality management
+态势分析：situation analysis
+背景分析：background analysis
+区域经济差异：regional economic difference
+网络图书馆：network library
+书面语：written language
+专用性投资：specific investment
+数据描述：Data description
+存储网络：storage network
+语义检索：Semantic Search
+外部经济：external economy
+信息不完全：incomplete information
+城市精神：city spirit
+准公共物品：quasi-public goods
+后工业社会：post-industrial society
+市场战略：market strategy
+政治信仰：political belief
+教育立法：educational legislation
+文本分析：textual analysis
+责任意识：sense of responsibility
+理论探索：theoretical exploration
+初等数学：Elementary Mathematics
+社会哲学：Social philosophy
+知识失业：educated unemployment
+范畴论：category theory
+资源搜索：Resource search
+秦朝：Qin dynasty
+管理教育：management education
+学习情境：Learning environment
+网络舆论：network public opinion
+网站评价：website evaluation
+长尾理论：long tail theory
+内隐认知：Implicit cognition
+教育生态学：Educational Ecology
+收视率：audience rating
+创新团队：innovation team
+校本教研：school-based teaching research
+形成性考核：formative assessment
+公共事务：public affairs
+学术精神：academic spirit
+近代史：modern history
+中华武术：Chinese Wushu
+组织支持：organizational support
+中介作用：mediating effect
+市场效应：Market Effect
+品牌信任：brand trust
+高水平：High level
+课程知识：curriculum knowledge
+话语标记：discourse marker
+近代日本：modern Japan
+周敦颐：Zhou Dunyi
+养老金制度：pension system
+宏观调控法：macro-control law
+信息披露制度：Information Disclosure System
+模型研究：model study
+砖茶：Brick tea
+类比法：analogy method
+生态治理：ecological management
+深度开发：deep development
+机械波：Mechanical Wave
+三维结构：3D structure
+非智力因素：non-intellectual factor
+发展动态：development trend
+燃烧热：combustion heat
+下游产品：downstream products
+科学技术：Science technology
+系统保护：system protection
+保护策略：protection strategy
+设计原则：designing principles
+新乡市：Xinxiang city
+国家：The State
+应急反应：emergency response
+质量管理系统：quality management system
+常州市：Changzhou City
+课改：curriculum reform
+整体优化：global optimization
+场论：field theory
+研究生教育：post-graduate education
+演化规律：evolution law
+实施方法：implementation method
+数据采集器：data collector
+管理技术：management technique
+湖州市：Huzhou City
+发展特征：development characteristics
+综合评价体系：comprehensive evaluation system
+人力资源规划：human resource planning
+教学档案：teaching file
+直觉思维：intuition thinking
+技术市场：technical market
+学年制：academic year system
+企业营销：enterprise marketing
+材料管理：material management
+阅读习惯：Reading habits
+章太炎：ZHANG Tai-yan
+信息支持：information support
+功能训练：Functional training
+中暑：heat stroke
+感觉寻求：sensation seeking
+胰岛素敏感指数：insulin sensitivity index
+职业枯竭：Job burnout
+财政投入：financial investment
+过程评价：Process evaluation
+入睡和睡眠障碍：sleep initiation and maintenance disorders
+体育生活方式：sports lifestyle
+职业女性：Professional women
+学习困难：learning disabilities
+中医药学：traditional Chinese medicine
+认知行为疗法：cognitive behavior therapy
+风险系数：Risk coefficient
+技能培养：skill training
+英语专业：English specialty
+教育方法：Education method
+框架效应：framing effect
+优秀运动员：elite player
+人力资本投资：investment of human capital
+体育精神：sports spirit
+馆藏建设：Collection Development
+私立学校：Private school
+利他行为：altruistic behavior
+信息管理与信息系统：Information management and information system
+赏识教育：Appreciation education
+法律教育：law education
+教育对策：Educational strategy
+教育经济学：educational economics
+高等教育评估：Higher education evaluation
+语言游戏：language games
+营销理论：Marketing theory
+职业道德教育：Professional ethics education
+信息网络化：Information network
+理性认识：rational knowledge
+教学设备：teaching equipment
+SDS-PAGE：SDS PAGE
+人体运动：human motion
+乒乓球运动：table tennis
+规划理论：Planning theory
+信息空间：information space
+村落文化：village culture
+汉文化：Han culture
+思想政治教育工作：ideological and political education
+动量守恒：momentum conservation
+进化博弈论：evolutionary game theory
+用户聚类：user clustering
+网球教学：tennis teaching
+最小支持度：minimum support
+知识空间：knowledge space
+混合方法：Hybrid method
+消费支出：Consumption expenditure
+文档分类：document classification
+理工科：Science and engineering
+公文：official documents
+收付实现制：cash basis
+知识转化：knowledge conversion
+思想建设：Ideological Construction
+物质相关性障碍：Substance-related disorders
+中华民族精神：Chinese national spirit
+教学与训练：teaching and training
+英语阅读理解：English reading comprehension
+职业体育俱乐部：professional sports club
+职业院校：vocational school
+人才结构：talent structure
+道德权利：moral right
+教育史：history of education
+行政文化：administration culture
+电子图书：electronic books
+元数据模型：metadata model
+自我教育：self education
+政治性：Political nature
+行政监察：administrative supervision
+格式塔心理学：Gestalt Psychology
+体育经纪人：sports broker
+RSS技术：Rss technology
+《西游记》：The Journey to the West
+数学语言：mathematical language
+阎锡山：Yan Xishan
+学术责任：academic responsibility
+危机信息：Crisis information
+概念检索：Concept Retrieval
+基本范畴：basic category
+广告传播：advertising communication
+公共舆论：public opinion
+情境认知：Situated Cognition
+史学理论：historical theory
+科学知识社会学：sociology of scientific knowledge
+文化生产：cultural production
+Riemann积分：Riemann integral
+张君劢：Zhang Junmai
+就业环境：employment environment
+规模扩张：scale expansion
+政府与市场：government and market
+祈使句：imperative sentence
+英语教材：English textbook
+自发秩序：spontaneous order
+斯坦福大学：Stanford University
+教师知识：teacher knowledge
+国际关系理论：international relations theory
+语文素养：Chinese accomplishment
+政治实践：political practice
+军事体育：military sports
+童年经验：childhood experience
+足球产业：football industry
+文化传递：cultural transmission
+周边绩效：contextual performance
+OWA算子：OWA operator
+制药企业：pharmaceutical enterprise
+化学实验：chemical experiments
+发展道路：development path
+发展史：developing history
+产业组织理论：industrial organization theory
+灾害防治：disaster prevention
+行为科学：behavior science
+蒺藜：Tribulus terrestris L
+质量控制体系：quality control system
+经济生活：economic life
+实验技术：experimental technology
+环境伦理：environment ethics
+健康状况：health state
+鹿茸：Pilose antler
+行业标准：trade standard
+边缘效应：edge effects
+定量评估：quantitative assessment
+开发管理：development and management
+应用方法：application method
+代谢酶：metabolic enzyme
+苏州工业园区：Suzhou industrial park
+压力源：pressure source
+滇西北：northwestern Yunnan
+扩散效应：Diffusion effect
+模式分析：mode analysis
+中国科学院：Chinese Academy of Sciences
+研究型教学：research teaching
+健康意识：health consciousness
+研究与发展：research and development
+短距离：short distance
+田野调查：Field investigation
+信息载体：information carrier
+命中率：hit rate
+政府投资：governmental investment
+直接成本：Direct cost
+教学功能：teaching function
+中国古典园林：Chinese classical gardens
+经济建设：Economic development
+青年女性：young women
+机遇和挑战：Opportunity and challenge
+家庭关系：family relations
+政策扶持：policy support
+遗产廊道：heritage corridor
+良渚文化：LiangZhu culture
+教师角色：role of teacher
+平衡控制：balance control
+职业态度：professional attitude
+教学质量管理：teaching quality management
+医学文献：medical literature
+评分系统：scoring system
+学前儿童：pre-school children
+2008奥运会：2008 Olympic Games
+聋儿：Deaf children
+社会运动：Social movement
+认知水平：Cognitive level
+文学鉴赏：Literature appreciation
+国有资产管理：state-owned assets management
+积极情绪：positive emotion
+初中学生：Junior high school students
+体验式学习：Experiential learning
+阅读效率：reading efficiency
+前庭功能：vestibular function
+传染病控制：Communicable Disease Control
+文献价值：literature value
+活动范围：Range of motion
+内涵发展：Connotation development
+职业技能：Professional skills
+红色文化：red culture
+类比迁移：analogical transfer
+人文社会科学：humanities and social science
+篮球运动员：basketball athlete
+教育结构：Education structure
+合格鉴定：Eligibility determination
+道德冲突：moral conflict
+第二语言：The second language
+思想政治：ideological and political work
+事件营销：event marketing
+公共获取：public access
+空间能力：Spatial ability
+管理研究：Management research
+统筹：Overall planning
+社会作用：social function
+性能目标：performance objective
+中国传统建筑：Chinese traditional architecture
+功效系数法：efficacy coefficient method
+高校大学生：college students
+投资模式：investment mode
+需求曲线：demand curve
+评价机制：evaluation system
+卢作孚：Lu Zuofu
+地方大学：local university
+教材管理：textbook management
+正外部性：positive externality
+校园景观：Campus Landscape
+管理集成：management integration
+自组织临界：self-organized criticality
+公民权：Civil rights
+Web服务安全：Web services security
+开幕式：Opening Ceremony
+学习型企业：learning enterprise
+钻石理论：diamond theory
+区域结构：regional structure
+道德体系：moral system
+网络层次分析法：analytic network process
+孙子兵法：the Art of War
+徽州文化：Huizhou culture
+词汇法：lexical approach
+服务产品：service product
+软件模式：software pattern
+渐进稳定性：asymptotic stability
+文化逻辑：Cultural Logic
+馆藏结构：collection structure
+漳州市：Zhangzhou city
+审稿：peer review
+知识教育：knowledge education
+审美对象：aesthetic object
+二项式定理：binomial theorem
+金字塔模型：Pyramid model
+成本-收益分析：cost-benefit analysis
+知识积累：Knowledge accumulation
+理想教育：ideal education
+农业信息技术：agricultural information technology
+H1N1亚型：H1N1 subtype
+非市场价值：non-market value
+民间宗教：folk religion
+集群效应：cluster effect
+外语教师：Foreign language teacher
+学习社会：Learning society
+数字出版：digital publishing
+阅读倾向：reading tendency
+社会记忆：social memory
+主流媒体：Mainstream Media
+内部控制体系：internal control system
+学科信息门户：Subject information gateway
+篇章语言学：text linguistics
+批评语言学：critical linguistics
+对外传播：international communication
+陈垣：Chen Yuan
+服务失败：Service failure
+IT行业：IT Industry
+GEM模型：GEM model
+幸福指数：happiness index
+国际教育：International education
+启蒙运动：the Enlightenment
+体教结合：combination of sports and education
+合情推理：plausible reasoning
+休闲行为：leisure behavior
+传统节日：traditional festivals
+冬训：Winter training
+体育体制：sports system
+全民教育：education for all
+实践知识：practical knowledge
+中俄关系：Sino-Russian relations
+拉丁舞：Latin dance
+音乐教师：music teacher
+民族平等：national equality
+意义构建：meaning construction
+投影分析：projection analysis
+工作-家庭冲突：work-family conflict
+固定资产管理：Fixed assets management
+环境艺术：environment art
+柯布-道格拉斯生产函数：Cobb-Douglas production function
+抗菌剂：antimicrobial agent
+实验条件：experimental condition
+经济可持续发展：sustainable economic development
+生态道德：ecological morality
+深加工：further processing
+小波包分析：Wavelet Package Analysis
+财务风险：finance risk
+优化组合：optimal combination
+复合型人才：compound talent
+循环系统：circulation system
+管理经验：management experience
+技术特性：Technical characteristic
+营养分析：nutrition analysis
+消费观念：consumption concept
+有机发光二极管：organic light-emitting diodes
+安全保障：safety guarantee
+要点：key point
+文化交流：culture communication
+规制改革：regulation reform
+敏感指标：sensitive index
+辐射安全：Radiation safety
+经营理念：management idea
+石油行业：Petroleum industry
+培养体系：culture system
+可持续发展观：sustainable development
+封面设计：Cover design
+三维分析：three-dimensional analysis
+辩证思维：Dialectical thought
+未确知数学：unascertained mathematics
+难度：degree of difficulty
+实验课程：experiment course
+宜宾市：yibin city
+安全稳定：Safety and stability
+技术评估：technology assessment
+管理对策：management measures
+数学方法：mathematics method
+凉山州：Liangshan prefecture
+物元理论：matter-element theory
+辐射源：radiation source
+CS战略：CS strategy
+发展能力：development capacity
+Bt：Bacillus thuringiensis
+天津地区：Tianjin area
+组织与管理：organization and management
+信息孤岛：Information isolated island
+测评模型：evaluation model
+忻州市：Xinzhou City
+内蒙古自治区：Inner Mongolia
+实验课：experiment course
+考试方法：examination method
+城市生态学：Urban ecology
+协调管理：Coordination management
+最优化理论：optimization theory
+智能化管理：Intelligent management
+思想品德教育：moral education
+全面发展：all-around development
+台湾省：Taiwan Province
+工程热力学：engineering thermodynamics
+ISO9000质量管理体系：ISO9000 quality management system
+理论和实践：theory and practice
+MATLAB编程：MATLAB programming
+质变：qualitative change
+技术教育：technical education
+制度管理：system management
+中西方：China and the west
+海尔集团：Haier Group
+多媒体计算机：multimedia computer
+信息高速公路：information highway
+群落生态学：Community ecology
+决策过程：decision process
+基本模式：basic model
+髌股关节：Patellofemoral joint
+资源库：resource library
+教研室：Teaching and research section
+易经：Yi Jing
+留守儿童：Rear children
+身体活动：physical activity
+丙氨酸转氨酶：Alanine aminotransferase
+社区体育：community PE
+学习成绩：Learning achievement
+网络存储系统：network storage system
+血清瘦素：Serum leptin
+培训制度：training system
+养生：health preservation
+大学新生：University freshmen
+性权利：sexual rights
+西安地区：Xi an area
+平等权：equal rights
+试题库：Test Database
+教育评价：Educational assessment
+旅游区：Tourism Area
+师范大学：normal university
+评价中心：assessment center
+网络检索：network retrieval
+语义表征：semantic representation
+危机事件：Crisis event
+德性伦理：virtue ethics
+生本教育：student-based education
+生活满意感：life satisfaction
+大众：the masses
+帕累托最优：Pareto optimum
+心理支持：psychological support
+主渠道：main channel
+信用缺失：credit deficiency
+动物词汇：animal words
+文化地理：Cultural geography
+体育建筑：sports building
+休闲空间：Leisure space
+模式发现：pattern discovery
+多校区大学：multi-campus university
+集成服务：integrated service
+建设标准：construction standard
+测试驱动开发：test-driven development
+分析哲学：analytical philosophy
+文学语言：literature language
+人力资本定价：human capital pricing
+绩效考核体系：performance appraisal system
+京剧：Peking opera
+社会新闻：social news
+归属感：sense of belonging
+采访工作：acquisition work
+CAS理论：CAS theory
+不完全信息：imperfect information
+学生评价：students evaluation
+公众满意度：public satisfaction
+大跃进：Great Leap Forward
+计算稳定性：computational stability
+发现学习：discovery learning
+知识经济时代：knowledge economy era
+隐性教育：recessive education
+检测模型：detection model
+体育俱乐部：sports clubs
+查准率：precision ratio
+问题教学：problem teaching
+协作机制：cooperation mechanism
+英语阅读教学：Teaching of English reading
+服务质量评价：service quality evaluation
+郑振铎：Zheng Zhenduo
+分布式信息检索：distributed information retrieval
+动态均衡：dynamic equilibrium
+普世伦理：universal ethics
+信息基础设施：information infrastructure
+角色理论：role theory
+工具书：reference book
+图书市场：book market
+自由发展：free development
+中文搜索引擎：Chinese search engine
+生态场：Ecological field
+推铅球：shot put
+信任关系：trust relationship
+反证法：reduction to absurdity
+新教材：New textbook
+移动服务：Mobile service
+期刊资源：periodical resources
+关系抽取：relation extraction
+学校图书馆：school library
+考试管理：Examination Management
+商务印书馆：the Commercial Press
+图书馆史：library history
+计算机音乐：computer music
+专业素养：professional quality
+语义类型：Semantic type
+情商教育：EQ education
+身份建构：Identity Construction
+研发团队：R&D team
+动物词语：animal words
+知识产业：knowledge industry
+语言学转向：linguistic turn
+数学理解：Mathematical understanding
+面板数据分析：Panel data analysis
+休闲消费：leisure consumption
+刚性管理：rigid management
+身体自我：physical self
+外籍教师：foreign teachers
+审美创造：aesthetic creation
+体育权利：sports right
+隐蔽课程：hidden curriculum
+现代散文：modern prose
+人的尊严：human dignity
+社会科：social studies
+体育组织：sports organization
+生存教育：survival education
+文化认知：cultural cognition
+跨文化比较：cross-cultural comparison
+家校合作：home-school cooperation
+金融海啸：Financial Tsunami
+系统聚类分析：hierarchical cluster analysis
+改进建议：improvement suggestion
+黄石市：Huangshi City
+卫生状况：Health status
+可拓工程：extension engineering
+系统聚类：hierarchical clustering
+动态评估：Dynamic Assessment
+人类中心主义：human centralism
+灰关联：grey relation
+工艺特点：technology characteristics
+柔性生产：flexible production
+多重比较：multiple comparison
+消费市场：consumer market
+安康市：Ankang city
+重点：key points
+一站式服务：One-Stop Service
+自我效能感：sense of self-efficacy
+日本政府：Japanese government
+宁德市：Ningde City
+障碍因素：obstacle factor
+市场体制：market system
+科研团队：research team
+保护环境：environmental protection
+5S管理：5S management
+科学规划：scientific planning
+零缺陷：zero defect
+环境系统：environmental system
+角色压力：role stress
+日常管理：daily management
+干预策略：Intervention strategy
+节约型社会：conservation-minded society
+军事技术：military technology
+材料化学：material chemistry
+古城：ancient city
+知识推理：Knowledge inference
+环境文化：environmental culture
+特征描述：feature description
+课程意识：curriculum consciousness
+教学对策：teaching countermeasure
+中小城市：medium and small cities
+条件分析：condition analysis
+遵义市：Zunyi city
+学龄儿童：school children
+教育经费：education funds
+研究成果：Research results
+复合系统：complex system
+场效应：Field effect
+实验设备：experimental equipment
+主体资格：subject qualification
+教育观念：educational conception
+多媒体软件：multimedia software
+价值核算：Value accounting
+法律障碍：legal obstacles
+财务管理目标：financial management target
+潜在价值：potential value
+电子出版：electronic publishing
+研究策略：Research strategy
+红河州：HongHe prefecture
+专业承诺：professional commitment
+顾客导向：customer orientation
+横断面调查：Cross-sectional studies
+健康干预：Health intervention

@@ -1,0 +1,5000 @@
+神经网络：neural network
+数据挖掘：data mining
+控制系统：control system
+遥感：remote sensing
+聚类分析：cluster analysis
+虚拟现实：virtual reality
+现状：present situation
+重金属：Heavy metal
+环境保护：environmental protection
+肺癌：lung cancer
+实验研究：experimental study
+主成分分析：principal component analysis
+粉煤灰：fly ash
+数值分析：numerical analysis
+经济发展：economic development
+优化设计：optimum design
+循环经济：circular economy
+水质：Water quality
+活性炭：activated carbon
+自动控制：automatic control
+热稳定性：thermal stability
+正交试验：orthogonal test
+气候变化：climate change
+定量分析：Quantitative analysis
+统计分析：statistical analysis
+研究进展：research progress
+地理信息系统：Geographic Information System
+综合利用：comprehensive utilization
+图像融合：image fusion
+控制策略：control strategy
+太阳能：solar energy
+低温：low temperature
+价值链：value chain
+城市规划：urban planning
+安全管理：safety management
+毛细管电泳：Capillary electrophoresis
+绩效管理：performance management
+水处理：water treatment
+模糊逻辑：fuzzy logic
+气相色谱法：Gas chromatography
+磁场：magnetic field
+碳纤维：carbon fiber
+思想政治工作：ideological and political work
+二氧化钛：titanium dioxide
+水土保持：Soil and water conservation
+软件设计：software design
+pH值：pH value
+动态规划：dynamic programming
+模糊综合评价：fuzzy comprehensive evaluation
+饮用水：drinking water
+风险评估：risk assessment
+密度泛函理论：density functional theory
+水环境：water environment
+内蒙古：Inner Mongolia
+能耗：energy consumption
+系统仿真：system simulation
+地方政府：local government
+脂质过氧化：lipid peroxidation
+煤矿：coal mine
+山东省：Shandong Province
+表面处理：surface treatment
+催化氧化：catalytic oxidation
+DNA损伤：DNA damage
+监控系统：Monitoring system
+生态足迹：ecological footprint
+景观格局：Landscape pattern
+表面张力：surface tension
+数字图像处理：digital image processing
+土壤水分：soil moisture
+模糊综合评判：Fuzzy comprehensive evaluation
+政治文明：political civilization
+吉林省：Jilin province
+流化床：fluidized bed
+经济分析：economic analysis
+系统动力学：system dynamics
+铜绿假单胞菌：pseudomonas aeruginosa
+急性毒性：acute toxicity
+微波辐射：microwave irradiation
+预测模型：prediction model
+江苏省：Jiangsu Province
+分子动力学：molecular dynamics
+浙江省：Zhejiang province
+原油：crude oil
+公众参与：public participation
+空间分析：spatial analysis
+数据集成：Data integration
+可持续利用：Sustainable utilization
+水污染：water pollution
+正交实验：orthogonal experiment
+微波消解：Microwave digestion
+数据传输：data transmission
+对外贸易：Foreign trade
+结构分析：structure analysis
+膜污染：membrane fouling
+活性污泥：activated sludge
+自然保护区：nature reserve
+空气污染：air pollution
+串口通信：serial communication
+多孔介质：porous media
+汶川地震：Wenchuan earthquake
+硫化氢：hydrogen sulfide
+持续发展：sustainable development
+柠檬酸：citric acid
+金矿：gold deposit
+分子生物学：molecular biology
+污水处理：sewage treatment
+社会责任：social responsibility
+管理模式：Management Model
+循环伏安法：Cyclic voltammetry
+环境监测：environmental monitoring
+膜分离：Membrane separation
+相图：phase diagram
+实物期权：real option
+广东省：Guangdong Province
+动态变化：dynamic change
+乡村旅游：rural tourism
+价值工程：value engineering
+物理化学：physical chemistry
+酸雨：acid rain
+数据管理：data management
+聚乙烯醇：polyvinyl alcohol
+甲基橙：Methyl orange
+电磁兼容：electromagnetic compatibility
+清洁生产：clean production
+新技术：new technology
+复杂系统：complex system
+工程设计：engineering design
+火电厂：thermal power plant
+数学模型：Mathematical models
+传质：mass transfer
+流动注射：flow injection
+叶绿素荧光：Chlorophyll fluorescence
+环境影响评价：environmental impact assessment
+环境因子：environmental factors
+大气污染：air pollution
+接枝共聚：graft copolymerization
+南海：South China Sea
+改性沥青：modified asphalt
+循环流化床：circulating fluidized bed
+能源与动力工程：energy and power engineering
+灰色理论：Grey Theory
+模糊集：fuzzy set
+故障树：fault tree
+市场机制：market mechanism
+光催化降解：photocatalytic degradation
+有机酸：organic acid
+分离纯化：Isolation and purification
+参数识别：parameter identification
+分子量：molecular weight
+防治：prevention and cure
+膜生物反应器：membrane bioreactor
+科学发展：scientific development
+工程应用：engineering application
+动力学模型：dynamic model
+有机质：organic matter
+土地利用变化：land use change
+发展模式：development model
+冲击波：shock wave
+辽宁省：Liaoning province
+酚醛树脂：phenolic resin
+红外光谱：Infrared Spectrum
+信息不对称：asymmetric information
+荧光光谱：fluorescence spectrum
+离子色谱：ion chromatography
+存活率：survival rate
+相对湿度：relative humidity
+使用寿命：service life
+碳酸二甲酯：dimethyl carbonate
+科学发展观：scientific outlook on development
+计算流体力学：computational fluid dynamics
+生态恢复：ecological restoration
+黄河：Yellow River
+高速铁路：high-speed railway
+红壤：Red soil
+溶解氧：dissolved oxygen
+循环伏安：cyclic voltammetry
+三峡工程：Three Gorges Project
+甲基丙烯酸甲酯：methyl methacrylate
+柴达木盆地：Qaidam Basin
+催化活性：catalytic activity
+农村经济：rural economy
+环境教育：environmental education
+分子筛：Molecular sieve
+动态监测：dynamic monitoring
+稀土元素：rare earth element
+实时控制：real-time control
+绿色设计：green design
+硅橡胶：silicone rubber
+回转窑：rotary kiln
+青藏高原：Qinghai-Tibet Plateau
+博弈分析：game analysis
+紫外分光光度法：UV spectrophotometry
+电磁辐射：electromagnetic radiation
+中国特色社会主义：socialism with Chinese characteristics
+水土流失：soil erosion
+溶剂萃取：solvent extraction
+风险评价：risk evaluation
+自然资源：natural resources
+化学修饰：chemical modification
+体外：in vitro
+高等院校：colleges and universities
+地表水：surface water
+驱动力：Driving force
+基因工程：gene engineering
+染整：dyeing and finishing
+植物生长调节剂：plant growth regulator
+金属离子：Metal ions
+贵州省：Guizhou province
+四氯化碳：carbon tetrachloride
+环境质量：environmental quality
+空间变异：Spatial variability
+荧光猝灭：fluorescence quenching
+深度处理：advanced treatment
+固体超强酸：solid superacid
+孔隙结构：pore structure
+生态安全：ecological security
+光催化氧化：photocatalytic oxidation
+太湖：Taihu Lake
+小流域：small watershed
+理论模型：theoretical model
+安全评价：Safety assessment
+化学气相沉积：chemical vapor deposition
+分子识别：molecular recognition
+信息提取：information extraction
+聚合物驱：polymer flooding
+环境污染：Environment pollution
+幼苗生长：Seedling growth
+烟气：flue gas
+罗丹明B：rhodamine B
+网络优化：network optimization
+控制措施：control measure
+草酸：oxalic acid
+固相萃取：solid-phase extraction
+流动注射分析：flow injection analysis
+化学清洗：chemical cleaning
+亚甲基蓝：methylene blue
+性能试验：performance test
+城市发展：urban development
+污染控制：pollution control
+油酸：oleic acid
+生态补偿：ecological compensation
+国际合作：international cooperation
+系统模型：system model
+乙二醇：ethylene glycol
+比表面积：Specific surface area
+评价研究：Evaluation studies
+发芽率：germination rate
+青海省：Qinghai Province
+课程设计：course design
+城市道路：urban road
+离子色谱法：ion chromatography
+新形势：new situation
+厌氧消化：anaerobic digestion
+有机污染物：organic pollutants
+应急管理：emergency management
+电子束：Electron beam
+生活污水：domestic sewage
+非饱和土：unsaturated soil
+生物处理：Biological treatment
+管理机制：management mechanism
+高锰酸钾：potassium permanganate
+土壤温度：soil temperature
+粮食安全：food security
+醋酸：Acetic acid
+气体传感器：gas sensor
+自然环境：natural environment
+赤潮：red tide
+球磨机：Ball mill
+VisualBasic：Visual Basic
+分析方法：analytical method
+原子吸收光谱法：atomic absorption spectrometry
+电网：Power grid
+土壤质量：soil quality
+微波加热：microwave heating
+生产函数：production function
+湍流模型：turbulence model
+城市污水：municipal wastewater
+垂直分布：vertical distribution
+风险识别：risk identification
+催化燃烧：catalytic combustion
+胶州湾：Jiaozhou Bay
+细胞色素P450：cytochrome P450
+纹理分析：texture analysis
+土壤污染：Soil pollution
+焦化废水：coking wastewater
+固定化酶：immobilized enzyme
+集对分析：set pair analysis
+传热传质：heat and mass transfer
+双酚A：bisphenol A
+溶胶凝胶法：sol-gel method
+电子技术：electron technology
+催化光度法：catalytic spectrophotometry
+生态效应：ecological effect
+小城镇：small towns
+活性染料：reactive dye
+乙酸乙酯：ethyl acetate
+腐殖酸：humic acid
+煤气化：coal gasification
+16SrDNA：16S rDNA
+磁选：Magnetic separation
+城市森林：urban forest
+草鱼：grass carp
+氢化物发生：hydride generation
+系统开发：system development
+化学镀镍：electroless nickel plating
+电流密度：current density
+农药残留：pesticide residues
+光合细菌：photosynthetic bacteria
+腐植酸：humic acid
+承载力：carrying capacity
+钢渣：Steel slag
+化学改性：chemical modification
+水质评价：water quality assessment
+珠江三角洲：Pearl River Delta
+土壤酶：soil enzyme
+低渗透：low permeability
+水质模型：water quality model
+管理制度：management system
+3S技术：3S technology
+地质环境：geological environment
+鄱阳湖：Poyang Lake
+植酸：phytic acid
+冷却水：cooling water
+数值模型：numerical model
+化学修饰电极：Chemically modified electrode
+铜合金：copper alloy
+东海：East China Sea
+葡萄糖氧化酶：glucose oxidase
+有机碳：organic carbon
+含水率：moisture content
+优势种：dominant species
+赤泥：red mud
+东北地区：Northeast China
+工业应用：industrial application
+黑土：Black soil
+长江：Yangtze River
+渗透系数：Permeability coefficient
+贝叶斯网络：Bayesian networks
+经济价值：economic value
+紫色土：purple soil
+曝气生物滤池：Biological aerated filter
+系统优化：system optimization
+同时测定：simultaneous determination
+结构表征：structure characterization
+季铵盐：quaternary ammonium salt
+分布函数：distribution function
+分光光度法：spectrophotometric method
+原子荧光光谱法：atomic fluorescence spectrometry
+人类活动：Human activity
+趋势分析：trend analysis
+西部大开发：western development
+仿真平台：simulation platform
+抗氧化性：oxidation resistance
+有机溶剂：organic solvent
+生态城市：ecological city
+土地利用规划：land use planning
+应力松弛：stress relaxation
+森林生态系统：forest ecosystem
+公路建设：highway construction
+飞灰：fly ash
+总氮：total nitrogen
+土壤酶活性：soil enzyme activity
+过程建模：process modeling
+生长曲线：growth curve
+广州市：Guangzhou City
+模糊模式识别：fuzzy pattern recognition
+辣根过氧化物酶：horseradish peroxidase
+抗氧化酶：antioxidant enzymes
+单纯形法：Simplex Method
+景观生态：landscape ecology
+甲酸：formic acid
+聚合酶链式反应：polymerase chain reaction
+优化控制：optimal control
+非点源污染：Non-point source pollution
+重庆市：Chongqing City
+羟自由基：hydroxyl radical
+熵权：entropy weight
+生物脱氮：biological nitrogen removal
+新工艺：new technology
+颗粒污泥：granular sludge
+吸收系数：absorption coefficient
+电力：electric power
+羟基自由基：hydroxyl radical
+气流组织：air distribution
+模糊决策：fuzzy decision
+生态伦理：ecological ethics
+厌氧发酵：anaerobic fermentation
+渤海：Bohai Sea
+油罐：oil tank
+华北：North China
+生态保护：ecological protection
+生态承载力：ecological carrying capacity
+生态经济：ecological economy
+定量评价：quantitative evaluation
+硅胶：silica gel
+焦炉：Coke oven
+土地复垦：Land reclamation
+表面活性：surface activity
+回收率：recovery rate
+工程热物理：engineering thermophysics
+安全文化：safety culture
+活性炭纤维：activated carbon fiber
+毛细管气相色谱：capillary gas chromatography
+模拟实验：simulation experiment
+交通管理：traffic management
+分子量分布：molecular weight distribution
+印染废水：dyeing wastewater
+卫星遥感：satellite remote sensing
+粒度分布：particle size distribution
+稳定同位素：stable isotope
+安全工程：safety engineering
+工艺改进：Process improvement
+旅游规划：tourism planning
+东北亚：Northeast Asia
+支持向量回归：support vector regression
+法律体系：Legal system
+冻土：frozen soil
+室内空气：indoor air
+超临界水：supercritical water
+还原糖：reducing sugar
+超声提取：Ultrasonic extraction
+胜利油田：Shengli Oilfield
+社会公正：Social Justice
+开采沉陷：Mining subsidence
+定点突变：site-directed mutagenesis
+对苯二甲酸：terephthalic acid
+综合治理：comprehensive treatment
+交通噪声：traffic noise
+悬浮聚合：Suspension polymerization
+环境容量：environmental capacity
+渗透胁迫：osmotic stress
+突变理论：catastrophe theory
+旋风分离器：Cyclone separator
+经济学分析：economic analysis
+景观规划：landscape planning
+试验研究：experiment research
+综合能力：Comprehensive ability
+分子机制：molecular mechanism
+冶金技术：metallurgical technology
+硝酸：nitric acid
+阴离子表面活性剂：anionic surfactant
+运筹学：operational research
+参数优化：parameters optimization
+协同作用：synergistic effect
+灰色模型：gray model
+环境效应：environmental effect
+仿真软件：Simulation software
+中国哲学：Chinese philosophy
+土壤环境：soil environment
+海水淡化：seawater desalination
+总磷：total phosphorus
+活度系数：activity coefficient
+城市环境：urban environment
+大孔吸附树脂：macroporous adsorption resin
+和谐世界：Harmonious World
+有机废水：organic wastewater
+诱变育种：mutation breeding
+故障树分析：fault tree analysis
+置信区间：confidence interval
+中空纤维膜：hollow fiber membrane
+长江三角洲：Yangtze River Delta
+表面结构：Surface structure
+决策分析：decision analysis
+投影寻踪：projection pursuit
+生态位宽度：niche breadth
+自然灾害：natural disasters
+山东：Shandong province
+规划设计：planning design
+生态危机：ecological crisis
+氯乙烯：vinyl chloride
+环境科学：environmental science
+硬脂酸：stearic acid
+高光谱遥感：hyperspectral remote sensing
+系统发育分析：phylogenetic analysis
+酸性磷酸酶：acid phosphatase
+手性分离：chiral separation
+高效：High efficiency
+有机氯农药：Organochlorine pesticides
+发电：power generation
+数据通讯：data communication
+气相色谱-质谱：gas chromatography-mass spectrometry
+安全性评价：safety evaluation
+中空纤维：Hollow Fiber
+长白山：Changbai Mountain
+生态分布：ecological distribution
+种类组成：species composition
+模糊熵：fuzzy entropy
+汽车产业：automobile industry
+美拉德反应：Maillard reaction
+logit模型：logit model
+米糠：rice bran
+超临界二氧化碳：supercritical carbon dioxide
+水煤浆：coal water slurry
+气力输送：pneumatic conveying
+公共管理：public administration
+烟叶：Tobacco leaf
+三峡水库：Three Gorges Reservoir
+生长模型：growth model
+离子通道：ion channel
+心理问题：Psychological problems
+全球变暖：global warming
+催化裂解：catalytic cracking
+土壤种子库：Soil seed bank
+经济性分析：economic analysis
+温室气体：greenhouse gas
+矿产资源：Mineral resource
+计算机控制系统：computer control system
+生活史：life history
+发展中国家：developing country
+分离效率：separation efficiency
+功率流：power flow
+事故分析：accident analysis
+CFB锅炉：CFB boiler
+西部开发：western development
+气液两相流：gas-liquid two-phase flow
+手性拆分：Chiral separation
+专业建设：specialty construction
+人与自然：man and nature
+模拟酸雨：simulated acid rain
+腐蚀机理：corrosion mechanism
+生物接触氧化：biological contact oxidation
+金属氧化物：metal oxide
+稳定性评价：stability evaluation
+极限分析：limit analysis
+长期施肥：Long-term fertilization
+数学模拟：mathematical simulation
+时空分布：temporal and spatial distribution
+速率常数：rate constant
+稻田：paddy field
+非牛顿流体：non-Newtonian fluid
+次氯酸钠：sodium hypochlorite
+黄原胶：xanthan gum
+施工过程：construction process
+生态位重叠：niche overlap
+好氧颗粒污泥：aerobic granular sludge
+海岸带：coastal zone
+彗星试验：Comet assay
+流量：flow rate
+安全生产：safe production
+烧碱：caustic soda
+玻碳电极：Glassy carbon electrode
+热效率：heat efficiency
+农业发展：agricultural development
+生态赤字：ecological deficit
+膨胀石墨：expanded graphite
+化学分析：chemical analysis
+非恒定流：unsteady flow
+细胞壁：Cell wall
+结晶紫：crystal violet
+己二酸：adipic acid
+经济损失：economic loss
+环境分析：Environmental analysis
+农业生产：Agricultural Production
+智能节点：intelligent node
+细胞融合：cell fusion
+电除尘器：electrostatic precipitator
+钾肥：potassium fertilizer
+根系活力：Root activity
+复杂适应系统：complex adaptive system
+重金属离子：heavy metal ion
+空间变异性：spatial variability
+动力学光度法：kinetic spectrophotometry
+气候变暖：climate warming
+单晶：single crystal
+滇池：Dianchi Lake
+噪声系数：noise figure
+超声波提取：ultrasonic extraction
+社会科学：Social science
+环境成本：environmental cost
+原子吸收：atomic absorption
+光纤传感器：Fiber optic sensor
+固定相：Stationary phase
+干旱区：arid area
+兰州市：Lanzhou city
+体制创新：system innovation
+热降解：thermal degradation
+二次流：secondary flow
+大气光学：atmospheric optics
+牙鲆：Paralichthys olivaceus
+羧甲基壳聚糖：carboxymethyl chitosan
+南京市：Nanjing City
+在线测量：on-line measurement
+铜离子：copper ion
+生态因子：ecological factor
+置换通风：displacement ventilation
+压力损失：pressure loss
+居住区：residential area
+社会经济：social economy
+抑制性消减杂交：suppression subtractive hybridization
+阳离子表面活性剂：cationic surfactant
+CO2：carbon dioxide
+水解酸化：hydrolytic acidification
+水量平衡：water balance
+地表径流：surface runoff
+矿质元素：mineral element
+马尔可夫模型：Markov model
+多目标规划：multi-objective programming
+应用化学：applied chemistry
+再生水：reclaimed water
+数学规划：mathematical programming
+二氧化锰：manganese dioxide
+生态文化：ecological culture
+环境问题：environmental problems
+山梨酸：Sorbic acid
+显色反应：color reaction
+可持续发展：continuable development
+吸附机理：adsorption mechanism
+漏电流：leakage current
+细胞死亡：Cell death
+生态系统健康：ecosystem health
+能值分析：emergy analysis
+构造演化：structural evolution
+土壤微生物：Soil microbe
+工业废水：industrial wastewater
+化学工业：chemical industry
+经济政策：economic policy
+钢铁：iron and steel
+复合污染：combined pollution
+NO：nitric oxide
+大亚湾：Daya Bay
+电子密度：Electron density
+荧光检测：Fluorescence detection
+生产实践：production practice
+人参：Panax ginseng
+黄河三角洲：The Yellow River Delta
+电极材料：electrode material
+化学动力学：chemical kinetics
+生态风险：Ecological risk
+驻波：standing wave
+沉积环境：depositional environment
+烧结机：sintering machine
+速度分布：Velocity distribution
+大气环境：atmospheric environment
+不饱和聚酯：unsaturated polyester
+活性污泥法：activated sludge process
+安全分析：safety analysis
+长江口：Yangtze Estuary
+氧化亚氮：Nitrous oxide
+单细胞凝胶电泳：single cell gel electrophoresis
+微生物多样性：microbial diversity
+海水：sea water
+室内环境：Indoor Environment
+空间插值：spatial interpolation
+介孔分子筛：Mesoporous molecular sieve
+政府失灵：government failure
+生态平衡：ecological balance
+移动终端：mobile terminal
+鲫鱼：Carassius auratus
+连续小波变换：Continuous Wavelet Transform
+磷肥：phosphate fertilizer
+加油站：gas station
+三角模糊数：triangular fuzzy number
+国家利益：National interests
+投入产出分析：input-output analysis
+去除率：removal efficiency
+硫酸亚铁：ferrous sulfate
+响应面分析：response surface analysis
+黑液：black liquor
+环境地质：environmental geology
+光学特性：optical properties
+孔雀石绿：malachite green
+偶氮染料：azo dye
+服务功能：service function
+环境法：environmental law
+粒径分布：size distribution
+碘化钾：potassium iodide
+炭纤维：Carbon fiber
+共振光散射：resonance light scattering
+基础理论：basic theory
+工程实践：engineering practice
+动态测试：dynamic test
+洪水预报：flood forecasting
+建筑材料：building materials
+燃煤锅炉：coal-fired boiler
+水源热泵：water source heat pump
+电子设备：electronic equipment
+森林旅游：forest tourism
+负压：Negative pressure
+硫酸：sulphuric acid
+经济管理：economic management
+模型分析：model analysis
+气相色谱：gas chromatograph
+生态工程：ecological engineering
+残留分析：residue analysis
+防治措施：control measures
+分布规律：distribution law
+温室效应：greenhouse effect
+山区：mountain area
+松嫩平原：Songnen Plain
+无侧限抗压强度：Unconfined compressive strength
+能源消耗：energy consumption
+天然色素：natural pigment
+膜通量：Membrane flux
+液化石油气：liquefied petroleum gas
+模糊数学：fuzzy math
+环境政策：environmental policy
+江汉平原：Jianghan Plain
+血清白蛋白：Serum albumin
+农村社区：rural community
+烟气脱硫：flue gas desulphurization
+共振瑞利散射：Resonance Rayleigh Scattering
+钢铁工业：iron and steel industry
+硫含量：sulfur content
+丛枝菌根真菌：arbuscular mycorrhizal fungi
+能源结构：energy structure
+森林植被：Forest Vegetation
+氧化沟：oxidation ditch
+水环境容量：water environmental capacity
+模糊层次分析法：Fuzzy analytic hierarchy process
+综合分析：comprehensive analysis
+三峡库区：Three Gorges Reservoir
+TiO2：titanium dioxide
+快速测定：rapid determination
+水力设计：hydraulic design
+功率密度：Power density
+驱动机制：driving mechanism
+旅游开发：tourism exploitation
+地下水污染：groundwater pollution
+资源利用：resource utilization
+流变特性：rheological property
+经验公式：empirical formula
+催化精馏：catalytic distillation
+钻石模型：Diamond model
+输出功率：Output Power
+世界遗产：world heritage
+无机盐：inorganic salt
+产业竞争力：industrial competitiveness
+干密度：dry density
+黄鳝：Monopterus albus
+模糊集合：fuzzy set
+有机磷农药：Organophosphorus pesticides
+硝酸铵：ammonium nitrate
+长沙市：Changsha City
+济南市：Jinan city
+环保产业：environmental protection industry
+GIS技术：GIS technology
+有机农业：organic agriculture
+辽河油田：Liaohe Oilfield
+液膜：Liquid membrane
+Mannich反应：Mannich reaction
+麦草：wheat straw
+共混改性：blending modification
+生物除磷：biological phosphorus removal
+毛细管柱：Capillary column
+厌氧处理：anaerobic treatment
+聚丙烯腈纤维：polyacrylonitrile fiber
+无机膜：inorganic membrane
+梯度洗脱：gradient elution
+人体健康：Human health
+顺酐：maleic anhydride
+效益评价：Benefit evaluation
+土地利用结构：Land use structure
+沙尘暴：dust storm
+膜反应器：membrane reactor
+小波去噪：wavelet denoising
+数据复制：data replication
+固相微萃取：Solid-phase microextraction
+量纲分析：dimensional analysis
+燃煤电厂：coal-fired power plant
+机械强度：Mechanical strength
+火力发电厂：thermal power plant
+污水回用：wastewater reuse
+膜技术：membrane technology
+微波等离子体：microwave plasma
+生长机制：growth mechanism
+平面应变：plane strain
+水电工程：hydropower project
+黄河流域：Yellow River Basin
+粘土矿物：Clay minerals
+环境管理：environment management
+微波辅助提取：Microwave-assisted extraction
+碳酸钠：Sodium carbonate
+气含率：gas holdup
+熔融还原：smelting reduction
+工程建设：project construction
+生态系统服务：ecosystem services
+青海湖：Qinghai lake
+PCR扩增：PCR amplification
+地表温度：land surface temperature
+法律意识：legal consciousness
+情景分析：scenario analysis
+煤炭工业：coal industry
+水质分析：water quality analysis
+生长抑制：growth inhibition
+生态建筑：ecological architecture
+系统软件：system software
+综合回收：Comprehensive recovery
+荧光定量PCR：Real-time PCR
+钝顶螺旋藻：Spirulina platensis
+预测方法：prediction method
+污染土壤：contaminated soil
+催化还原：catalytic reduction
+土地覆盖：land cover
+安全防护：safety protection
+热辐射：thermal radiation
+BP模型：BP model
+地理环境：geographical environment
+低温等离子体：low temperature plasma
+Keggin结构：Keggin structure
+二硫化碳：carbon disulfide
+煤粉燃烧：pulverized coal combustion
+最小二乘支持向量机：least squares support vector machine
+食品加工：Food processing
+水资源承载力：Water resources carrying capacity
+CCD相机：CCD camera
+复合肥：compound fertilizer
+呼吸系统：respiratory system
+土地退化：land degradation
+余热锅炉：waste heat boiler
+副作用：Side effect
+雨水利用：Rainwater utilization
+微分几何：Differential geometry
+竞争比：competitive ratio
+球罐：spherical tank
+对策研究：countermeasure study
+矿井通风：mine ventilation
+黄孢原毛平革菌：Phanerochaete chrysosporium
+浅层地下水：shallow groundwater
+氯化氢：hydrogen chloride
+反应时间：reaction time
+祁连山：Qilian Mountains
+产业结构调整：industrial structure adjustment
+氯化聚乙烯：chlorinated polyethylene
+城市热岛：urban heat island
+螺旋藻：Spirulina platensis
+传质系数：mass transfer coefficient
+多环芳烃：polycyclic aromatic hydrocarbons(PAHs)
+噪声污染：noise pollution
+金属元素：metal element
+流程模拟：process simulation
+硫酸氢钠：sodium bisulfate
+室内空气污染：indoor air pollution
+生态价值：ecological value
+土壤类型：soil type
+风险因素：risk factor
+耦合分析：coupling analysis
+表层沉积物：surface sediment
+膜分离技术：membrane separation technology
+推理机：reasoning machine
+社区发展：Community development
+颗粒物：Particulate matter
+事故预防：Accident prevention
+政策选择：Policy Choice
+环境变化：Environmental change
+计算智能：computational intelligence
+土壤水：soil water
+红粘土：red clay
+反应条件：reaction condition
+丙烯酸甲酯：methyl acrylate
+加氢催化剂：hydrogenation catalyst
+燃烧控制：combustion control
+PLC控制系统：PLC Control System
+基体改进剂：Matrix modifier
+面源污染：non-point source pollution
+尾气：tail gas
+生活饮用水：drinking water
+噪声源：noise source
+反硝化除磷：Denitrifying phosphorus removal
+创新意识：innovative consciousness
+气体交换：gas exchange
+含油量：oil content
+反相乳液聚合：inverse emulsion polymerization
+可持续性发展：sustainable development
+多元统计分析：multivariate statistical analysis
+塔里木盆地：the Tarim Basin
+固定化细胞：immobilized cell
+痕量分析：trace analysis
+土壤质地：soil texture
+可行性研究：feasibility research
+理论体系：theory system
+能量密度：energy density
+黄海：Yellow Sea
+转移概率：transition probability
+神经网络模型：Neural Network model
+Fourier级数：Fourier series
+土壤改良：soil improvement
+环境风险：environmental risk
+H2O2：hydrogen peroxide
+混合溶剂：mixed solvent
+城市土壤：Urban soil
+海洋经济：marine economy
+危险性评估：Risk assessment
+制约因素：restrictive factor
+发达国家：Developed country
+主成份分析：principal component analysis
+降解机理：degradation mechanism
+氧化动力学：Oxidation Kinetics
+研究方向：research direction
+随机数：random number
+设计洪水：design flood
+微波辐照：microwave irradiation
+紫外辐射：ultraviolet radiation
+废气：waste gas
+转移矩阵：transfer matrix
+氯乙酸：chloroacetic acid
+中性红：Neutral Red
+模糊规划：fuzzy programming
+氢氧化铝：Aluminum hydroxide
+污水处理厂：sewage treatment plant
+矿业城市：mining city
+催化动力学光度法：catalytic kinetic spectrophotometry
+离心风机：centrifugal fan
+矿井水：mine water
+光化学反应：photochemical reaction
+废纸：waste paper
+标准偏差：standard deviation
+中子活化分析：Neutron activation analysis
+微生物群落：microbial community
+膜电位：membrane potential
+酶电极：enzyme electrode
+西方马克思主义：Western Marxism
+氧化铝：aluminum oxide
+粉末涂料：powder coatings
+理化性质：physicochemical property
+建筑企业：construction enterprises
+自来水：Tap water
+自动监测：Automatic monitoring
+华北平原：North China Plain
+沸点：Boiling point
+BP人工神经网络：BP artificial neural network
+环境意识：environmental awareness
+结构稳定性：structural stability
+水质污染：water pollution
+政策体系：policy system
+中国西部：Western China
+HepG2细胞：HepG2 cell
+人工湿地：artificial wetland
+超临界水氧化：Supercritical Water Oxidation
+冲击韧度：impact toughness
+隔声：sound insulation
+巢湖：Chaohu Lake
+密云水库：Miyun reservoir
+决策树：decision trees
+自由贸易：free trade
+压缩空气：compressed air
+二元结构：dual structure
+化工：chemical industry
+生活垃圾：municipal solid waste
+排放因子：emission factor
+群落多样性：community diversity
+工控机：industrial control computer
+钼酸铵：ammonium molybdate
+营养成分：nutrient composition
+啤酒酵母：beer yeast
+电力企业：Electric power enterprise
+生长率：growth rate
+简化模型：simplified model
+种间竞争：interspecific competition
+燃料油：fuel oil
+源解析：source apportionment
+贵金属：noble metal
+复混肥：compound fertilizer
+有机污染：organic pollution
+室内空气质量：indoor air quality
+生态美学：ecological aesthetics
+界面聚合：interfacial polymerization
+化学氧化：chemical oxidation
+酶活性：enzymatic activity
+氧化铁：Ferric oxide
+丝织物：silk fabric
+强磁场：high magnetic field
+全球气候变化：global climate change
+质粒DNA：Plasmid DNA
+质量检验：quality inspection
+灌区：irrigation area
+可持续农业：Sustainable Agriculture
+生态工业园：eco-industrial park
+线性回归模型：linear regression model
+差分法：difference method
+危害分析：hazard analysis
+特征参数：characteristic parameters
+安全体系：security system
+红外传感器：infrared sensor
+城市边缘区：urban fringe
+青岛市：Qingdao City
+性别决定：Sex determination
+协调发展：coordinative development
+流态：flow pattern
+离子选择性电极：ion-selective electrode
+沈阳市：Shenyang city
+氧指数：oxygen index
+农业可持续发展：agricultural sustainable development
+人体：human body
+渤海湾：Bohai bay
+嵌入式计算机：embedded computer
+动网格：dynamic mesh
+余热：waste heat
+纳米碳管：carbon nanotube
+施工期：construction period
+风蚀：wind erosion
+抗氧化系统：antioxidant system
+模拟试验：simulation experiment
+杭州湾：Hangzhou Bay
+极限平衡：limit equilibrium
+岩石边坡：rock slope
+概率分析：Probability analysis
+项目评价：project evaluation
+胡锦涛：HU Jintao
+灰色关联分析：grey relation analysis
+硝酸银：silver nitrate
+洁净煤技术：clean coal technology
+离子强度：ionic strength
+水体污染：water pollution
+持续利用：Sustainable utilization
+经济绩效：economic performance
+污泥减量：sludge reduction
+同步硝化反硝化：simultaneous nitrification and denitrification
+超临界流体：supercritical fluids
+零排放：zero discharge
+石墨电极：Graphite electrode
+环境激素：environmental hormone
+水电开发：hydropower development
+南海北部：northern South China Sea
+生理生化指标：physiological and biochemical index
+三磷酸腺苷：adenosine triphosphate
+公共治理：Public governance
+肾小管上皮细胞：renal tubular epithelial cell
+应急预案：emergency Plan
+环境工程：environment engineering
+实验教学体系：experimental teaching system
+气体水合物：gas hydrate
+安全教育：safety education
+扩散模型：diffusion model
+海洋工程：ocean engineering
+衰减系数：attenuation coefficient
+急性中毒：Acute poisoning
+工会：trade unions
+含沙量：sediment concentration
+等效电路模型：equivalent circuit model
+棉田：cotton field
+气候特征：climatic characteristics
+屈曲分析：buckling analysis
+响应面分析法：Response surface methodology
+支持向量机(SVM)：support vector machine(SVM)
+对数正态分布：lognormal distribution
+性能化设计：performance-based design
+投入产出模型：input-output model
+成都市：Chengdu City
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+空间分布：space distribution
+干热河谷：dry-hot valley
+创新系统：innovation system
+内在价值：intrinsic value
+集成控制：integrated control
+菲律宾蛤仔：Ruditapes philippinarum
+公路工程：highway project
+联合毒性：joint toxicity
+化学法：chemical method
+天然沸石：natural zeolite
+膜清洗：membrane cleaning
+污染治理：pollution treatment
+黄色素：yellow pigment
+FLUENT软件：FLUENT software
+光合色素：photosynthetic pigment
+硫酸铜：Copper sulfate
+风场：wind field
+主要问题：Main problems
+磁性材料：magnetic materials
+管理体制：administration system
+高羊茅：Festuca arundinacea
+全球治理：global governance
+遥感技术：remote sensing technique
+动力学参数：kinetic parameter
+苗族：Miao nationality
+淮河流域：Huaihe River Basin
+乳酸发酵：lactic acid fermentation
+酒石酸：tartaric acid
+改性膨润土：modified bentonite
+矢量数据：vector data
+管道输送：pipeline transportation
+停留时间分布：residence time distribution
+管网：pipe network
+造纸废水：papermaking wastewater
+醋酸乙烯：vinyl acetate
+光纤传感：optical fiber sensing
+理论框架：theoretical framework
+技术发展：technology development
+表面吸附：Surface adsorption
+混合模型：hybrid model
+钻井工程：drilling engineering
+相对分子质量：relative molecular mass
+管理措施：Management measures
+催化机理：catalytic mechanism
+安全措施：safety measure
+预警系统：warning system
+石化企业：Petrochemical Enterprise
+TOPSIS法：TOPSIS method
+TM影像：TM image
+Mie散射：Mie scattering
+种子发芽：Seed germination
+石灰性土壤：calcareous soil
+数据组织：data organization
+浊点萃取：cloud point extraction
+离子交换膜：ion exchange membrane
+铜粉：copper powder
+污泥膨胀：sludge bulking
+化学工程：chemical engineering
+实证分析：demonstration analysis
+鸡粪：chicken manure
+离子选择电极：ion-selective electrode
+施工设计：construction design
+应急物流：emergency logistics
+游离氨基酸：free amino acids
+数学建模：mathematics modeling
+吸收剂量：absorbed dose
+住宅小区：Residential district
+氯离子：chlorine ion
+三价铬：trivalent chromium
+浓度场：concentration field
+珠三角：Pearl River Delta
+景观结构：Landscape structure
+区域竞争力：regional competitiveness
+厄尔尼诺：El Nino
+SIMPLE算法：SIMPLE algorithm
+社会问题：social problem
+技术扩散：Technology diffusion
+抗性基因：resistance gene
+合作机制：cooperation mechanism
+结构学习：Structure learning
+漏风：air leakage
+胞外多糖：extracellular polysaccharide
+枯草杆菌：Bacillus subtilis
+富马酸：Fumaric acid
+聚偏氟乙烯：polyvinylidene fluoride
+能量回收：energy recovery
+热释放速率：heat release rate
+GC-MS分析：GC-MS analysis
+余热回收：waste heat recovery
+声波：Sound wave
+新模式：new mode
+人口增长：population growth
+傅里叶级数：fourier series
+物质文明：material civilization
+工艺优化：technology optimization
+流场：fluid field
+生态系统管理：ecosystem management
+规整填料：structured packing
+含能材料：energetic materials
+模板法：template method
+原子吸收分光光度法：atomic absorption spectrophotometry
+六价铬：hexavalent chromium
+石羊河流域：Shiyang River basin
+污泥处理：sludge treatment
+废塑料：waste plastics
+录井：mud logging
+开封市：Kaifeng City
+分子机理：molecular mechanism
+数据建模：data modeling
+消防安全：fire safety
+创新管理：innovation management
+人员素质：personnel quality
+土壤酸化：soil acidification
+随机建模：Stochastic Modeling
+环境影响：environmental influence
+Plackett-Burman设计：Plackett-Burman design
+污泥脱水：sludge dewatering
+CO_2：carbon dioxide
+电场强度：electric field strength
+Q235钢：Q235 steel
+环境风险评价：Environmental risk assessment
+水资源保护：water resources protection
+大直径：Large diameter
+氧化脱硫：oxidative desulfurization
+焙烧温度：calcination temperature
+生态系统服务功能：ecosystem services
+分配系数：distribution coefficient
+软启动：soft start
+电磁流量计：electromagnetic flowmeter
+声场：sound field
+报警系统：alarm system
+清洁能源：clean energy
+群落演替：community succession
+SD卡：SD card
+年代际变化：interdecadal variation
+环境地球化学：environmental geochemistry
+气象条件：meteorological conditions
+污染指数：pollution index
+能量效率：energy efficiency
+健康风险评价：health risk assessment
+动力学方程：dynamic equation
+油膜：oil film
+科学内涵：scientific connotation
+分类体系：classification system
+社会评价：social evaluation
+N-S方程：N-S equations
+法律控制：Legal Control
+接枝聚合：graft polymerization
+油气田：oil and gas field
+化学处理：chemical treatment
+呼吸速率：respiration rate
+亚硫酸钠：sodium sulfite
+食物链：food chain
+气田：gas field
+土壤盐渍化：soil salinization
+大气校正：atmospheric correction
+地下水系统：groundwater system
+产氢：hydrogen production
+填料塔：packed column
+厌氧颗粒污泥：anaerobic granular sludge
+外观质量：appearance quality
+清洁燃料：clean fuel
+丁基橡胶：butyl rubber
+培养基优化：medium optimization
+节能技术：energy-saving technology
+加氢反应器：Hydrogenation reactor
+基因组文库：Genomic library
+自然选择：natural selection
+水库调度：reservoir operation
+行为经济学：behavioral economics
+电动自行车：electric bicycle
+水下航行器：underwater vehicle
+火灾报警：fire alarm
+土壤修复：soil remediation
+火焰原子吸收法：flame atomic absorption spectrometry
+生态风险评价：ecological risk assessment
+污水污泥：sewage sludge
+注水：water flooding
+火灾调查：fire investigation
+低压：low pressure
+城市林业：urban forestry
+研究设计：research design
+饮水：drinking water
+电化学还原：Electrochemical reduction
+南水北调：south-to-north water transfer project
+有色金属：nonferrous metals
+磁处理：magnetic treatment
+有丝分裂指数：mitotic index
+蚕豆：broad bean
+模块设计：Module Design
+植被演替：vegetation succession
+主成分：Principal component
+太湖流域：Taihu basin
+生物质气化：biomass gasification
+系统安全：system safety
+管理方法：management method
+空气品质：air quality
+WTO规则：WTO rules
+生理响应：physiological response
+联系数：connection number
+好氧反硝化：aerobic denitrification
+中国林蛙：Rana chensinensis
+空气净化：Air purification
+孔雀绿：malachite green
+固液分离：Solid-Liquid Separation
+游离甲醛：free formaldehyde
+徐州市：Xuzhou City
+改性淀粉：modified starch
+电石渣：carbide slag
+化学沉淀法：chemical precipitation
+安全监控：safety monitoring
+从头算：ab initio calculation
+热电厂：thermal power plant
+可持续发展战略：sustainable development strategy
+石化工业：petrochemical industry
+散射系数：scattering coefficient
+初级生产力：Primary productivity
+内阻：internal resistance
+烟台市：Yantai City
+潜热：latent heat
+氢氟酸：hydrofluoric acid
+事故树：fault tree
+水质预测：water quality prediction
+硫酸铝：aluminum sulfate
+合理利用：Rational utilization
+流场分析：flow field analysis
+灰色聚类：grey clustering
+瑞利散射：Rayleigh scattering
+穿透曲线：breakthrough curve
+超声空化：ultrasonic cavitation
+停留时间：residence time
+中水回用：reclaimed water reuse
+降解动力学：degradation kinetics
+工业试验：Industrial test
+甲基紫：methyl violet
+合肥市：Hefei City
+游离脯氨酸：free proline
+北部湾：Beibu Gulf
+切削液：cutting fluid
+层次分析法(AHP)：analytic hierarchy process(AHP)
+氮肥：N fertilizer
+组织管理：organization and management
+大气边界层：atmospheric boundary layer
+抽水试验：pumping test
+水热稳定性：hydrothermal stability
+校园环境：campus environment
+遗传程序设计：genetic programming
+统计分布：statistical distribution
+在线学习：online learning
+阳极溶出伏安法：anodic stripping voltammetry
+民航：Civil Aviation
+铅离子：lead ion
+处理工艺：Treatment process
+胜坨油田：Shengtuo Oilfield
+天津市：Tianjin City
+熔化温度：melting temperature
+单细胞蛋白：single cell protein
+白腐菌：white rot fungus
+污染负荷：pollution load
+固态发酵：solid fermentation
+粒径：particle diameter
+粉末活性炭：powdered activated carbon
+酸性染料：acid dyes
+土壤剖面：soil profile
+螯合树脂：chelating resin
+水源：water source
+成分分析：composition analysis
+氯化锌：zinc chloride
+洪水灾害：flood disaster
+风向：wind direction
+综合性实验：Comprehensive experiment
+区域开发：regional development
+硫磺回收：sulfur recovery
+石墨炉原子吸收法：Graphite furnace atomic absorption spectrometry
+热带假丝酵母：Candida tropicalis
+城市垃圾：municipal solid waste
+吸附热力学：adsorption thermodynamics
+刚果红：congo red
+动态预测：dynamic prediction
+工业以太网：Industry Ethernet
+文化环境：cultural environment
+印刷电路板：printed circuit board
+模糊概率：fuzzy probability
+辩证统一：dialectical unity
+酵母双杂交系统：Yeast two-hybrid system
+离体：in vitro
+物元分析：matter element analysis
+阳离子聚丙烯酰胺：cationic polyacrylamide
+除铁：iron removal
+热平衡：thermal balance
+石煤：stone coal
+环境信息：environmental information
+吸声系数：sound absorption coefficient
+木本植物：woody plants
+过程集成：process integration
+青海：Qinghai Province
+煤气：coal gas
+职业病：Occupational disease
+彗星实验：Comet Assay
+重心：center of gravity
+支撑体系：support system
+制度改革：system reform
+中央政府：central government
+表面自由能：surface free energy
+傅里叶变换红外光谱：Fourier Transform Infrared Spectroscopy
+染料废水：dyeing wastewater
+土壤性质：soil property
+剩余污泥：excess sludge
+中水：reclaimed water
+电位滴定法：Potentiometric titration
+水力停留时间：hydraulic retention time
+碳酸钾：potassium carbonate
+厌氧氨氧化：anaerobic ammonium oxidation
+聚丙烯酸钠：sodium polyacrylate
+矿物油：mineral oil
+高分辨：high resolution
+回流比：reflux ratio
+等离子弧：plasma arc
+竞争吸附：competitive adsorption
+水污染控制：water pollution control
+松花江：Songhua River
+余氯：Residual chlorine
+社会成本：social cost
+系统维护：system maintenance
+城乡居民：urban and rural residents
+非正规就业：informal employment
+零价铁：zero-valent iron
+控制因素：control factor
+矿山安全：mine safety
+羧甲基淀粉：carboxymethyl starch
+综合开发：comprehensive development
+应急监测：emergency monitoring
+SO2：sulfur dioxide
+湿地生态系统：wetland ecosystem
+植被覆盖度：vegetation coverage
+自然景观：natural landscape
+物相分析：phase analysis
+褐煤：brown coal
+分形结构：fractal structure
+自组织临界性：self-organized criticality
+有效供给：effective supply
+技术预见：technology foresight
+防水涂料：waterproof coating
+酸处理：acid treatment
+电气控制：electrical control
+转速：rotating speed
+痕量元素：trace element
+聚对苯二甲酸乙二醇酯：Poly(ethylene terephthalate)
+磷矿：phosphate rock
+超氧化物歧化酶(SOD)：superoxide dismutase(SOD)
+金相分析：metallographic analysis
+陆地生态系统：terrestrial ecosystem
+绿色施工：green construction
+表面电荷：surface charge
+香根草：vetiveria zizanioides
+水头损失：head loss
+城市化水平：urbanization level
+鱼粉：fish meal
+吐哈油田：Tuha oilfield
+湿地资源：wetland resources
+煤沥青：coal tar pitch
+混合培养：mixed culture
+单宁酸：tannic acid
+石墨炉：graphite furnace
+聚醚多元醇：Polyether polyol
+饮用水处理：drinking water treatment
+反应级数：reaction order
+绿色技术：green technology
+核安全：nuclear safety
+环境规制：environmental regulation
+杭州市：Hangzhou city
+重复博弈：repeated game
+时空：time and space
+塔里木河流域：Tarim River Basin
+自然生态：natural ecology
+政策支持：Policy support
+实时传输：real-time transmission
+影响因子：influence factors
+背景噪声：background noise
+应急响应：emergency response
+羧甲基纤维素：carboxymethyl cellulose
+微波技术：microwave technology
+设计模型：design model
+原子荧光法：atomic fluorescence spectrometry
+循环水系统：circulating water system
+人为干扰：human disturbance
+叶绿素荧光参数：chlorophyll fluorescence parameters
+西安市：Xi'an city
+需水量：water requirement
+粗糙度：surface roughness
+吸附容量：adsorption capacity
+指标权重：index weight
+植物生长：plant growth
+无机氮：inorganic nitrogen
+植物纤维：plant fiber
+数值研究：numerical study
+生物多样性保护：biodiversity conservation
+气泡：air bubble
+湿地公园：wetland park
+分子生态学：molecular ecology
+粉尘爆炸：dust explosion
+绿色经济：green economy
+多孔淀粉：porous starch
+能量分析：energy analysis
+接枝改性：graft modification
+实验教学改革：experimental teaching reform
+分形模型：fractal model
+煤矿开采：coal mining
+排污权交易：Emission trading
+农业非点源污染：agricultural non-point source pollution
+低浓度：low concentration
+废气处理：waste gas treatment
+连接性指数：connectivity index
+根系形态：root morphology
+丹江口水库：Danjiangkou reservoir
+环境管理体系：environmental management system
+A/O工艺：A/O process
+片上系统：system on chip
+新城市主义：New urbanism
+暗物质：dark matter
+官厅水库：Guanting Reservoir
+ZSM-5分子筛：ZSM-5 zeolite
+污染源：pollution sources
+在线分析：on-line analysis
+茶皂素：tea saponin
+战略环境评价：strategic environmental assessment
+硫酸锰：manganese sulfate
+碳源：carbon sources
+普鲁士蓝：Prussian blue
+催化分解：catalytic decomposition
+喀斯特地区：karst area
+进化树：Phylogenetic tree
+水安全：water security
+运行优化：Operation optimization
+影响系数：influence coefficient
+氮沉降：nitrogen deposition
+巨大芽孢杆菌：Bacillus megaterium
+水市场：water market
+内生增长：endogenous growth
+社会契约：social contract
+非传统安全：non-traditional security
+真空蒸馏：vacuum distillation
+大气气溶胶：atmospheric aerosol
+黄浦江：Huangpu River
+邻苯二甲酸二丁酯：dibutyl phthalate
+活性炭吸附：activated carbon adsorption
+烟道气：flue gas
+氧化钴：cobalt oxide
+常温：Room temperature
+硫铝酸盐水泥：sulphoaluminate cement
+氧化亚铜：cuprous oxide
+政府政策：government policy
+实例推理：Case-based reasoning
+水源水：source water
+临界速度：critical velocity
+临沂市：Linyi City
+混沌优化：Chaotic optimization
+富里酸：fulvic acid
+生化组成：biochemical composition
+公共健康：public health
+中肋骨条藻：Skeletonema costatum
+冶金性能：metallurgical property
+有机物：organic compounds
+毒性试验：toxicity test
+土地整理：Land arrangement
+硫化钠：sodium sulfide
+水蒸气：Water Vapor
+恢复生态学：restoration ecology
+旋转填料床：rotating packed bed
+转炉煤气：converter gas
+浊点：cloud point
+奥运：olympic games
+天然水：natural water
+潮滩：tidal flat
+克氏原螯虾：Procambarus clarkii
+随机游走：random walk
+分析系统：analysis system
+MCF-7细胞：MCF-7 cells
+清洗剂：cleaning agent
+生态经济系统：Eco-economic system
+处理方法：processing method
+富集因子：enrichment factor
+氯化铁：ferric chloride
+金沙江：Jinsha River
+淡水鱼：freshwater fish
+噪声预测：noise prediction
+萼花臂尾轮虫：Brachionus calyciflorus
+扎龙湿地：Zhalong Wetland
+协同萃取：synergistic extraction
+二甘醇：diethylene glycol
+驱动因子：driving factors
+观赏植物：ornamental plants
+经济环境：economic environment
+法律对策：legal countermeasures
+石油磺酸盐：petroleum sulfonate
+中华稻蝗：Oxya chinensis
+水力负荷：hydraulic loading
+碱回收：alkali recovery
+垃圾焚烧：waste incineration
+反胶束：Reverse micelle
+超临界CO2：supercritical CO_2
+浮选药剂：Flotation reagent
+荧光假单胞菌：Pseudomonas fluorescens
+紫花苜蓿：Medicago sativa L
+熵权法：Entropy method
+控制方案：control scheme
+秋茄：Kandelia candel
+基因组DNA：genome DNA
+塔玛亚历山大藻：Alexandrium tamarense
+光程差：Optical path difference
+盲信号分离：Blind source separation
+VisualFoxPro：Visual FoxPro
+浓差极化：concentration polarization
+战略措施：strategic measures
+塔克拉玛干沙漠：Taklimakan Desert
+公用事业：public utility
+资源环境：resources and environment
+SBR工艺：SBR process
+水泥工业：cement industry
+多晶硅：polycrystalline silicon
+崇明岛：Chongming Island
+趋势面分析：trend surface analysis
+成都平原：Chengdu plain
+微生物生物量：microbial biomass
+高分子化学：polymer chemistry
+综合实验：comprehensive experiment
+空间差异：spatial difference
+植物群落：plant communities
+地下水库：groundwater reservoir
+传热特性：heat transfer characteristics
+分离技术：Separation technology
+氮平衡：nitrogen balance
+单线态氧：Singlet oxygen
+公路网规划：highway network planning
+初始条件：initial condition
+精炼渣：refining slag
+环境磁学：environmental magnetism
+重金属污染：heavy metals pollution
+炉外精炼：secondary refining
+铅污染：lead pollution
+湿法炼锌：zinc hydrometallurgy
+非离子表面活性剂：non-ionic surfactant
+硫铁矿烧渣：Pyrite cinder
+水玻璃：Sodium silicate
+测量方法：measurement methods
+二甲酚橙：xylenol orange
+煤焦：coal char
+遗传神经网络：genetic neural network
+制革废水：tannery wastewater
+吸附平衡：Adsorption equilibrium
+蜡状芽孢杆菌：Bacillus cereus
+晶格畸变：lattice distortion
+分子连接性指数：molecular connectivity index
+集成技术：integrated technology
+水平衡：water balance
+荧光强度：Fluorescence Intensity
+评估模型：assessment model
+道路照明：road lighting
+空中交通管理：air traffic management
+绿肥：Green manure
+水文化：Water culture
+噪声测量：noise measurement
+南阳市：Nanyang city
+模糊评估：fuzzy evaluation
+中国政府：Chinese government
+重铬酸钾：potassium dichromate
+京都议定书：Kyoto Protocol
+品质控制：quality control
+复合粒子：composite particle
+城市河流：urban river
+烟曲霉：Aspergillus fumigatus
+早古生代：Early Paleozoic
+升温速率：heating rate
+遥感信息：remote sensing information
+分子间相互作用：intermolecular interaction
+水力特性：hydraulic characteristic
+钱塘江：Qiantang River
+地方性知识：local knowledge
+剪切力：shear stress
+压载水：ballast water
+地震灾害：Seismic disaster
+菌根真菌：Mycorrhizal fungi
+安培检测：Amperometric detection
+养分流失：Nutrient loss
+生态哲学：ecological philosophy
+小麦淀粉：Wheat starch
+核反应堆：nuclear reactor
+规模效应：scale effect
+后验概率：posterior probability
+热胁迫：Heat stress
+催化湿式氧化：Catalytic wet air oxidation
+测定方法：measuring method
+化学性质：Chemical properties
+余热利用：waste heat utilization
+乙醇发酵：ethanol fermentation
+可膨胀石墨：expandable graphite
+降滤失剂：filtrate reducer
+Pd/C催化剂：Pd/C catalyst
+结合常数：Binding constant
+环境安全：environmental safety
+氰化浸出：cyanide leaching
+墙体材料：wall material
+丝状真菌：filamentous fungi
+表面性质：surface property
+鲢鱼：Silver carp
+土地利用/覆被变化：land use/cover change
+Fenton反应：Fenton reaction
+石油工程：petroleum engineering
+高尔夫球场：Golf course
+景观多样性：landscape diversity
+土地开发：land development
+农村工业化：rural industrialization
+尾矿坝：tailing dam
+激励相容：incentive compatibility
+醋酸纤维素：cellulose acetate
+煤炭开采：coal mining
+石油库：oil depot
+双极膜：bipolar membrane
+十六烷基三甲基溴化铵：cetyltrimethylammonium bromide
+多相流：multi-phase flow
+工业生态学：Industrial ecology
+异养细菌：Heterotrophic bacteria
+地球系统科学：earth system science
+密度分布：density distribution
+硝化抑制剂：nitrification inhibitor
+磁分离：magnetic separation
+绿脓杆菌：Pseudomonas aeruginosa
+夹点技术：pinch technology
+土壤微生物量：Soil microbial biomass
+遥感数据：remote sensing data
+渣浆泵：slurry pump
+发酵动力学：fermentation kinetics
+农药废水：pesticide wastewater
+技术方案：technical scheme
+恒温：constant temperature
+信息扩散：Information diffusion
+H_2O_2：hydrogen peroxide
+流动分析：flow analysis
+莱州湾：Laizhou Bay
+空间尺度：Spatial scale
+淀粉废水：starch wastewater
+草地生态系统：grassland ecosystem
+移动床：moving bed
+烟煤：bituminous coal
+工程技术：engineering technology
+传质模型：mass transfer model
+质量信息：quality information
+洁净室：clean room
+水力模型：hydraulic model
+缙云山：Jinyun Mountain
+环境税：environmental tax
+人口密度：population density
+实验经济学：experimental economics
+阻塞率：blocking probability
+发芽指数：Germination index
+生态重建：ecological reconstruction
+回收利用：recovery and utilization
+样品前处理：sample pretreatment
+动态：dynamic state
+石油烃：petroleum hydrocarbon
+废渣：waste residue
+生长效应：growth effect
+离子膜：ion-exchange membrane
+静电除尘器：electrostatic precipitator
+敏感度分析：sensitivity analysis
+二氧化氮：nitrogen dioxide
+氯化亚铜：cuprous chloride
+腐蚀磨损：corrosive wear
+江苏油田：Jiangsu oilfield
+官能团：functional group
+南水北调工程：South-to-north Water Transfer Project
+哈尔滨市：Harbin City
+氧化降解：Oxidative degradation
+运行维护：operation and maintenance
+HSE管理：HSE management
+半衰期：half life
+监测数据：monitoring data
+气象要素：meteorological element
+绿色产业：green industry
+有机化合物：organic compound
+集成创新：integrated innovation
+苹果园：apple orchard
+特性参数：characteristic parameter
+系统规划：system planning
+喀斯特石漠化：Karst rocky desertification
+施工设备：construction equipment
+机会约束规划：chance-constrained programming
+絮凝活性：flocculating activity
+邻苯二甲酸酯：phthalate esters
+绿色开采：green mining
+溶出伏安法：stripping voltammetry
+退耕还林：returning farmland to forest
+生物制氢：biohydrogen production
+荧光淬灭：fluorescence quenching
+玉米淀粉：maize starch
+过碳酸钠：sodium percarbonate
+微生物絮凝剂：microbial flocculants
+水葫芦：water hyacinth
+共沸蒸馏：azeotropic distillation
+自组织理论：self-organization theory
+吹扫捕集：Purge and trap
+事故树分析：Fault Tree Analysis
+热水：hot water
+防控：prevention and control
+甲基红：methyl red
+海湾扇贝：Argopecten irradians
+生态控制：ecological control
+抗性机制：resistance mechanism
+网络编程：network programming
+次生代谢：secondary metabolism
+并联运行：parallel operation
+石油污染：oil pollution
+质量浓度：Mass concentration
+光污染：light pollution
+有机改性：organic modification
+人类健康：human health
+白色污染：white pollution
+培养条件：cultural condition
+褐土：Cinnamon soil
+铁粉：iron powder
+氮源：nitrogen sources
+土地沙漠化：land desertification
+好氧处理：aerobic treatment
+生态评价：ecological evaluation
+退化生态系统：degraded ecosystem
+比较法：comparative law
+继续教育：continual education
+酸性土壤：acid soil
+中国北方：North China
+方案选择：scheme selection
+互动式教学：Interactive teaching
+防灾减灾：disaster prevention and reduction
+耐火极限：fire resistance
+虾夷扇贝：Patinopecten yessoensis
+Web系统：Web system
+环境样品：Environmental samples
+海绵铁：sponge iron
+k-ε模型：k-ε model
+挥发性有机化合物：volatile organic compounds
+生长动力学：growth kinetics
+硫回收：sulfur recovery
+消毒副产物：disinfection by-products
+状态空间法：state space method
+人居环境：human settlement environment
+拜耳法：Bayer process
+占空比：Duty ratio
+应急机制：emergency mechanism
+磁性纳米粒子：Magnetic nanoparticles
+补偿标准：compensation standard
+棕壤：brown soil
+氧化机理：oxidation mechanism
+光谱反射率：spectral reflectance
+地震应急：earthquake emergency
+含盐量：salt content
+海洋微藻：marine microalgae
+油田采出水：oilfield produced water
+UDP协议：UDP protocol
+先进技术：advanced technology
+磺基水杨酸：sulfosalicylic acid
+耗氧量：oxygen consumption
+污染评价：Pollution evaluation
+珠江：Pearl River
+膜萃取：membrane extraction
+热值：calorific value
+评定方法：evaluation method
+机理模型：mechanism model
+脱乙酰度：degree of deacetylation
+苏州河：Suzhou Creek
+生存环境：living environment
+水质净化：water purification
+动态吸附：dynamic adsorption
+非线性吸收：nonlinear absorption
+火电机组：thermal power unit
+陕西省：Shanxi Province
+控制论：control theory
+保护利用：protection and utilization
+生态适应：Ecological adaptation
+森林健康：Forest health
+汛期：flood season
+管理理念：management concept
+公平与效率：fairness and efficiency
+物理机制：physical mechanism
+群众路线：the mass line
+高寒草地：alpine grassland
+三聚磷酸钠：sodium tripolyphosphate
+化学还原：chemical reduction
+火焰温度：flame temperature
+自控系统：automatic control system
+化学形态：chemical speciation
+示范工程：demonstration project
+浸出毒性：leaching toxicity
+变性梯度凝胶电泳：denaturing gradient gel electrophoresis
+离子交换纤维：ion exchange fiber
+道路网络：road network
+三聚氯氰：cyanuric chloride
+脱氢酶活性：dehydrogenase activity
+钛白粉：titanium dioxide
+无锡市：Wuxi City
+减压蒸馏：vacuum distillation
+四氯化钛：titanium tetrachloride
+三江平原：the Sanjiang Plain
+工程分析：engineering analysis
+低表面能：low surface energy
+多相流动：multiphase flow
+ζ电位：ζ potential
+河网：river network
+水系：water system
+滇西：western Yunnan
+短小芽孢杆菌：bacillus pumilus
+细菌多样性：Bacterial diversity
+气体分析：gas analysis
+元素地球化学：element geochemistry
+尖点突变：cusp catastrophe
+后向散射系数：backscattering coefficient
+河北平原：Hebei plain
+包膜尿素：coated urea
+优势种群：dominant population
+哲学思考：philosophical thinking
+切换控制：Switching control
+经济制度：economic system
+水质模拟：water quality simulation
+Elman网络：Elman network
+水库移民：reservoir resettlement
+选址模型：location model
+特种设备：Special equipment
+紫外光：UV light
+多壁碳纳米管：multi-walled carbon nanotube
+视频监控系统：video monitoring system
+菌种鉴定：strain identification
+防治对策：control countermeasure
+气浮：air flotation
+正交试验法：orthogonal experiment
+液位控制：liquid level control
+沉水植物：Submerged macrophyte
+变频控制：frequency conversion control
+节水：water conservation
+膜厚：film thickness
+莲藕：lotus root
+生物资源：biological resources
+真空蒸发：vacuum evaporation
+地热水：geothermal water
+计量模型：econometric model
+疏水缔合：Hydrophobic association
+南通市：Nantong city
+减灾：disaster reduction
+三氯氧磷：phosphorus oxychloride
+植被盖度：vegetation coverage
+生态产业：Ecological industry
+人类社会：human society
+潮土：fluvo-aquic soil
+城市生态：urban ecology
+行政补偿：administrative compensation
+最优策略：optimal strategy
+人口城市化：Population Urbanization
+不完全契约：incomplete contract
+同伦方法：homotopy method
+马克思主义中国化：Marxism in China
+黏土矿物：clay mineral
+改性沸石：modified zeolite
+世界观：world view
+气溶胶光学厚度：Aerosol optical depth
+矿区：mine area
+地质调查：geological survey
+电解铝：Electrolytic aluminum
+氮磷：nitrogen and phosphorus
+农业面源污染：Agricultural non-point source pollution
+离子掺杂：ion doping
+三氧化钨：Tungsten trioxide
+二级出水：secondary effluent
+流函数：stream function
+生态需水：ecological water demand
+安全疏散：safety evacuation
+Mie理论：Mie theory
+表面化学：surface chemistry
+海河流域：Haihe River basin
+环境雌激素：environmental estrogens
+中山市：Zhongshan city
+离子浓度：ion concentration
+氰化钠：sodium cyanide
+化学振荡：chemical oscillation
+环境演变：environmental evolution
+生态伦理学：ecological ethics
+基本结构：basic structure
+环境同位素：environmental isotope
+宝鸡市：Baoji City
+历史时期：historical period
+沼泽红假单胞菌：Rhodopseudomonas palustris
+蛋白核小球藻：Chlorella pyrenoidosa
+低出生体重：Low birth weight
+间歇曝气：intermittent aeration
+影响评价：impact assessment
+EGSB反应器：EGSB reactor
+脉冲放电：pulse discharge
+除尘效率：collection efficiency
+实验模拟：experimental simulation
+滤饼：filter cake
+光催化反应器：photocatalytic reactor
+环境建设：environment construction
+连续发酵：Continuous fermentation
+乙酸丁酯：butyl acetate
+健康效应：health effect
+危险化学品：dangerous chemicals
+可靠性理论：reliability theory
+农业环境：agricultural environment
+开放实验室：opening laboratory
+膳食结构：dietary pattern
+响应面方法：response surface methodology
+大庆市：Daqing City
+盲数：blind number
+棕榈酸：palmitic acid
+服务区：service area
+死区：dead zone
+景观变化：Landscape change
+安全库存：safety stock
+混合法：hybrid method
+控制中心：control center
+地质处置：geological disposal
+300MW机组：300 MW unit
+场分布：field distribution
+冰芯：ice core
+生物有机肥：bio-organic fertilizer
+分布式模型：distributed model
+无监督学习：unsupervised learning
+环境立法：environmental legislation
+熔融盐：Molten salt
+磁性微球：magnetic microspheres
+泡沫铝：foamed aluminum
+防洪：Flood prevention
+内电解：internal electrolysis
+黑碳：black carbon
+氨基磺酸：sulfamic acid
+生物样品：Biological sample
+博斯腾湖：Bosten Lake
+抑制作用：inhibition effect
+标准溶液：standard solution
+稻壳：rice hull
+生物监测：Biological monitoring
+价值评价：value evaluation
+自然观：view of nature
+柠檬酸钠：sodium citrate
+人工植被：artificial vegetation
+检出限：Detection limit
+河水：river water
+环境污染物：Environmental Pollutants
+民用建筑：civil building
+高级氧化：advanced oxidation
+环境正义：environmental justice
+泡沫分离：foam separation
+民勤绿洲：Minqin Oasis
+岩溶区：karst area
+佛山市：Foshan city
+环境资源：environmental resources
+河流健康：river health
+可持续旅游：sustainable tourism
+可调谐激光器：tunable laser
+沼液：biogas slurry
+低碳经济：low carbon economy
+湿地植物：wetland plant
+多孔膜：porous membrane
+次磷酸钠：sodium hypophosphite
+污泥处置：Sludge disposal
+热风炉：Hot-blast stove
+电镀污泥：electroplating sludge
+硫氰酸铵：ammonium thiocyanate
+斜生栅藻：Scenedesmus obliquus
+气象因素：meteorological factor
+混凝沉淀：coagulation and sedimentation
+分离与鉴定：Isolation and identification
+采出水：produced water
+超声处理：ultrasonic treatment
+抗生素废水：antibiotic wastewater
+关中地区：Guanzhong region
+晶型：crystal form
+压缩变形：Compression Deformation
+还原染料：vat dyes
+液体燃料：liquid fuel
+数值微分：numerical differentiation
+反应速率常数：reaction rate constant
+膜材料：membrane material
+褶皱臂尾轮虫：brachionus plicatilis
+网箱养殖：cage culture
+嘉陵江：Jialing River
+未确知测度：unascertained measure
+HSE管理体系：HSE management system
+经济比较：economic comparison
+西湖：West Lake
+责任制：responsibility system
+植被覆盖：vegetation coverage
+环境水：Environmental water
+碳平衡：carbon balance
+种群增长：population growth
+贫困地区：poor area
+智能算法：intelligent algorithm
+购买力平价：purchasing power parity
+高素质：high quality
+硅钨酸：silicotungstic acid
+湖泊富营养化：lake eutrophication
+Fenton试剂：Fenton's reagent
+成型工艺：forming process
+磷酸铵镁：magnesium ammonium phosphate
+亚慢性毒性：Subchronic toxicity
+镀铬：Chromium plating
+流动电位：streaming potential
+微生物活性：Microbial activity
+变化特征：variation characteristics
+氯酸钾：potassium chlorate
+控制单元：control unit
+微分脉冲伏安法：Differential pulse voltammetry
+定量计算：quantitative calculation
+HPLC：high performance liquid chromatography
+赤潮异弯藻：Heterosigma akashiwo
+中华鲟：Acipenser sinensis
+安全风险：security risk
+铵态氮：ammonium nitrogen
+细胞活力：cell viability
+硝化细菌：nitrifying bacteria
+喷射泵：jet pump
+碳循环：carbon cycling
+澜沧江：Lancang River
+有机物料：organic material
+氡浓度：Radon Concentration
+周代：Zhou Dynasty
+政策效应：policy effect
+控制系统设计：control system design
+耦合度：coupling degree
+系统动力学模型：system dynamics model
+城中村：village in city
+脲酶活性：urease activity
+乡村景观：Rural landscape
+价值理论：value theory
+似然函数：likelihood function
+灾后重建：post-disaster reconstruction
+模糊预测控制：fuzzy predictive control
+农村贫困：rural poverty
+保卫细胞：guard cell
+有机染料：organic dye
+第三条道路：the third way
+猪场废水：piggery wastewater
+相转化：phase inversion
+液-液萃取：Liquid-Liquid Extraction
+无机离子：inorganic ions
+磁场强度：magnetic field strength
+生产方式：Production mode
+花生壳：peanut shell
+镉离子：cadmium ion
+气固两相流：Gas-Solid Two Phase Flow
+水生生物：aquatic organisms
+研究现状：research actuality
+电子受体：electron acceptor
+挤出成型：extrusion molding
+同位素稀释：isotope dilution
+液液萃取：Liquid-liquid extraction
+干燥速率：Drying rate
+汞污染：Mercury pollution
+东莞市：Dongguan city
+高通量筛选：high-throughput screening
+包装材料：packaging materials
+乙基紫：ethyl violet
+地下水脆弱性：groundwater vulnerability
+分离机理：separation mechanism
+模型集成：model integration
+保护措施：protection measure
+生长指标：growth index
+风化煤：weathered coal
+碱金属：alkali metals
+火灾模拟：fire simulation
+熔融共混：melt blending
+矿热炉：submerged arc furnace
+风景名胜区：scenic area
+海洋生态系统：marine ecosystem
+化学活化：chemical activation
+临汾市：Linfen city
+生态工业：ecological industry
+动边界：moving boundary
+引风机：Induced Draft Fan
+噪声治理：noise control
+行政执法：Administrative enforcement
+储运：storage and transportation
+化学风化：chemical weathering
+聊城市：Liaocheng city
+无线电干扰：radio interference
+多孔混凝土：porous concrete
+国家责任：state responsibility
+洪家渡水电站：Hongjiadu Hydropower Station
+千岛湖：qiandao lake
+洪泽湖：Hongze Lake
+热通量：Heat flux
+转化效率：transformation efficiency
+发育毒性：developmental toxicity
+现代科技：Modern science and technology
+人类文明：Human civilization
+国家经济安全：National Economic Security
+土壤-植物系统：soil-plant system
+氯化镧：lanthanum chloride
+反相乳液：inverse emulsion
+结构特征：structure characteristic
+旅游环境：tourism environment
+锰矿：Manganese ore
+大型蚤：Daphnia magna
+循环冷却水：recirculating cooling water
+应急系统：emergency system
+支撑液膜：supported liquid membrane
+吉布斯自由能：Gibbs free energy
+BP神经网络模型：BP neural network model
+物质流分析：material flow analysis
+石油醚：Petroleum ether
+铝毒：Aluminum toxicity
+水质改善：water quality improvement
+应用软件：applied software
+脉冲电源：Pulse generator
+设计特点：design feature
+城市绿地：urban greenland
+恶臭假单胞菌：pseudomonas putida
+亚甲基兰：methylene blue
+磁粉：magnetic powder
+随机分布：random distribution
+饮水安全：drinking water safety
+铁氰化钾：potassium ferricyanide
+张峰水库：ZhangFeng reservoir
+镉胁迫：Cadmium stress
+安全浓度：Safe concentration
+隐患：hidden danger
+自然价值：natural value
+富氧燃烧：oxygen-enriched combustion
+组织体系：organization system
+政策评估：Policy evaluation
+居住小区：residential quarter
+保护与开发：protection and development
+桐花树：Aegiceras corniculatum
+溴甲烷：methyl bromide
+温度影响：temperature effect
+双水相萃取：Aqueous two-phase extraction
+半干旱区：Semi-arid area
+总DNA：total DNA
+脉冲功率：pulsed power
+地形分析：terrain analysis
+垃圾填埋场：Landfill site
+罗布泊：Lop Nur
+膜-生物反应器：membrane bioreactor
+功能基因：functional gene
+遥感监测：remote sensing
+乙酸甲酯：methyl acetate
+外生菌根真菌：ectomycorrhizal fungi
+重金属元素：heavy metal elements
+SOM神经网络：SOM neural network
+去除效率：removal efficiency
+分析检测：analysis and determination
+ZigBee协议：ZigBee protocol
+味精废水：monosodium glutamate wastewater
+地下水环境：groundwater environment
+动态膜：dynamic membrane
+盐岩：salt rock
+化学元素：chemical elements
+液相氧化：liquid-phase oxidation
+产朊假丝酵母：Candida utilis
+移动电话：Mobile phone
+中日：China and Japan
+蛋白含量：Protein content
+木霉：Trichoderma spp
+外部成本：External cost
+自然权利：natural rights
+微波炉：microwave oven
+国际标准：international standards
+长江河口：Changjiang estuary
+光学厚度：optical depth
+时态GIS：temporal GIS
+生理变化：physiological changes
+岩石爆破：rock blasting
+碳通量：carbon flux
+社会动员：Social mobilization
+隐性知识：implicit knowledge
+溪洛渡水电站：Xiluodu Hydropower Station
+期望效用：expected utility
+物流规划：Logistics Planning
+增强因子：enhancement factor
+地质样品：Geological samples
+电化学反应：electrochemical reaction
+污染物排放：pollutant emission
+交流阻抗：electrochemical impedance spectroscopy
+工程实例：engineering example
+环境评价：Environment assessment
+磷释放：Phosphorus release
+调节阀：regulating valve
+纳豆芽孢杆菌：Bacillus natto
+水利工程：hydraulic project
+催化剂制备：catalyst preparation
+黑藻：Hydrilla verticillata
+治理措施：treatment measure
+气相色谱仪：gas chromatography
+尼罗罗非鱼：Oreochromis niloticus
+复杂地形：complex terrain
+气体扩散电极：gas diffusion electrode
+非正式制度：informal system
+Visual Basic6.0：Visual Basic 6.0
+能力验证：proficiency testing
+效率分析：efficiency analysis
+静电自组装：electrostatic self-assembly
+结构优化设计：structural optimization design
+火灾风险：Fire risk
+化工行业：Chemical industry
+反应过程：reaction process
+膨胀珍珠岩：expanded perlite
+流场模拟：flow field simulation
+工程施工：project construction
+合成革：synthetic leather
+农村环境：rural environment
+高硬度：high hardness
+酸性红B：acid red B
+古建筑：ancient building
+MCGS组态软件：MCGS configuration software
+人为因素：human factors
+自然恢复：Natural restoration
+贫铀：depleted uranium
+保护与利用：protection and utilization
+丁坝：spur dike
+辐射传输：radiative transfer
+多相分类：Polyphasic taxonomy
+价值定位：value orientation
+同源建模：homology modeling
+教学团队：teaching team
+治理理论：governance theory
+中华文明：Chinese civilization
+海洋产业：marine industry
+生态修复：ecological remediation
+梯级水库：cascade reservoirs
+氢氧化钾：potassium hydroxide
+环境承载力：environmental carrying capacity
+天然气管道：gas pipeline
+海底管线：submarine pipeline
+城市固体废弃物：municipal solid waste
+管式反应器：tubular reactor
+燃烧性能：combustion property
+吸附行为：adsorption behavior
+层层自组装：layer-by-layer self-assembly
+有机氮：organic nitrogen
+聚环氧琥珀酸：polyepoxysuccinic acid
+公路建设项目：highway construction project
+水泥回转窑：cement rotary kiln
+多元统计：multivariate statistics
+苦味酸：picric acid
+助滤剂：filter aid
+二甲基二烯丙基氯化铵：dimethyldiallylammonium chloride
+白骨壤：Avicennia marina
+癸二酸：sebacic acid
+环境经济学：environmental economics
+优缺点：advantages and disadvantages
+景观异质性：landscape heterogeneity
+临界条件：critical condition
+孔隙水：pore water
+水源涵养林：water conservation forest
+分析评价：analysis and evaluation
+塔吊：tower crane
+黑斑蛙：rana nigromaculata
+生产规模：production scale
+社会调查：social investigation
+诊断模型：diagnosis model
+二次风：secondary air
+柘林湾：Zhelin Bay
+甲烷排放：methane emission
+亚急性毒性：subacute toxicity
+新城：new town
+利益协调：interest coordination
+解空间：solution space
+超临界CO_2：supercritical carbon dioxide
+内分泌干扰物：Endocrine disrupting chemicals
+土壤盐分：soil salt
+制备条件：preparation condition
+评价模型：appraisal model
+历史地理学：Historical Geography
+吸附等温线：adsorption isotherms
+锰过氧化物酶：manganese peroxidase
+水华：algal bloom
+无机陶瓷膜：inorganic ceramic membrane
+喷动床：spouted bed
+量子产率：quantum yield
+化学混凝：chemical coagulation
+GC/MS分析：GC/MS analysis
+火山灰活性：pozzolanic activity
+岩溶地下水：karst groundwater
+入侵植物：invasive plant
+烟气脱硝：flue gas denitrification
+判别函数：discriminant function
+碳氮比：C/N ratio
+超重力：High Gravity
+啤酒废水：beer wastewater
+厌氧生物处理：Anaerobic biological treatment
+芳香胺：aromatic amine
+野生植物：wild plants
+泉州湾：Quanzhou Bay
+煤泥水：slime water
+化工废水：chemical wastewater
+分子质量：molecular weight
+湿式氧化：wet oxidation
+洪灾：Flood disaster
+抽样方法：Sampling method
+环境条件：environment condition
+磷酸三丁酯：tributyl phosphate
+非洲爪蟾：Xenopus laevis
+河岸带：riparian zone
+强电离放电：strong ionization discharge
+建筑防火：building fire protection
+Matlab程序：matlab program
+生理反应：physiological response
+环境会计：environment accounting
+容器苗：container seedling
+流动电流：streaming current
+寡核苷酸探针：Oligonucleotide probe
+喷雾特性：spray characteristics
+风险转移：risk transfer
+社会主义现代化：socialist modernization
+晶格氧：Lattice oxygen
+危险品：dangerous goods
+化学组分：chemical composition
+排放清单：emission inventory
+街道峡谷：street canyon
+空气冷却器：air cooler
+邯郸市：Handan city
+邻苯二甲酸二甲酯：dimethyl phthalate
+燃煤：coal combustion
+非线性回归：non-linear regression
+采煤工作面：coal face
+土壤环境质量：soil environmental quality
+综合指数：comprehensive index
+不确定度评定：evaluation of uncertainty
+火灾报警系统：fire alarm system
+精细化学品：fine chemicals
+盐酸左氧氟沙星：Levofloxacin hydrochloride
+赋存状态：occurrence state
+WTO：World Trade Organization
+环境负荷：environmental load
+海绵钛：titanium sponge
+填埋气：landfill gas
+水足迹：water footprint
+可持续开发：Sustainable development
+模式匹配：mode matching
+轻轨：light rail
+回归分析法：regression analysis
+代谢途径：metabolic pathway
+DCS：distributed control system
+土壤风蚀：Soil wind erosion
+负效应：negative effects
+除藻：algae removal
+芥菜型油菜：Brassica juncea
+胶东半岛：Jiaodong peninsula
+生产要素：Production factor
+净初级生产力：Net primary productivity
+保护与发展：Protection and development
+模型预测：model prediction
+农业现代化：modernization of agriculture
+南方鲇：silurus meridionalis
+软件模拟：software simulation
+城市蔓延：Urban sprawl
+大气折射：atmospheric refraction
+气孔器：stomatal apparatus
+土地集约利用：intensive land use
+垂向分布：vertical distribution
+油污染：oil pollution
+炉温：furnace temperature
+次甲基蓝：methylene blue
+高温稳定性：high-temperature stability
+技术开发：technology development
+介稳区：metastable zone
+加速遗传算法：accelerating genetic algorithm
+动态特征：dynamic characteristics
+农村生活污水：rural domestic sewage
+煅烧温度：calcination temperature
+三维电极：Three-dimensional Electrode
+土地处理：land treatment
+化学吸收：chemical absorption
+TiO_2薄膜：TiO_2 film
+铁矿：Iron mine
+城市湿地：urban wetland
+环境绩效：environmental performance
+单总线：1-Wire bus
+Box-Behnken设计：Box-behnken design
+基因簇：gene cluster
+岷江上游：upper reaches of Minjiang River
+有机胺：organic amine
+倏逝波：evanescent wave
+方案比选：scheme comparison
+水稻土：paddy soils
+除浊：turbidity removal
+改革与实践：Reform and practice
+电池性能：cell performance
+氯化银：silver chloride
+主分量分析：Principal Component Analysis(PCA)
+火灾探测器：fire detector
+远程管理：Remote management
+辐射强迫：radiative forcing
+典范对应分析：Canonical correspondence analysis
+环境价值：environmental value
+黑匣子：black box
+入侵种：invasive species
+热量平衡：heat balance
+排放特性：emission characteristic
+通讯网络：communication network
+动态试验：dynamic test
+土壤溶液：soil solution
+亮度温度：Brightness temperature
+DNA指纹图谱：DNA fingerprint
+SARS：severe acute respiratory syndrome
+交通拥堵：traffic jam
+经济发展水平：Economic development level
+茶园土壤：tea garden soil
+浸渍法：impregnation method
+质量平衡：mass balance
+电动修复：electrokinetic remediation
+治理技术：Treatment Technology
+氧化还原电位：Redox potential
+纳米二氧化钛：nanometer titanium dioxide
+中试：pilot test
+计算流体力学(CFD)：Computational fluid dynamics(CFD)
+滤料：filter material
+氧化亚铁硫杆菌：Acidithiobacillus ferrooxidans
+化工设备：chemical equipment
+羰基化合物：carbonyl compound
+工程计算：engineering calculation
+采煤：coal mining
+复合电镀：composite electroplating
+复合酶：compound enzyme
+物理特性：physical property
+资源优势：resource advantage
+农业灌溉：agricultural irrigation
+正交分析：orthogonal analysis
+顺序注射：sequential injection
+生态敏感性：ecological sensitivity
+生态管理：ecological management
+统计特征：Statistical characteristics
+自控：automatic control
+除尘器：dust collector
+生态学马克思主义：ecological Marxism
+贸易与环境：trade and environment
+漓江：Lijiang river
+水土资源：water and soil resources
+狗牙根：Cynodon dactylon
+谐波污染：harmonic pollution
+桔皮：Orange peel
+德州市：Dezhou City
+联系度：connection degree
+冶金工业：metallurgical industry
+火焰传播：flame propagation
+分解速率：decomposition rate
+大青叶：Folium Isatidis
+沼气发酵：biogas fermentation
+荷兰：the Netherlands
+关键绩效指标：Key performance indicators
+长城：the Great Wall
+吉林市：Jilin City
+区域农业：Regional agriculture
+GO法：GO methodology
+湖泊沉积物：Lake sediments
+嗜酸氧化亚铁硫杆菌：Acidithiobacillus ferrooxidans
+海上油田：offshore oilfield
+大气颗粒物：atmospheric particles
+水泥生产：cement production
+火焰原子吸收：flame atomic absorption
+降解菌：degrading bacteria
+海河：Haihe River
+冀东油田：Jidong Oilfield
+石化废水：petrochemical wastewater
+安全培训：safety training
+费用效益分析：cost-benefit analysis
+同时硝化反硝化：simultaneous nitrification and denitrification
+火灾危险性：fire risk
+生态需水量：ecological water requirement
+XRD分析：XRD analysis
+选择催化还原：selective catalytic reduction
+石漠化：rock desertification
+腐蚀率：corrosion rate
+复合生态系统：complex ecosystem
+过热蒸汽：superheated steam
+水力空化：hydrodynamic cavitation
+综合处理：comprehensive treatment
+有害气体：harmful gas
+缓蚀阻垢剂：corrosion and scale inhibitor
+绿色能源：Green energy
+微污染原水：micro-polluted raw water
+洪湖：Honghu Lake
+灾害管理：disaster management
+泄漏率：leakage rate
+平顶山市：Pingdingshan city
+流动相：mobile phase
+可燃气体：combustible gas
+餐饮废水：restaurant wastewater
+Dawson结构：Dawson structure
+根分泌物：root exudates
+阳极材料：anode material
+阻力特性：resistance characteristics
+直接测定：Direct determination
+噪声源识别：Noise source identification
+黄壤：yellow soil
+牧区：pastoral area
+现代生物技术：modern biotechnology
+建设规模：construction scale
+微生物量碳：microbial biomass carbon
+马尔柯夫模型：Markov model
+功能定位：functional orientation
+大气化学：Atmospheric chemistry
+社会文明：social civilization
+能源危机：energy crisis
+新人文主义：New Humanism
+肺炎克雷伯氏菌：Klebsiella pneumoniae
+绿色教育：green education
+高氯酸：perchloric acid
+处理效果：treatment effect
+社会工程：social engineering
+室内实验：laboratory experiment
+无机阴离子：inorganic anions
+微核率：micronucleus frequency
+物理改性：physical modification
+精细化工：fine chemicals
+光度分析：photometric analysis
+事件树：event tree
+再生资源：renewable resources
+安全度：safety degree
+原水：raw water
+丝状菌：filamentous bacteria
+应急处理：emergency treatment
+酸碱滴定：Acid-base titration
+东平湖：Dongping Lake
+废弃混凝土：waste concrete
+毕节地区：Bijie prefecture
+电加热：electric heating
+联合作用：combined effect
+内循环：internal circulation
+工艺管理：process management
+翡翠贻贝：Perna viridis
+三元相图：ternary phase diagram
+亚细胞分布：subcellular distribution
+光谱测量：Spectral Measurement
+道路运输：Road transport
+土地利用格局：land use pattern
+树木年轮：tree ring
+季节性变化：seasonal variation
+分类管理：classified management
+深层生态学：deep ecology
+地下采矿：underground mining
+生态模型：ecological model
+库区：reservoir area
+社会效应：social effect
+AMC：AMC(Adaptive Modulation and Coding)
+放射性废物：radioactive waste
+天水市：Tianshui City
+行业发展：industry development
+产业生态学：industrial ecology
+水稻种子：rice seed
+距离测度：distance measure
+选址问题：location problem
+输出电压：output voltage
+催化热解：catalytic pyrolysis
+创新文化：innovative culture
+人类：human being
+吐温80：Tween 80
+大气污染物：air pollutant
+空气污染物：Air pollutants
+控制对策：Control countermeasure
+低渗透油田：low permeability oilfield
+在线监控：on-line monitoring
+河流生态系统：river ecosystem
+灰色系统：grey systems
+技术经济分析：techno-economic analysis
+冷冻浓缩：freeze concentration
+粉尘污染：dust pollution
+高浓度有机废水：high concentration organic wastewater
+电气火灾：electric fire
+甲烷氧化：methane oxidation
+生长条件：growth condition
+化学实验室：chemical laboratory
+脉冲电场：pulsed electric field
+危险废物：Hazardous wastes
+三氯乙酸：trichloroacetic acid
+分离因子：separation factor
+水泥窑：cement kiln
+监测体系：monitoring system
+方波伏安法：Square wave voltammetry
+对羟基苯甲酸：p-hydroxybenzoic acid
+园林植物：ornamental plants
+煤粉：coal powder
+孔石莼：Ulva pertusa
+临界浓度：Critical concentration
+高稳定性：high stability
+贡嘎山：Gongga mountain
+逐步判别分析：stepwise discriminant analysis
+ZSM-5沸石：ZSM-5 zeolite
+模拟技术：simulation technology
+模糊预测：fuzzy prediction
+社会危机：social crisis
+行驶工况：Driving cycle
+细胞活性：cell viability
+小麦秸秆：wheat straw
+Raman散射：Raman scattering
+理论与方法：theory and method
+瓦氏黄颡鱼：pelteobagrus vachelli
+测控：Measure and Control
+类比推理：analogical reasoning
+二级市场：secondary market
+雪灾：snow disaster
+大气透过率：atmospheric transmittance
+开放的复杂巨系统：open complex giant system
+碳氮代谢：carbon and nitrogen metabolism
+动态法：dynamic method
+复合氧化物：mixed oxide
+反渗透：reverse osmosis(RO)
+静态：static state
+法律原则：legal principle
+过程强化：process intensification
+湿法：wet process
+自然光：Natural light
+短程硝化：short-cut nitrification
+漂白废水：bleaching effluent
+干燥温度：drying temperature
+碳汇：carbon sequestration
+野生动物：wild animals
+总硬度：total hardness
+溶剂回收：solvent recovery
+湿沉降：wet deposition
+二氧化硫脲：thiourea dioxide
+硫酸钙：calcium sulphate
+铁路噪声：railway noise
+网格法：grid method
+系统发育：phylogenetic analysis
+额济纳绿洲：Ejina Oasis
+安全科学：safety science
+阳离子絮凝剂：Cationic flocculant
+微污染水：micro-polluted water
+填埋气体：Landfill gas
+硫酸厂：sulphuric acid plant
+偏相关分析：partial correlation analysis
+信阳市：Xinyang city
+衡阳市：Hengyang city
+三氯异氰尿酸：trichloroisocyanuric acid
+生态问题：ecological problems
+多元校正：multivariate calibration
+SAS软件：SAS software
+田间试验：field trial
+间隙水：interstitial water
+粉尘浓度：dust concentration
+控制参数：Control parameters
+在线监测系统：on-line monitoring system
+运行费用：operation cost
+技能培训：Skill Training
+水动力：hydrodynamic force
+地面水：surface water
+海洋微生物：marine microorganisms
+属性识别：Attribute recognition
+管道工程：pipeline engineering
+生态社会主义：ecological socialism
+筛选模型：Screening model
+水分析：Water analysis
+模拟方法：simulation method
+吴茱萸：Evodia rutaecarpa
+水动力学模型：hydrodynamic model
+辐射强度：radiation intensity
+国际协调：international harmonization
+绵阳市：mianyang city
+系统耦合：system coupling
+可持续：sustainable development
+绿色贸易：Green Trade
+反应扩散方程：reaction diffusion equation
+晋城市：Jincheng City
+干扰效应：interference effect
+重点实验室：Key laboratory
+风险认知：Risk Perception
+次生盐渍化：secondary salinization
+中心复合设计：Central composite design
+紧致格式：compact scheme
+技术理性：technical rationality
+白浆土：Albic soil
+信息生态：information ecology
+司法保护：judicial protection
+热脱附：thermal desorption
+集装箱港口：Container Port
+生物法：biological method
+土壤重金属：Soil heavy metals
+还原脱氯：reductive dechlorination
+GIS：geographic information system(GIS)
+荧光猝灭法：Fluorescence quenching method
+硫酸铵：ammonium sulphate
+悬浮填料：suspended carrier
+污染事故：pollution accident
+铀矿山：uranium mine
+响应曲面：response surface methodology
+超声辐照：ultrasonic irradiation
+水生动物：aquatic animal
+炼油废水：refinery wastewater
+畜禽：Livestock and poultry
+应急指挥：emergency command
+超声降解：ultrasonic degradation
+乳化液膜：emulsion liquid membrane
+Winsock控件：Winsock control
+条件优化：condition optimization
+洛阳市：Luoyang City
+紫外-可见光谱：UV-Vis spectrum
+阻力损失：resistance loss
+医院污水：Hospital sewage
+毛乌素沙地：Maowusu sandland
+液氨：liquid ammonia
+技术方法：technical method
+慢性毒性：chronic toxicity
+环境适应性：environmental worthiness
+海洋生物：marine biology
+生化需氧量：biochemical oxygen demand
+费-托合成：Fischer-Tropsch synthesis
+短程硝化反硝化：shortcut nitrification-denitrification
+大型溞：Daphnia magna
+开发区：development area
+规范管理：Standard management
+微生物生态：microbial ecology
+松针：pine needle
+动态系统：dynamic systems
+马克思恩格斯：Marx and Engels
+DNDC模型：DNDC model
+自然资本：natural capital
+全球变化：global changes
+控制标准：control standard
+自组织神经网络：self-organizing neural network
+工作装置：working equipment
+TM数据：TM data
+选择性吸附：selective adsorption
+土壤微生物生物量：Soil microbial biomass
+多花黑麦草：Lolium multiflorum
+厦门湾：Xiamen Bay
+社会机制：social mechanism
+糙皮侧耳：Pleurotus ostreatus
+路径选择：route selection
+水平分布：horizontal distribution
+分段函数：piecewise function
+市场调节：Market regulation
+系统平台：System platform
+港口工程：port engineering
+发电企业：power plant
+复杂性理论：complexity theory
+地震保险：earthquake insurance
+电催化还原：Electrocatalytic reduction
+化学除磷：chemical phosphorus removal
+废水处理：treatment of waste water
+再生回用：reclamation and reuse
+饱和烃：saturated hydrocarbon
+饮用水源：Drinking water source
+生物脱氮除磷：biological nitrogen and phosphorus removal
+超声萃取：Ultrasonic extraction
+采矿权：Mining right
+氙灯：xenon lamp
+磷回收：phosphorus recovery
+辐射聚合：radiation polymerization
+稳态误差：Steady-state error
+正交实验设计：orthogonal experimental design
+氧化铁红：Iron oxide red
+氯碱工业：Chlor-alkali Industry
+热爆炸：Thermal explosion
+序批式反应器：sequencing batch reactor
+技术经济：technology and economy
+注水系统：water injection system
+数量分布：quantitative distribution
+曙红Y：Eosin Y
+原子经济性：atom economy
+水文模型：hydrologic model
+评价模式：evaluation model
+三氧化硫：sulfur trioxide
+木榄：Bruguiera gymnorrhiza
+图腾崇拜：totem worship
+水质参数：water quality parameter
+泥螺：Bullacta exarata
+土地利用/覆盖：land use/cover
+保留时间：retention time
+艾比湖：Ebinur Lake
+时间变化：temporal variation
+风景区：scenic spot
+无瓣海桑：Sonneratia apetala
+生态移民：ecological migration
+排队网络：queuing network
+杨凌示范区：Yangling demonstration zone
+细胞色素c氧化酶：cytochrome c oxidase
+学科发展：discipline development
+精子运动：sperm motility
+电力建设：electric power construction
+海洋生物学：marine biology
+连分式：continued fraction
+模式选择：mode choice
+种群分布：Population distribution
+大气传输：atmospheric transmission
+河道：river course
+比叶面积：specific leaf area
+絮凝机理：flocculation mechanism
+景观水：Landscape water
+含氧量：oxygen content
+水质管理：water quality management
+保护区：Nature reserve
+转炉渣：converter slag
+安全意识：Safety consciousness
+三相流化床：three-phase fluidized bed
+布袋除尘器：bag filter
+铬渣：chromium slag
+密度泛函理论(DFT)：density functional theory(DFT)
+病原微生物：pathogenic microorganism
+生态功能：Ecological functions
+医疗垃圾：medical waste
+厌氧污泥：anaerobic sludge
+制革污泥：tannery sludge
+农业文明：agricultural civilization
+活性白土：activated clay
+移动床生物膜反应器：moving bed biofilm reactor
+沉积物-水界面：sediment-water interface
+共和盆地：Gonghe basin
+季节变化：seasonal variations
+光催化还原：Photocatalytic reduction
+衡水湖：Hengshui Lake
+化学耗氧量：chemical oxygen demand
+真空紫外：vacuum ultraviolet
+二氧化铈：cerium dioxide
+技术体系：technological system
+壳聚糖膜：chitosan membrane
+外来种：alien species
+抗盐：salt resistance
+点源：point source
+海上钻井：offshore drilling
+普通小球藻：Chlorella vulgaris
+高分子合金：polymer alloy
+哲学反思：philosophical reflection
+热电联产：combined heat and power
+钛酸铋：bismuth titanate
+臭氧层：ozone layer
+人口承载力：population carrying capacity
+防护服：protective clothing
+化学试剂：chemical reagent
+巨灾风险：catastrophe risk
+大雾：heavy fog
+资源约束：Resource Constraint
+大伙房水库：Dahuofang reservoir
+资源与环境：Resources and environment
+稳健统计：robust statistics
+生态基础设施：ecological infrastructure
+环境审计：environmental audit
+绿色空间：green space
+SD模型：SD model
+钾离子：potassium ion
+价格调整：price adjustment
+量化研究：quantitative research
+深海：deep sea
+生化分析：Biochemical analysis
+NMDA受体：NMDA receptors
+健康评价：health evaluation
+工频磁场：Power Frequency Magnetic Field
+蒙特卡罗仿真：Monte-Carlo simulation
+AHP模型：AHP model
+教育科研：educational research
+财政转移支付：financial transfer payment
+产量品质：Yield and quality
+经济自由：economic freedom
+催化臭氧氧化：catalytic ozonation
+高矿化度：high salinity
+铀矿：Uranium deposit
+传质性能：mass transfer performance
+去除机理：removal mechanism
+碳排放：carbon emission
+膜组件：membrane module
+生态和谐：ecological harmony
+生物反应器填埋场：bioreactor landfill
+环境哲学：environmental philosophy
+景观水体：landscape water
+农田土壤：agricultural soil
+交换容量：exchange capacity
+物质代谢：material metabolism
+气相色谱-质谱法：Gas chromatography-mass spectrometry(GC-MS)
+垃圾焚烧飞灰：MSWI fly ash
+胶凝材料：cementing material
+IC反应器：IC reactor
+糠醛废水：furfural wastewater
+环境水力学：environmental hydraulics
+糖蜜酒精废液：molasses alcohol wastewater
+电极电势：Electrode potential
+辐射降解：radiation degradation
+皮革涂饰剂：leather finishing agent
+氨浸：ammonia leaching
+浮选机：Flotation machine
+热解吸：thermal desorption
+纵向通风：longitudinal ventilation
+农业生态环境：agricultural ecological environment
+技术装备：technical equipment
+动态聚类：dynamic cluster
+灾害链：disaster chain
+嘉兴市：Jiaxing City
+评估方法：evaluation methods
+排放通量：emission flux
+铁氧化物：iron oxides
+损失率：Loss rate
+污水源热泵：Sewage source heat pump
+水生植被：Aquatic vegetation
+象山港：Xiangshan bay
+职业健康：Occupational Health
+污泥堆肥：Sludge compost
+最佳条件：Optimum condition
+干旱河谷：dry valley
+开发对策：development strategy
+平均值：average value
+气体扩散：gas diffusion
+面板协整：panel cointegration
+环境外交：environmental diplomacy
+烟气净化：flue gas purification
+稳定塘：stabilization pond
+三维地质模型：3D geological model
+资源消耗：resource consumption
+临界胶团浓度：Critical micelle concentration
+功能群：functional group
+铅胁迫：lead stress
+能源利用：energy utilization
+加权平均法：weighted average method
+模糊综合评价模型：fuzzy comprehensive evaluation model
+环境工程地质：environmental engineering geology
+旅游地：tourism destination
+DNA加合物：DNA adduct
+价值理性：value reason
+生境破碎化：Habitat fragmentation
+指挥系统：command system
+经济活动：economic activities
+水电建设：hydropower construction
+电感耦合等离子体质谱法：inductively coupled plasma mass spectrometry
+行为反应：behavioral response
+调度模型：Scheduling model
+原生态：Original ecology
+施工通风：construction ventilation
+分析框架：analysis framework
+环境责任：environmental responsibility
+区域气候：Regional climate
+社会现代化：social modernization
+基本公共服务：basic public service
+异养硝化：heterotrophic nitrification
+光谱特征：Spectral characteristics
+人工神经网络(ANN)：Artificial Neural Network(ANN)
+清洁发展机制：Clean Development Mechanism(CDM)
+理化特性：physical and Chemical Characteristics
+黄土丘陵区：loess hilly-gully region
+水生生态系统：aquatic ecosystem
+苯酚废水：phenol wastewater
+铜基催化剂：copper-based catalyst
+微波提取：microwave-assisted extraction
+太原盆地：Taiyuan Basin
+吸收谱：absorption spectra
+操作优化：operation optimization
+生态影响：ecological impact
+亚硫酸氢钠：Sodium bisulfite
+化学降解：Chemical degradation
+渗流模型：percolation model
+正交优化：orthogonal optimization
+生态环境质量：eco-environmental quality
+土地沙化：land desertification
+社会经济发展：social and economic development
+垃圾处理：waste treatment
+有机负荷：organic loading
+关键问题：key problem
+冰晶：ice crystal
+原油乳状液：crude oil emulsion
+大型：large scale
+人因失误：human error
+特征线法：characteristics method
+红树林湿地：mangrove wetland
+香蕉皮：banana peel
+城市河道：urban river
+经济规模：economic scale
+配位反应：Coordination reaction
+水文地质条件：hydrogeological conditions
+尾气处理：tail gas treatment
+中原油田：Zhongyuan oil field
+土壤化学性质：soil chemical properties
+组成分析：Composition analysis
+流型识别：flow regime identification
+社区共管：Community Co-Management
+酸性矿山废水：acid mine drainage
+连云港市：Lianyungang city
+结构特性：structural characteristics
+大鳞副泥鳅：Paramisgurnus dabryanus
+固体废弃物：solid wastes
+钙含量：calcium content
+活性氧化锌：active zinc oxide
+趋磁细菌：magnetotactic bacteria
+三明市：Sanming City
+衡水市：Hengshui City
+净第一性生产力：net primary productivity
+电感耦合等离子体：Inductively coupled plasma
+辅助决策：assistant decision
+城市灾害：urban disaster
+栽植密度：planting density
+经济成本：economic cost
+脆弱性评价：vulnerability assessment
+银川平原：Yinchuan Plain
+城市气候：urban climate
+铁路车站：railway station
+绿色建材：green building material
+精子质量：sperm quality
+坡地：sloping land
+劳动保护：labor protection
+管理职能：Management function
+孤波：solitary wave
+基因文库：Genomic library
+卡方检验：chi-square test
+形成与发展：formation and development
+城市总体规划：urban master planning
+海岸工程：coastal engineering
+pH控制：pH control
+远程数据采集：remote data acquisition
+徐霞客：Xu Xiake
+土壤生态系统：soil ecosystem
+政治环境：political environment
+发射光谱：optical emission spectroscopy
+比表面：Specific Surface Area
+酸洗：acid washing
+自动监测系统：Automatic monitoring system
+相对分子质量分布：relative molecular mass distribution
+鱼鳞：fish scale
+参数优选：parameter optimization
+最适温度：optimum temperature
+荧光标记：fluorescence labeling
+状态识别：State Recognition
+硅藻土：diatomaceous earth
+建筑安全：construction safety
+超声辐射：ultrasonic irradiation
+嗜热菌：thermophilic bacteria
+活性组分：active component
+生态安全评价：ecological security assessment
+元素硫：elemental sulfur
+生态示范区：Ecological demonstration area
+激光闪光光解：laser flash photolysis
+共价键：covalent bond
+超临界甲醇：supercritical methanol
+实验室认可：laboratory accreditation
+混凝机理：coagulation mechanism
+产气肠杆菌：Enterobacter aerogenes
+缓蚀作用：corrosion inhibition
+甲氨基阿维菌素苯甲酸盐：emamectin benzoate
+紫外诱变：UV mutation
+膜接触器：membrane contactor
+政策措施：policy measures
+保护对策：protection countermeasures
+荧光光谱法：Fluorescence spectrometry
+吸附脱硫：Adsorption desulfurization
+核糖核酸：ribonucleic acid
+生物胺：biogenic amine
+水污染防治：water pollution control
+秦皇岛市：Qinhuangdao City
+减压膜蒸馏：vacuum membrane distillation
+物质流：material flow
+电极过程：electrode process
+超细颗粒：ultrafine particle
+生态监测：ecological monitoring
+厌氧水解：anaerobic hydrolysis
+农药污染：pesticide pollution
+OH自由基：OH radical
+K值：K value
+空间信息技术：spatial information technology
+定量测量：quantitative measurement
+绿藻：green algae
+功能多样性：Functional diversity
+有效措施：effective measures
+梯级开发：cascade development
+大连湾：Dalian Bay
+分析与评价：analysis and evaluation
+Bessel函数：Bessel function
+膜阻力：membrane resistance
+数据流程：data flow
+柱浸：column leaching
+东昌湖：Dongchang Lake
+岷江：Minjiang River
+城市开发：urban development
+柴油车：diesel vehicle
+球形棕囊藻：Phaeocystis globosa
+进化神经网络：evolutionary neural network
+VOF模型：VOF model
+西藏高原：Tibet Plateau
+焦作市：Jiaozuo City
+红三叶：red clover
+上海地区：Shanghai area
+地表反照率：surface albedo
+水面舰艇：surface ship
+南京：Nanjing city
+过程设计：process design
+分子探针：molecular probe
+土地利用方式：land use type
+根伸长：root elongation
+私权：private rights
+投资机制：Investment mechanism
+电子元件：electronic components
+经济基础：economic basis
+社会基础：social basis
+东南景天：Sedum alfredii Hance
+GPS导航：GPS navigation
+防洪标准：flood control standard
+补偿制度：compensation system
+可持续设计：sustainable design
+池塘养殖：pond culture
+主流经济学：mainstream economics
+国际环境法：international environmental law
+环境微生物学：environmental microbiology
+模式搜索：pattern search
+脱氮除磷：denitrification and phosphorus removal
+生态廊道：ecological corridor
+大气探测：atmospheric sounding
+磺酰脲类除草剂：sulfonylurea herbicides
+安全投资：safety investment
+医疗废物：medical wastes
+氮污染：nitrogen pollution
+农业土壤：Agricultural soil
+活性焦：activated coke
+聚类分析法：cluster analysis
+火灾事故：fire accident
+技术进展：technology progress
+铜阳极泥：copper anode slime
+浮选分离：floatation separation
+环境空气：environmental air
+多糖含量：polysaccharide content
+南四湖：Nansihu lake
+银纳米粒子：silver nanoparticle
+离子交换法：ion exchange method
+热力学平衡：thermodynamic equilibrium
+天然植被：natural vegetation
+海洋污染：marine pollution
+改性壳聚糖：modified chitosan
+水泥固化：Cement solidification
+腐植酸钠：sodium humate
+日变化：daily change
+生态调控：ecological regulation
+潜在生态风险：potential ecological risk
+聚合硫酸铁：polymeric ferric sulfate
+过程参数：process parameter
+吖啶红：Acridine red
+吸附率：adsorption rate
+分布式水文模型：distributed hydrologic model
+安全成本：safety cost
+贝叶斯推理：Bayesian inference
+大豆幼苗：soybean seedling
+控制管理：control management
+锰矿石：manganese ore
+优化运行：optimized operation
+磷矿石：phosphate rock
+沸石分子筛：zeolite molecular sieve
+培养方案：training scheme
+监测技术：Monitoring technique
+移动办公：mobile office
+龙岩市：Longyan city
+安全阀：relief valve
+电阻率法：resistivity method
+巯基乙酸：mercaptoacetic acid
+柔性石墨：flexible graphite
+计划行为理论：theory of planned behavior
+生态区划：ecological regionalization
+火灾烟气：fire smoke
+水净化：Water purification
+水土保持措施：soil and water conservation measures
+年变化：Annual variation
+深圳湾：Shenzhen Bay
+天然气汽车：natural gas vehicle
+监测站：monitoring station
+生态思想：Ecological Thought
+悬移质：suspended sediment
+中国西北地区：Northwest China
+专题图：Thematic map
+工具理性：Instrumental reason
+溶血活性：Hemolytic activity
+楚科奇海：Chukchi sea
+生物硅：Biogenic silica
+开发与保护：Development and protection
+模糊隶属函数：fuzzy membership function
+实践基地：Practice base
+根尖：Root tip
+种植模式：cropping pattern
+DCA排序：DCA ordination
+监督体系：supervision system
+市场比较法：market comparison approach
+先验概率：prior probability
+变更管理：change management
+行政救济：administrative relief
+射流曝气：jet aeration
+原子吸收法：Atomic absorption
+次级代谢产物：secondary metabolite
+环境权：environment right
+重大危险源：major hazards
+湿地恢复：Wetland restoration
+概率积分法：Probability integral method
+CO2排放：CO2 emission
+河流水质：river water quality
+处理技术：processing technology
+鞣酸：tannic acid
+生态系统服务价值：ecosystem services value
+生态健康：ecological health
+热污染：thermal pollution
+选择性催化还原：selective catalytic reduction(SCR)
+固体废物：solid wastes
+氧化硫硫杆菌：Thiobacillus thiooxidans
+悬浮物：suspended solids
+包气带：vadose zone
+物理方法：physical method
+陶瓷过滤机：ceramic filter
+尾矿库：tailings pond
+调质：quenching and tempering
+地方病：endemic diseases
+土地利用类型：Land use types
+硫化物：sulfur compounds
+计量管理：measurement management
+碳同位素：carbon isotopes
+诱变选育：Mutation breeding
+替代燃料：alternative fuel
+AspenPlus：Aspen Plus
+环境友好型社会：environment-friendly society
+化粪池：septic tank
+染料中间体：Dye intermediate
+火焰原子吸收分光光度法：flame atomic absorption spectrometry
+微核实验：Micronucleus test
+污染预防：pollution prevention
+土壤样品：Soil sample
+生理指标：physiological parameters
+生态服务价值：ecological service value
+土壤胶体：soil colloid
+利益冲突：Benefit conflict
+高碘酸钠：Sodium periodate
+吸附热：adsorption heat
+铬鞣：chrome tanning
+湿地土壤：wetland soil
+过渡金属氧化物：transition metal oxide
+C/N：C/N ratio
+废物处理：waste treatment
+质量监测：quality monitoring
+环境变迁：environmental changes
+公益林：public welfare forest
+水环境质量：water environment quality
+日照市：Rizhao city
+自动化控制：automation control
+水冷：water cooling
+职业安全：Occupational safety
+异养菌：heterotrophic bacteria
+农业景观：agricultural landscape
+X射线荧光：X-ray fluorescence
+无性繁殖：asexual propagation
+生成机制：formation mechanism
+兽药：Veterinary Drug
+淮北市：Huaibei City
+汽包：steam drum
+真空炉：vacuum furnace
+线性规划模型：linear programming model
+生态消费：ecological consumption
+社区旅游：community tourism
+K-S检验：K-S test
+分子调控：molecular regulation
+研究框架：research framework
+环境美学：environmental aesthetics
+生态网络：ecological network
+18srDNA：18s rDNA
+纯培养：pure culture
+排烟：smoke exhaust
+辐射雾：radiation fog
+消防监督：fire supervision
+流化床锅炉：fluidized bed boiler
+热红外遥感：Thermal infrared remote sensing
+保定市：Baoding city
+政府调控：government regulation
+热控系统：thermal control system
+决策树分类：decision tree classification
+正弦函数：sine function
+土-水特征曲线：soil-water characteristic curve
+垃圾收集：garbage collection
+跨步电压：step voltage
+土壤抗蚀性：soil anti-erodibility
+精神价值：spiritual value
+绩效评价体系：performance evaluation system
+吸附模型：adsorption model
+行政契约：administrative contract
+村委会：village committee
+熔渣：molten slag
+煤矸石：coal refuse
+密切值法：Osculating value method
+海域：sea area
+复合光催化剂：composite photocatalyst
+陶瓷球：ceramic ball
+气田开发：gas field development
+工业园：industrial park
+超声技术：ultrasonic technology
+孔容：pore volume
+复合载体：composite support
+吸附量：adsorption capacity
+本质安全：inherent safety
+挥发性脂肪酸：volatile fatty acids
+水动力条件：hydrodynamic condition
+工业工程：industry engineering
+耐酸性：acid resistance
+萃取机理：extraction mechanism
+木质素过氧化物酶：lignin peroxidase
+分子质量分布：molecular weight distribution
+平原水库：plain reservoir
+微污染水源水：micro-polluted source water
+工艺模拟：process simulation
+污染河水：polluted river water
+悬浮颗粒物：suspended particulate matter
+比生长速率：specific growth rate
+空间分异：spatial variation
+羰基硫：carbonyl sulfide
+统计指标：statistical index
+爆炸事故：explosion accident
+碱木质素：alkali lignin
+自由基反应：free radical reaction
+硫酸盐还原：sulfate reduction
+电加热器：electric heater
+铜冶炼：copper smelting
+DLVO理论：DLVO theory
+职业中毒：Occupational poisoning
+好氧消化：Aerobic digestion
+四溴双酚A：tetrabromobisphenol A
+土地规划：land use planning
+华北油田：Huabei Oilfield
+道路建设：road construction
+蓄热式燃烧：regenerative combustion
+卤乙酸：haloacetic acids
+硫化亚铁：ferrous sulfide
+降温效果：cooling effect
+准好氧填埋：semi-aerobic landfill
+因次分析：dimensional analysis
+排放标准：Discharge standard
+全磷：Total phosphorus
+X射线荧光分析：X-ray fluorescence analysis
+评价体系：evaluate system
+容积法：volumetric method
+活性碳：Active carbon
+盐池县：Yanchi county
+自然因素：natural factors
+邓恩桉：Eucalyptus dunnii
+一致性检验：consistency check
+模型化合物：model compounds
+公路网：road network
+半干旱地区：semi-arid area
+恒压：constant voltage
+辐射监测：Radiation monitoring
+强化过滤：enhanced filtration
+水环境承载力：water environment carrying capacity
+参数率定：parameter calibration
+组态软件：configurable software
+农业资源：agriculture resources
+电化学生物传感器：Electrochemical biosensor
+水危机：water crisis
+逆温层：Inversion layer
+综合运输：comprehensive transportation
+正相关：positive correlation
+自然植被：natural vegetation
+临界水深：Critical depth
+姐妹染色单体交换：sister chromatid exchange
+光合效率：photosynthetic efficiency
+热气机：Stirling engine
+滨水空间：Waterfront Space
+水资源可持续利用：water resources sustainable utilization
+均衡模型：equilibrium model
+公共参与：Public Participation
+迭代函数系：iterated function system
+表型多样性：phenotypic diversity
+斯特林发动机：Stirling engine
+商品流通：commodity circulation
+农地城市流转：rural-urban land conversion
+农业自然资源：Agricultural natural resources
+降耗：consumption reduction
+石墨炉原子吸收：Graphite furnace atomic absorption spectrometry
+稠油：thick oil
+常减压蒸馏装置：atmospheric-vacuum distillation unit
+工业共生：industrial symbiosis
+破胶剂：gel breaker
+有效扩散系数：effective diffusion coefficient
+矿渣粉：slag powder
+洗浴废水：bathing wastewater
+低污染：low pollution
+防火涂料：fire retardant coating
+磁性纳米颗粒：magnetic nanoparticles
+N2O：Nitrous oxide
+COD去除率：COD removal
+吸波材料：microwave absorbing materials
+富营养化水体：Eutrophic water
+直接染料：direct dye
+敏感性评价：sensitivity evaluation
+味精：monosodium glutamate
+水井：water well
+爆炸压力：explosion pressure
+皮革工业：leather industry
+电化学动力学：electrochemical kinetics
+水质指标：Water quality index
+硫氰酸钠：sodium thiocyanate
+生物控制：biological control
+综合应用：Comprehensive application
+广州地区：Guangzhou area
+功能评价：function evaluation
+优化管理：optimal management
+伊乐藻：Elodea nuttallii
+叠加原理：principle of superposition
+脆弱性评估：vulnerability assessment
+积灰：ash deposition
+芳香烃：aromatic hydrocarbon
+悬浮液进样：Suspension Sampling
+屠宰废水：slaughterhouse wastewater
+应急疏散：Emergency Evacuation
+亚硝酸：Nitrous acid
+地浸采铀：in-situ leaching of uranium
+研究展望：research prospect
+镍氢电池：Ni-MH battery
+总铬：total chromium
+硼氢化钾：potassium borohydride
+超细粉煤灰：Ultra-fine fly ash
+赤子爱胜蚓：Eisenia foetida
+定量指标：quantitative index
+《京都议定书》：Kyoto Protocol
+淮南市：Huainan city
+生态模式：Ecological model
+酸雨胁迫：acid rain stress
+岱海：Daihai Lake
+鲢：Hypophthalmichthys molitrix
+干法：dry method
+环境模拟：environmental simulation
+潜水：phreatic water
+对虾养殖：shrimp culture
+输煤系统：coal handling system
+生态因素：ecological factors
+政策设计：policy design
+氮素损失：nitrogen loss
+人的因素：human factor
+基本框架：Basic frame
+岩溶洞穴：karst cave
+绿色文化：Green culture
+聚类系数：clustering coefficient
+盐城市：Yancheng City
+贝叶斯模型：Bayesian model
+菌株鉴定：Strain identification
+常熟市：Changshu city
+绿色交通：green traffic
+混合燃料：mixed fuel
+衰减常数：attenuation constant
+人因工程：human factors engineering
+优化规划：optimal planning
+耐药基因：Resistant genes
+遗传机制：genetic mechanism
+效率刻度：Efficiency calibration
+新视角：new perspective
+治理效率：governance efficiency
+铅含量：lead content
+铁路施工：railway construction
+防汛：flood prevention
+岩溶水系统：karst water system
+上限定理：upper bound theorem
+社会形态：social form
+氮矿化：nitrogen mineralization
+星座设计：constellation design
+阜新市：Fuxin city
+微生物采油：microbial enhanced oil recovery
+科尔沁沙地：Horqin Sand Land
+空气污染指数：air pollution index
+河蚬：Corbicula fluminea
+镀银：silver plating
+氨基甲酸乙酯：ethyl carbamate
+排污收费：pollution charge
+水回用：water reuse
+正交实验法：Orthogonal experiment
+电耗：Electricity consumption
+物理法：physical method
+表层土壤：surface soil
+形态分析：morphological analysis
+屏蔽效能：shielding efficiency
+抗菌性能：antibacterial properties
+NO还原：NO reduction
+降解产物：degradation products
+水稻田：paddy field
+电化学反应器：electrochemical reactor
+疏散时间：evacuation time
+芳香化合物：aromatic compounds
+工业园区：industrial parks
+营养状态：nutritional status
+食物网：food web
+结构改进：structural improvement
+活性艳红X-3B：Reactive Red X-3B
+玻璃鳞片：glass flake
+母液：mother liquor
+碱处理：alkaline treatment
+应急体系：emergency system
+陶瓷膜：ceramic coatings
+催化机制：catalytic mechanism
+东营市：Dongying city
+技术分析：technological analysis
+柚皮：pomelo peel
+给水处理：water supply treatment
+氟硅酸：fluosilicic acid
+天然放射性：natural radioactivity
+地下水补给：groundwater recharge
+分离提纯：separation and purification
+难降解废水：refractory wastewater
+物料平衡：mass balance
+安全检查：security inspection
+环境水样：environmental water sample
+循环水：circulation water
+民勤县：Minqin county
+连续生产：continuous production
+实验分析：experiment analysis
+环境史：environmental history
+二维模型：two-dimensional model
+静态博弈：static game
+水质变化：water quality change
+相似原理：similarity principle
+微生物生态学：microbial ecology
+火灾场景：fire scenario
+疏水改性：hydrophobic modification
+异重流：density flow
+阳离子交换：cation exchange
+重庆地区：Chongqing Area
+环境信息系统：environmental information system
+平衡分析：balance analysis
+生物地球化学循环：biogeochemical cycle
+化学特征：chemical characteristics
+热等离子体：thermal plasma
+欧氏贴近度：euclid approach degree
+苯酚降解：phenol degradation
+树脂吸附：resin adsorption
+可再生资源：renewable resources
+消防管理：fire management
+激励政策：Incentive policy
+污水泵站：sewage pumping station
+估算方法：estimation method
+绿色生态：green ecology
+鄱阳湖区：Poyang lake area
+城市湿地公园：Urban wetland park
+除锰：manganese removal
+危险分析：hazard analysis
+可持续性：Sustainable development
+AHP法：Analytic hierarchy process
+乙酸钠：sodium acetate
+农业系统：Agricultural system
+设计制造：design and manufacture
+生态结构：ecological structure
+最优决策：optimal decision
+可见分光光度法：visible spectrophotometry
+河流系统：river system
+预测模式：prediction model
+大气质量：air quality
+硝酸盐还原酶：nitrate reductase
+降膜吸收：falling film absorption
+谷胱甘肽硫转移酶：glutathione S-transferase
+春节：Spring Festival
+成本模型：cost model
+热水系统：hot water system
+火灾荷载：fire load
+景观空间格局：landscape spatial pattern
+汾河水库：Fenhe Reservoir
+价值主体：value subject
+邢台市：Xingtai City
+菹草：Potamogeton crispus L
+总平面布置：general layout
+能源系统：energy system
+白令海：Bering sea
+沼气工程：biogas project
+核算方法：accounting method
+区域特征：regional characteristics
+比吸收率：specific absorption rate
+软基：soft soil foundation
+PPP模式：PPP mode
+铜矿石：Copper ore
+吸收效率：absorption efficiency
+补体C3：complement C3
+模糊线性回归：fuzzy linear regression
+植物生长物质：plant growth substance
+有源滤波：active filter
+铁路网：railway network
+外水压力：external water pressure
+地被植物：Ground Cover Plants
+SWOT模型：SWOT model
+饱和土：saturated soils
+防范机制：prevention mechanism
+数字印刷：digital printing
+态势分析：situation analysis
+外部经济：external economy
+准公共物品：quasi-public goods
+后工业社会：post-industrial society
+多边贸易体制：multilateral trading system
+土壤物理性质：soil physical property
+管理教育：management education
+风暴轴：storm track
+香溪河：Xiangxi River
+上覆水：overlying water
+选择性非催化还原：selective non-catalytic reduction
+产业国际竞争力：industrial international competitiveness
+硫酸盐还原菌：sulfate-reducing bacteria(SRB)
+轻油：light oil
+水源地：water source area
+化学传感器：chemical sensors
+类比法：analogy method
+生态治理：ecological management
+毒性效应：toxicity effect
+光化学烟雾：photochemical smog
+可吸入颗粒物：inhalable particles
+复合添加剂：composite additive
+核异常：nuclear anomalies
+RS和GIS：RS and GIS
+过滤阻力：filtration resistance
+含油污泥：oil sludge
+Zeta电势：Zeta potential
+酶解：enzymic hydrolysis
+水溶液：Water solution
+污染特征：pollution characteristic
+舰船辐射噪声：ship-radiated noise
+生态现代化：ecological modernization
+定量PCR：real-time PCR
+谷胱甘肽过氧化物酶：glutathione peroxidase(GSH-Px)
+工业废渣：industrial waste
+板栗壳：chestnut shell
+钨酸铅：lead tungstate
+连续流：continuous flow
+Carrousel氧化沟：Carrousel oxidation ditch
+亚硫酸钙：calcium sulfite
+罗源湾：Luoyuan Bay
+钢材：steel products
+水体富营养化：water eutrophication
+连续提取：sequential extraction
+工业规模：commercial scale
+异常数据：abnormal data
+填充床：packed bed
+珠江口：Zhujiang Estuary
+生态足迹模型：ecological footprint model
+石羊河：shiyang River
+氧化球团：oxidized pellet
+火焰结构：flame structure
+水花生：alternanthera philoxeroides
+运行效率：Operation Efficiency
+氧化钕：neodymium oxide
+氯化铜：copper chloride
+丙烯酰胺共聚物：acrylamide copolymer
+PVC：polyvinyl chloride
+保护策略：protection strategy
+毒性作用：toxic effect
+湄洲湾：Meizhou Bay
+Fischer-Tropsch合成：Fischer-Tropsch synthesis
+火灾模型：fire model
+噪声监测：noise monitoring
+池火灾：pool fire
+荧光熄灭：Fluorescence quenching
+金华市：Jinhua City
+电解氧化：electrolytic oxidation
+新乡市：Xinxiang city
+铅酸电池：lead acid battery
+地铁火灾：subway fire
+应急反应：emergency response
+灰色系统模型：grey system model
+功能安全：functional safety
+雌激素活性：estrogenic activity
+湿地景观：wetland landscape
+激光诱导击穿光谱：laser-induced breakdown spectroscopy
+井下作业：Downhole operation
+标准方法：Standard method
+经济性评价：Economic evaluation
+分析化学：analysis chemistry
+环境损害：environmental damage
+景观功能：landscape function
+氯化锰：manganese chloride
+昆明盆地：Kunming basin
+演化规律：evolution law
+营养特性：nutritional characteristics
+环境监测站：environmental monitoring station
+硫酸铁铵：ammonium ferric sulfate
+遥感模型：Remote sensing model
+环境梯度：environmental gradient
+可溶性蛋白：soluble proteins
+管理技术：management technique
+湖州市：Huzhou City
+单胺类神经递质：monoamine neurotransmitters
+检定规程：verification regulation
+自动生产线：automatic production line
+光纤温度传感器：optical fiber temperature sensor
+电极结构：electrode structure
+唐鱼：Tanichthys albonubes
+目视解译：visual interpretation
+模糊评价模型：Fuzzy evaluation model
+小城镇建设：construction of small towns
+航空遥感：airborne remote sensing
+莫高窟：Mogao Grottoes
+时间因素：time factor
+元素丰度：element abundance
+利他行为：altruistic behavior
+肠道细菌：Intestinal bacteria
+高压共轨：high-pressure common rail
+QuickBird影像：QuickBird image
+桩基施工：pile foundation construction
+暴雨洪水：storm flood
+进化博弈论：evolutionary game theory
+种植方式：planting pattern
+定性模型：qualitative model
+人工增雨：precipitation enhancement
+甲醛污染：formaldehyde pollution
+稀溶液：dilute solution
+化学实验：chemical experiments
+地幔热柱：mantle plume
+脱硫技术：desulfurization technology
+清洗方法：Cleaning method
+废气治理：waste gas treatment
+微波萃取：microwave-assisted extraction
+除砷：arsenic removal
+染色废水：dyeing wastewater
+核桃壳：walnut shell
+灰色聚类法：grey clustering method
+发展史：developing history
+密封圈：seal ring
+螺旋升流式反应器：spiral up-flow reactor
+产业组织理论：industrial organization theory
+阳离子交换容量：cation exchange capacity
+灾害防治：disaster prevention
+流域：drainage area
+维护管理：maintenance and management
+堆积密度：bulk density
+原煤：raw coal
+地铁施工：metro construction
+电子垃圾：electronic waste
+复合水泥：composite cement
+行为科学：behavior science
+石油产品：petroleum products
+柱后衍生：Post-column derivatization
+大气沉降：Atmospheric Deposition
+环境质量评价：environmental quality evaluation
+吸收截面：absorption cross-section
+激光拉曼光谱：Laser Raman spectra
+餐厨垃圾：food waste
+感潮河段：tidal reach
+生态与环境：ecology and environment
+质量控制体系：quality control system
+生物因子：biological factors
+管道检测：pipeline detection
+水泥厂：Cement plant
+熔融行为：melting behavior
+次生灾害：secondary disaster
+有机涂层：organic coatings
+工艺设备：Process equipment
+实验技术：experimental technology
+环境暴露：Environmental exposure
+氮同位素：nitrogen isotope
+绿化树种：greening tree species
+风速：air velocity
+环境伦理：environment ethics
+超超临界锅炉：ultra-supercritical boiler
+全球气候变暖：global warming
+环境纠纷：environmental dispute
+非均相催化：heterogeneous catalysis
+声环境：acoustic environment
+个人风险：individual risk
+好氧发酵：aerobic fermentation
+气升式反应器：airlift reactor
+无机碳：inorganic carbon
+定量评估：quantitative assessment
+水溶性壳聚糖：water-soluble chitosan
+溶剂化效应：solvent effect
+灾害评估：disaster evaluation
+体积膨胀：volume expansion
+应用方法：application method
+内河：Inland river
+掩蔽剂：masking agent
+荧光原位杂交技术：fluorescence in situ hybridization
+失效机制：failure mechanism
+资源型城市：resources-based cities
+危岩：dangerous rock
+测量原理：measuring principle
+滇西北：northwestern Yunnan
+稻麦轮作：rice-wheat rotation
+自养反硝化：autotrophic denitrification
+过氧化钙：calcium peroxide
+动态过滤：dynamic filtration
+单窗算法：mono-window algorithm
+可靠性分配：reliability distribution
+中国科学院：Chinese Academy of Sciences
+土壤健康：Soil health
+属性分析：attribute analysis
+研究型教学：research teaching
+低频噪声：low-frequency noise
+浅水湖泊：shallow lakes
+单质硫：elemental sulfur
+PRED系统：PRED system
+火力发电：thermal power generation
+蒸汽动力系统：steam power system
+球形容器：spherical vessel
+烟气运动：smoke movement
+离心通风机：centrifugal fan
+高负荷：high load
+高放废物：high level radioactive waste
+森林覆盖率：forest coverage
+环流形势：Circulation pattern
+稳定性同位素：Stable Isotope
+厌氧生物降解：Anaerobic biodegradation
+攀枝花市：Panzhihua city
+昆明地区：Kunming area
+盐水入侵：saltwater intrusion
+恢复演替：restoration succession
+平衡控制：balance control
+管理研究：Management research
+统筹：Overall planning
+社会作用：social function
+岸坡：bank slope
+国民经济评价：national economy evaluation
+投资模式：investment mode
+电磁测量：electromagnetic measurement
+平均路径长度：average path length
+网络层次分析法：analytic network process
+漳州市：Zhangzhou city
+风沙土：aeolian sandy soil
+自然地理学：physical geography
+羊草草原：Leymus chinensis grassland
+可持续控制：sustainable control
+非市场价值：non-market value
+氮收支：nitrogen budget
+全民教育：education for all
+水泥行业：cement industry
+土地生态：land ecology
+挥发性有机物：volatile organic compounds(VOCs)
+醋酸锌：zinc acetate
+石膏矿：gypsum mine
+铅锌矿：lead-zinc mine
+生物入侵：Biological invasions
+高炉矿渣：blast furnace slag
+最近邻聚类算法：nearest neighbor clustering algorithm
+印刷线路板：printed circuit board
+水介质：aqueous media
+微生物修复：Microbial remediation
+跨流域调水：inter-basin water transfer
+单壁碳纳米管：single-wall carbon nanotube
+紫外辐照：UV irradiation
+抗菌剂：antimicrobial agent
+水相：water phase
+时空变化：spatio-temporal variation
+脉冲电晕放电：pulse corona discharge
+SBR法：SBR method
+天然有机物：natural organic matter
+污泥活性：Sludge activity
+运行成本：running cost
+重金属胁迫：heavy metal stress
+活性污泥模型：Activated Sludge Model
+湿法氧化：wet oxidation
+正交法：Orthogonal design
+环境生物学：environmental biology
+环境事件：environmental events
+比阻：specific resistance
+气象因子：weather factor
+序批式活性污泥法：sequencing batch reactor
+生态道德：ecological morality
+清洁发展机制(CDM)：clean development mechanism(CDM)
+金鱼藻：Ceratophyllum demersum
+球形芽孢杆菌：Bacillus sphaericus
+浑善达克沙地：Otindag Sandy Land
+铁屑：scrap iron
+制浆造纸：pulping and papermaking
+吹脱：air stripping
+理论模拟：theoretical simulation
+优化组合：optimal combination
+有机锡化合物：Organotin Compounds
+污染监测：Pollution monitoring
+河流污染：river pollution
+灭火剂：fire extinguishing agent
+烟气流动：smoke movement
+土壤原生动物：soil protozoa
+液相微萃取：Liquid Phase Microextraction
+木质素磺酸钙：calcium lignosulfonate
+痕量金属：trace metal
+电解二氧化锰：Electrolytic manganese dioxide
+价态：valence state
+黄河水：Yellow River water
+红外分光光度法：infrared spectrophotometry
+顺序注射分析：sequential injection analysis
+室内污染：indoor pollution
+现场总线控制系统：field bus control system
+海口市：Haikou City
+微生物区系：microbial flora
+亚硫酸铵：ammonium sulfite
+产业生态：industrial ecology
+农业污染：agricultural pollution
+乳酸丁酯：butyl lactate
+敏感指标：sensitive index
+木材防腐：wood preservation
+葡萄糖脱氢酶：glucose dehydrogenase
+相对生长速率：relative growth rate
+油池火：pool fire
+辐射安全：Radiation safety
+隆线溞：Daphnia carinata
+质量比：Mass ratio
+可持续发展观：sustainable development
+颗粒有机碳：particulate organic carbon
+PSR模型：PSR model
+谱分布：size distribution
+强化一级处理：enhanced primary treatment
+动物保护：animal protection
+结构效应：structural effect
+全球环境变化：global environmental change
+螯合纤维：chelating fiber
+脱氮硫杆菌：Thiobacillus denitrificans
+流场分布：flow field distribution
+总体规划：general plan
+水化活性：hydration activity
+条件价值法：contingent valuation method
+安全稳定：Safety and stability
+工频：power frequency
+空间预测：Spatial prediction
+微生物传感器：microbial sensor
+管理对策：management measures
+改进模型：improved model
+雷电灾害：lightning disaster
+物元理论：matter-element theory
+理论渊源：theoretical origin
+铁细菌：Iron bacteria
+扩散渗析：diffusion dialysis
+气体燃料：gas fuel
+发展能力：development capacity
+Bt：Bacillus thuringiensis
+天津地区：Tianjin area
+涠洲岛：Weizhou Island
+组织与管理：organization and management
+工业废弃地：industrial wasteland
+质膜透性：membrane permeability
+稀有鮈鲫：Gobiocypris rarus
+内蒙古自治区：Inner Mongolia
+城市生态学：Urban ecology
+调水工程：water diversion project
+土地可持续利用：land sustainable use
+登记制度：Registration system
+栅格数据：grid data
+密云县：Miyun County
+过氧化氢酶活性：catalase activity
+海洋化学：marine chemistry
+制度管理：system management
+沼气池：biogas digester
+林业建设：forestry construction
+基本模式：basic model
+随机理论：Stochastic theory
+分子标志物：Molecular Markers
+危机事件：Crisis event
+易损性分析：vulnerability analysis
+决策理论：decision theory
+城市规模：city size
+城市系统：urban system
+调车机车：shunting locomotive
+居住社区：Residential community
+洪水管理：flood management
+土壤pH值：soil pH value
+公众满意度：public satisfaction
+协作机制：cooperation mechanism
+磷酸酶活性：phosphatase activity
+动态均衡：dynamic equilibrium
+大鹏湾：Dapeng Bay
+自由发展：free development
+燕山水库：Yanshan Reservoir
+水交换：Water exchange
+环境矿物学：environmental mineralogy
+跨文化比较：cross-cultural comparison
+电厂：power station
+节能减排：energy saving and emission reducing
+气升式环流反应器：airlift loop reactor
+应用进展：application progress
+冷却速度：cooling velocity
+氟化钙：calcium fluoride
+精馏塔：rectification tower
+污泥负荷：sludge loading
+可降解塑料：degradable plastics
+区域生态安全：regional ecological security
+多样性指数：biodiversity index
+黄石市：Huangshi City
+离子吸附：ion adsorption
+废轮胎：waste tire
+资源回收：resource recovery
+好氧堆肥：aerobic compost
+煤气发生炉：gas producer
+溃坝：dam failure
+农业废弃物：agricultural wastes
+可拓工程：extension engineering
+主观评价：Subjective assessment
+红外吸收光谱：infrared absorption spectrum
+电解法：electrolytic method
+系统聚类：hierarchical clustering
+气流分布：gas flow distribution
+铅同位素：Pb isotope
+基体效应：Matrix effects
+聚合氯化铁：polyferric chloride
+突变模型：catastrophe model
+动态评估：Dynamic Assessment
+人类中心主义：human centralism
+凝胶色谱：gel chromatography
+斑点叉尾鮰：channel catfish
+环境退化：environmental degradation
+富氢气体：hydrogen-rich gas
+高炉渣：BF slag
+工艺特点：technology characteristics
+雅砻江：Yalong River
+海洋管理：marine management
+适宜性评价：suitability assessment
+序批式间歇反应器：sequencing batch reactor
+高斯模型：Gauss model
+氢氧化锂：lithium hydroxide
+经济指标：economic indicator
+变量筛选：variable selection
+纯氧：pure oxygen
+溶藻细菌：Algicidal bacteria
+建材：Building material
+非均相反应：heterogeneous reaction
+调查方法：investigation method
+鳙鱼：bighead carp
+碳糊修饰电极：modified carbon paste electrode
+基因水平转移：horizontal gene transfer
+钛渣：titanium slag
+物料衡算：material balance
+水质保护：water quality protection
+日本政府：Japanese government
+氧化处理：oxidation treatment
+溶解有机碳：dissolved organic carbon
+刺五加：Acanthopanax senticosus Harms
+生态环境建设：Eco-environment construction
+残留动态：Residue dynamics
+宣传教育：publicity and education
+地球物理方法：Geophysical method
+含硫量：sulfur content
+抑制效应：inhibitory effect
+风险源：risk source
+模型模拟：Model simulation
+乐清湾：Yueqing bay
+非饱和带：unsaturated zone
+摇蚊幼虫：chironomid larvae
+纺织厂：Textile Mill
+噪声衰减：noise attenuation
+煤炭城市：Coal city
+保护环境：environmental protection
+放射防护：Radiological protection
+平原河网：plain river network
+生态园林城市：ecological garden city
+控制排水：controlled drainage
+环境系统：environmental system
+热岛效应：urban heat island effect
+日常管理：daily management
+节约型社会：conservation-minded society
+有机废弃物：organic waste
+风险指数：risk index
+海洋灾害：marine disaster
+补偿机制：compensation system
+气体爆炸：gas explosion
+间质细胞：Leydig cells
+叠加分析：overlay analysis
+中小城市：medium and small cities
+漏风率：air leakage rate
+条件分析：condition analysis
+遵义市：Zunyi city
+绿色技术创新：green technology innovation
+复合系统：complex system
+区域供热：district heating
+白石水库：Baishi reservoir
+价值核算：Value accounting
+法律障碍：legal obstacles
+潜在价值：potential value
+植物生态学：plant ecology
+直流电：Direct Current
+土壤细菌：soil bacteria
+区域尺度：Regional scale
+红河州：HongHe prefecture
+碳库：carbon pool
+经济激励：economic incentive
+交通流量：traffic volume
+水资源优化配置：optimal allocation of water resources
+电子文档：electronic document
+哲学内涵：Philosophical connotation
+多米诺效应：Domino effect
+色素含量：pigment content
+小农经济：small-scale peasant economy
+后备力量：reserve forces
+法律完善：legal perfection
+元素碳：Elemental carbon
+白腐真菌：white-rot fungi
+高效液相色谱-质谱：High performance liquid chromatography-mass spectrometry
+粘粒含量：clay content
+好氧降解：aerobic degradation
+生态政治：ecological politics
+电化学技术：electrochemical technique
+高级氧化技术：advanced oxidation processes
+吸附动力学：adsorption dynamics
+变性梯度凝胶电泳(DGGE)：denaturing gradient gel electrophoresis(DGGE)
+操作参数：operation parameters
+煤化工：coal chemical engineering
+煤矿安全：coal mine security
+信息化技术：Information technology
+胞外聚合物：extracellular polymeric substances(EPS)
+脱硫率：desulfurization rate
+质量保证：quality control
+生物脱硫：biological desulfurization
+白水：white water
+矿产资源开发：Mineral resources exploitation
+GM(1,1)模型：GM (1,1) model
+环境保护法：environmental protection law
+川东北：northeastern Sichuan
+元素组成：elemental composition
+ClO2：chlorine dioxide
+纳滤膜：nanofiltration membranes
+山仔水库：Shanzi Reservoir
+梅梁湾：Meiliang Bay
+TiO2薄膜：TiO_2 thin films
+绿色学校：green school
+溶解性有机质：dissolved organic matter
+芳香族化合物：aromatic compounds
+方法比较：method comparison
+实时优化：real-time optimization
+植物吸收：plant uptake
+污泥减量化：sludge reduction
+小叶章：Calamagrostis angustifolia
+锰氧化物：manganese oxide
+地球化学特征：geochemistry characteristics
+染整工业：dyeing and finishing industry
+山地：mountainous area
+废橡胶：waste rubber
+草浆：straw pulp
+渗滤液回灌：leachate recirculation
+脱水污泥：dewatered sludge
+临界通量：critical flux
+染料脱色：dye decolorization
+酸性废水：Acidic wastewater
+生态质量：ecological quality
+有机过氧化物：Organic peroxide
+降解特性：degradation characteristics
+生物滴滤塔：bio-trickling filter
+苏里格气田：Sulige Gasfield
+污泥浓缩：sludge thickening
+净化机理：purification mechanism
+氡及其子体：radon and its daughters
+滴流床反应器：trickle bed reactor
+过剩空气系数：Excess air coefficient
+国内外：home and abroad
+生态位理论：niche theory
+长江上游：upper reaches of Yangtze River
+湿地保护：wetland conservation
+评价分析：evaluation and analysis
+露天开采：Open-pit mining
+日本三角涡虫：Dugesia japonica
+非热效应：non-thermal effect
+铁电极：iron electrode
+大气压力：atmospheric pressure
+安全投入：safety input
+根际微生物：rhizosphere microbes
+大气环境质量：atmospheric environmental quality
+铜渣：copper slag
+生命线系统：lifeline system
+酚红：phenol red
+水环境保护：water environmental protection
+抑爆：explosion suppression
+锰离子：Manganese ion
+生产流程：production process
+西藏自治区：Tibet Autonomous Region
+水热晶化：hydrothermal crystallization
+生态响应：ecological response
+16SrDNA序列：16S rDNA sequence
+协调发展度：coordinated development degree
+环境毒理学：environmental toxicology
+奥利亚罗非鱼：Oreochromis aureus
+生态社区：ecological community
+铁基催化剂：Iron-based catalyst
+管井：tube well
+电气安全：electrical safety
+珠江流域：Pearl River Basin
+氮素流失：nitrogen loss
+锶铁氧体：strontium ferrite
+矿井建设：Mine construction
+人工湖：artificial lake
+镁粉：magnesium powder
+污水泵：sewage pump
+海淀区：Haidian district
+大气监测：atmospheric monitoring
+文化建设：cultural building
+磁性分离：Magnetic separation
+AnnAGNPS模型：AnnAGNPS model
+驻波场：standing wave field
+多年生黑麦草：Lolium perenne L
+技术框架：technical framework
+土柱：soil column
+控制要点：control points
+生命周期成本：life cycle cost
+传输模型：transmission model
+联立方程：Simultaneous Equations
+基本制度：basic system
+稻草秸秆：rice straw
+安全信息：safety information
+净化处理：Purification treatment
+冗余技术：redundant technology
+大叶黄杨：Euonymus japonicus
+结构类型：structural type
+氰尿酸：Cyanuric acid
+玛纳斯河流域：Manas River basin
+分布特点：distribution characteristics
+膜系统：membrane system
+三亚湾：Sanya Bay
+Dijkstra算法：Dijkstra arithmetic
+温室土壤：Greenhouse soil
+内分泌系统：Endocrine system
+土壤分析：soil analysis
+LINGO软件：LINGO software
+滨州市：Binzhou City
+土壤线虫：Soil nematodes
+风险对策：risk countermeasure
+期权定价理论：option pricing theory
+环境考古：environmental archaeology
+温湿度传感器：temperature and humidity sensor
+大连地区：Dalian area
+银汞合金：Silver amalgam
+永州市：Yongzhou city
+风险分类：risk classification
+环网：ring network
+项目策划：project planning
+共同代理：common agency
+电力调度：power dispatching
+农业信息化：agriculture informatization
+水文分析：hydrological analysis
+地下河：underground river
+拉美：Latin America
+趋势系数：Trend coefficient
+CLUE-S模型：CLUE-S model
+公民文化：Civil Culture
+联邦政府：federal government
+废电池：Waste battery
+局地环流：local circulation
+支付意愿：willingness to pay(WTP)
+矿化度：mineralization degree
+汽车尾气：automotive exhaust
+模拟优化：simulation and optimization
+化学还原法：chemical reduction method
+元素分析：ultimate analysis
+CASS工艺：CASS process
+大气降水：atmospheric precipitation
+离子交换树脂：ion exchange resins
+羧基：carboxyl group
+检验方法：inspection method
+六氟化硫：Sulfur hexafluoride
+发酵温度：fermentation temperature
+膜改性：membrane modification
+油水分离：oil/water separation
+复杂性科学：complex science
+家具企业：Furniture enterprise
+卤虫：Artemia Salina
+酸性水：sour water
+灵敏系数：Sensitivity coefficient
+五里湖：Wuli Lake
+应急救援：emergency response
+燃煤烟气：coal-fired flue gas
+塿土：Lou soil
+果园土壤：orchard soil
+关键环节：key link
+环境工程学：environmental engineering science
+复合膜：complex film
+生物膜法：biofilm process
+稻秆：rice straw
+无纺布：non-woven fabric
+无线监测：wireless monitoring
+纵向岭谷区：longitudinal range-gorge region
+无机高分子絮凝剂：inorganic polymer flocculant
+降解途径：degradation pathway
+自动喷水灭火系统：sprinkler system
+环境标准：environment standard
+溶气气浮：dissolved air flotation
+城市污水处理厂：municipal sewage treatment plant
+钒酸铋：bismuth vanadate
+含钛高炉渣：titanium-bearing blast furnace slag
+退浆废水：desizing wastewater
+循环冷却水系统：circulating cooling water system
+惯性圆锥破碎机：inertia cone crusher
+空气负离子：negative air ion
+井水：Well water
+功能区：functional area
+排土场：waste dump
+安全监察：safety supervision
+营养水平：nutrient level
+4A沸石：zeolite 4A
+氢氧化铁：ferric hydroxide
+过滤材料：filtration material
+径流污染：Runoff pollution
+含铬废水：wastewater containing chromium
+工业区：industrial area
+城市燃气：urban gas
+火焰原子吸收光谱：flame atomic Absorption spectrometry
+甲基蓝：Methyl blue
+固相法：Solid Phase Method
+滨海湿地：coastal wetlands
+生产优化：production optimization
+小球藻：Chlorella pyrenoidosa
+红薯淀粉：sweet potato starch
+喷涂：spray coating
+生物圈保护区：Biosphere reserve
+遗传损伤：Genetic damage
+恢复时间：recovery time
+再生胶：reclaimed rubber
+生物接触氧化法：biological contact oxidation
+厌氧折流板反应器：anaerobic baffled reactor(ABR)
+防震减灾：Earthquake prevention and disaster mitigation
+液液相平衡：liquid-liquid equilibrium
+产气量：biogas production
+胶质芽孢杆菌：Bacillus mucilaginosus
+自然生态系统：Natural ecosystem
+绿色环保：environmental protection
+未来趋势：future trend
+锌含量：zinc content
+清洁技术：clean technology
+空白值：blank value
+背角无齿蚌：Anodonta woodiana
+天然高分子：natural macromolecule
+梯度淋洗：gradient elution
+溴氨酸：bromamine acid
+节水技术：water-saving technology
+惰性粒子：inert particles
+铅阳极泥：lead anode slime
+释放动力学：Release Kinetics
+综合污染指数：comprehensive pollution index
+政策工具：policy tools
+稀有金属：rare metal
+安全效益：safety benefit
+环境灾害：environmental disaster
+废旧橡胶：waste rubber
+活性艳蓝KN-R：reactive brilliant blue KN-R
+采出液：produced liquid
+植物叶片：plant leaf
+导热油：Heat transfer oil
+精细化管理：Refined management
+湘江：Xiangjiang river
+好氧生物降解：aerobic biodegradation
+风量：air flow
+脆弱性分析：vulnerability analysis
+城市生活污水：Municipal wastewater
+采暖期：Heating period
+粘红酵母：Rhodotorula glutinis
+遥感反演：remote sensing inversion
+自然保护：Natural conservation
+淮北平原：Huaibei plain
+绍兴市：Shaoxing city
+农业利用：agricultural utilization
+伏安特性：volt-ampere characteristic
+预测系统：prediction system
+冶金企业：metallurgical enterprise
+丙酸：propanoic acid
+漂白粉：bleaching powder
+燃烧速度：burning rate
+预拌混凝土：premixed concrete
+菜籽饼：rapeseed cake
+资本逻辑：capital logic
+液膜分离：Liquid membrane separation
+环境道德：environmental morality
+水法：water law
+武夷山风景名胜区：Wuyishan Scenery District
+注水泵：water injection pump
+非使用价值：non-use value
+基本农田：prime farmland
+应用范围：application scope
+海洋浮游植物：marine phytoplankton
+溶解有机物：dissolved organic matter
+钦州湾：Qinzhou Bay
+场模型：field model
+物证：material evidence
+生态演替：ecological succession
+荧光试剂：fluorescent reagent
+环境修复：Environmental remediation
+岩溶山区：Karst mountain area
+静态试验：static test
+世界自然遗产：world natural heritage
+建模仿真：Modeling simulation
+周期振荡：periodic oscillation
+空间特征：spatial characteristic
+耗热量：heat consumption
+地球化学场：geochemical field
+凤眼莲：water hyacinth
+无铅汽油：unleaded gasoline
+流域治理：Watershed management
+ISO14000：ISO 14000
+矿质营养：mineral nutrients
+高大空间：large space
+立法体系：legislative system
+限值：limit value
+现场调查：field investigation
+散射光：scattering light
+城市防洪：city flood control
+氧化性损伤：Oxidative damage
+组织损伤：Tissue injury
+免疫亲和层析：immunoaffinity chromatography
+量的研究：Quantitative research
+非参数方法：Nonparametric method
+初始分配：initial allocation
+马兰黄土：malan loess
+机会主义行为：Opportunistic behavior
+绿色基础设施：green infrastructure
+叶绿素浓度：chlorophyll concentration
+数据交换平台：data exchange platform
+LMBP算法：LMBP algorithm
+渗透稳定性：seepage stability
+生产基地：production base
+合理规模：rational scale
+拍卖机制：auction mechanism
+氮流失：nitrogen loss
+伦理文化：ethical culture
+战略环境：Strategic environment
+事件树分析：event tree analysis
+MDA含量：MDA content
+于桥水库：Yuqiao Reservoir
+现实价值：practical value
+体积传质系数：volumetric mass transfer coefficient
+水溶性有机物：dissolved organic matter
+氮浓度：nitrogen concentration
+类水滑石：hydrotalcite-like compound
+简介：brief introduction
+流域管理：river basin management
+职业健康安全：Occupational health and safety
+煤矿企业：coal mine enterprise
+新疆：Xinjiang Region
+含油污水：oily water
+沉积盆地：sedimentary basins
+化工园区：chemical industry park
+乌兰布和沙漠：Wulanbuhe Desert
+非煤矿山：Non-coal mine
+垃圾渗沥液：landfill leachate
+吸附速率：adsorption rate
+入渗速率：infiltration rate
+铁尾矿：Iron tailing
+含油废水：oil-containing wastewater
+不安全行为：unsafe behavior
+吸附特性：Adsorption characteristic
+西溪湿地：Xixi wetland
+模型拟合：model fitting
+生态工业园区：eco-industrial parks
+加热速率：heating rate
+脉冲控制：pulse control
+脱色率：Decoloration rate
+大宁河：Daning river
+模糊评判：fuzzy comprehensive evaluation
+生态环境效应：eco-environmental effect
+粪大肠菌群：fecal coliform
+二次污染：Second pollution
+热管：heat pipes
+方法改进：method improvement
+斑马鱼：Brachydanio rerio
+分离变量法：method of separation of variables
+环境与发展：environment and development
+河南油田：Henan Oil Field
+硝化反应：nitration reaction
+活性艳红K-2BP：Reactive brilliant red K-2BP
+运行特性：operation characteristic
+生态占用：ecological footprint
+塔里木河下游：lower reaches of the Tarim River
+筛选指标：screening index
+N2O排放：N2O emission
+膜生物反应器(MBR)：membrane bioreactor(MBR)
+持久性有机污染物：persistent organic pollutants(POPs)
+大气环境容量：atmospheric environmental capacity
+化工企业：chemical enterprises
+聚醚砜：Poly(ether sulfone)
+事故率：accident rate
+煤气废水：Coal gasification wastewater
+乙酸异戊酯：iso-amyl acetate
+生态破坏：ecological destruction
+分类收集：Sorting collection
+煤炭生产：coal production
+储氧材料：oxygen storage material
+模糊数学模型：Fuzzy mathematical model
+酸性红G：acid red G
+氨氧化细菌：Ammonia-oxidizing bacteria
+锌冶炼：zinc smelting
+滹沱河：Hutuo River
+三氟乙酸：trifluoroacetic acid
+增压风机：booster fan
+生态环境保护：Eco-environmental protection
+相似材料模拟：similar material simulation
+洋河水库：Yanghe Reservoir
+麻痹性贝毒：Paralytic shellfish poisoning
+蒙古裸腹溞：Moina mongolica
+监测方法：monitoring methods
+固含率：solid holdup
+Y沸石：Y zeolite
+工业代谢：industrial metabolism
+脉冲电晕：pulse corona
+多效蒸发：multi-effect evaporation
+脂肪胺：aliphatic amine
+空气环境：air environment
+缓冲容量：buffering capacity
+聚合物微球：polymer microspheres
+改性蒙脱土：modified montmorillonite
+絮凝率：flocculating rate
+凹版印刷：gravure printing
+农牧交错带：ecotone between agriculture and animal husbandry
+首都圈：capital circle
+酒精废水：alcohol wastewater
+混合比：mixing ratio
+环境合作：environmental cooperation
+城市生态系统健康：urban ecosystem health
+CO_2排放：CO_2 emission
+案例库：Case base
+AD转换：AD conversion
+养猪场废水：piggery wastewater
+高梯度磁分离：high gradient magnetic separation
+个体行为：individual behavior
+多刺裸腹溞：Moina macrocopa
+人-机系统：man-machine system
+风险水平：risk level
+矿物学特征：mineralogical characteristics
+水环境监测：Water environment monitoring
+四氯化硅：silicon tetrachloride
+造纸污泥：paper mill sludge
+基础管理：basic management
+电子供体：electron donor
+地下水质：Groundwater quality
+燃烧速率：burning rate
+显著性检验：test of significance
+辅助电极：Auxiliary electrode
+手性农药：chiral pesticide
+大沽河：Dagu River
+锥状斯氏藻：Scrippsiella trochoidea
+介孔碳：Mesoporous carbon
+民勤盆地：Minqin Basin
+旅游环境容量：Tourism environmental capacity
+管式膜：tubular membrane
+九龙江口：Jiulong River Estuary
+TOPSIS方法：TOPSIS Method
+资源效率：Resource efficiency
+新疆维吾尔自治区：Xinjiang Uygur Autonomous Region
+乌海市：Wuhai city
+产业调整：industrial adjustment
+苯氧乙酸：phenoxyacetic acid
+叶片含水量：leaf water content
+规划方案：planning scheme
+亚致死效应：sublethal effect
+联锁控制：interlock control
+感应炉：induction furnace
+同步荧光光谱：synchronous fluorescence spectra
+生态观：ecological view
+铝离子：aluminum ion
+热安全性：thermal safety
+社会生态学：Social Ecology
+锅炉运行：boiler operation
+浑水：muddy water
+文化模式：cultural patterns
+寒区：cold area
+消落带：water-level-fluctuating zone
+评价理论：evaluation theory
+比活度：specific activity
+麦秆：wheat straw
+形态变化：morphological change
+大叶相思：acacia auriculiformis
+煤转化：coal conversion
+逐步回归法：stepwise regression
+城市用地：urban land use
+江门市：Jiangmen city
+汾河：Fenhe River
+淡水鱼类：freshwater fish
+方法验证：method validation
+多主体系统：Multi-agent systems
+社会工作者：social worker
+地下通道：underground passage
+嘉陵江流域：Jialing River Basin
+环氧砂浆：epoxy mortar
+碳税：carbon tax
+Agent模型：Agent model
+雨水资源化：rainwater resources
+索洛模型：Solow Model
+环境公平：environmental equity
+海州湾：Haizhou Bay
+电子元器件：electronic component
+乙酸异丁酯：isobutyl acetate
+专题制图：thematic mapping
+中华蟾蜍：Bufo gargarizans
+音乐喷泉：music fountain
+晋江市：Jinjiang city
+马粪海胆：Hemicentrotus pulcherrimus
+青虾：Macrobrachium nipponense
+国际比较：international compare
+Cd胁迫：Cd stress
+力矩控制：Torque Control
+技术异化：Technology alienation
+贸易模式：trade pattern
+逸度模型：fugacity model
+甲硫醇：methyl mercaptan
+复合垂直流人工湿地：integrated vertical-flow constructed wetland
+危害辨识：hazard identification
+厌氧序批式反应器：anaerobic sequencing batch reactor
+绿色社区：green community
+反应精馏：reaction distillation
+生态公路：ecological highway
+污染状况：pollution status
+燃烧特性：combustion property
+废物利用：waste utilization
+空气质量模式：air quality model
+废液：waste liquor
+压滤机：pressure filter
+集对分析法：set pair analysis
+污染转移：pollution transfer
+充水因素：water filling factor
+含酚废水：wastewater containing phenol
+2,4-二氯苯氧乙酸：2,4-dichlorophenoxyacetic acid
+垃圾焚烧炉：waste incinerator
+危险度评价：risk assessment
+硫化矿：Sulfide ores
+声波团聚：acoustic agglomeration
+数浓度：number concentration
+活性碳纤维：activated carbon fibers
+资源综合利用：comprehensive utilization of resources
+管理政策：management policy
+发酵液：fermentation liquor
+航空煤油：Aviation kerosene
+沙丘：sand dune
+城市安全：urban safety
+曝气量：aeration rate
+城市水环境：urban water environment
+600MW：600 MW
+硫酸盐气溶胶：Sulfate aerosol
+养殖废水：aquaculture wastewater
+曲靖市：Qujing City
+除尘系统：dedusting system
+畜禽废水：livestock wastewater
+淀粉微球：starch microsphere
+双钙钛矿：Double perovskite
+正式制度：formal system
+大气能见度：atmospheric visibility
+辽河三角洲：Liaohe River Delta
+电还原：electrochemical reduction
+复合纳米粒子：composite nanoparticle
+废旧塑料：waste plastic
+铁相：iron phase
+累积效应：cumulative effect
+催化体系：catalyst system
+效果评价：Effect Appraisal
+抗性机理：resistant mechanism
+总汞：Total Mercury
+γ-聚谷氨酸：γ-polyglutamic acid
+年际变化：annual variation
+紫外线消毒：ultraviolet disinfection
+参数估值：parameter estimation
+NaOH：Sodium hydroxide
+高活性：high activity
+暴露评估：exposure assessment
+单因素方差分析：one-way ANOVA
+线性范围：Linear range
+受体模型：Receptor model
+黔西南：southwest Guizhou
+水文特征：hydrological characteristics
+海州香薷：Elsholtzia splendens
+陕北地区：northern Shaanxi
+公路交通：road traffic
+阴极还原：cathodic reduction
+同时脱硫脱硝：simultaneous desulfurization and denitrification
+除磷脱氮：nitrogen and phosphorus removal
+过量空气系数：excess air coefficient
+降解酶：degrading enzyme
+克隆文库：clone library
+变化分析：change analysis
+运行参数：Operating parameters
+细砂：fine sand
+符号有向图：signed directed graph
+卷烟厂：cigarette factory
+绿色大学：green university
+北江：Beijiang River
+直接进样：Direct injection
+生态容量：ecological capacity
+还原焙烧：reduction roasting
+植被分布：vegetation distribution
+矿山环境：mining environment
+资源评价：resources assessment
+选择还原：selective reduction
+环境管制：environmental regulation
+生物滴滤池：Biotrickling Filter
+次氯酸钙：Calcium hypochlorite
+工业废水处理：Industrial wastewater treatment
+排烟温度：flue gas temperature
+北黄海：North Yellow Sea
+秀丽隐杆线虫：Caenorhabditis elegans
+安全监控系统：safety monitoring system
+施工工序：construction process
+土壤保持：soil conservation
+反应结晶：reactive crystallization
+邛海：Qionghai Lake
+安全系统工程：safety system engineering
+回收系统：recovery system
+试验结果：test results
+脉冲参数：pulse parameter
+磷酸钠：sodium phosphate
+白泥：white mud
+黑碳气溶胶：black carbon aerosol
+气候效应：climate effect
+雷达图：radar chart
+氡析出率：radon exhalation rate
+防治方法：prevention method
+阳极焙烧：anode baking
+火灾科学：fire science
+水化反应：hydration reaction
+罗茨风机：roots blower
+底栖硅藻：Benthic diatom
+代用燃料：substitute fuel
+水域：water area
+厂址选择：site selection
+奈曼旗：Naiman Banner
+采样方法：Sampling method
+公式法：formula method
+旅游可持续发展：Sustainable tourism development
+X衍射：X-ray diffraction
+响应机制：response mechanism
+松辽平原：Songliao Plain
+投资评价：investment evaluation
+糠醛渣：furfural residue
+发电厂：power plants
+汽车业：automobile industry
+生态关系：ecological relationship
+北京山区：Beijing mountain area
+低气压：low air pressure
+生态住宅：Ecological housing
+量化模型：quantitative model
+武陵山区：Wuling mountain area
+废弃采石场：abandoned quarry
+光环境：lighting environment
+张家口市：Zhangjiakou City
+同步设计：synchronous design
+压力开关：Pressure switch
+GIS系统：GIS system
+绿色企业：green enterprise
+表层水：surface water
+热量回收：Heat recovery
+江阴市：Jiangyin city
+自相关系数：autocorrelation coefficient
+新理论：new theory
+良性循环：virtuous circle
+经济开发区：economic development zone
+总碱度：total alkalinity
+混合元：Mixed finite element
+化学萃取：chemical extraction
+传播途径：Transmission route
+葎草：Humulus scandens
+新记录种：new records
+反向PCR：inverse PCR
+直接经济损失：direct economic loss
+特长隧道：extra-long tunnel
+教学问题：teaching problems
+冯家山水库：Fengjiashan reservoir
+Swarm仿真：Swarm simulation
+TSP：traveling salesman problem
+邵阳市：Shaoyang City
+景观敏感度：landscape sensitivity
+产业带：industrial belt
+灰色关联投影法：grey relation projection method
+形象定位：image positioning
+产业园区：industrial park
+个人价值：individual value
+供用电：power supply and consumption
+适应性管理：adaptive management
+制度文明：System civilization
+底灰：Bottom Ash
+粮食作物：grain crops
+长期定位试验：Long-term experiment
+季节分布：seasonal distribution
+胭脂鱼：Myxocyprinus asiaticus
+气候异常：climatic anomaly
+泛在网络：Ubiquitous network
+知识管理战略：knowledge management strategy
+突变级数法：Catastrophe progression method
+多中心治理：polycentric governance
+国际机制：international mechanism
+水质安全：water quality safety
+褪色反应：fading reaction
+变异函数：variation function
+超声波处理：ultrasonic treatment
+酸性气：acid gas
+用水网络：water-using network
+pH计：pH meter
+粘附力：adhesive force
+协调度：coordinating degree
+辽东湾：Liaodong gulf
+腈纶废水：acrylic fiber wastewater
+种群结构：community structure
+土地利用总体规划：comprehensive land use planning
+环保意识：Environmental protection consciousness
+中华大蟾蜍：Bufo gargarizans
+循环利用：circular utilization
+湿法烟气脱硫：wet flue gas desulphurization
+皂素废水：diosgenin wastewater
+溶解有机质：Dissolved organic matter
+酱油废水：sauce wastewater
+生态产业链：eco-industrial chain
+新装备：new equipment
+受限空间：confined space
+影响评估：impact assessment
+真空热解：vacuum pyrolysis
+抚仙湖：Fuxianhu lake
+开路电位：open circuit potential
+原位修复：in-situ remediation
+壳聚糖微球：chitosan microsphere
+复合生物反应器：hybrid biological reactor
+农田排水：farmland drainage
+燃煤机组：coal-fired unit
+污染水平：pollution level
+兴凯湖：Xingkai Lake
+总量控制：Gross Control
+催化聚合：catalytic polymerization
+工作机制：work mechanism
+深部矿井：deep mine
+铵离子：ammonium ion
+菜地土壤：vegetable soil
+生产试验：production test
+牛粪：dairy manure
+电化学处理：electrochemical treatment
+矿物材料：mineral material
+低温低浊：low temperature and low turbidity
+COD去除：COD removal
+吉林省西部：West Jilin Province
+联用技术：Hyphenated Techniques
+两相厌氧消化：two-phase anaerobic digestion
+农药残留分析：pesticide residue analysis
+乳品废水：dairy wastewater
+水处理工艺：water treatment process
+生态整体主义：ecological holism
+沿海城市：coastal cities
+国土规划：territorial planning
+室内环境污染：indoor environmental pollution
+规范化管理：normalized management
+怒江：Nujiang River
+燃烧技术：combustion technique
+碳材料：Carbon materials
+高寒湿地：alpine wetland
+浸渍树脂：impregnated resin
+空气采样：air sampling
+根际土：rhizosphere soil
+技术经济比较：technical and economic comparison
+聚硅酸：polysilicic acid
+直接沉淀法：direct precipitation
+城市污水污泥：Municipal sewage sludge
+啤酒生产：beer production
+东江：Dongjiang River
+沉淀碳酸钙：precipitated calcium carbonate
+水解离：water dissociation
+铁膜：iron plaque
+生产废水：production wastewater
+线性拟合：linear fit
+碳沉积：carbon deposition
+城市生活：city life
+水资源价值：water resource value
+丁基罗丹明B：butylrhodamine B
+收益法：income method
+毒性评价：toxicity evaluation
+恩施州：Enshi Autonomous Prefecture
+有机絮凝剂：organic flocculant
+安全检测：safety inspection
+复合改性：compound modification
+泸沽湖：Lugu Lake
+松辽流域：Songliao River Basin
+能源规划：energy planning
+含氰废水：cyanide-containing wastewater
+丹东市：Dandong city
+定量风险评价：quantitative risk assessment
+配套措施：supporting measures
+环境生态学：environmental ecology
+香溪河库湾：Xiangxi Bay
+产量因子：yield factor
+导电聚苯胺：conductive polyaniline
+系统安全性：system security
+环境经济政策：environmental economic policy
+室内空气品质：indoor air quality(IAQ)
+生物合成：biological synthesis
+人为失误：human error
+分析应用：Analytical application
+顶空进样：headspace injection
+丙烯酸酯共聚物：acrylate copolymer
+动态研究：dynamic research
+流动注射分光光度法：flow injection spectrophotometry
+管理策略：management policy
+道路规划：road planning
+起燃温度：light-off temperature
+化工生产：chemical production
+一维模型：one-dimensional model
+微波预处理：microwave pretreatment
+竞争反应：Competitive reaction
+中美关系：Sino-US relationship
+监测仪器：Monitoring instrument
+河南大学：Henan University
+辐射环境：radiation environment
+利益相关者分析：Stakeholder analysis
+低温热解：Low-temperature pyrolysis
+声压：acoustic pressure
+朗肯循环：Rankine cycle
+间接竞争ELISA：indirect competitive ELISA
+水溶开采：solution mining
+高原湖泊：plateau lake
+资源科学：Resources science
+动态评价：dynamic assessment
+代谢通量：metabolic flux
+换热特性：heat transfer characteristics
+控制室：control room
+火电：thermal power
+硝酸盐污染：Nitrate pollution
+永定河：Yongding River
+计算机辅助系统：computer-aided system
+高原湿地：Plateau Wetland
+设计规范：design criterion
+企业风险：enterprise risk
+技术策略：technical strategy
+黄山风景区：Huangshan Scenic Spot
+精度评价：Precision evaluation
+铜川市：Tongchuan city
+控制站：control station
+延吉市：Yanji City
+景观类型：Landscape type
+费用-效益分析：Cost-benefit analysis
+调车作业：shunting operation
+广州港：Guangzhou Port
+叶绿素b：Chlorophyll b
+能源消费结构：energy consumption structure
+温控仪：temperature controller
+模糊自适应PID：fuzzy self-adaptive PID
+煤炭消费：coal consumption
+风险沟通：risk communication
+赤峰市：Chifeng City
+水提液：water extract
+防控措施：Prevention and control measures
+应急保障：emergency support
+实践与思考：Practice and thinking
+价值补偿：value compensation
+水景设计：waterscape design
+间接经济损失：indirect economic loss
+历史过程：historical process
+洪水资源：flood resources
+能源开发：energy development
+周边环境：Surrounding Environment
+实测数据：measured data
+压实黄土：compacted loess
+管理过程：management process
+评判模型：evaluation model
+模糊物元模型：Fuzzy matter-element model
+水和废水：water and wastewater
+最大浑浊带：turbidity maximum
+财税政策：finance and taxation policy
+经济区：economic zone
+指数体系：index system
+土壤盐碱化：soil salinization
+最优停时：optimal stopping time
+沽源县：Guyuan County
+技术范式：technology paradigm
+社会主义制度：socialist system
+政治伦理：political ethic
+应急管理体系：emergency management system
+串联：in series
+热解机理：pyrolysis mechanism
+水热条件：hydrothermal condition
+系统思考：systematic thinking
+运行效果：running effect
+水环境管理：water environmental management
+酿酒酵母：Saccharomyces cerevisia
+制盐：salt making
+液相色谱法：high performance liquid chromatography
+污染机理：pollution mechanism
+纸坊沟流域：Zhifanggou watershed
+新疆油田：Xinjiang Oilfield
+油气回收：vapor recovery
+溶剂浮选：solvent flotation
+沉降速率：settlement rate
+生态压力指数：Ecological tension index
+环境行为：environment behavior
+外周血细胞：Peripheral blood cell
+节杆菌：Arthrobacter sp
+反电晕：back corona
+短流程：short process
+水污染事故：water pollution accident
+蜂窝陶瓷：ceramic honeycomb
+产酶条件：fermentation conditions
+塑料制品：plastic product
+印度芥菜：Indian mustard
+微生物制剂：microbial preparation
+脱硫脱硝：desulfurization and denitrification
+甲基丙烯酸：methyl acrylic acid
+苯胺废水：aniline wastewater
+物理化学性质：Physical and chemical properties
+兴化湾：Xinghua bay
+四尾栅藻：Scenedesmus quadricauda
+矿山公园：mine park
+实时预测：real-time prediction
+污染物扩散：pollutant dispersion
+污染特性：pollution characteristics
+缓蚀阻垢：corrosion and scale inhibition

@@ -1,0 +1,5000 @@
+遗传算法：genetic algorithm
+神经网络：neural network
+基因表达：gene expression
+质量控制：Quality Control
+专家系统：expert system
+一氧化氮：nitric oxide
+虚拟仪器：virtual Instrument
+晶体结构：Crystal structure
+指标体系：index system
+遗传多样性：genetic diversity
+组织培养：Tissue culture
+遥感：remote sensing
+聚类分析：cluster analysis
+风险管理：risk management
+新种：new species
+模式识别：pattern recognition
+现状：present situation
+细胞周期：cell cycle
+重金属：Heavy metal
+序列分析：sequence analysis
+数据处理：data processing
+基因治疗：gene therapy
+发展战略：Development Strategy
+因子分析：factor analysis
+原核表达：prokaryotic expression
+数据融合：data fusion
+实验研究：experimental study
+冬小麦：winter wheat
+发展趋势：development trend
+单克隆抗体：monoclonal antibody
+氨基酸：amino acid
+优化设计：optimum design
+博弈论：game theory
+水质：Water quality
+风景园林：Landscape Architecture
+RNA干扰：RNA interference
+热稳定性：thermal stability
+温度控制：temperature control
+正交试验：orthogonal test
+气候变化：climate change
+烤烟：Flue-Cured Tobacco
+定量分析：Quantitative analysis
+经济效益：economic benefit
+研究进展：research progress
+耐药性：drug resistance
+正交设计：orthogonal design
+原位杂交：in situ hybridization
+自由基：free radical
+信号转导：signal transduction
+太阳能：solar energy
+低温：low temperature
+微量元素：trace elements
+高温：high temperature
+质量标准：quality standard
+大肠杆菌：escherichia coli
+线性规划：linear programming
+决策支持系统：decision support system
+分子标记：molecular marker
+SWOT分析：SWOT analysis
+模糊神经网络：Fuzzy neural network
+应力分析：stress analysis
+气相色谱法：Gas chromatography
+水分胁迫：water stress
+磁场：magnetic field
+农业工程：agricultural engineering
+临床应用：Clinical application
+血糖：blood glucose
+土壤侵蚀：soil erosion
+BP算法：BP algorithm
+分形维数：fractal dimension
+免疫功能：immune function
+系统集成：system integration
+水土保持：Soil and water conservation
+均匀设计：uniform design
+pH值：pH value
+黄土高原：Loess Plateau
+动态规划：dynamic programming
+遗传转化：genetic transformation
+盐胁迫：salt stress
+水环境：water environment
+评价指标：evaluation index
+骨密度：bone mineral density
+比较优势：Comparative Advantage
+山东省：Shandong Province
+树突状细胞：Dendritic cells
+急性肺损伤：acute lung injury
+DNA损伤：DNA damage
+土壤肥力：soil fertility
+曲线拟合：curve fitting
+融合蛋白：fusion protein
+景观格局：Landscape pattern
+土壤水分：soil moisture
+金黄色葡萄球菌：staphylococcus aureus
+模糊综合评判：Fuzzy comprehensive evaluation
+流化床：fluidized bed
+溃疡性结肠炎：Ulcerative colitis
+微波辐射：microwave irradiation
+预测模型：prediction model
+仿真分析：simulation analysis
+景观设计：Landscape design
+日本血吸虫：Schistosoma japonicum
+干旱胁迫：drought stress
+江苏省：Jiangsu Province
+乳酸菌：Lactic acid bacteria
+维生素C：vitamin C
+浙江省：Zhejiang province
+种子萌发：seed germination
+开发利用：development and utilization
+水分利用效率：water use efficiency
+空间分析：spatial analysis
+鉴别诊断：Differential diagnosis
+配合力：combining ability
+抗旱性：drought resistance
+维生素E：vitamin E
+杂交水稻：Hybrid rice
+数据分析：data analysis
+可持续利用：Sustainable utilization
+X射线衍射：X-ray diffraction
+水污染：water pollution
+正交实验：orthogonal experiment
+毕赤酵母：Pichia pastoris
+生物防治：Biological control
+微波消解：Microwave digestion
+模拟退火算法：simulated annealing algorithm
+植株再生：plant regeneration
+DNA疫苗：DNA Vaccine
+空间结构：spatial structure
+春小麦：Spring wheat
+结构分析：structure analysis
+cDNA文库：cDNA library
+知识表示：knowledge representation
+自然保护区：nature reserve
+教学效果：teaching effect
+质量评价：quality evaluation
+种质资源：germplasm resources
+黑龙江省：Heilongjiang province
+心率：Heart rate
+雌激素受体：estrogen receptor
+三氧化二砷：Arsenic trioxide
+多孔介质：porous media
+电场：Electric field
+MATLAB仿真：MATLAB simulation
+持续发展：sustainable development
+蛋白激酶C：protein kinase C
+传递函数：transfer function
+遗传多态性：Genetic polymorphism
+遗传变异：genetic variation
+柠檬酸：citric acid
+分子生物学：molecular biology
+BP网络：BP network
+甘肃省：Gansu province
+四川盆地：Sichuan Basin
+抗拉强度：tensile strength
+光合特性：Photosynthetic characteristics
+正态分布：normal distribution
+模糊评价：fuzzy evaluation
+环境监测：environmental monitoring
+基因芯片：Gene Chip
+湖南省：Hunan Province
+电导率：electrical conductivity
+快速繁殖：Rapid propagation
+DNA甲基化：DNA methylation
+广东省：Guangdong Province
+动态变化：dynamic change
+基因克隆：gene clone
+阿魏酸：ferulic acid
+多克隆抗体：polyclonal antibody
+抗坏血酸：Ascorbic acid
+干细胞：stem cell
+结构优化：structural optimization
+酸雨：acid rain
+生长激素：growth hormone
+绿色化学：green chemistry
+空间数据：spatial data
+动态模型：dynamic model
+大白菜：Chinese cabbage
+安徽省：Anhui Province
+碱性磷酸酶：alkaline phosphatase
+提取工艺：extraction technology
+肿瘤细胞：tumor cells
+新技术：new technology
+工程设计：engineering design
+层次分析法：analytical hierarchy process
+乳酸：Lactic acid
+湖北省：Hubei Province
+骨骼肌：skeletal muscle
+碳酸盐岩：carbonate rock
+通径分析：Path analysis
+表皮生长因子：epidermal growth factor
+敏感性分析：sensitivity analysis
+叶绿素荧光：Chlorophyll fluorescence
+环境影响评价：environmental impact assessment
+丙型肝炎病毒：Hepatitis C virus
+原因分析：cause analysis
+环境因子：environmental factors
+大气污染：air pollution
+接枝共聚：graft copolymerization
+细胞系：Cell Line
+线粒体DNA：mitochondrial DNA
+市场机制：market mechanism
+光催化降解：photocatalytic degradation
+有机酸：organic acid
+分离纯化：Isolation and purification
+结核分枝杆菌：Mycobacterium tuberculosis
+模糊控制器：fuzzy controller
+分子量：molecular weight
+成活率：survival rate
+防治：prevention and cure
+应力分布：Stress Distribution
+现代农业：modern agriculture
+化学成分：chemical components
+化学合成：chemical synthesis
+茶多酚：Tea Polyphenols
+拟南芥：Arabidopsis thaliana
+有机质：organic matter
+摩擦系数：friction coefficient
+森林资源：forest resources
+分形理论：fractal theory
+土地利用变化：land use change
+生理特性：physiological characteristics
+DNA提取：DNA extraction
+杉木：Chinese Fir
+光合速率：photosynthetic rate
+红外光谱：Infrared Spectrum
+离子色谱：ion chromatography
+数字图像：digital image
+脂肪酸：fatty acids
+生产性能：production performance
+步进电机：step motor
+存活率：survival rate
+相对湿度：relative humidity
+耐盐性：salt tolerance
+蛋白表达：protein expression
+生态恢复：ecological restoration
+信息处理：information processing
+定性分析：qualitative analysis
+黄河：Yellow River
+有机合成：organic synthesis
+知识获取：knowledge acquisition
+生态农业：ecological agriculture
+绿色荧光蛋白：green fluorescent protein
+红壤：Red soil
+转录因子：Transcription factor
+溶解氧：dissolved oxygen
+种群动态：Population dynamics
+能量代谢：energy metabolism
+遗传距离：genetic distance
+空间格局：spatial pattern
+弓形虫：Toxoplasma gondii
+生物学特性：biological characteristic
+信号传导：signal transduction
+蒙特卡罗模拟：Monte Carlo Simulation
+膳食纤维：dietary fiber
+动态监测：dynamic monitoring
+真核表达载体：eukaryotic expression vector
+量子化学：quantum chemistry
+稀土元素：rare earth element
+四川省：Sichuan province
+青藏高原：Qinghai-Tibet Plateau
+抗病性：disease resistance
+差分方程：difference equation
+防治效果：control effect
+三维可视化：3D visualization
+棉铃虫：Helicoverpa armigera
+心理素质：Psychological quality
+水土流失：soil erosion
+景观生态学：landscape ecology
+可溶性糖：soluble sugar
+风险评价：risk evaluation
+科学管理：scientific management
+甘蓝型油菜：Brassica napus
+植被恢复：vegetation restoration
+地表水：surface water
+中草药：Chinese herbal medicine
+驱动力：Driving force
+基因工程：gene engineering
+概率分布：probability distribution
+市场分析：market analysis
+植物生长调节剂：plant growth regulator
+电子地图：Electronic map
+贵州省：Guizhou province
+禽流感病毒：Avian influenza virus
+丹参：Salvia miltiorrhiza
+环境质量：environmental quality
+空间变异：Spatial variability
+花药培养：anther culture
+表达载体：expression vector
+果实品质：fruit quality
+根癌农杆菌：agrobacterium tumefaciens
+P53蛋白：P53 protein
+荧光猝灭：fluorescence quenching
+肥大细胞：Mast cell
+离体培养：In vitro culture
+孔隙结构：pore structure
+太湖：Taihu Lake
+耕地：Cultivated land
+净光合速率：net photosynthetic rate
+小流域：small watershed
+方差分析：variance analysis
+新城疫病毒：newcastle disease virus
+信息提取：information extraction
+固体酸：solid acid
+发展对策：development countermeasure
+免疫应答：immune response
+绿色食品：green food
+回归模型：Regression model
+生存率：survival rate
+幼苗生长：Seedling growth
+原代培养：primary culture
+多酚氧化酶：polyphenol oxidase
+海南岛：Hainan Island
+制备工艺：preparation technology
+抗肿瘤活性：antitumor activity
+草酸：oxalic acid
+计算机软件：computer software
+乳酸脱氢酶：lactate dehydrogenase
+神经肽Y：neuropeptide Y
+流动注射分析：flow injection analysis
+建模与仿真：modeling and simulation
+腺病毒载体：adenovirus vector
+回归方程：regression equation
+性能试验：performance test
+棉纤维：cotton fiber
+农艺性状：Agronomic traits
+胚胎移植：embryo transfer
+雄性不育：male sterility
+油酸：oleic acid
+体外受精：in vitro fertilization
+生态补偿：ecological compensation
+苏云金芽孢杆菌：Bacillus thuringiensis
+计算机技术：computer technology
+生产技术：production technology
+水位：water level
+Schiff碱：Schiff base
+学习算法：learning algorithm
+速度场：Velocity Field
+评价研究：Evaluation studies
+病原菌：Pathogenic bacteria
+发芽率：germination rate
+青海省：Qinghai Province
+组件技术：component technology
+肺动脉：Pulmonary artery
+厌氧消化：anaerobic digestion
+白粉病：powdery mildew
+蛋白纯化：protein purification
+应急管理：emergency management
+融合表达：fusion expression
+白色念珠菌：Candida albicans
+高锰酸钾：potassium permanganate
+细胞色素C：cytochrome C
+土壤温度：soil temperature
+植被指数：vegetation index
+NaCl胁迫：NaCl stress
+体液免疫：humoral immunity
+分析方法：analytical method
+原子吸收光谱法：atomic absorption spectrometry
+热休克蛋白：heat shock protein
+亲和层析：Affinity chromatography
+土壤质量：soil quality
+工艺设计：process design
+森林公园：forest park
+生产函数：production function
+生命表：life table
+数据存储：data storage
+垂直分布：vertical distribution
+温度梯度：temperature gradient
+食品工业：food industry
+基因转移：gene transfer
+CAI课件：CAI courseware
+发酵条件：fermentation conditions
+细胞色素P450：cytochrome P450
+土壤污染：Soil pollution
+综合评价：synthetic evaluation
+消化系统：Digestive system
+Weibull分布：Weibull distribution
+传热传质：heat and mass transfer
+油松：Pinus tabulaeformis
+生态效应：ecological effect
+形成机制：formation mechanism
+体外培养：culture in vitro
+叶绿素含量：chlorophyll content
+结构鉴定：structure identification
+模拟模型：simulation model
+乙酸乙酯：ethyl acetate
+遗传分化：genetic differentiation
+间接ELISA：indirect ELISA
+腐殖酸：humic acid
+土壤有机碳：soil organic carbon
+16SrDNA：16S rDNA
+城市森林：urban forest
+热效应：thermal effect
+血气分析：blood gas analysis
+杀虫活性：insecticidal activity
+草鱼：grass carp
+融合基因：fusion gene
+应用效果：application effect
+粗集：rough set
+内源激素：endogenous hormones
+农药残留：pesticide residues
+光合细菌：photosynthetic bacteria
+腐植酸：humic acid
+天然橡胶：natural rubber
+水质评价：water quality assessment
+自然对流：natural convection
+遗传结构：genetic structure
+土壤酶：soil enzyme
+亲缘关系：Genetic relationship
+蛋白质含量：Protein content
+水质模型：water quality model
+管理制度：management system
+3S技术：3S technology
+嗜水气单胞菌：Aeromonas hydrophila
+绿茶：green tea
+禽流感：Avian influenza
+亚低温：mild hypothermia
+鄱阳湖：Poyang Lake
+植酸：phytic acid
+维生素A：vitamin A
+东海：East China Sea
+有机碳：organic carbon
+含水率：moisture content
+优势种：dominant species
+东北地区：Northeast China
+没食子酸：gallic acid
+黑土：Black soil
+胚胎干细胞：embryonic stem cell
+生产线：production line
+长江：Yangtze River
+疲劳裂纹：fatigue crack
+酶联免疫吸附测定：enzyme-linked immunosorbent assay
+同源重组：Homologous recombination
+大熊猫：giant panda
+渗透系数：Permeability coefficient
+经济价值：economic value
+紫色土：purple soil
+丹酚酸B：salvianolic acid B
+同时测定：simultaneous determination
+多重PCR：multiplex PCR
+载体构建：Vector construction
+混交林：mixed forest
+再生体系：regeneration system
+结构表征：structure characterization
+低温胁迫：low temperature stress
+测试方法：Test method
+输血：Blood transfusion
+分布函数：distribution function
+稻瘟病菌：Magnaporthe grisea
+原子荧光光谱法：atomic fluorescence spectrometry
+化学防治：chemical control
+人类活动：Human activity
+武汉市：Wuhan city
+抗氧化性：oxidation resistance
+有机溶剂：organic solvent
+除草活性：herbicidal activity
+网络系统：network system
+胃排空：Gastric emptying
+原生质体融合：Protoplast Fusion
+食用菌：Edible fungi
+应力松弛：stress relaxation
+森林生态系统：forest ecosystem
+公路建设：highway construction
+骨代谢：Bone metabolism
+总氮：total nitrogen
+逐步回归：stepwise regression
+土壤酶活性：soil enzyme activity
+包涵体：Inclusion body
+生长曲线：growth curve
+甘草酸：glycyrrhizic acid
+广州市：Guangzhou City
+分子流行病学：Molecular epidemiology
+铅中毒：Lead poisoning
+油页岩：Oil Shale
+松材线虫：Bursaphelenchus xylophilus
+基础研究：basic research
+植物多样性：plant diversity
+抗氧化酶：antioxidant enzymes
+景观生态：landscape ecology
+滴灌：drip irrigation
+甲酸：formic acid
+水泵：water pump
+拓扑指数：topological index
+聚合酶链式反应：polymerase chain reaction
+红色素：red pigment
+肉质：meat quality
+数理统计：mathematical statistics
+非点源污染：Non-point source pollution
+重庆市：Chongqing City
+直流电机：DC motor
+能量平衡：energy balance
+干物质：dry matter
+技术措施：technical measure
+通信网络：communication network
+羊草：Leymus chinensis
+酶活力：enzyme activity
+气孔导度：Stomatal conductance
+华南：South China
+厌氧发酵：anaerobic fermentation
+渤海：Bohai Sea
+畜牧业：Animal husbandry
+生态承载力：ecological carrying capacity
+标准体系：standard system
+消化道：Digestive tract
+银杏叶提取物：Ginkgo Biloba Extract
+自适应遗传算法：adaptive genetic algorithm
+鲍曼不动杆菌：Acinetobacter baumannii
+生态经济：ecological economy
+定量评价：quantitative evaluation
+杂交稻：hybrid rice
+转基因烟草：transgenic tobacco
+氯化钠：sodium chloride
+分布格局：distribution pattern
+土地复垦：Land reclamation
+风洞：wind tunnel
+种子活力：seed vigor
+核移植：nuclear transfer
+伤口愈合：wound healing
+无损检测：Non-destructive testing
+光动力疗法：photodynamic therapy
+分子量分布：molecular weight distribution
+湖南：Hunan Province
+超临界流体萃取：Supercritical fluid extraction
+高寒草甸：alpine meadow
+中国对虾：Penaeus chinensis
+微卫星标记：Microsatellite marker
+卫星遥感：satellite remote sensing
+粒度分布：particle size distribution
+稳定同位素：stable isotope
+新方法：new method
+胚胎发育：embryo development
+血脂：blood lipids
+安全工程：safety engineering
+临界温度：critical temperature
+变化检测：change detection
+城市景观：urban landscape
+冻土：frozen soil
+诱导抗性：induced resistance
+SD大鼠：SD rat
+烟粉虱：Bemisia tabaci
+大豆异黄酮：soybean isoflavone
+钢管：steel pipe
+还原糖：reducing sugar
+超声提取：Ultrasonic extraction
+苏云金杆菌：Bacillus thuringiensis
+凡纳滨对虾：Litopenaeus vannamei
+化学结构：chemical structure
+定点突变：site-directed mutagenesis
+Voronoi图：voronoi diagram
+转基因水稻：transgenic rice
+环境容量：environmental capacity
+亚细胞定位：subcellular localization
+渗透胁迫：osmotic stress
+效果分析：effect analysis
+含水量：moisture content
+河西走廊：Hexi Corridor
+景观规划：landscape planning
+水价：water price
+试验研究：experiment research
+分子机制：molecular mechanism
+海南省：Hainan Province
+农业机械：agricultural machinery
+农杆菌：Agrobacterium tumefaciens
+球孢白僵菌：Beauveria bassiana
+协同作用：synergistic effect
+点突变：point mutation
+体外成熟：In vitro maturation
+环境效应：environmental effect
+无土栽培：soilless culture
+土壤环境：soil environment
+黄芪：Astragalus Membranaceus
+水力计算：hydraulic calculation
+株高：plant height
+总磷：total phosphorus
+钙离子：calcium ion
+空间环境：space environment
+森林火灾：forest fire
+旋毛虫：Trichinella spiralis
+植物表达载体：plant expression vector
+大孔吸附树脂：macroporous adsorption resin
+诱变育种：mutation breeding
+氮代谢：Nitrogen metabolism
+供水：Water supply
+栉孔扇贝：Chlamys farreri
+投影寻踪：projection pursuit
+光照强度：Light intensity
+生态位宽度：niche breadth
+微卫星DNA：Microsatellite DNA
+自然灾害：natural disasters
+山东：Shandong province
+规划设计：planning design
+反义RNA：antisense RNA
+静电场：electrostatic field
+环境科学：environmental science
+高光谱遥感：hyperspectral remote sensing
+系统发育分析：phylogenetic analysis
+炎症性肠病：Inflammatory bowel disease
+呼吸道合胞病毒：Respiratory syncytial virus
+高温胁迫：high temperature stress
+酸性磷酸酶：acid phosphatase
+马尾松：Masson pine
+电晕放电：corona discharge
+高效：High efficiency
+遗传改良：genetic improvement
+分子进化：molecular evolution
+叶面积：leaf area
+雄激素受体：Androgen receptor
+有机氯农药：Organochlorine pesticides
+雷诺数：Reynolds number
+安全性评价：safety evaluation
+长白山：Changbai Mountain
+生态分布：ecological distribution
+种类组成：species composition
+总黄酮：total flavones
+土壤湿度：soil moisture
+籼稻：Indica rice
+数学分析：mathematical analysis
+消化酶：digestive enzyme
+米糠：rice bran
+花芽分化：flower bud differentiation
+生产成本：production cost
+γ-氨基丁酸：γ-aminobutyric acid
+精准农业：precision agriculture
+减阻：drag reduction
+烟叶：Tobacco leaf
+激光扫描：Laser scanning
+三峡水库：Three Gorges Reservoir
+生长模型：growth model
+RAPD分析：RAPD analysis
+绿色GDP：green GDP
+全球变暖：global warming
+鱼油：fish oil
+中等职业学校：secondary vocational school
+硝酸还原酶：Nitrate reductase
+土壤种子库：Soil seed bank
+VB：visual basic
+岩质边坡：Rock slope
+科技创新：science and technology innovation
+噬菌体展示：phage display
+播期：sowing date
+胶体金：colloidal gold
+酵母双杂交：Yeast two-hybrid
+生活史：life history
+逆转录病毒载体：retroviral vector
+体细胞胚胎发生：somatic embryogenesis
+肾间质纤维化：renal interstitial fibrosis
+避障：obstacle avoidance
+土地管理：land management
+新记录：new records
+RAPD标记：RAPD marker
+悬浮培养：suspension culture
+分维数：fractal dimension
+栽培技术：cultivation technology
+甜菜夜蛾：Spodoptera exigua
+差异表达：differential expression
+寿命：service life
+抑菌活性：antimicrobial activity
+米曲霉：Aspergillus oryzae
+网络分析：network analysis
+综合评判：comprehensive evaluation
+脱落酸：abscisic acid
+游离脂肪酸：free fatty acid
+模拟酸雨：simulated acid rain
+性信息素：sex pheromone
+胃肠道：gastrointestinal tract
+肉品质：Meat quality
+概率密度函数：probability density function
+长期施肥：Long-term fertilization
+数学模拟：mathematical simulation
+时空分布：temporal and spatial distribution
+生长速率：Growth rate
+bcl-2基因：bcl-2 gene
+稻田：paddy field
+嵌入式技术：embedded technology
+Struts框架：Struts framework
+金针菇：Flammulina velutipes
+苏云金芽胞杆菌：Bacillus thuringiensis
+脲醛树脂：urea-formaldehyde resin
+生态位重叠：niche overlap
+海岸带：coastal zone
+毛囊：Hair follicle
+流量：flow rate
+硫酸钾：potassium sulfate
+亚油酸：linoleic acid
+酶水解：enzymatic hydrolysis
+反应体系：reaction system
+稻米品质：rice quality
+农业发展：agricultural development
+化学分析：chemical analysis
+甜玉米：sweet corn
+系统分析：systematic analysis
+Rough集：rough set
+细胞壁：Cell wall
+结晶紫：crystal violet
+酯酶同工酶：Esterase isozyme
+条形码：bar code
+农业生产：Agricultural Production
+斜纹夜蛾：Spodoptera litura
+智能节点：intelligent node
+细胞融合：cell fusion
+天然林：natural forest
+酶活：enzyme activity
+钾肥：potassium fertilizer
+塔里木河：Tarim River
+根系活力：Root activity
+复杂适应系统：complex adaptive system
+空间变异性：spatial variability
+气候变暖：climate warming
+超声波提取：ultrasonic extraction
+香菇：lentinus edodes
+UV-B辐射：UV-B radiation
+嗜酸乳杆菌：lactobacillus acidophilus
+原子吸收：atomic absorption
+柱层析：column chromatography
+mRNA差异显示：mRNA differential display
+干旱区：arid area
+兰州市：Lanzhou city
+Y染色体：Y chromosome
+网络数据库：network database
+热降解：thermal degradation
+采后生理：postharvest physiology
+牙鲆：Paralichthys olivaceus
+He-Ne激光：He-Ne laser
+肠道菌群：intestinal flora
+机会成本：opportunity cost
+南京市：Nanjing City
+戊型肝炎病毒：Hepatitis E virus
+不定芽：adventitious bud
+多普勒雷达：Doppler radar
+生态因子：ecological factor
+抑制性消减杂交：suppression subtractive hybridization
+CO2：carbon dioxide
+水量平衡：water balance
+地表径流：surface runoff
+内生细菌：endophytic bacteria
+营养价值：nutritional value
+矿质元素：mineral element
+硝普钠：sodium nitroprusside
+RAKE接收机：RAKE receiver
+再生水：reclaimed water
+数学规划：mathematical programming
+生态文化：ecological culture
+德国小蠊：Blattella germanica
+遗传标记：genetic marker
+耐热性：heat tolerance
+Nash均衡：Nash equilibrium
+细胞死亡：Cell death
+生态系统健康：ecosystem health
+能值分析：emergy analysis
+肉桂酸：cinnamic acid
+土壤微生物：Soil microbe
+纤维品质：fiber quality
+寄主植物：host plant
+复合污染：combined pollution
+NO：nitric oxide
+大亚湾：Daya Bay
+关键技术：key techniques
+QTL定位：QTL mapping
+保健：health care
+人参：Panax ginseng
+模糊聚类分析：fuzzy clustering analysis
+黄河三角洲：The Yellow River Delta
+保护酶：protective enzyme
+城市建设：city construction
+诱导分化：induced differentiation
+森林景观：forest landscape
+生态风险：Ecological risk
+蛹虫草：Cordyceps militaris
+质谱：mass spectrum
+营养液：nutrient solution
+毛白杨：Populus tomentosa
+种植密度：planting density
+转录调控：transcriptional regulation
+抗病基因：resistance gene
+影像融合：image fusion
+遗传图谱：genetic map
+冷藏：cold storage
+生化指标：biochemical index
+水势：water potential
+妊娠率：Pregnancy rate
+核心种质：Core collection
+种子产量：Seed yield
+模态参数：Modal parameter
+氧化亚氮：Nitrous oxide
+单细胞凝胶电泳：single cell gel electrophoresis
+微生物多样性：microbial diversity
+微波干燥：microwave drying
+糙米：brown rice
+玉米秸秆：corn stalk
+机械振动：mechanical vibration
+基因诊断：gene diagnosis
+合理用药：Rational use of drug
+力学性质：Mechanical Properties
+杜仲：Eucommia ulmoides
+空间插值：spatial interpolation
+云南松：Pinus yunnanensis
+热处理工艺：heat treatment process
+固体脂质纳米粒：Solid lipid nanoparticles
+顺丁烯二酸酐：maleic anhydride
+生物学功能：biological function
+生态平衡：ecological balance
+知识模型：knowledge model
+流行病学调查：epidemiological survey
+鲫鱼：Carassius auratus
+机械设计：machine design
+胡杨：Populus euphratica
+疲劳分析：fatigue analysis
+机械系统：mechanical system
+小干扰RNA：Small interfering RNA
+磷肥：phosphate fertilizer
+咖啡酸：caffeic acid
+RS-485总线：RS-485 bus
+天敌：Natural enemies
+白纹伊蚊：Aedes albopictus
+网络课件：network courseware
+植被类型：vegetation type
+节肢动物群落：arthropod community
+社会地位：social status
+愈伤组织诱导：callus induction
+硫酸亚铁：ferrous sulfate
+响应面分析：response surface analysis
+豆粕：soybean meal
+系统管理：system management
+教学系统：teaching system
+刺槐：Robinia pseudoacacia
+孔雀石绿：malachite green
+服务功能：service function
+评价标准：evaluation criteria
+光电传感器：photoelectric sensor
+工程实践：engineering practice
+动态测试：dynamic test
+生理机制：physiological mechanism
+生理生化特性：physiological and biochemical characteristics
+远程诊断：Remote diagnosis
+家蝇：Musca domestica
+可溶性蛋白质：soluble protein
+硫酸：sulphuric acid
+经济管理：economic management
+细胞生长：cell growth
+瞬时表达：transient expression
+猪瘟病毒：classical swine fever virus
+气相色谱：gas chromatograph
+苹果汁：apple juice
+生态工程：ecological engineering
+残留分析：residue analysis
+大豆蛋白：soy protein
+防治措施：control measures
+分布规律：distribution law
+温室效应：greenhouse effect
+湿度传感器：humidity sensor
+转基因植物：transgenic plants
+巴斯德毕赤酵母：Pichia pastoris
+山区：mountain area
+郑州市：Zhengzhou City
+松嫩平原：Songnen Plain
+优质：high quality
+建设用地：Construction land
+天然色素：natural pigment
+功耗：power consumption
+环境政策：environmental policy
+江汉平原：Jianghan Plain
+功能分析：functional analysis
+流式细胞仪：flow cytometer
+报告基因：reporter gene
+大黄鱼：Pseudosciaena crocea
+硫含量：sulfur content
+水产品：aquatic product
+天然产物：natural products
+丛枝菌根真菌：arbuscular mycorrhizal fungi
+花生四烯酸：arachidonic acid
+三维模型：three-dimensional model
+基因扩增：gene amplification
+区域规划：Regional Planning
+森林植被：Forest Vegetation
+Toll样受体：Toll-like receptor
+F基因：F gene
+猪繁殖与呼吸综合征病毒：Porcine reproductive and respiratory syndrome virus
+水环境容量：water environmental capacity
+酒精发酵：alcohol fermentation
+内标法：internal standard method
+耗水量：water consumption
+综合分析：comprehensive analysis
+森林土壤：forest soil
+C反应蛋白：C reactive protein
+三峡库区：Three Gorges Reservoir
+快速测定：rapid determination
+CCD摄像机：CCD camera
+平菇：Pleurotus ostreatus
+排放控制：emission control
+超声波传感器：ultrasonic sensor
+霍乱弧菌：Vibrio cholerae
+华支睾吸虫：Clonorchis sinensis
+褐飞虱：Nilaparvata lugens
+驱动机制：driving mechanism
+步进电动机：Stepping motor
+统计方法：statistical method
+耗氧率：oxygen consumption rate
+内生真菌：endophytic fungus
+瘤胃发酵：rumen fermentation
+地下水污染：groundwater pollution
+资源利用：resource utilization
+尺寸稳定性：dimensional stability
+根系分泌物：root exudates
+质量检测：quality inspection
+冷害：chilling injury
+世界遗产：world heritage
+核苷酸序列：Nucleotide sequence
+远缘杂交：distant hybridization
+功能反应：functional response
+白肋烟：burley tobacco
+无机盐：inorganic salt
+拮抗细菌：antagonistic bacteria
+黄鳝：Monopterus albus
+平衡施肥：balanced fertilization
+地形图：topographic map
+有机磷农药：Organophosphorus pesticides
+硝酸铵：ammonium nitrate
+特征分析：characteristic analysis
+响应曲面法：response surface methodology
+生态效益：ecological benefits
+GIS技术：GIS technology
+有机农业：organic agriculture
+隶属函数：subordinate function
+非线性方程组：nonlinear equations
+膜流动性：membrane fluidity
+流行病学研究：Epidemiologic studies
+和谐教育：Harmonious education
+连锁不平衡：linkage disequilibrium
+麦草：wheat straw
+加工技术：processing technology
+谷氨酰胺合成酶：glutamine synthetase
+珍稀濒危植物：rare and endangered plants
+登革热：dengue fever
+mRNA表达：mRNA expression
+次生林：secondary forest
+自交系：inbred lines
+遗传相关：genetic correlation
+放牧强度：Grazing intensity
+市场前景：market prospect
+人体健康：Human health
+蜂王浆：royal jelly
+效益评价：Benefit evaluation
+土壤含水量：Soil moisture
+桃蚜：Myzus persicae
+蛋品质：egg quality
+物理性质：Physical properties
+养分吸收：Nutrient uptake
+籽粒产量：grain yield
+人工抗原：artificial antigen
+铁路建设：railway construction
+结构强度：structural strength
+黄萎病：Verticillium wilt
+乌龙茶：Oolong tea
+超临界CO2萃取：supercritical CO2 extraction
+评价方法：evaluating method
+污水回用：wastewater reuse
+工艺条件：technological condition
+Logistic方程：Logistic equation
+双孢蘑菇：Agaricus bisporus
+干扰试验：Interference test
+波尔山羊：Boer goat
+木材干燥：wood drying
+过氧化值：peroxide value
+虎杖：Polygonum cuspidatum
+甜高粱：sweet sorghum
+抗氧化性能：Oxidation resistance
+生理活性：physiological activity
+黄河流域：Yellow River Basin
+雷公藤：Tripterygium wilfordii
+株型：plant type
+侧柏：Platycladus orientalis
+粘土矿物：Clay minerals
+环境管理：environment management
+安全控制：safety control
+地理信息系统(GIS)：Geographic information system(GIS)
+深层发酵：submerged fermentation
+形态特征：morphological character
+碳酸钠：Sodium carbonate
+夏玉米：summer corn
+连作：continuous cropping
+延迟时间：Delay time
+生态系统服务：ecosystem services
+青海湖：Qinghai lake
+PCR扩增：PCR amplification
+蛋白激酶：protein kinase
+恢复系：restorer line
+骨髓基质干细胞：Bone marrow stromal cells
+新城疫：Newcastle disease
+叶表皮：Leaf epidermis
+耐旱性：drought tolerance
+产奶量：Milk yield
+响应面：response surface
+高效毛细管电泳：high performance capillary electrophoresis
+生长抑制：growth inhibition
+季节动态：seasonal dynamics
+甜椒：sweet pepper
+罗氏沼虾：Macrobrachium rosenbergii
+水曲柳：Fraxinus mandshurica
+植物景观：plant landscape
+DNA测序：DNA sequencing
+种子植物：seed plant
+荧光定量PCR：Real-time PCR
+钝顶螺旋藻：Spirulina platensis
+智能决策支持系统：intelligent decision support system
+土家族：Tujia nationality
+结核杆菌：Mycobacterium tuberculosis
+Kalman滤波器：Kalman filter
+快繁：rapid propagation
+耦合模型：coupling model
+污染土壤：contaminated soil
+土地覆盖：land cover
+抽水蓄能电站：pumped storage power station
+风洞实验：wind tunnel test
+抗真菌活性：antifungal activity
+社会背景：social background
+脂蛋白脂酶：Lipoprotein lipase
+灭活疫苗：Inactivated vaccine
+发根农杆菌：Agrobacterium rhizogenes
+果实发育：fruit development
+耕地保护：cultivated land protection
+光质：light quality
+食品加工：Food processing
+均匀分布：uniform distribution
+药物筛选：drug screening
+CCD相机：CCD camera
+植物保护：plant protection
+膜蛋白：membrane protein
+控制技术：Control technique
+复合肥：compound fertilizer
+X-射线衍射：X-ray diffraction
+呼吸系统：respiratory system
+土地退化：land degradation
+农业基础科学：agricultural basic science
+粗蛋白：crude protein
+缺失数据：missing data
+信号肽：signal peptide
+雨水利用：Rainwater utilization
+黄瓜花叶病毒：cucumber mosaic virus
+调节性T细胞：Regulatory T cell
+狂犬病毒：Rabies virus
+细胞迁移：cell migration
+精细农业：precision agriculture
+金属配合物：metal complex
+黄孢原毛平革菌：Phanerochaete chrysosporium
+浅层地下水：shallow groundwater
+祁连山：Qilian Mountains
+加工番茄：processing tomato
+城市热岛：urban heat island
+功能特性：functional properties
+螺旋藻：Spirulina platensis
+金属元素：metal element
+流变模型：rheological model
+生态价值：ecological value
+抗病毒活性：Antiviral activity
+土壤类型：soil type
+风险因素：risk factor
+生理效应：Physiological effect
+遗传参数：Genetic parameter
+有机食品：organic food
+货架期：shelf life
+维生素D：vitamin D
+电子显微镜：electron microscope
+推理机：reasoning machine
+白僵菌：Beauveria bassiana
+基因打靶：Gene targeting
+人工授精：Artificial insemination
+雷达回波：radar echo
+颗粒物：Particulate matter
+互花米草：spartina alterniflora
+植物乳杆菌：Lactobacillus plantarum
+木麻黄：Casuarina equisetifolia
+计算智能：computational intelligence
+土壤水：soil water
+VP2基因：VP2 gene
+反应条件：reaction condition
+面源污染：non-point source pollution
+气体交换：gas exchange
+石杉碱甲：Huperzine A
+内质网：endoplasmic reticulum
+含油量：oil content
+种群密度：population density
+生长调节剂：Growth regulator
+基因重排：Gene rearrangement
+特色数据库：Characteristic Database
+软粘土：soft clay
+PCR检测：PCR detection
+多元统计分析：multivariate statistical analysis
+代谢工程：metabolic engineering
+致病菌：pathogenic bacteria
+状态空间模型：state space model
+抗冻性：frost resistance
+欧氏距离：Euclidean distance
+空间分布格局：spatial distribution pattern
+濒危植物：endangered plant
+病毒检测：Virus detection
+碱性蛋白酶：alkaline protease
+实时荧光定量PCR：real-time PCR
+中华鳖：Trionyx sinensis
+土壤质地：soil texture
+能量密度：energy density
+锯缘青蟹：Scylla serrata
+黄海：Yellow Sea
+转移概率：transition probability
+总RNA：total RNA
+神经网络模型：Neural Network model
+木荷：Schima superba
+生境选择：Habitat selection
+碳含量：carbon content
+土壤改良：soil improvement
+环境风险：environmental risk
+H2O2：hydrogen peroxide
+混合溶剂：mixed solvent
+城市土壤：Urban soil
+森林经营：forest management
+红细胞膜：erythrocyte membrane
+生长和发育：Growth and Development
+扦插繁殖：cutting propagation
+白细胞：White Blood Cell
+生长因子：growth factors
+研究方向：research direction
+渗透压：osmotic pressure
+山东半岛：Shandong peninsula
+血细胞：blood cell
+野生稻：wild rice
+白叶枯病：bacterial blight
+种子园：seed orchard
+紫外辐射：ultraviolet radiation
+甜樱桃：sweet cherry
+果树：Fruit trees
+里氏木霉：Trichoderma reesei
+凸包：convex hull
+狂犬病病毒：rabies virus
+噬菌体抗体库：Phage antibody library
+基因功能：Gene function
+抗虫性：insect resistance
+小孢子培养：Microspore culture
+挥发油：volatile oils
+变异系数：variation coefficient
+供需：Supply and demand
+遗传资源：genetic resources
+果蔬：fruit and vegetable
+离心风机：centrifugal fan
+色彩设计：Color design
+废纸：waste paper
+分形维：fractal dimension
+微生物群落：microbial community
+外膜蛋白：outer membrane protein
+微卫星不稳定性：microsatellite instability
+cDNA微阵列：cDNA microarray
+犬瘟热病毒：Canine distemper virus
+多元回归分析：multiple regression analysis
+理化性质：physicochemical property
+矿物组成：mineral composition
+脂肪酸组成：fatty acid composition
+自来水：Tap water
+抗逆性：stress resistance
+压力场：pressure field
+水蒸气蒸馏：steam distillation
+自动监测：Automatic monitoring
+AM真菌：AM Fungi
+华北平原：North China Plain
+临床诊断：clinical diagnosis
+条斑紫菜：Porphyra Yezoensis
+淋巴细胞增殖：Lymphocyte proliferation
+表达分析：expression analysis
+几丁质酶基因：Chitinase gene
+BP人工神经网络：BP artificial neural network
+虚拟水：virtual water
+结构稳定性：structural stability
+16S rRNA基因：16S rRNA gene
+板蓝根：Radix Isatidis
+动强度：dynamic strength
+绞股蓝：Gynostemma pentaphyllum
+副溶血弧菌：Vibrio parahaemolyticus
+昆虫群落：insect community
+恒河猴：rhesus monkey
+遗传关系：genetic relationship
+Balb/c小鼠：Balb/c mice
+力学特性：Mechanical properties
+非线性优化：nonlinear optimization
+密云水库：Miyun reservoir
+决策树：decision trees
+技术管理：Technical management
+关联分析：correlation analysis
+棉蚜：Aphis gossypii
+经济性状：economic character
+精确农业：precision agriculture
+交感神经：sympathetic nerve
+刚地弓形虫：Toxoplasma gondii
+应激反应：stress reaction
+体成分：Body composition
+药剂防治：chemical control
+分子育种：molecular breeding
+原生质体培养：protoplast culture
+诱导抗病性：Induced resistance
+生活垃圾：municipal solid waste
+排放因子：emission factor
+群落多样性：community diversity
+监督分类：supervised Classification
+模糊分析：Fuzzy analysis
+研究与开发：research and development
+天然更新：natural regeneration
+蛋白质纯化：protein purification
+钙通道：Calcium channels
+断奶仔猪：weaned piglets
+新组合：New combination
+线性空间：linear space
+胸膜肺炎放线杆菌：Actinobacillus pleuropneumoniae
+钼酸铵：ammonium molybdate
+桑叶：mulberry leaves
+营养成分：nutrient composition
+横向振动：transverse vibration
+生长率：growth rate
+旱稻：upland rice
+bax基因：bax gene
+限制性片段长度多态性：restriction fragment length polymorphism
+种间竞争：interspecific competition
+基因定位：gene location
+信号通路：Signal pathway
+水分利用率：water use efficiency
+制备技术：preparation technology
+唾液酸：Sialic acid
+物种丰富度：species richness
+应力应变：stress and strain
+复混肥：compound fertilizer
+室内空气质量：indoor air quality
+隔热：heat insulation
+胴体品质：carcass quality
+渔业资源：Fishery resources
+猪链球菌：Streptococcus suis
+花粉萌发：pollen germination
+绒山羊：cashmere goat
+鱼腥草：Houttuynia Cordata Thunb
+细胞免疫：cell immunity
+酶活性：enzymatic activity
+质粒DNA：Plasmid DNA
+投资管理：investment management
+城市绿化：urban greening
+抗剪强度：shearing strength
+质量检验：quality inspection
+黄嘌呤氧化酶：xanthine oxidase
+实时定量PCR：real-time quantitative PCR
+灌区：irrigation area
+质量安全：quality safety
+可持续农业：Sustainable Agriculture
+脑组织：brain tissue
+猪细小病毒：porcine parvovirus
+人工繁殖：artificial propagation
+肝功能：Hepatic function
+瘦素受体：Leptin receptor
+细胞模型：Cell model
+叶片衰老：leaf senescence
+SRY基因：SRY gene
+面向服务架构：service-oriented architecture
+电压控制：voltage control
+移动GIS：mobile GIS
+超级稻：Super rice
+硝态氮：nitrate nitrogen
+特征参数：characteristic parameters
+菜用大豆：vegetable soybean
+动物福利：animal welfare
+青岛市：Qingdao City
+肺泡巨噬细胞：alveolar macrophage
+细菌培养：bacterial culture
+烟草花叶病毒：tobacco mosaic virus
+加速寿命试验：accelerated life test
+数字系统：digital system
+性别决定：Sex determination
+萌发率：germination rate
+真空干燥：vacuum drying
+苦瓜：balsam pear
+碳储量：carbon storage
+协调发展：coordinative development
+流态：flow pattern
+南美白对虾：Penaeus vannamei
+农业可持续发展：agricultural sustainable development
+渤海湾：Bohai bay
+电容传感器：capacitance sensor
+肠黏膜：Intestinal mucosa
+细胞程序性死亡：programmed cell death
+gus基因：gus gene
+水稳定性：water stability
+磷酸钙：calcium phosphate
+关键控制点：critical control point
+风蚀：wind erosion
+抗氧化系统：antioxidant system
+氨挥发：ammonia volatilization
+系统控制：system control
+模拟试验：simulation experiment
+杭州湾：Hangzhou Bay
+岩石边坡：rock slope
+能量收支：Energy budget
+数量性状：quantitative trait
+cDNA克隆：cDNA clone
+孤雌激活：Parthenogenetic activation
+生长性状：growth traits
+抗病：disease resistance
+繁育系统：breeding system
+细根：fine root
+硅酸钠：sodium silicate
+硝酸银：silver nitrate
+数字化设计：Digital Design
+离子强度：ionic strength
+持续利用：Sustainable utilization
+坛紫菜：Porphyra haitanensis
+膜脂过氧化：lipid peroxidation
+趋势预测：trend prediction
+次生代谢产物：secondary metabolites
+TaqMan探针：TaqMan probe
+基因表达谱：Gene expression profiling
+中和抗体：neutralizing antibody
+幼胚：immature embryo
+焉耆盆地：Yanqi basin
+参数化设计：parameter design
+数据库：data bank
+曲率半径：curvature radius
+零排放：zero discharge
+环境激素：environmental hormone
+等电点：isoelectric point
+南海北部：northern South China Sea
+生理生化指标：physiological and biochemical index
+氧化胁迫：oxidative stress
+品质性状：quality character
+副溶血性弧菌：Vibrio parahaemolyticus
+三疣梭子蟹：Portunus trituberculatus
+实践教学体系：practice teaching system
+土壤退化：Soil degradation
+顶体反应：acrosome reaction
+猪圆环病毒2型：Porcine circovirus type 2
+采暖系统：heating system
+实体建模：Solid modeling
+利用率：utilization rate
+水热处理：hydrothermal treatment
+学术价值：academic value
+连锁经营：chain operation
+含沙量：sediment concentration
+棉田：cotton field
+种间联结：interspecific association
+气候特征：climatic characteristics
+杉木人工林：Chinese fir plantation
+屈曲分析：buckling analysis
+农业信息：agricultural information
+气象灾害：meteorological disaster
+响应面分析法：Response surface methodology
+何首乌：polygonum multiflorum thunb
+成都市：Chengdu City
+单轴压缩：Uniaxial compression
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+空间分布：space distribution
+干热河谷：dry-hot valley
+空气调节：air conditioning
+菲律宾蛤仔：Ruditapes philippinarum
+阳性率：Positive rate
+丁酸钠：sodium butyrate
+表观消化率：apparent digestibility
+S1基因：S1 gene
+森林群落：forest community
+联合毒性：joint toxicity
+化学法：chemical method
+黄色素：yellow pigment
+光合色素：photosynthetic pigment
+硫酸铜：Copper sulfate
+风场：wind field
+阻尼系数：damping coefficient
+高羊茅：Festuca arundinacea
+日本沼虾：Macrobrachium nipponense
+土壤结构：Soil structure
+功能基因组学：Functional genomics
+数字农业：digital agriculture
+引种栽培：introduction and cultivation
+种间杂交：interspecific hybridization
+枯萎病：Fusarium wilt
+急性肾衰竭：acute renal failure
+动力学参数：kinetic parameter
+浓香型白酒：luzhou-flavor liquor
+提取率：extraction rate
+淮河流域：Huaihe River Basin
+乳酸发酵：lactic acid fermentation
+酒石酸：tartaric acid
+病情指数：disease index
+雨生红球藻：haematococcus pluvialis
+蛋白芯片：protein chip
+物种组成：species composition
+空肠弯曲菌：Campylobacter jejuni
+组培：Tissue culture
+氯化镁：magnesium chloride
+黄连：rhizoma coptidis
+城市公园：Urban park
+优化分析：optimization analysis
+故障率：failure rate
+生物量分配：Biomass allocation
+市场秩序：market order
+细胞悬浮培养：cell suspension culture
+差异显示：differential display
+病毒分离：Virus isolation
+中华蜜蜂：Apis cerana cerana
+相对分子质量：relative molecular mass
+管理措施：Management measures
+预警系统：warning system
+灰树花：Grifola frondosa
+虚拟样机技术：Virtual prototyping technology
+实验室试验：laboratory testing
+乳酸乳球菌：Lactococcus lactis
+诱导期：induction period
+TM影像：TM image
+脐橙：navel orange
+电液比例控制：electro-hydraulic proportional control
+种子发芽：Seed germination
+石灰性土壤：calcareous soil
+植物资源：plant resource
+人工草地：artificial grassland
+围术期：Perioperative period
+补偿生长：compensatory growth
+鸡粪：chicken manure
+苹果渣：Apple pomace
+草地退化：Grassland degradation
+离子选择电极：ion-selective electrode
+甘草：Glycyrrhiza uralensis
+变化趋势：change trend
+分子遗传学：molecular genetics
+氨基酸序列：amino acid sequence
+淀粉含量：starch content
+空间分布型：spatial distribution pattern
+白背飞虱：sogatella furcifera
+病原鉴定：Pathogen identification
+游离氨基酸：free amino acids
+吸收剂量：absorbed dose
+储能：energy storage
+氯离子：chlorine ion
+杏鲍菇：Pleurotus eryngii
+三价铬：trivalent chromium
+珠三角：Pearl River Delta
+景观结构：Landscape structure
+果蝇：Drosophila melanogaster
+文化多样性：cultural diversity
+农村能源：rural energy
+性比：sex ratio
+花粉管：pollen tube
+管理控制：management control
+核盘菌：Sclerotinia sclerotiorum
+抗性基因：resistance gene
+野生大豆：wild soybean
+功能食品：functional food
+胞外多糖：extracellular polysaccharide
+土壤养分：Soil nutrition
+枯草杆菌：Bacillus subtilis
+葡萄籽：grape seed
+杂交育种：cross breeding
+GC-MS分析：GC-MS analysis
+α-亚麻酸：α-linolenic acid
+贮藏品质：storage quality
+设计原理：design principle
+转基因植株：transgenic plants
+免疫机能：immune function
+核酸疫苗：nucleic acid vaccine
+HN基因：HN gene
+工艺优化：technology optimization
+生态系统管理：ecosystem management
+原子吸收分光光度法：atomic absorption spectrophotometry
+吖啶橙：acridine orange
+石羊河流域：Shiyang River basin
+甘草次酸：glycyrrhetinic acid
+分子机理：molecular mechanism
+疾病控制：Disease control
+区域气候模式：Regional climate model
+活性氧代谢：active oxygen metabolism
+广州管圆线虫：Angiostrongylus cantonensis
+体细胞胚发生：somatic embryogenesis
+北宋：The Northern Song Dynasty
+细胞色素b：Cytochrome b
+遗传连锁图谱：genetic linkage map
+土壤酸化：soil acidification
+历史文化：History and Culture
+中性蛋白酶：neutral protease
+Plackett-Burman设计：Plackett-Burman design
+CO_2：carbon dioxide
+环境风险评价：Environmental risk assessment
+水资源保护：water resources protection
+生态系统服务功能：ecosystem services
+分配系数：distribution coefficient
+硫酸锌：zinc sulfate
+营养生长：vegetative growth
+基地建设：base construction
+柴油发动机：diesel engine
+辐射效应：Radiation effect
+茉莉酸甲酯：methyl jasmonate
+群落演替：community succession
+古村落：ancient village
+孢子萌发：spore germination
+SD卡：SD card
+E2基因：E2 gene
+数字摄影测量：Digital photogrammetry
+bar基因：bar gene
+环境地球化学：environmental geochemistry
+气象条件：meteorological conditions
+污染指数：pollution index
+技术要求：technical requirement
+基因流：gene flow
+干酪乳杆菌：lactobacillus casei
+科学内涵：scientific connotation
+天麻：Gastrodia elata
+分类体系：classification system
+小麦条锈病：wheat stripe rust
+VP1基因：VP1 gene
+COM组件：COM component
+专利分析：patent analysis
+化学处理：chemical treatment
+呼吸速率：respiration rate
+食物链：food chain
+DNA多态性：DNA polymorphism
+测量精度：measuring accuracy
+土壤盐渍化：soil salinization
+硝酸钾：potassium nitrate
+黄芪多糖：Astragalus polysaccharides
+日本落叶松：Larix kaempferi
+植物生理学：plant physiology
+耦合效应：coupling effect
+转基因动物：transgenic animal
+细粒棘球绦虫：Echinococcus granulosus
+传染性支气管炎病毒：infectious bronchitis virus
+性别鉴定：sex identification
+产量性状：yield characters
+叶水势：leaf water potential
+立枯丝核菌：Rhizoctonia solani
+海参：sea cucumber
+安全性分析：security analysis
+资源保护：resource protection
+外观质量：appearance quality
+培养基优化：medium optimization
+基因组文库：Genomic library
+霜霉病：downy mildew
+模糊专家系统：fuzzy expert system
+猕猴：rhesus monkey
+行为经济学：behavioral economics
+多径衰落：multipath fading
+嵌入式GIS：embedded GIS
+小麦白粉病：wheat powdery mildew
+新分类群：new taxa
+Bt基因：Bt gene
+火灾报警：fire alarm
+土壤修复：soil remediation
+生态风险评价：ecological risk assessment
+粗糙集理论：Rough Sets Theory
+X射线荧光光谱法：X-ray fluorescence spectrometry
+火灾调查：fire investigation
+纤维形态：Fiber morphology
+系统发育树：phylogenetic tree
+胰蛋白酶抑制剂：Trypsin inhibitor
+预报模型：prediction model
+城市林业：urban forestry
+水管理：water management
+藏药：Tibetan medicine
+人工饲料：artificial diet
+病毒载量：viral load
+胸苷激酶：Thymidine kinase
+微波遥感：Microwave remote sensing
+产量形成：Yield formation
+地下滴灌：subsurface drip irrigation
+磁处理：magnetic treatment
+有丝分裂指数：mitotic index
+蚕豆：broad bean
+植被演替：vegetation succession
+主成分：Principal component
+太湖流域：Taihu basin
+三角帆蚌：Hyriopsis cumingii
+溶藻弧菌：Vibrio alginolyticus
+海洋细菌：marine bacteria
+加工品质：Processing quality
+生理响应：physiological response
+序列比对：sequence alignment
+表皮葡萄球菌：staphylococcus epidermidis
+DNA芯片：DNA chip
+结核分支杆菌：Mycobacterium tuberculosis
+重组杆状病毒：Recombinant baculovirus
+基因沉默：Gene silence
+种子生产：seed production
+中国林蛙：Rana chensinensis
+空气净化：Air purification
+技术改进：technical improvement
+原子吸收光谱：Atomic Absorption Spectrometry
+固液分离：Solid-Liquid Separation
+徐州市：Xuzhou City
+深层培养：submerged culture
+生物质能源：biomass energy
+电化学方法：electrochemical method
+初级生产力：Primary productivity
+烟台市：Yantai City
+生物信息学分析：bioinformatics analysis
+巨桉：Eucalyptus grandis
+养分平衡：nutrient balance
+粗蛋白质：crude protein
+小菜蛾：Plutella xylostella L
+质膜：plasma membrane
+冠层温度：canopy temperature
+聚氨酯泡沫：Polyurethane foam
+图像处理：image manipulation
+人参皂苷Rb1：Ginsenoside Rb1
+复合饮料：compound beverage
+硫酸铝：aluminum sulfate
+雷州半岛：Leizhou Peninsula
+插值算法：interpolation algorithm
+合理利用：Rational utilization
+感官评价：Sensory evaluation
+灰色聚类：grey clustering
+应变分析：strain analysis
+珊瑚礁：coral reef
+早稻：early rice
+精原干细胞：Spermatogonial stem cells
+原核表达载体：Prokaryotic expression vector
+民国时期：the period of the Republic of China
+梭梭：Haloxylon ammodendron
+园林应用：Landscape application
+典型草原：typical steppe
+籽粒灌浆：Grain filling
+检测方法：detecting method
+发光二极管：light emitting diode
+停留时间：residence time
+超临界萃取：supercritical extraction
+畜牧学：animal husbandry
+光吸收：optical absorption
+小麦：Triticum aestivum L
+合肥市：Hefei City
+游离脯氨酸：free proline
+北部湾：Beibu Gulf
+监督管理：supervision and management
+氮肥：N fertilizer
+校园环境：campus environment
+草地资源：grassland resources
+朱砂叶螨：Tetranychus cinnabarinus
+巢式PCR：nested PCR
+基于案例推理：Case-based reasoning
+细胞转染：cell transfection
+遗传模型：genetic model
+管理理论：Management Theory
+重组病毒：Recombinant virus
+阳极溶出伏安法：anodic stripping voltammetry
+RNAi：RNA interference
+处理工艺：Treatment process
+单细胞蛋白：single cell protein
+白腐菌：white rot fungus
+污染负荷：pollution load
+固态发酵：solid fermentation
+土壤剖面：soil profile
+黄芩：Scutellaria baicalensis
+水源：water source
+生物学效应：biological effects
+成分分析：composition analysis
+生产过程：production process
+配方设计：formulation design
+氯化锌：zinc chloride
+洪水灾害：flood disaster
+风向：wind direction
+转移因子：Transfer factor
+土壤理化性质：soil physical and chemical properties
+服务系统：service system
+同源模建：Homology modeling
+药理活性：pharmacological activities
+痛阈：Pain threshold
+重组鸡痘病毒：Recombinant fowlpox virus
+胚培养：embryo culture
+交配型：Mating type
+超级杂交稻：Super hybrid rice
+热带假丝酵母：Candida tropicalis
+麦麸：wheat bran
+凝胶电泳：Gel electrophoresis
+土壤动物：Soil fauna
+时间尺度：time scale
+模糊概率：fuzzy probability
+金龟子绿僵菌：Metarhizium anisopliae
+茶树：Camellia sinensis
+植物组织培养：plant tissue culture
+黄颡鱼：Pelteobagrus fulvidraco
+酵母双杂交系统：Yeast two-hybrid system
+Westernblot：Western blot
+HA基因：HA gene
+离体：in vitro
+虫生真菌：entomogenous fungi
+N基因：N gene
+A*算法：A* algorithm
+回归测试：Regression testing
+南方根结线虫：Meloidogyne incognita
+蛋白质结构：Protein structure
+尺度效应：size effect
+多不饱和脂肪酸：polyunsaturated fatty acids
+技术特点：technical characteristics
+桐油：Tung oil
+吸声系数：sound absorption coefficient
+酸水解：acid hydrolysis
+木本植物：woody plants
+活性成分：Active component
+青海：Qinghai Province
+樱桃番茄：cherry tomato
+苯甲酸钠：sodium benzoate
+桂花：osmanthus fragrans
+菜青虫：Pieris rapae
+响应函数：response function
+西洋参：American ginseng
+彗星实验：Comet Assay
+施工测量：construction survey
+石蜡切片：paraffin section
+病理变化：pathological change
+选择性剪接：alternative splicing
+英文摘要：English abstract
+功能验证：functional verification
+巴西橡胶树：Hevea brasiliensis
+耐冷性：cold tolerance
+草地早熟禾：Kentucky bluegrass
+华北落叶松：Larix principis-rupprechtii
+福建柏：Fokienia hodginsii
+表面自由能：surface free energy
+傅里叶变换红外光谱：Fourier Transform Infrared Spectroscopy
+土壤性质：soil property
+中水：reclaimed water
+电位滴定法：Potentiometric titration
+实验方法：experimental method
+碳酸钾：potassium carbonate
+菊芋：Jerusalem artichoke
+矿物油：mineral oil
+肥效：fertilizer efficiency
+城市经营：city management
+氨基酸组成：Amino acid composition
+竞争吸附：competitive adsorption
+水污染控制：water pollution control
+氮素形态：Nitrogen form
+聚丙烯酰胺凝胶电泳：polyacrylamide gel electrophoresis
+传统农业：traditional agriculture
+细胞分离：cell separation
+节水农业：water saving agriculture
+蛋白质代谢：protein metabolism
+长春花：Catharanthus roseus
+视黄酸：retinoic acid
+水稻纹枯病：rice sheath blight
+采食量：feed intake
+非生物胁迫：Abiotic stress
+表型可塑性：Phenotypic plasticity
+食用油：edible oil
+综合开发：comprehensive development
+微孔膜：microporous membrane
+湿地生态系统：wetland ecosystem
+综合管理：integrated management
+高温性能：high temperature performance
+糯玉米：waxy maize
+保留指数：Retention index
+植被覆盖度：vegetation coverage
+盾叶薯蓣：Dioscorea Zingiberensis
+华南地区：South China
+乙醇脱氢酶：Alcohol dehydrogenase
+经济林：economic forest
+资源调查：resource investigation
+cDNA表达文库：cDNA expression library
+内科学：internal medicine
+嗜麦芽窄食单胞菌：Stenotrophomonas maltophilia
+抗体检测：antibody detection
+形态变异：morphological variation
+积温：Accumulated temperature
+中国明对虾：Fenneropenaeus chinensis
+作用机理：function mechanism
+酸处理：acid treatment
+痕量元素：trace element
+香椿：Toona sinensis
+无机元素：inorganic element
+桔梗：Platycodon grandiflorum
+种群多样性：population diversity
+当归：Radix Angelicae Sinensis
+丁二酸：succinic acid
+品质分析：quality analysis
+保温：thermal insulation
+磷矿：phosphate rock
+γ-亚麻酸：γ-linolenic acid
+超氧化物歧化酶(SOD)：superoxide dismutase(SOD)
+几何参数：geometric parameter
+陆地生态系统：terrestrial ecosystem
+表面电荷：surface charge
+保护生物学：conservation biology
+应力水平：stress level
+香根草：vetiveria zizanioides
+水头损失：head loss
+鱼粉：fish meal
+分子伴侣：molecular chaperone
+林业产业：Forestry industry
+基因免疫：gene immunization
+同源性分析：Homology Analysis
+灰飞虱：Laodelphax striatellus
+玉米杂交种：maize hybrid
+根际土壤：rhizosphere soil
+混合培养：mixed culture
+单宁酸：tannic acid
+石墨炉：graphite furnace
+原位：in situ
+反应级数：reaction order
+环境胁迫：environmental stress
+分泌表达：secretory expression
+食物过敏：food allergy
+基因敲除：gene knock-out
+国家公园：national park
+实时PCR：real-time PCR
+云南红豆杉：taxus yunnanensis
+尖孢镰刀菌：Fusarium oxysporum
+莱姆病：Lyme disease
+数值分类：numerical taxonomy
+冷应激：Cold stress
+茉莉酸：jasmonic acid
+立地条件：site condition
+调亏灌溉：regulated deficit irrigation
+根系分布：root distribution
+种间杂种：interspecific hybrid
+冠层结构：Canopy structure
+不结球白菜：non-heading Chinese cabbage
+根结线虫：root-knot nematode
+AMMI模型：AMMI model
+森林生态学：forest ecology
+影响因子：influence factors
+纳米金：gold nanoparticles
+工程措施：engineering measures
+原子荧光法：atomic fluorescence spectrometry
+人为干扰：human disturbance
+叶绿素荧光参数：chlorophyll fluorescence parameters
+贮藏温度：storage temperature
+需水量：water requirement
+典型相关：Canonical correlation
+灰葡萄孢：Botrytis cinerea
+基因疫苗：DNA vaccine
+淋巴细胞转化：lymphocyte transformation
+支持细胞：Sertoli cell
+屋顶花园：roof garden
+番鸭：muscovy duck
+种子休眠：Seed dormancy
+副猪嗜血杆菌：Haemophilus parasuis
+植物生长：plant growth
+川芎：Rhizoma Chuanxiong
+室内试验：laboratory test
+无机氮：inorganic nitrogen
+品质评价：Quality evaluation
+图像识别：image identification
+误差控制：error control
+生物多样性保护：biodiversity conservation
+蜂花粉：bee pollen
+湿地公园：wetland park
+分子生态学：molecular ecology
+冻胀：frost heave
+生育期：Growth stage
+工业控制计算机：Industrial control computer
+极限载荷：limit load
+静态模型：static model
+党建：party building
+空心莲子草：alternanthera philoxeroides
+可溶性表达：soluble expression
+转Bt基因棉：transgenic Bt cotton
+人绒毛膜促性腺激素：human chorionic gonadotropin
+长白落叶松：Larix olgensis
+东方田鼠：Microtus fortis
+比较基因组学：Comparative genomics
+辽东栎：Quercus liaotungensis
+生理功能：physiological functions
+实验教学改革：experimental teaching reform
+酸价：acid value
+提取方法：extraction methods
+黄腐酸：fulvic acid
+农业非点源污染：agricultural non-point source pollution
+低浓度：low concentration
+文蛤：Meretrix meretrix
+仿生设计：bionic design
+保加利亚乳杆菌：Lactobacillus bulgaricus
+串联质谱：tandem mass spectrometry
+根系形态：root morphology
+丹江口水库：Danjiangkou reservoir
+五味子：Schisandra chinensis
+黄山市：Huangshan City
+温控系统：temperature control system
+模型参数：model parameters
+银染：silver staining
+美洲斑潜蝇：Liriomyza sativae Blanchard
+温度漂移：temperature drift
+辨证论治：Treatment based on syndrome differentiation
+钠通道：Sodium channel
+范例推理：case-based reasoning
+官厅水库：Guanting Reservoir
+银离子：Silver ion
+污染源：pollution sources
+人造板：Wood-based panel
+茶皂素：tea saponin
+树种选择：Tree species selection
+硫酸锰：manganese sulfate
+碳源：carbon sources
+喀斯特地区：karst area
+血清：blood serum
+进化树：Phylogenetic tree
+溶致液晶：lyotropic liquid crystal
+抗菌肽：antibacterial peptides
+哈茨木霉：Trichoderma harzianum
+碳酸氢钠：sodium bicarbonate
+氯化镉：cadmium chloride
+迷迭香酸：rosmarinic acid
+小牛胸腺DNA：calf thymus DNA
+定量测定：Quantitative determination
+超氧化物岐化酶：superoxide dismutase
+香料烟：Oriental tobacco
+氮沉降：nitrogen deposition
+巨大芽孢杆菌：Bacillus megaterium
+阳离子脂质体：Cationic liposome
+黄花蒿：Artemisia annua L
+明渠：open channel
+品种鉴定：Cultivar identification
+固氮：Nitrogen fixation
+植物病害：plant disease
+真核表达质粒：eukaryotic expression plasmid
+体系优化：system optimization
+Steiner树：Steiner tree
+夏季降水：summer precipitation
+种间关系：interspecific relationship
+精细定位：fine mapping
+真空蒸馏：vacuum distillation
+黄浦江：Huangpu River
+抗菌机理：antibacterial Mechanism
+邻苯二甲酸二丁酯：dibutyl phthalate
+常温：Room temperature
+沙地：Sandy land
+贵阳市：Guiyang city
+计算模型：computing model
+磁畴：magnetic domain
+介电特性：dielectric properties
+实例推理：Case-based reasoning
+马齿苋：Portulaca oleracea L
+临界速度：critical velocity
+群体感应：Quorum sensing
+设计施工：design and construction
+绿色农业：Green agriculture
+混沌优化：Chaotic optimization
+富里酸：fulvic acid
+黄曲霉：aspergillus flavus
+微生物量：microbial biomass
+生化组成：biochemical composition
+知识网格：Knowledge grid
+森林可持续经营：sustainable forest management
+DNA指纹：DNA fingerprinting
+喷灌：Sprinkler irrigation
+花生油：Peanut Oil
+根系生长：root growth
+差异表达基因：differentially expressed genes
+A549细胞：A549 cell
+步态分析：gait analysis
+Vero细胞：Vero cells
+纹枯病：sheath blight
+猪流感病毒：Swine influenza virus
+数字林业：digital forestry
+林分结构：Stand structure
+中肋骨条藻：Skeletonema costatum
+有机物：organic compounds
+毒性试验：toxicity test
+木材工业：wood industry
+土地整理：Land arrangement
+生产现状：production status
+浊点：cloud point
+铁缺乏：Iron deficiency
+克氏原螯虾：Procambarus clarkii
+高油玉米：high oil corn
+设施栽培：protected cultivation
+栓皮栎：quercus variabilis
+铁代谢：iron metabolism
+嗜麦芽寡养单胞菌：Stenotrophomonas maltophilia
+M基因：M gene
+S基因：S gene
+猪囊尾蚴：Cysticercus cellulosae
+基因枪：Gene gun
+外壳蛋白：coat protein
+轮回选择：recurrent selection
+唐山市：Tangshan city
+标准物质：reference material
+清洗剂：cleaning agent
+生态经济系统：Eco-economic system
+物理力学性能：physical and mechanical properties
+富集因子：enrichment factor
+氯化铁：ferric chloride
+感官评定：sensory evaluation
+金沙江：Jinsha River
+淡水鱼：freshwater fish
+萼花臂尾轮虫：Brachionus calyciflorus
+CFD：computational fluid dynamics
+扎龙湿地：Zhalong Wetland
+生产实习：Production practice
+协同萃取：synergistic extraction
+成本效益分析：Cost-benefit analysis
+驱动因子：driving factors
+观赏植物：ornamental plants
+酚酸：phenolic acid
+抗冻蛋白：antifreeze protein
+生产潜力：potential productivity
+中华稻蝗：Oxya chinensis
+蛋白质工程：protein engineering
+碳酸酐酶：Carbonic anhydrase
+养分循环：Nutrient cycling
+蛋白激酶A：protein kinase A
+草坪质量：turf quality
+生活型：life form
+离散元法：discrete element method
+发酵工艺：fermentation technology
+超临界CO2：supercritical CO_2
+实时荧光PCR：real-time PCR
+鸡腿菇：Coprinus comatus
+有机肥料：organic fertilizer
+荧光假单胞菌：Pseudomonas fluorescens
+紫花苜蓿：Medicago sativa L
+熵权法：Entropy method
+铁皮石斛：Dendrobium candidum
+控制方案：control scheme
+秋茄：Kandelia candel
+数据查询：data query
+双乙酸钠：sodium diacetate
+环境因素：environment factor
+基因组DNA：genome DNA
+贸易壁垒：trade barriers
+养分释放：nutrient release
+VisualFoxPro：Visual FoxPro
+新理念：New concept
+塔克拉玛干沙漠：Taklimakan Desert
+现代林业：modern forestry
+细胞周期阻滞：cell cycle arrest
+DNA免疫：DNA immunization
+病原真菌：pathogenic fungi
+鹅细小病毒：goose parvovirus
+盐分胁迫：salt stress
+制种：Seed production
+有性生殖：sexual reproduction
+遗传增益：genetic gain
+夏大豆：Summer soybean
+香气成分：aroma components
+崇明岛：Chongming Island
+药理作用：pharmacological activities
+成都平原：Chengdu plain
+微生物生物量：microbial biomass
+健康发展：healthy development
+综合实验：comprehensive experiment
+空间差异：spatial difference
+传动系统：drive system
+植物群落：plant communities
+经营模式：management model
+地下水库：groundwater reservoir
+蜡样芽孢杆菌：Bacillus cereus
+青蒿：Artemisia annua L
+应用价值：application value
+氮平衡：nitrogen balance
+叶蛋白：leaf protein
+灯盏花：Erigeron breviscapus
+日本对虾：Penaeus japonicus
+应急通信：emergency communication
+模型验证：model verification
+HPLC指纹图谱：HPLC fingerprint
+三次样条插值：cubic Spline interpolation
+粪肠球菌：enterococcus faecalis
+皱纹盘鲍：Haliotis discus Hannai
+商代：Shang dynasty
+基因结构：gene structure
+延边地区：Yanbian area
+细粒棘球蚴：Echinococcus granulosus
+血清酶：serum enzyme
+鳗弧菌：Vibrio anguillarum
+丹霞地貌：Danxia landform
+农业标准化：agricultural standardization
+种子处理：Seed treatment
+体细胞无性系变异：somaclonal variation
+重金属污染：heavy metals pollution
+铅污染：lead pollution
+紫外光谱：UV spectrum
+生物活性肽：Bioactive peptides
+合成工艺：synthetic process
+水玻璃：Sodium silicate
+测量方法：measurement methods
+生态景观：ecological landscape
+Morlet小波：morlet wavelet
+吸附平衡：Adsorption equilibrium
+蜡状芽孢杆菌：Bacillus cereus
+强化机制：strengthening mechanism
+集成技术：integrated technology
+石家庄市：Shijiazhuang City
+试验台：Test bed
+分类系统：classification system
+T细胞亚群：T cell subset
+潜热通量：latent heat flux
+绿肥：Green manure
+正交多项式：orthogonal polynomials
+星星草：Puccinellia tenuiflora
+蛋白质结构预测：protein structure prediction
+病毒病：virus disease
+土壤蒸发：soil evaporation
+南阳市：Nanyang city
+鸟氨酸脱羧酶：ornithine decarboxylase
+全长cDNA：full-length cDNA
+cDNA芯片：cDNA microarray
+热休克：heat shock
+AFLP标记：AFLP marker
+生长激素基因：Growth hormone gene
+细胞色素b基因：cytochrome b gene
+簇毛麦：Haynaldia villosa
+园林设计：landscape design
+发展分析：development analysis
+车辆导航：vehicle navigation
+群体质量：Population Quality
+鸟类群落：Bird community
+旗叶：flag leaf
+鸭疫里默氏杆菌：Riemerella anatipestifer
+菌核病：sclerotinia sclerotiorum
+重铬酸钾：potassium dichromate
+面粉：wheat flour
+品质控制：quality control
+城市绿地系统：urban green space system
+烟曲霉：Aspergillus fumigatus
+护坡：slope protection
+升温速率：heating rate
+组合模型：combined model
+植物提取物：plant extract
+遥感信息：remote sensing information
+溶氧：dissolved oxygen
+高速摄影：high-speed photography
+水力特性：hydraulic characteristic
+有效成分：effective component
+克隆与表达：cloning and expression
+剪切力：shear stress
+遗传效应：genetic effects
+降雨强度：rainfall intensity
+菌根真菌：Mycorrhizal fungi
+生物预处理：biological pretreatment
+碳贮量：Carbon storage
+养分流失：Nutrient loss
+创伤弧菌：Vibrio vulnificus
+卫星影像：Satellite image
+南宋：Southern Song Dynasty
+持续农业：Sustainable agriculture
+小麦淀粉：Wheat starch
+组蛋白乙酰化：Histone acetylation
+分子系统学：molecular phylogeny
+死亡时间：Postmortem interval
+南方红豆杉：Taxus chinensis var.mairei
+空间诱变：space mutation
+组织表达：tissue expression
+数据同化：data assimilation
+热胁迫：Heat stress
+最优化方法：optimization method
+测定方法：measuring method
+化学性质：Chemical properties
+结合常数：Binding constant
+丝状真菌：filamentous fungi
+成本核算：cost calculation
+寒潮：cold wave
+鲢鱼：Silver carp
+碱性脂肪酶：alkaline lipase
+使用价值：use value
+土地利用/覆被变化：land use/cover change
+高尔夫球场：Golf course
+资源开发：resource exploitation
+自动分析：automatic analysis
+16SrRNA基因：16S rRNA gene
+麻疯树：Jatropha curcas L
+植物检疫：plant quarantine
+抗肿瘤作用：anti-tumor effect
+肝组织：liver tissue
+生态条件：ecological condition
+景观多样性：landscape diversity
+过氧化物酶同工酶：Peroxidase isozyme
+粮食产量：Grain yield
+实验室诊断：Laboratory diagnosis
+近景摄影测量：close-range photogrammetry
+核衣壳蛋白：nucleocapsid protein
+基因序列：gene sequence
+动态分段：dynamic segmentation
+苹果树：apple tree
+鸭瘟病毒：duck plague virus
+红富士苹果：Red Fuji apple
+发酵品质：fermentation quality
+综合控制：integrated control
+真空冷冻干燥：Vacuum freeze drying
+应用技术：applied technology
+发展建议：development suggestion
+小麦幼苗：Wheat seedling
+水力性能：hydraulic performance
+异养细菌：Heterotrophic bacteria
+研究与应用：research and application
+硝化抑制剂：nitrification inhibitor
+绿脓杆菌：Pseudomonas aeruginosa
+降血糖作用：hypoglycemic effect
+产值：output value
+水分平衡：water balance
+华山松：Pinus armandii
+土壤微生物量：Soil microbial biomass
+黑腹果蝇：drosophila melanogaster
+移动通信系统：mobile communication system
+单核苷酸多态：single nucleotide polymorphism
+抗体制备：Antibody preparation
+转基因棉花：transgenic cotton
+潜力分析：potential analysis
+土壤水势：soil water potential
+种子发育：Seed development
+产蛋性能：laying performance
+遥感数据：remote sensing data
+加热温度：Heating Temperature
+品质改良：quality improvement
+混合发酵：mixed fermentation
+恒温：constant temperature
+激光诱导荧光：laser-induced fluorescence
+信息扩散：Information diffusion
+H_2O_2：hydrogen peroxide
+莱州湾：Laizhou Bay
+绿僵菌：Metarhizium anisopliae
+空间尺度：Spatial scale
+控制效果：control effect
+信息采集：Information acquisition
+草地生态系统：grassland ecosystem
+数据约简：data reduction
+液压控制系统：hydraulic control system
+工程技术：engineering technology
+维生素B6：Vitamin B6
+生长规律：Growth Law
+铝胁迫：aluminum stress
+缙云山：Jinyun Mountain
+晚疫病：late blight
+参数反演：parameter inversion
+回归系数：regression coefficient
+生长习性：growth habit
+抗寒性：cold hardiness
+同位素标记：isotope labeling
+美洲大蠊：Periplaneta americana
+分子诊断：Molecular Diagnosis
+血红素加氧酶：Heme Oxygenase
+戊型肝炎：hepatitis E
+稳定转染：stable transfection
+氦氖激光：He-Ne laser
+种子质量：seed quality
+胃液：Gastric juice
+产仔数：litter size
+转移载体：transfer vector
+秸秆覆盖：straw mulch
+营养诊断：nutrition diagnosis
+发芽指数：Germination index
+大豆疫霉菌：Phytophthora sojae
+土壤含水率：soil water content
+生态重建：ecological reconstruction
+样品前处理：sample pretreatment
+动态：dynamic state
+木纤维：wood fiber
+生长效应：growth effect
+二氧化氮：nitrogen dioxide
+感官品质：sensory quality
+西秦岭：West Qinling
+酶促褐变：enzymatic browning
+有效管理：effective management
+半衰期：half life
+监测数据：monitoring data
+气象要素：meteorological element
+有机化合物：organic compound
+损伤机理：Damage Mechanism
+害虫：insect pests
+苹果园：apple orchard
+随机抽样：random sampling
+裙带菜：Undaria Pinnatifida
+喀斯特石漠化：Karst rocky desertification
+设计与实现：design and implementation
+乙型脑炎病毒：Japanese encephalitis virus
+蛋白质相互作用：protein interaction
+水稻产量：rice yield
+基质细胞：stromal cells
+组织特异性：tissue specificity
+膜片钳技术：patch-clamp technique
+器官培养：Organ culture
+表达谱：Expression profile
+细胞色素氧化酶：cytochrome Oxidase
+群体遗传学：population genetics
+存活曲线：Survival curve
+联合收割机：combine harvester
+作物系数：crop coefficient
+林冠截留：canopy interception
+产量构成因素：Yield components
+子代测定：progeny test
+气压：air pressure
+全站仪：total station instrument
+地质条件：geological conditions
+碳密度：carbon density
+灰色关联度：grey relational grade
+退耕还林：returning farmland to forest
+研究与实践：research and practice
+松茸：Tricholoma matsutake
+营养品质：nutrient quality
+水葫芦：water hyacinth
+胶合强度：bonding strength
+冲击试验：impact test
+多项式回归：polynomial regression
+氯化胆碱：choline chloride
+吹扫捕集：Purge and trap
+建设与管理：construction and management
+热水：hot water
+模型优化：Model optimization
+防控：prevention and control
+质量传递：mass transfer
+苯酚-硫酸法：Phenol-sulfuric acid method
+生长过程：Growth process
+剂量率：Dose Rate
+海湾扇贝：Argopecten irradians
+结缕草：Zoysia japonica
+生态控制：ecological control
+薇甘菊：Mikania micrantha
+褐家鼠：Rattus norvegicus
+蜜环菌：Armillaria mellea
+抗性机制：resistance mechanism
+死因：Death cause
+闭环系统：closed-loop system
+花生蛋白：peanut protein
+外观品质：appearance quality
+毒力基因：Virulence gene
+唾液腺：Salivary gland
+B细胞表位：B cell epitope
+SCAR标记：SCAR marker
+次生代谢：secondary metabolism
+云理论：cloud theory
+卵巢发育：ovarian development
+粮食储藏：Grain Storage
+产质量：yield and quality
+花粉管生长：Pollen tube growth
+嫩枝扦插：softwood cutting
+克隆植物：clonal plant
+繁殖生物学：reproductive biology
+石油污染：oil pollution
+原料乳：raw milk
+格氏反应：Grignard reaction
+质量浓度：Mass concentration
+破坏机理：damage mechanism
+水分含量：water content
+人类健康：human health
+白色污染：white pollution
+毕业设计：graduate design
+培养条件：cultural condition
+褐土：Cinnamon soil
+氮源：nitrogen sources
+环境控制：environment control
+HACCP体系：HACCP system
+生态评价：ecological evaluation
+矮牵牛：Petunia hybrida
+饲用价值：feeding value
+退化生态系统：degraded ecosystem
+综合防治：comprehensive control
+白术：Atractylodes macrocephala koidz
+酸性土壤：acid soil
+中国北方：North China
+方案选择：scheme selection
+水位控制：water level control
+科研能力：scientific research ability
+转基因番茄：transgenic tomato
+种群生态学：population ecology
+数据采集与处理：Data acquisition and processing
+不定根：adventitious roots
+虾夷扇贝：Patinopecten yessoensis
+结构预测：structure prediction
+转基因小麦：transgenic wheat
+东亚飞蝗：Locusta migratoria manilensis
+湖羊：Hu sheep
+晚稻：late rice
+沙冬青：Ammopiptanthus mongolicus
+农业推广：Agricultural extension
+生长动力学：growth kinetics
+CO2浓度：CO2 concentration
+修正系数：correction coefficient
+重要值：Importance value
+姬松茸：Agaricus blazei Murill
+棕壤：brown soil
+肉鸭：meat duck
+光谱反射率：spectral reflectance
+量子效应：quantum effect
+基本建设：capital construction
+TM图像：TM image
+白灵菇：Pleurotus nebrodensis
+红松：korean pine
+含盐量：salt content
+海洋微藻：marine microalgae
+锥栗：Castanea henryi
+适度规模：moderate scale
+克隆生长：clonal growth
+大容量：large capacity
+胚囊：Embryo sac
+经济阈值：economic threshold
+植物病原真菌：plant pathogenic fungi
+反义基因：Antisense gene
+浸种：Seed soaking
+基因家族：gene family
+林火：forest fire
+叶黄素循环：xanthophyll cycle
+橡胶树：Hevea brasiliensis
+莽草酸：shikimic acid
+酶催化：enzyme catalysis
+耗氧量：oxygen consumption
+珠江：Pearl River
+圆二色谱：Circular Dichroism
+膜萃取：membrane extraction
+热值：calorific value
+加工方法：processing method
+脱乙酰度：degree of deacetylation
+非监督分类：unsupervised Classification
+竹醋液：bamboo vinegar
+偏最小二乘回归：partial least square regression
+竹叶：bamboo leaves
+生存环境：living environment
+水质净化：water purification
+动态吸附：dynamic adsorption
+脲酶抑制剂：urease inhibitor
+木材密度：wood density
+谷氨酸棒杆菌：Corynebacterium glutamicum
+生产模式：production mode
+土壤因子：soil factors
+龙须草：Eulaliopsis binata
+表层结构：surface structure
+性腺发育：gonadal development
+保护利用：protection and utilization
+黄土区：Loess area
+景观环境：landscape environment
+磷脂酶D：phospholipase D
+生态适应：Ecological adaptation
+森林健康：Forest health
+油蒿：Artemisia ordosica
+保护性免疫：protective immunity
+系统发生树：phylogenetic tree
+表达系统：expression system
+体脂：body fat
+花器官：floral organ
+表达模式：Expression pattern
+物理机制：physical mechanism
+害虫防治：pest control
+微卫星不稳定：Microsatellite instability
+不育系：sterile line
+瓶插寿命：Vase life
+森林类型：Forest type
+生长猪：growing pig
+酵母培养物：Yeast culture
+穗型：panicle type
+生物学效率：biological efficiency
+产量损失：Yield loss
+绿竹：Dendrocalamopsis oldhami
+土壤干旱：Soil drought
+春大豆：Spring soybean
+高寒草地：alpine grassland
+三聚磷酸钠：sodium tripolyphosphate
+化学形态：chemical speciation
+示范工程：demonstration project
+生态经济学：ecological economics
+小麦麸皮：wheat bran
+变性梯度凝胶电泳：denaturing gradient gel electrophoresis
+判别分析：discrimination analysis
+营养评价：nutritional evaluation
+脱氢酶活性：dehydrogenase activity
+糖代谢：sugar metabolism
+三江平原：the Sanjiang Plain
+水分生理：water physiology
+火用分析：exergy analysis
+丝氨酸蛋白酶：serine protease
+水系：water system
+森林生态：forest ecology
+刺梨：Rosa roxburghii Tratt
+表面积：surface area
+短小芽孢杆菌：bacillus pumilus
+黄曲霉毒素B1：aflatoxin B1
+细菌多样性：Bacterial diversity
+后向散射系数：backscattering coefficient
+化学防除：chemical control
+獭兔：Rex rabbit
+河北平原：Hebei plain
+包膜尿素：coated urea
+优势种群：dominant population
+存活时间：survival time
+糖积累：Sugar accumulation
+发展环境：Development environment
+双峰驼：bactrian camel
+联合用药：drug combination
+DNA序列分析：DNA sequencing
+表达序列标签：Expressed sequence tag
+流量传感器：flow sensor
+猪圆环病毒：Porcine circovirus
+连锁图谱：linkage map
+体尺：body size
+维管束：vascular bundle
+遗传背景：genetic background
+次生演替：secondary succession
+清华大学：Tsinghua University
+嵌入式控制器：Embedded controller
+小麦产量：wheat yield
+秦川牛：Qinchuan cattle
+土壤系统分类：soil taxonomy
+栖息地选择：Habitat selection
+秧苗素质：seedling quality
+西南桦：Betula alnoides
+菌种鉴定：strain identification
+可食性膜：edible film
+防治对策：control countermeasure
+保质期：shelf life
+设计改进：design improvement
+热风干燥：hot-air drying
+实验种群：experimental population
+节水：water conservation
+莲藕：lotus root
+生物资源：biological resources
+超临界CO_2萃取：supercritical CO_2 extraction
+桦褐孔菌：Inonotus obliquus
+谷氨酸脱氢酶：glutamate dehydrogenase
+过渡区：transition region
+紫茎泽兰：Eupatorium adenophorum Spreng
+快速热解：Fast pyrolysis
+探索与实践：exploration and practice
+海洋真菌：Marine fungus
+开发与应用：development and application
+南通市：Nantong city
+维生素B1：Vitamin B1
+减灾：disaster reduction
+柴胡：Radix Bupleuri
+植被盖度：vegetation coverage
+经济开发：Economic Development
+比较解剖：comparative anatomy
+总蛋白：total protein
+几何模型：geometry model
+潮土：fluvo-aquic soil
+纵坑切梢小蠹：Tomicus piniperda
+城市生态：urban ecology
+径流系数：Runoff coefficient
+地黄：Rehmannia glutinosa
+血清蛋白：serum protein
+酶动力学：enzyme kinetics
+痘苗病毒：Vaccinia virus
+胚胎着床：embryo implantation
+次生代谢物：Secondary metabolites
+Southern杂交：Southern blot
+黄体：corpus luteum
+发育生物学：Developmental biology
+犬细小病毒：canine parvovirus
+体胚发生：somatic embryogenesis
+燃油喷射系统：fuel injection system
+信息沟通：information communication
+地膜覆盖：plastic film mulching
+黏土矿物：clay mineral
+水杨酸甲酯：Methyl Salicylate
+结晶结构：crystal structure
+网站设计：website design
+矿区：mine area
+氮磷：nitrogen and phosphorus
+生态需水：ecological water demand
+防灾：disaster prevention
+水稻幼苗：rice seedling
+海河流域：Haihe River basin
+环境雌激素：environmental estrogens
+中山市：Zhongshan city
+能力建设：capacity building
+小麦品质：wheat quality
+甜瓜：Cucumis melo L
+假阳性：false positive
+基本结构：basic structure
+青枯菌：Ralstonia solanacearum
+梯度法：gradient method
+系统进化分析：phylogenetic analysis
+开发工具：development tool
+宝鸡市：Baoji City
+历史时期：historical period
+生态适应性：Ecological adaptation
+日食：Solar Eclipse
+蛋白核小球藻：Chlorella pyrenoidosa
+多重RT-PCR：Multiplex RT-PCR
+Sox基因：Sox gene
+基因转录：Gene transcription
+tk基因：tk gene
+外源DNA：Exogenous DNA
+降雨侵蚀力：Rainfall Erosivity
+辐射定标：radiometric calibration
+梯度分析：Gradient analysis
+桉树人工林：Eucalyptus plantation
+早期选择：early selection
+花粉管通道法：pollen-tube pathway
+臭柏：Sabina vulgaris
+土壤团聚体：soil aggregate
+花粉育性：pollen fertility
+马铃薯晚疫病菌：Phytophthora infestans
+水稻生产：Rice production
+两系杂交稻：two-line hybrid rice
+三七：Radix notoginseng
+合成机理：synthesis mechanism
+应用前景：application foreground
+呼吸强度：respiration rate
+固相合成：solid state synthesis
+连续发酵：Continuous fermentation
+保温材料：thermal insulation material
+肌球蛋白重链：myosin heavy chain
+农业环境：agricultural environment
+开放实验室：opening laboratory
+棉秆：cotton stalk
+贯叶连翘：Hypericum perforatum L
+火炬松：Loblolly Pine
+单胺氧化酶：monoamine oxidase
+曲酸：Kojic acid
+多传感器融合：multi-sensor fusion
+响应面方法：response surface methodology
+维修管理：maintenance management
+参数模型：Parameter model
+棕榈酸：palmitic acid
+硅肥：silicon fertilizer
+流式细胞技术：flow cytometry
+景观变化：Landscape change
+豆油：soybean oil
+克隆选择：clone selection
+淡紫拟青霉：Paecilomyces lilacinus
+盐生杜氏藻：dunaliella salina
+农业结构调整：agricultural structure adjustment
+生物有机肥：bio-organic fertilizer
+ACC氧化酶：ACC oxidase
+观光农业：Sightseeing agriculture
+c-Fos蛋白：c-Fos protein
+猪链球菌2型：Streptococcus suis serotype 2
+治疗效果：Curative effect
+脂肪代谢：Fat metabolism
+穿透性角膜移植：penetrating keratoplasty
+重组抗原：Recombinant antigen
+体细胞核移植：Somatic cell nuclear transfer
+昆虫细胞：insect cell
+蛋白质表达：protein expression
+RNA沉默：RNA silencing
+ORF2基因：ORF2 gene
+愈伤组织培养：callus culture
+松褐天牛：Monochamus alternatus
+杂交粳稻：Japonica hybrid rice
+传粉生物学：pollination biology
+丝黑穗病：head smut
+杂交油菜：hybrid rape
+光皮桦：Betula luminifera
+低氧胁迫：hypoxia stress
+茶园：tea plantation
+收入结构：income structure
+机理研究：mechanism research
+液体培养：submerged culture
+贡献率：contribution ratio
+黑碳：black carbon
+硼酸锌：zinc borate
+博斯腾湖：Bosten Lake
+抑制作用：inhibition effect
+活性氧：active oxygen species
+稻壳：rice hull
+价值评价：value evaluation
+人工植被：artificial vegetation
+枸杞多糖：Lycium barbarum polysaccharide
+水解度：hydrolysis degree
+河水：river water
+环境污染物：Environmental Pollutants
+最优设计：optimal design
+核桃油：Walnut oil
+海南：Hainan province
+贮藏蛋白：Storage protein
+抑制活性：inhibitory activity
+亚麻酸：Linolenic acid
+民勤绿洲：Minqin Oasis
+盐酸环丙沙星：Ciprofloxacin hydrochloride
+冬季施工：construction in winter
+凋落物分解：litter decomposition
+岩溶区：karst area
+DNA微阵列：DNA microarray
+佛山市：Foshan city
+环境资源：environmental resources
+技术集成：technology integration
+蜡蚧轮枝菌：Verticillium lecanii
+T-2毒素：T-2 toxin
+麦冬：Ophiopogon japonicus
+产气荚膜梭菌：Clostridium perfringens
+河流健康：river health
+樟树：Cinnamomum camphora
+茶学：Tea science
+市场监管：market supervision
+混凝土板：concrete slab
+肝微粒体：liver microsomes
+脂肪肝：fatty liver disease
+基因变异：gene mutation
+红细胞免疫：Erythrocyte immunity
+小叶锦鸡儿：Caragana microphylla
+再生植株：regenerated plant
+抽穗期：heading date
+杆状病毒表达系统：Baculovirus expression system
+体细胞：somatic cell
+影像分类：image classification
+群落组成：Community composition
+沼液：biogas slurry
+灌溉管理：irrigation management
+温室环境：greenhouse environment
+贝叶斯网：Bayesian network
+稻瘟菌：Magnaporthe grisea
+国际组织：International organization
+热风炉：Hot-blast stove
+气象因素：meteorological factor
+疲劳破坏：fatigue failure
+分离与鉴定：Isolation and identification
+发酵酒：fermented wine
+超声处理：ultrasonic treatment
+含氮量：nitrogen content
+扫描电子显微镜：scanning electron microscopy
+试验设计：experiment design
+关中地区：Guanzhong region
+干旱地区：arid area
+遥感影像：remote sensing images
+褶皱臂尾轮虫：brachionus plicatilis
+网箱养殖：cage culture
+嘉陵江：Jialing River
+菜籽粕：rapeseed meal
+纤维长度：fiber length
+数值解法：numerical solution
+人才培养模式：talent training mode
+西葫芦：summer squash
+红茶：black tea
+植被覆盖：vegetation coverage
+粗纤维：crude fiber
+生长分析：growth analysis
+碳平衡：carbon balance
+在线辨识：online identification
+醋酸铅：lead acetate
+快速诊断：rapid diagnosis
+种群增长：population growth
+项目教学法：project teaching method
+霍山石斛：Dendrobium huoshanense
+包头市：Baotou City
+美国白蛾：hyphantria cunea
+维管植物：vascular plant
+风压分布：wind pressure distribution
+蛋白质合成：protein synthesis
+多房棘球绦虫：echinococcus multilocularis
+甲型流感病毒：Influenza A virus
+寡核苷酸芯片：Oligonucleotide microarray
+混合感染：Mixed infection
+玉米自交系：maize inbred lines
+日增重：average daily gain
+分层抽样：stratified sampling
+数据更新：data updating
+地籍管理：cadastral management
+高素质：high quality
+性别控制：Sex control
+繁殖生态：Breeding ecology
+湖泊富营养化：lake eutrophication
+磷酸铵镁：magnesium ammonium phosphate
+红薯：sweet potato
+亚慢性毒性：Subchronic toxicity
+微生物活性：Microbial activity
+变化特征：variation characteristics
+氯酸钾：potassium chlorate
+磷酸二氢钾：potassium dihydrogen phosphate
+经济寿命：economic life
+谷氨酸脱羧酶：glutamate decarboxylase
+有效控制：effective control
+藏北：northern Tibet
+控制单元：control unit
+微分脉冲伏安法：Differential pulse voltammetry
+HPLC：high performance liquid chromatography
+沉积速度：deposition rate
+中华鲟：Acipenser sinensis
+铵态氮：ammonium nitrogen
+重组大肠杆菌：recombinant Escherichia coli
+骨组织：bone tissue
+细胞活力：cell viability
+苦豆子：Sophora alopecuroides L
+工作方法：working method
+硝化细菌：nitrifying bacteria
+碳循环：carbon cycling
+有限元强度折减法：strength reduction FEM
+澜沧江：Lancang River
+有机物料：organic material
+谷胱甘肽过氧化酶：glutathione peroxidase
+肌内脂肪：intramuscular fat
+脲酶活性：urease activity
+通径系数：path coefficient
+模糊控制系统：fuzzy control system
+马铃薯Y病毒：Potato virus Y
+多重耐药：Multidrug resistance
+五行：five elements
+转染效率：transfection efficiency
+体长：body length
+NS1基因：NS1 gene
+新机制：New mechanism
+食性：Feeding habit
+分子系统发育：molecular phylogeny
+DH群体：DH population
+树高：tree height
+保卫细胞：guard cell
+致病疫霉：Phytophthora infestans
+红皮云杉：Picea koraiensis
+天然草地：Natural grassland
+基因效应：gene effect
+猪场废水：piggery wastewater
+α-硫辛酸：α-lipoic acid
+无机离子：inorganic ions
+糯小麦：Waxy wheat
+实习教学：practice teaching
+花生壳：peanut shell
+桑黄：Phellinus igniarius
+镉离子：cadmium ion
+气固两相流：Gas-Solid Two Phase Flow
+水生生物：aquatic organisms
+研究现状：research actuality
+最大熵原理：maximum entropy principle
+干燥速率：Drying rate
+汞污染：Mercury pollution
+活性物质：active substance
+东莞市：Dongguan city
+高通量筛选：high-throughput screening
+地下水脆弱性：groundwater vulnerability
+总生物碱：total alkaloid
+玉米蛋白粉：corn gluten Meal
+提取条件：extraction condition
+质谱法：mass spectrometry
+氧电极：oxygen electrode
+保护措施：protection measure
+生长指标：growth index
+风化煤：weathered coal
+马氏珠母贝：Pinctada martensii
+红火蚁：Solenopsis invicta
+海洋生态系统：marine ecosystem
+种植制度：Cropping system
+临汾市：Linfen city
+矿物元素：mineral elements
+猴头菌：Hericium erinaceus
+林木：forest tree
+三萜皂苷：triterpenoid saponin
+聊城市：Liaocheng city
+检验检疫：inspection and quarantine
+Excel软件：Excel software
+可持续增长：Sustainable growth
+离子阱：ion trap
+毒力因子：Virulence factor
+三角褐指藻：Phaeodactylum tricornutum
+千岛湖：qiandao lake
+RNA提取：RNA isolation
+黄淮海平原：Huang-huai-hai Plain
+稳定表达：stable expression
+杂草防除：weed control
+口服疫苗：oral vaccine
+脉冲场凝胶电泳：pulsed-field gel electrophoresis
+抗体效价：Antibody titer
+血清抗体：serum antibody
+转化效率：transformation efficiency
+呼吸爆发：respiratory burst
+纯度鉴定：Purity identification
+松材线虫病：Pine wilt disease
+肥育猪：finishing pigs
+乳腺生物反应器：Mammary gland bioreactor
+QTL分析：QTL analysis
+陆地棉：Gossypium hirsutum
+年降水量：annual precipitation
+时空效应：time-space effect
+诸葛菜：Orychophragmus violaceus
+多杀性巴氏杆菌：Pasteurella multocida
+H-FABP基因：H-FABP gene
+南美斑潜蝇：Liriomyza huidobrensis
+染色体加倍：chromosome doubling
+大丽轮枝菌：Verticillium dahliae
+可变剪接：alternative splicing
+土壤-植物系统：soil-plant system
+结构特征：structure characteristic
+赤霞珠：Cabernet Sauvignon
+不饱和脂肪酸：unsaturated fatty acids
+形态结构：morphology and structure
+保水剂：water retaining agent
+吉布斯自由能：Gibbs free energy
+BP神经网络模型：BP neural network model
+水溶性聚合物：water-soluble polymer
+数值预报：numerical prediction
+铝毒：Aluminum toxicity
+水质改善：water quality improvement
+变化规律：change law
+城市绿地：urban greenland
+脉冲磁场：pulsed magnetic field
+饮水安全：drinking water safety
+镉胁迫：Cadmium stress
+安全浓度：Safe concentration
+最小抑菌浓度：minimal inhibitory concentration
+高纯度：high purity
+剑麻纤维：sisal fiber
+传播特性：propagation characteristics
+文冠果：Xanthoceras sorbifolia Bunge
+运动学模型：kinematic model
+成功经验：successful experience
+桐花树：Aegiceras corniculatum
+溴甲烷：methyl bromide
+人才管理：talent management
+控制装置：control device
+补偿效应：compensation effect
+半干旱区：Semi-arid area
+套式PCR：nested PCR
+硝酸盐含量：nitrate content
+烟蚜：Myzus persicae
+丹顶鹤：Red-crowned crane
+垂直结构：vertical structure
+脂类代谢：lipid metabolism
+芥酸：Erucic acid
+营养器官：vegetative organs
+线性相关：linear correlation
+总DNA：total DNA
+监测模型：monitoring model
+弓状核：arcuate nucleus
+哈维氏弧菌：Vibrio harveyi
+T细胞受体：T cell receptor
+粘膜免疫：mucosal immunity
+冰冻切片：frozen section
+鸡传染性支气管炎病毒：infectious bronchitis virus
+外源基因：foreign gene
+产羔数：litter size
+大菱鲆：Scophthalmus maximus
+地形分析：terrain analysis
+矢量图形：Vector graphics
+生态公益林：ecological forest
+数字博物馆：digital museum
+真空冷却：vacuum cooling
+寄主选择：host selection
+稻飞虱：Rice planthopper
+受胎率：conception rate
+种子纯度：Seed purity
+马铃薯晚疫病：potato late blight
+杂交棉：hybrid cotton
+枯草芽胞杆菌：bacillus subtilis
+桑天牛：Apriona germari
+高等植物：higher plant
+氧浓度：oxygen concentration
+罗布泊：Lop Nur
+自动检测：automatic inspection
+功能基因：functional gene
+遥感监测：remote sensing
+悬浮剂：suspension concentrate
+对比试验：comparative test
+外生菌根真菌：ectomycorrhizal fungi
+重金属元素：heavy metal elements
+分析检测：analysis and determination
+分离鉴定：separation and identification
+颜色测量：color measurement
+有机硒：Organic selenium
+加速老化：Accelerated aging
+味精废水：monosodium glutamate wastewater
+农业综合开发：agricultural comprehensive development
+山葡萄：Vitis amurensis Rupr
+化学元素：chemical elements
+牛初乳：Bovine colostrums
+关键酶：key enzyme
+产朊假丝酵母：Candida utilis
+决策支持：decision support system
+诊断方法：diagnosis method
+学习系统：learning system
+蛋白含量：Protein content
+黄粉虫：Tenebrio molitor
+木霉：Trichoderma spp
+长江河口：Changjiang estuary
+装配线：assembly line
+5-氨基乙酰丙酸：5-Aminolevulinic acid
+CCD图像传感器：CCD image sensor
+气候因子：Climatic factor
+时态GIS：temporal GIS
+生理变化：physiological changes
+土壤pH：soil pH
+粘质沙雷氏菌：Serratia marcescens
+植物细胞培养：Plant cell culture
+遗传差异：genetic difference
+水田：paddy field
+泥蚶：Tegillarca granosa
+鼠伤寒沙门氏菌：Salmonella typhimurium
+碳通量：carbon flux
+序列比较：sequence comparison
+杯状细胞：goblet cell
+长角血蜱：Haemaphysalis longicornis
+亲子关系：Parent-child relationship
+柳杉：Cryptomeria fortunei
+水稻条纹病毒：Rice stripe virus
+数字测图：Digital mapping
+细沟侵蚀：rill erosion
+杂交小麦：Hybrid wheat
+小豆：Adzuki bean
+过冷却点：supercooling point
+品质育种：quality breeding
+土壤氮素：soil nitrogen
+cDNA序列：cDNA sequence
+三轴压缩试验：triaxial compression test
+地质样品：Geological samples
+茶多糖：tea polysaccharide
+固体发酵：solid-state fermentation
+纳豆芽孢杆菌：Bacillus natto
+黑藻：Hydrilla verticillata
+治理措施：treatment measure
+气相色谱仪：gas chromatography
+Monte Carlo法：Monte Carlo method
+乳蛋白：milk protein
+尼罗罗非鱼：Oreochromis niloticus
+复杂地形：complex terrain
+Visual Basic6.0：Visual Basic 6.0
+青稞：highland barley
+色谱指纹图谱：chromatographic fingerprint
+火灾风险：Fire risk
+黄瓜幼苗：Cucumber seedlings
+液体发酵：submerged fermentation
+残留溶剂：residual solvent
+西花蓟马：Frankliniella occidentalis
+光补偿点：light compensation point
+土壤特性：soil properties
+太行山：Taihang mountain
+人为因素：human factors
+蛋白质二级结构：protein secondary structure
+真鲷：Pagrosomus major
+自然恢复：Natural restoration
+无机砷：Inorganic arsenic
+稻瘟霉：Pyricularia oryzae
+土壤性状：soil properties
+数量分析：Quantitative analysis
+保护与利用：protection and utilization
+功率匹配：power matching
+建设与发展：construction and development
+药敏：Drug sensitivity
+负二项分布：Negative binomial distribution
+标记辅助选择：marker-assisted selection
+多相分类：Polyphasic taxonomy
+人工感染：artificial infection
+拮抗菌：antagonistic bacteria
+同源建模：homology modeling
+大豆花叶病毒：soybean mosaic virus
+瞬间表达：transient expression
+卫星导航系统：satellite navigation system
+春玉米：spring corn
+水肥耦合：water and fertilizer coupling
+集体林：collective forest
+红脂大小蠹：Dendroctonus valens
+七子花：Heptacodium miconioides
+硬枝扦插：Hardwood cutting
+无籽西瓜：Seedless watermelon
+生态修复：ecological remediation
+层次分析：hierarchical analysis
+氢氧化钾：potassium hydroxide
+燃烧性能：combustion property
+工序：Working procedure
+吸附行为：adsorption behavior
+规则推理：rule-based reasoning
+乙酰水杨酸：acetylsalicylic acid
+有机氮：organic nitrogen
+北美：North America
+多元统计：multivariate statistics
+天冬氨酸：aspartic acid
+蠕变模型：creep model
+红外光谱法：Infrared spectrometry
+鸡腿蘑：coprinus comatus
+白骨壤：Avicennia marina
+摩擦模型：friction model
+气动控制：pneumatic control
+离子交换色谱：ion exchange chromatography
+MODIS数据：MODIS data
+防效：control efficacy
+土壤电阻率：Soil resistivity
+相关分析：related analysis
+临界条件：critical condition
+粗脂肪：crude fat
+水源涵养林：water conservation forest
+分析评价：analysis and evaluation
+蛋黄：egg yolk
+热激：heat shock
+黑斑蛙：rana nigromaculata
+构树：Broussonetia papyrifera
+生产规模：production scale
+巴戟天：Morinda officinalis How
+诊断模型：diagnosis model
+河西地区：Hexi region
+速效磷：available phosphorus
+甲烷排放：methane emission
+生理机能：physiological function
+双向凝胶电泳：Two-dimensional electrophoresis
+亚急性毒性：subacute toxicity
+离子轰击：Ion bombardment
+羊栖菜：Sargassum fusiforme
+鳜：Siniperca chuatsi
+基因型差异：genotypic difference
+重组蛋白质类：recombinant proteins
+差分GPS：differential GPS
+EOF分析：EOF analysis
+运动能力：sports ability
+系统进化树：Phylogenetic tree
+异育银鲫：Carassius auratus gibelio
+受精率：Fertilization rate
+牛分枝杆菌：Mycobacterium bovis
+猪肺炎支原体：Mycoplasma hyopneumoniae
+M蛋白：M protein
+树鼩：Tree shrew
+肝片吸虫：Fasciola hepatica
+数量性状位点：quantitative trait loci
+气象服务：meteorological service
+赤霉病：Fusarium head blight
+Ajax技术：AJAX technology
+泥沙输移：sediment transport
+序贯抽样：sequential sampling
+灌溉制度：irrigation system
+水分生产函数：water production function
+主基因：major gene
+花鲈：Lateolabrax japonicus
+丰产：high yield
+复混肥料：compound fertilizer
+土壤盐分：soil salt
+制备条件：preparation condition
+均匀设计法：uniform design method
+锰过氧化物酶：manganese peroxidase
+抑菌作用：antimicrobial effect
+蓄热：heat storage
+活性中心：active site
+GC/MS分析：GC/MS analysis
+PCR：polymerase chain reaction(PCR)
+入侵植物：invasive plant
+判别函数：discriminant function
+碳氮比：C/N ratio
+野生植物：wild plants
+泉州湾：Quanzhou Bay
+抗菌作用：antibacterial activity
+链传动：chain drive
+木材性质：wood properties
+洪灾：Flood disaster
+抽样方法：Sampling method
+柠条：caragana korshinskii
+体外抗菌活性：In vitro antibacterial activity
+环境条件：environment condition
+菜豆：kidney bean
+NaCl溶液：NaCl solution
+河岸带：riparian zone
+富士苹果：Fuji apple
+绿色材料：green material
+Matlab程序：matlab program
+生理反应：physiological response
+宁夏枸杞：Lycium barbarum L
+马尔科夫模型：Markov model
+雷竹：Phyllostachys praecox
+容器苗：container seedling
+寡核苷酸探针：Oligonucleotide probe
+麦田：Wheat field
+庐山：Lushan Mountain
+肺组织：Lung tissue
+单链构象多态性：Single strand conformation polymorphism
+比较解剖学：comparative anatomy
+形态分化：Morphological differentiation
+随机效应：Random effect
+恢复基因：restorer gene
+亚单位疫苗：Subunit vaccine
+母源抗体：maternal antibody
+广亲和性：wide compatibility
+东方百合：Oriental lily
+土壤入渗：soil infiltration
+人工影响天气：Weather modification
+游离小孢子培养：isolated microspore culture
+外源激素：exogenous hormone
+育种策略：Breeding strategy
+产量和品质：yield and quality
+日本鳗鲡：Anguilla japonica
+化学组分：chemical composition
+质量要求：Quality requirement
+邯郸市：Handan city
+非线性回归：non-linear regression
+土壤环境质量：soil environmental quality
+综合指数：comprehensive index
+不确定度评定：evaluation of uncertainty
+冻藏：frozen storage
+盐酸左氧氟沙星：Levofloxacin hydrochloride
+回潮率：moisture regain
+菌丝生长：mycelial growth
+力学强度：mechanical strength
+水足迹：water footprint
+热扩散：thermal diffusion
+分类鉴定：Classification and identification
+回归分析法：regression analysis
+毕业实习：graduation practice
+不同部位：Different parts
+电子传递：electron transfer
+酸枣仁：Semen Ziziphi spinosae
+镁离子：magnesium ion
+代谢途径：metabolic pathway
+粒子图像测速：Particle image velocimetry
+土壤风蚀：Soil wind erosion
+热激蛋白：heat shock protein
+生物固氮：biological nitrogen fixation
+定量遥感：quantitative remote sensing
+单糖组成：monosaccharide composition
+芥菜型油菜：Brassica juncea
+再生系统：Regeneration system
+天气系统：weather system
+胶东半岛：Jiaodong peninsula
+生产要素：Production factor
+菘蓝：Isatis Indigotica Fort
+穿心莲：Andrographis paniculata
+净初级生产力：Net primary productivity
+景观破碎化：landscape fragmentation
+光合有效辐射：photosynthetically active radiation
+流感疫苗：influenza vaccine
+模型预测：model prediction
+定点诱变：site-directed mutagenesis
+类囊体膜：thylakoid membrane
+动力模型：dynamic model
+保幼激素：juvenile hormone
+扁桃酸：mandelic acid
+保护性抗原：protective antigen
+肠黏膜屏障：Intestinal Mucosal Barrier
+胚胎培养：Embryo culture
+伊氏锥虫：Trypanosoma evansi
+重组痘苗病毒：recombinant vaccinia virus
+N蛋白：N protein
+高职学院：Higher vocational college
+禾谷镰刀菌：Fusarium graminearum
+育苗：seedling cultivation
+南方鲇：silurus meridionalis
+生态学特性：ecological characteristics
+障碍物检测：obstacle detection
+混合像元：mixed pixel
+模糊粗糙集：fuzzy rough sets
+Fibonacci数：Fibonacci numbers
+相对含水量：Relative water content
+沟灌：furrow irrigation
+水汽输送：Water vapor transport
+人工鱼礁：artificial reef
+枫香：Liquidambar formosana
+种内竞争：intraspecific competition
+种源选择：provenance selection
+蔬菜产业：Vegetable industry
+温度胁迫：temperature stress
+粗毒素：crude toxin
+漂浮育苗：floating system
+交配系统：mating system
+种子雨：seed rain
+土地质量：Land quality
+灰色关联：gray correlation
+竹笋：bamboo shoots
+技术开发：technology development
+氮肥利用率：Nitrogen use efficiency
+加速遗传算法：accelerating genetic algorithm
+动态特征：dynamic characteristics
+异色瓢虫：Harmonia axyridis
+发芽糙米：germinated brown rice
+地下水位：ground water level
+数据挖掘技术：data mining technology
+五味子乙素：schisandrin B
+抗氧化作用：antioxidant activity
+岷江上游：upper reaches of Minjiang River
+水稻土：paddy soils
+内摩擦角：Internal friction angle
+云芝：Coriolus versicolor
+朱鹮：Crested Ibis
+控释：controlled release
+干旱指数：drought index
+印楝：Azadirachta indica
+改革与实践：Reform and practice
+能源植物：energy plant
+维生素B_(12)：Vitamin B_(12)
+常德市：Changde city
+典范对应分析：Canonical correspondence analysis
+远红外：far infrared
+环境价值：environmental value
+质量评定：quality evaluation
+入侵种：invasive species
+多粘类芽孢杆菌：Paenibacillus polymyxa
+热量平衡：heat balance
+等电聚焦：Isoelectric focusing
+渔船：fishing vessel
+Logistic曲线：Logistic curve
+相似系数：similarity coefficient
+磁晶各向异性：Magnetocrystalline anisotropy
+垂直绿化：vertical greening
+土壤溶液：soil solution
+定量关系：quantitative relationship
+亮度温度：Brightness temperature
+玉米幼苗：Maize seedling
+第二课堂：second classroom
+比较蛋白质组学：Comparative proteomics
+甘露聚糖结合凝集素：mannan-binding lectin
+衣壳蛋白：Capsid protein
+DNA指纹图谱：DNA fingerprint
+等位基因频率：allele frequency
+微小隐孢子虫：Cryptosporidium parvum
+猪带绦虫：Taenia solium
+分子标记辅助选择：marker-assisted selection
+繁殖性状：reproductive traits
+C4.5算法：C4.5 algorithm
+收获指数：harvest index
+中间宿主：intermediate host
+土壤真菌：soil fungi
+利用效率：utilization efficiency
+森林经理：forest management
+梅花：Prunus mume
+茎尖培养：shoot tip culture
+平台建设：platform construction
+森林经理学：forest management
+海拔梯度：altitude gradient
+辣椒疫霉：Phytophthora capsici
+仿刺参：Apostichopus japonicus
+种子大小：seed size
+淀粉积累：Starch accumulation
+土地调查：land survey
+小麦赤霉病：wheat scab
+茶园土壤：tea garden soil
+治理技术：Treatment Technology
+加工质量：machining quality
+自主创新能力：Independent innovation ability
+氧化还原电位：Redox potential
+中试：pilot test
+计算流体力学(CFD)：Computational fluid dynamics(CFD)
+林业工程：forest engineering
+精油：essential oils
+研究应用：research and application
+葛根：Pueraria lobata
+正交试验设计：Orthogonal test design
+西施舌：Coelomactra antiquata
+羰基化合物：carbonyl compound
+山梨酸钾：potassium sorbate
+土地覆被：Land cover
+复合酶：compound enzyme
+物理特性：physical property
+资源优势：resource advantage
+农业灌溉：agricultural irrigation
+正交分析：orthogonal analysis
+自动提取：automatic extraction
+生态管理：ecological management
+病虫害：disease and pest
+统计特征：Statistical characteristics
+漓江：Lijiang river
+屎肠球菌：Enterococcus faecium
+水土资源：water and soil resources
+狗牙根：Cynodon dactylon
+水培：water culture
+DNA分子标记：DNA molecular marker
+分形特征：Fractal characteristics
+马尾松毛虫：Dendrolimus punctatus walker
+苯丙氨酸解氨酶：phenylalanine ammonia lyase
+核算体系：accounting system
+红锥：Castanopsis hystrix
+密度效应：density effect
+相关系数：coefficient of correlation
+测速：speed measurement
+肉质性状：meat quality traits
+分解速率：decomposition rate
+大青叶：Folium Isatidis
+沼气发酵：biogas fermentation
+荷兰：the Netherlands
+价值流：value flow
+气候条件：climate condition
+长城：the Great Wall
+人工接种：artificial inoculation
+寄主范围：host range
+吉林市：Jilin City
+行距：Row spacing
+辅酶Q_(10)：coenzyme Q_(10)
+IL-2：IL 2
+候选基因：Candidate genes
+MTT比色法：MTT assay
+量效关系：dose-effect relationship
+特异性抗体：Specific antibody
+繁殖性能：reproduction performance
+X射线成像：X-ray imaging
+炭疽杆菌：Bacillus anthracis
+局部稳定：local stability
+模糊关联规则：fuzzy association rules
+根系呼吸：root respiration
+胴体性状：carcass traits
+作物模型：Crop model
+根瘤：root nodule
+玉米大斑病菌：Setosphaeria turcica
+感染性克隆：infectious clone
+牛病毒性腹泻病毒：bovine viral diarrhea virus
+延边黄牛：Yanbian Yellow Cattle
+森林水文：forest hydrology
+种群生态：population ecology
+格氏栲：Castanopsis kawakamii
+可见光谱：visible spectrum
+水泥生产：cement production
+火焰原子吸收：flame atomic absorption
+降解菌：degrading bacteria
+开发前景：development prospect
+水分散粒剂：water dispersible granule
+燃料酒精：fuel alcohol
+生态需水量：ecological water requirement
+高速逆流色谱：High-speed counter-current chromatography
+物理力学性质：physical and mechanical properties
+石漠化：rock desertification
+聚丙烯酰胺凝胶：polyacrylamide gel
+诱变效应：mutagenic effect
+复合生态系统：complex ecosystem
+过热蒸汽：superheated steam
+鲈鱼：Lateolabrax japonicus
+米糠蛋白：rice bran protein
+有害气体：harmful gas
+硝酸镧：lanthanum nitrate
+绿色能源：Green energy
+树龄：tree age
+平顶山市：Pingdingshan city
+热带雨林：tropical rainforest
+监测分析：monitoring analysis
+根分泌物：root exudates
+河蟹：Eriocheir sinensis
+海洋渔业：marine fishery
+球等鞭金藻：Isochrysis galbana
+直接测定：Direct determination
+数据信息：data information
+黄壤：yellow soil
+亲和纯化：affinity purification
+频率分布：frequency distribution
+光传输：optical transmission
+长三角地区：Yangtze River Delta
+牧区：pastoral area
+现代生物技术：modern biotechnology
+高寒地区：Alpine region
+微生物量碳：microbial biomass carbon
+森林文化：Forest Culture
+马尔柯夫模型：Markov model
+平衡态：equilibrium state
+观赏价值：ornamental value
+治愈率：cure rate
+免疫细胞：Immune cell
+生物学性状：biological character
+嵌合基因：Chimeric gene
+马传染性贫血病毒：Equine infectious anemia virus
+mtDNA：Mitochondrial DNA
+风险态度：Risk attitude
+vp3基因：vp3 gene
+植物病原菌：Plant Pathogen
+森林生物量：forest biomass
+聚类方法：clustering method
+水跃：hydraulic jump
+影像分割：image segmentation
+数据标准：data standard
+仿生模式识别：biomimetic pattern recognition
+植被景观：vegetation landscape
+天然群体：natural population
+人工育苗：artificial breeding
+气孔阻力：stomatal resistance
+斜带石斑鱼：Epinephelus coioides
+水稻育种：Rice breeding
+环流熏蒸：recirculation fumigation
+能源危机：energy crisis
+失重：weight loss
+表面强化：surface hardening
+高氯酸：perchloric acid
+形成过程：formation process
+抗菌活性：antibiotic activity
+化学农药：Chemical pesticide
+农业院校：agricultural university
+频域分析：frequency-domain analysis
+安阳市：Anyang City
+流变性质：rheological properties
+鸭梨：yali pear
+溶剂法：solvent method
+南果梨：nanguo pear
+单因素：single factor
+定量模型：Quantitative model
+安全度：safety degree
+离子交换层析：ion-exchange chromatography
+干燥工艺：drying technology
+含油率：oil content
+贴现率：Discount rate
+连翘：Fructus Forsythiae
+毕节地区：Bijie prefecture
+热稳定：thermal stability
+有机铬：organic chromium
+联合作用：combined effect
+翡翠贻贝：Perna viridis
+亚细胞分布：subcellular distribution
+郁闭度：Canopy density
+r值：r value
+免疫活性：immune activity
+静平衡：static balance
+土地利用格局：land use pattern
+战略选择：strategic selection
+树木年轮：tree ring
+季节性变化：seasonal variation
+分类管理：classified management
+切花：Cut flowers
+湿度控制：humidity control
+二维凝胶电泳：two-dimensional gel electrophoresis
+沙柳：Salix psammophila
+红光：red light
+落叶松：Larix gmelinii
+库区：reservoir area
+解淀粉芽孢杆菌：Bacillus amyloliquefaciens
+枳壳：Fructus aurantii
+温和气单胞菌：Aeromonas sobria
+天水市：Tianshui City
+直径分布：diameter distribution
+银耳：Tremella fuciformis
+燃油消耗：fuel consumption
+水稻种子：rice seed
+竞争指数：competition index
+低温处理：low temperature treatment
+科学决策：scientific decision
+芜菁花叶病毒：turnip mosaic virus
+程序性细胞死亡：Programmed cell death
+血氨：Blood ammonia
+近交系：Inbred strain
+感染性腹泻：Infectious diarrhea
+Cre重组酶：Cre recombinase
+蛋白印迹：Western blot
+分类地位：Taxonomic status
+结合蛋白：binding protein
+ras基因：ras gene
+古DNA：ancient DNA
+体外转录：in vitro transcription
+白皮松：Pinus bungeana
+信息服务系统：Information service system
+低空急流：low-level Jet
+新分布：New distribution
+青贮品质：silage quality
+油葵：Oil sunflower
+氟烷基因：halothane gene
+大气污染物：air pollutant
+控制对策：Control countermeasure
+枸杞：chinese wolfberry
+农业开发：agricultural development
+灰色系统：grey systems
+泡腾片：effervescent tablets
+评吸质量：smoking quality
+粉尘污染：dust pollution
+绿芦笋：green asparagus
+采后病害：postharvest diseases
+菜籽蛋白：rapeseed protein
+茶产业：tea industry
+钻孔：Drill hole
+甲烷氧化：methane oxidation
+亚麻油：linseed oil
+生长条件：growth condition
+三氯乙酸：trichloroacetic acid
+监测体系：monitoring system
+控温：temperature control
+异源表达：Heterologous expression
+遗传工程：Genetic engineering
+对羟基苯甲酸：p-hydroxybenzoic acid
+园林植物：ornamental plants
+温度监控：temperature monitoring
+寿命分布：life distribution
+食品科学：food science
+混合策略：mixed strategy
+土壤磷素：soil phosphorus
+临界浓度：Critical concentration
+贡嘎山：Gongga mountain
+植物选择：plant selection
+逐步判别分析：stepwise discriminant analysis
+插值方法：interpolation method
+动力学特性：dynamic characteristic
+鲤：common carp
+内标：internal standard
+决策矩阵：decision matrix
+基因检测：gene detection
+细胞活性：cell viability
+DNA改组：DNA shuffling
+长期定位施肥：long-term located fertilization
+MAS：multi-agent system
+小麦秸秆：wheat straw
+植物营养：plant nutrition
+茶业：Tea industry
+燃烧试验：combustion test
+小波消噪：wavelet denoising
+瓦氏黄颡鱼：pelteobagrus vachelli
+竹文化：Bamboo Culture
+模态综合：modal synthesis
+黑线姬鼠：Apodemus agrarius
+饲养层：Feeder layer
+营养障碍：Nutrition disorders
+关键期：critical period
+成熟胚：Mature embryos
+逆转录酶：reverse transcriptase
+基因工程疫苗：genetic engineering vaccine
+BAC文库：BAC library
+发生规律：occurrence rule
+早期发育：early development
+雪灾：snow disaster
+微分包含：differential inclusion
+复眼：compound eye
+垂直位移：vertical displacement
+包含度：Inclusion degree
+市场管理：market management
+昆虫病原线虫：entomopathogenic nematode
+杂草稻：Weedy rice
+灰霉病菌：Botrytis cinerea
+碳氮代谢：carbon and nitrogen metabolism
+抗性遗传：Inheritance of resistance
+干物质生产：Dry matter production
+陆稻：Upland rice
+扁穗牛鞭草：Hemarthria compressa
+野猪：Wild boar
+固氮酶活性：nitrogenase activity
+沙棘木蠹蛾：Holcocerus hippophaecolus
+挥发性成分：volatile compounds
+刨花板：particle board
+水蒸汽蒸馏：steam distillation
+干燥温度：drying temperature
+碳汇：carbon sequestration
+野生动物：wild animals
+总硬度：total hardness
+湿沉降：wet deposition
+硫酸钙：calcium sulphate
+电磁制动：electromagnetic brake
+系统发育：phylogenetic analysis
+明胶微球：Gelatin microspheres
+额济纳绿洲：Ejina Oasis
+微污染水：micro-polluted water
+偏相关分析：partial correlation analysis
+信阳市：Xinyang city
+衡阳市：Hengyang city
+三氯异氰尿酸：trichloroisocyanuric acid
+生态问题：ecological problems
+SAS软件：SAS software
+田间试验：field trial
+濒危物种：endangered species
+青海高原：Qinghai plateau
+基层：basic level
+天冬氨酸转氨酶：aspartate aminotransferase
+差异分析：difference analysis
+抽样检验：sampling inspection
+海洋微生物：marine microorganisms
+技术研究：Technology research
+新标准：new standard
+蒸汽压：vapor pressure
+松口蘑：Tricholoma matsutake
+银杏酸：ginkgolic acids
+稻瘟病：magnaporthe grisea
+筛选模型：Screening model
+资源分布：resource distribution
+赭曲霉毒素A：Ochratoxin A
+水资源利用：utilization of water resources
+分形几何学：fractal geometry
+芦荟多糖：aloe polysaccharide
+油茶：Camellia oleifera Abel
+麻黄：Herba Ephedrae
+土地生产力：land productivity
+吴茱萸：Evodia rutaecarpa
+植被建设：vegetation construction
+绵阳市：mianyang city
+农业教育：agricultural education
+水权制度：water right system
+系统耦合：system coupling
+分泌蛋白：Secreted protein
+可持续：sustainable development
+S180肉瘤：S180 sarcoma
+晋城市：Jincheng City
+玫烟色拟青霉：Paecilomyces fumosoroseus
+规模经营：scale operation
+数据质量控制：data quality control
+次生盐渍化：secondary salinization
+参数化造型：parametric modeling
+ACC合成酶：ACC synthase
+水稻品种：Rice varieties
+农业水资源：Agricultural water resources
+亚洲玉米螟：Asian Corn Borer
+表达纯化：expression and purification
+性发育：sexual development
+地理变异：geographical variation
+血清药物化学：serum pharmacochemistry
+冷驯化：cold acclimation
+病毒感染：Viral infection
+光镜：light microscope
+E基因：E gene
+科学数据：scientific data
+乳头肌：papillary muscle
+毛色：coat color
+病毒复制：virus replication
+播娘蒿：Descurainia sophia
+H5N1亚型：H5N1 subtype
+DNA序列：DNA sequences
+调节效应：Moderating effect
+H5亚型：H5 subtype
+简并引物：degenerate primer
+纤维发育：fiber development
+新品系：new line
+养护管理：maintenance and management
+产沙：sediment yield
+技术保障：technical support
+土壤水库：soil reservoir
+地区经济：regional economy
+同源四倍体水稻：Autotetraploid rice
+法律程序：legal procedure
+渔场：fishing ground
+MADS-box基因：MADS-box gene
+白浆土：Albic soil
+花粉生活力：Pollen viability
+隐性乳房炎：subclinical mastitis
+血液蛋白多态性：Blood protein polymorphism
+透射光谱：Transmission spectrum
+生物法：biological method
+有效剂量：effective dose
+土壤重金属：Soil heavy metals
+GIS：geographic information system(GIS)
+压缩试验：compression test
+功率消耗：power consumption
+响应曲面：response surface methodology
+大弹涂鱼：Boleophthalmus pectinirostris
+粒子群优化算法：PSO algorithm
+水生动物：aquatic animal
+畜禽：Livestock and poultry
+麦胚：wheat germ
+应急指挥：emergency command
+超声降解：ultrasonic degradation
+条件优化：condition optimization
+苦荞麦：tartary buckwheat
+活性干酵母：active dry yeast
+红发夫酵母：Phaffia rhodozyma
+洛阳市：Luoyang City
+紫外-可见光谱：UV-Vis spectrum
+密封结构：sealing structure
+番茄汁：tomato juice
+开发技术：Development technology
+长绒棉：Long-staple Cotton
+毛乌素沙地：Maowusu sandland
+技术方法：technical method
+慢性毒性：chronic toxicity
+环境适应性：environmental worthiness
+动态分布：dynamic distribution
+苦皮藤：Celastrus angulatus
+碳代谢：carbon metabolism
+大型溞：Daphnia magna
+二色补血草：Limonium bicolor
+CTL表位：CTL epitope
+微生物生态：microbial ecology
+松针：pine needle
+高效表达：high expression
+DNDC模型：DNDC model
+自然资本：natural capital
+全球变化：global changes
+RVA谱：RVA profile
+防护林：shelter forest
+优势分析：advantage analysis
+ARDRA：ARDRA (amplified ribosomal DNA restriction analysis)
+公共服务体系：public service system
+TM数据：TM data
+白花蛇舌草：Hedyotis diffusa Willd
+物理量：physical quantity
+发酵豆粕：fermented soybean meal
+土壤微生物生物量：Soil microbial biomass
+信息维数：information dimension
+一级结构：primary structure
+多花黑麦草：Lolium multiflorum
+芥蓝：Chinese kale
+发菜：Nostoc flagelliforme
+能流：energy flow
+糙皮侧耳：Pleurotus ostreatus
+水平分布：horizontal distribution
+黄瓜霜霉病：cucumber downy mildew
+混合建模：hybrid modeling
+野生资源：wild resources
+噬菌体展示技术：Phage display
+葡萄糖代谢：glucose metabolism
+珙桐：Davidia involucrata
+免疫效力：immune efficacy
+引种驯化：introduction and domestication
+酪氨酸磷酸化：Tyrosine phosphorylation
+花发育：flower development
+捻转血矛线虫：Haemonchus contortus
+青蛤：Cyclina sinensis
+化学调控：chemical regulation
+状态转换：state transition
+城市化进程：Urbanization process
+交配行为：Mating behavior
+裂缝处理：crack treatment
+品种分类：Cultivar Classification
+氮肥运筹：Nitrogen application
+抗倒性：Lodging resistance
+TWINSPAN分类：TWINSPAN classification
+吴起县：Wuqi County
+高大平房仓：large warehouse
+花粉发育：Pollen development
+胞外蛋白酶：extracellular protease
+树干液流：stem sap flow
+染色体配对：chromosome pairing
+需冷量：chilling requirement
+胚挽救：Embryo rescue
+花药发育：Anther development
+细胞学观察：cytological observation
+喀斯特森林：Karst forest
+土壤呼吸速率：soil respiration rate
+烟草赤星病：tobacco brown spot
+胴体组成：carcass composition
+产量潜力：Yield potential
+环流背景：circulation background
+抗菌性：antibacterial property
+开发潜力：development potential
+线密度：Linear Density
+细胞形态：cell morphology
+饮用水源：Drinking water source
+酶抑制剂：enzyme inhibitor
+超声萃取：Ultrasonic extraction
+质量损失：mass loss
+体液：body fluid
+冬枣：winter jujube
+齿轮减速器：gear reducer
+超高压：ultrahigh pressure
+正交实验设计：orthogonal experimental design
+石灰石粉：limestone powder
+机械损伤：mechanical damage
+群落特征：Community characteristic
+有毒植物：poisonous plant
+取样方法：sampling method
+蛋白酶抑制剂：protease inhibitor
+技术经济：technology and economy
+Gompertz模型：Gompertz model
+数量分布：quantitative distribution
+氧化铟：indium oxide
+实例检索：case retrieval
+实时定量RT-PCR：real-time RT-PCR
+编码系统：coding system
+水文模型：hydrologic model
+蟠桃：flat peach
+木榄：Bruguiera gymnorrhiza
+种皮：seed coat
+智能决策：intelligent decision-making
+土地利用/覆盖：land use/cover
+品质变化：quality change
+脂质过氧化物：lipid peroxidation
+稻田土壤：Paddy soil
+筛选方法：screening method
+艾比湖：Ebinur Lake
+曲古抑菌素A：trichostatin A
+脂肪酸值：fatty acid value
+丙酸钙：calcium propionate
+喇曼光谱：Raman spectra
+中心城市：central cities
+时间变化：temporal variation
+杀螨活性：acaricidal activity
+荚膜多糖：capsular polysaccharide
+风景区：scenic spot
+DNA降解：DNA degradation
+无瓣海桑：Sonneratia apetala
+空间辐射：space radiation
+速比：speed ratio
+溴化乙锭：ethidium bromide
+细胞色素c氧化酶：cytochrome c oxidase
+马兜铃酸A：aristolochic acid A
+瑞香狼毒：Stellera chamaejasme
+湿润锋：wetting front
+小波滤波：wavelet filter
+RP-HPLC：RP HPLC
+学科发展：discipline development
+精子运动：sperm motility
+混料设计：mixture design
+海洋生物学：marine biology
+回归设计：Regression Design
+产蛋鸡：laying hen
+基本密度：basic density
+太白山：Taibai mountain
+输沙量：sediment discharge
+室内装饰：interior decoration
+胃酸分泌：gastric acid secretion
+留学生：Overseas students
+杂交瘤细胞：Hybridoma cell
+肝脂酶：Hepatic lipase
+温湿度控制：temperature and humidity control
+F蛋白：F protein
+种质鉴定：germplasm identification
+细胞密度：Cell density
+子宫颈肿瘤：cervix neoplasms
+猪胸膜肺炎放线杆菌：Actinobacillus pleuropneumoniae
+性别比：sex ratio
+胶孢炭疽菌：Colletotrichum gloeosporioides
+系统树：Phylogenetic tree
+水产动物：Aquatic animal
+代谢率：metabolic rate
+种群分布：Population distribution
+遗传相似性：genetic similarity
+生殖周期：reproductive cycle
+杂种鉴定：hybrid identification
+水资源评价：water resources assessment
+水文水资源：hydrology and water resources
+国槐：sophora japonica
+耗水：water consumption
+Java3D：Java 3D
+杂交组合：Cross combination
+高铜：high copper
+无芒雀麦：Bromus inermis
+选择指数：selection index
+叶绿体转化：chloroplast transformation
+蓝狐：Blue fox
+两性异形：sexual dimorphism
+土系：Soil series
+河道：river course
+干燥技术：drying technology
+比叶面积：specific leaf area
+含氧量：oxygen content
+水质管理：water quality management
+保护区：Nature reserve
+红花：Flos carthami
+脂肪氧化：lipid oxidation
+病原微生物：pathogenic microorganism
+总酚：Total phenols
+生态功能：Ecological functions
+农业文明：agricultural civilization
+液态发酵：submerged fermentation
+矿物质：mineral matter
+沉积物-水界面：sediment-water interface
+共和盆地：Gonghe basin
+季节变化：seasonal variations
+青椒：green pepper
+衡水湖：Hengshui Lake
+香草酸：vanillic acid
+技术体系：technological system
+热泵干燥：Heat pump drying
+防治技术：control technology
+热暴露：thermal exposure
+外来种：alien species
+抗盐：salt resistance
+性激素：sexual hormones
+抗蚀性：corrosion resistance
+普通小球藻：Chlorella vulgaris
+哲学反思：philosophical reflection
+热电联产：combined heat and power
+分布模式：distribution pattern
+极差分析：range analysis
+化学试剂：chemical reagent
+网络节点：network node
+靶基因：Target gene
+大伙房水库：Dahuofang reservoir
+单色光：monochromatic light
+油温：oil temperature
+鲜重：Fresh weight
+教学经验：teaching experience
+通用分组无线业务：General Packet Radio Service(GPRS)
+生理生化变化：physiological and biochemical changes
+太平洋牡蛎：Pacific oyster
+苯甲酸雌二醇：estradiol benzoate
+砂姜黑土：shajiang black soil
+试验技术：test technique
+绿色空间：green space
+钾离子：potassium ion
+径向基函数网络：radial basis function networks
+量化研究：quantitative research
+复合土工膜：composite geomembrane
+光分布：Light distribution
+生化分析：Biochemical analysis
+促销：sales promotion
+排氨率：Ammonia excretion rate
+负外部性：negative externality
+胸腺：Thymus gland
+淀粉品质：starch quality
+新挑战：new challenge
+数据维护：data maintenance
+亚高山针叶林：subalpine coniferous forest
+管理决策：management decision
+极大似然法：maximum likelihood method
+水分管理：water management
+可溶性细胞间黏附分子-1：Soluble intercellular adhesion molecule-1
+种子引发：seed priming
+输精管：vas deferens
+性染色体：sex chromosome
+洋葱伯克霍尔德菌：Burkholderia cepacia
+T细胞表位：T cell epitope
+反向遗传学：reverse genetics
+抑制性差减杂交：suppression subtractive hybridization
+比格犬：beagle dog
+配子体发育：gametophyte development
+健康评价：health evaluation
+发情周期：Estrous cycle
+离体保存：In vitro conservation
+AHP模型：AHP model
+自然种群：Natural population
+甘蔗花叶病毒：sugarcane mosaic virus
+涌潮：tidal bore
+道路景观：road landscape
+Lucas数：Lucas number
+干旱监测：Drought monitoring
+农业机械化：agriculture mechanization
+温室控制：greenhouse control
+服务网络：service network
+野生花卉：Wild flowers
+热质传递：heat and mass transfer
+鸡毒支原体：Mycoplasma gallisepticum
+红砂：Reaumuria soongorica
+取食行为：feeding behavior
+氮素利用效率：nitrogen use efficiency
+脂肪沉积：fat deposition
+高生长：height growth
+禽呼肠孤病毒：avian reovirus
+渔业管理：fishery management
+脱水耐性：Desiccation tolerance
+产量品质：Yield and quality
+家蚕微孢子虫：Nosema bombycis
+遗传基础：Genetic basis
+犬冠状病毒：canine coronavirus
+小麦育种：wheat breeding
+普洱茶：Pu'er tea
+碳排放：carbon emission
+结构变化：structural change
+景观水体：landscape water
+磁感应强度：Magnetic Flux Density
+农田土壤：agricultural soil
+侵蚀机理：corrosion mechanism
+风味物质：flavor compounds
+物质代谢：material metabolism
+糊化温度：gelatinization temperature
+酶法：enzymatic method
+构效关系：structure-activity relationships
+动物组织：animal tissues
+糖蜜酒精废液：molasses alcohol wastewater
+光谱分析：spectrometric analysis
+乌拉尔甘草：Glycyrrhiza uralensis Fisch
+食盐：Table salt
+农业生态环境：agricultural ecological environment
+技术装备：technical equipment
+黑木耳：Auricularia auricular
+鞣花酸：ellagic acid
+嗜热脂肪芽孢杆菌：Bacillus stearothermophilus
+大豆肽：soybean peptide
+评估方法：evaluation methods
+排放通量：emission flux
+集约经营：intensive management
+紫外检测：UV detection
+铁氧化物：iron oxides
+损失率：Loss rate
+水生植被：Aquatic vegetation
+象山港：Xiangshan bay
+污泥堆肥：Sludge compost
+清洗机：cleaning machine
+最佳条件：Optimum condition
+生根培养：Rooting culture
+凝胶过滤：gel filtration
+干旱河谷：dry valley
+林业政策：forestry policy
+玉米须：corn silk
+植物精油：essential oil
+光密度：optical density
+仿真优化：simulation and optimization
+放线菌素D：Actinomycin D
+功能群：functional group
+再制造工程：remanufacturing engineering
+铅胁迫：lead stress
+代谢调控：metabolic regulation
+口服液：oral liquid
+诱导效应：inductive effect
+发育历期：developmental duration
+高蛋白：high protein
+模型构建：model construction
+叶面肥：foliar fertilizer
+分支定界：branch and bound
+二维电泳：two-dimensional electrophoresis
+生境破碎化：Habitat fragmentation
+指挥系统：command system
+生殖分配：Reproductive allocation
+十堰市：Shiyan city
+课件设计：courseware design
+茎瘤芥：tumorous stem mustard
+动物生产：animal production
+固体培养：solid culture
+致病机理：pathogenic mechanism
+响应曲线：response curve
+松果体：pineal gland
+优树：plus tree
+蛇足石杉：huperzia serrata
+群体遗传：population genetics
+仙台病毒：Sendai virus
+胰岛素样生长因子Ⅰ：insulin-like growth factor Ⅰ
+无血清培养：serum-free culture
+鸡痘病毒：fowlpox virus
+临床症状：clinical symptoms
+卵黄囊：Yolk sac
+增殖分化：Proliferation and differentiation
+S蛋白：spike protein
+群体遗传结构：population genetic structure
+行为反应：behavioral response
+内分泌细胞：Endocrine cells
+真菌诱导子：fungal elicitor
+Ri质粒：Ri plasmid
+种类鉴定：species identification
+人乳铁蛋白：human lactoferrin
+物理图谱：physical map
+教学实习：teaching practice
+品牌效应：Brand effect
+扭矩测量：torque measurement
+原生态：Original ecology
+供水工程：water supply project
+年径流：annual runoff
+种植设计：planting design
+优先流：preferential flow
+形态学滤波：Morphological filter
+规划与设计：Planning and Design
+农业专家系统：agriculture expert system
+智能信息检索：intelligent information retrieval
+秃杉：Taiwania flousiana
+胚乳细胞：Endosperm cell
+亚高山草甸：subalpine meadow
+草地螟：Loxostege sticticalis
+选择育种：Selective breeding
+多态信息含量：polymorphism information content
+桤木：Alnus cremastogyne
+杨树人工林：Poplar plantation
+水分利用：water use
+松突圆蚧：Hemiberlesia pitysophila
+营养繁殖：vegetative propagation
+光饱和点：Light saturation point
+禾谷缢管蚜：Rhopalosiphum padi
+旅游流：tourist flow
+转基因鱼：transgenic fish
+区域气候：Regional climate
+光谱特征：Spectral characteristics
+干燥过程：drying process
+面粉品质：flour quality
+理化特性：physical and Chemical Characteristics
+黄土丘陵区：loess hilly-gully region
+人工神经网络模型：artificial neural network model
+气流：air flow
+微波提取：microwave-assisted extraction
+装配设计：Assembly design
+亚硫酸氢钠：Sodium bisulfite
+莲子：lotus seed
+正交优化：orthogonal optimization
+生态环境质量：eco-environmental quality
+土地沙化：land desertification
+加热时间：heating time
+藏族：Tibetan nationality
+冰晶：ice crystal
+零点漂移：zero drift
+红树林湿地：mangrove wetland
+香蕉皮：banana peel
+水流：water flow
+城市河道：urban river
+蕨菜：Pteridium aquilinum
+土壤化学性质：soil chemical properties
+社区共管：Community Co-Management
+栅栏技术：hurdle technology
+测量装置：measuring device
+连云港市：Lianyungang city
+基本特征：basic character
+结构特性：structural characteristics
+回顾与展望：review and prospect
+大鳞副泥鳅：Paramisgurnus dabryanus
+固体废弃物：solid wastes
+石蒜：Lycoris radiata
+钙含量：calcium content
+原料奶：raw milk
+深黄被孢霉：Mortierella isabellina
+盐酸克伦特罗：clenbuterol hydrochloride
+棉籽粕：cottonseed meal
+番茄灰霉病菌：Botrytis cinerea
+蔗糖酯：sucrose esters
+蝉拟青霉：Paecilomyces cicadae
+三明市：Sanming City
+净第一性生产力：net primary productivity
+新疆北部：northern Xinjiang
+医疗保健：Medical care
+栽植密度：planting density
+一串红：Salvia splendens
+微生物肥料：microbial fertilizer
+增效作用：synergistic effect
+参数调整：parameter adjustment
+银川平原：Yinchuan Plain
+靶器官：target organ
+矿物质元素：mineral elements
+转基因作物：transgenic crop
+冬凌草：Rabdosia rubescens
+园林绿化：landscape greening
+耐寒性：cold resistance
+鸡蛋品质：egg quality
+外周血淋巴细胞：peripheral blood lymphocytes
+坡地：sloping land
+森林资源管理：Forest resource management
+昆虫病原真菌：Entomopathogenic fungi
+胸腺指数：thymus index
+观测资料：observation data
+Gamma分布：Gamma distribution
+拌种：seed dressing
+法向量：normal vector
+基因文库：Genomic library
+交互抗性：cross resistance
+基因多态：gene polymorphism
+微血管内皮细胞：microvascular endothelial cells
+纤溶系统：fibrinolytic system
+免疫器官指数：immune organ index
+健康人群：healthy population
+口蹄疫病毒：foot and mouth disease virus
+伯氏疏螺旋体：Borrelia burgdorferi
+血清钙：Serum calcium
+卡方检验：chi-square test
+gyrA基因：gyrA gene
+鸡贫血病毒：chicken anemia virus
+图像挖掘：image mining
+染色体数目：chromosome numbers
+鉴定方法：identification method
+航天诱变：space mutation
+区系分析：flora analysis
+猪传染性胃肠炎病毒：Transmissible gastroenteritis virus
+蛋白质水平：Protein level
+联会复合体：synaptonemal complex
+混合编码：Hybrid coding
+北京鸭：Beijing Duck
+数字高程模型(DEM)：digital elevation model(DEM)
+土壤固化剂：soil stabilizer
+水分生产率：water productivity
+模糊控制算法：fuzzy control algorithm
+非充分灌溉：deficit irrigation
+嵌入式地理信息系统：embedded GIS
+膜孔灌：film hole irrigation
+化学除草：chemical weeding
+繁殖行为：reproductive behavior
+稻曲病菌：Ustilaginoidea virens
+沙地云杉：Picea mongolica
+速效钾：Available potassium
+紫椴：Tilia amurensis
+叶绿体超微结构：chloroplast ultrastructure
+传染性法氏囊病：infectious bursal disease
+土壤生态系统：soil ecosystem
+苦丁茶：Kuding tea
+卧龙自然保护区：Wolong Nature Reserve
+自动监测系统：Automatic monitoring system
+高产：High production
+基因重组：genetic recombination
+相对分子质量分布：relative molecular mass distribution
+鱼鳞：fish scale
+最适温度：optimum temperature
+荧光标记：fluorescence labeling
+硅藻土：diatomaceous earth
+活性组分：active component
+工程仿生学：engineering bionics
+农田灌溉：farmland irrigation
+氮素代谢：nitrogen metabolism
+残留检测：residue detection
+超临界甲醇：supercritical methanol
+甲氨基阿维菌素苯甲酸盐：emamectin benzoate
+紫外诱变：UV mutation
+保护对策：protection countermeasures
+耐碱性：alkali resistance
+牛蒡子：Fructus arctii
+核糖核酸：ribonucleic acid
+生物胺：biogenic amine
+紫甘薯：purple sweet potato
+秦皇岛市：Qinhuangdao City
+电导法：conductivity method
+生态监测：ecological monitoring
+蒸煮品质：cooking quality
+农药污染：pesticide pollution
+K值：K value
+滩涂：tidal flat
+空间信息技术：spatial information technology
+翅果油树：Elaeagnus mollis
+控释肥料：controlled release fertilizer
+奇异变形杆菌：Proteus mirabilis
+脏器系数：organ coefficient
+绿藻：green algae
+功能多样性：Functional diversity
+金钗石斛：Dendrobium nobile Lindl
+抗盐性：salt tolerance
+干重：dry weight
+SDS法：SDS method
+梯级开发：cascade development
+大连湾：Dalian Bay
+分析与评价：analysis and evaluation
+急性毒性实验：acute toxicity test
+加工利用：processing and utilization
+西藏高原：Tibet Plateau
+群落生态：community ecology
+红三叶：red clover
+DNA杂交：DNA hybridization
+核技术：nuclear technology
+析因设计：Factorial design
+上海地区：Shanghai area
+电容测量：capacitance measurement
+安全装置：safety device
+基因技术：Gene technology
+南京：Nanjing city
+微咸水：brackish water
+鸦胆子：Brucea javanica
+克隆和表达：cloning and expression
+土地利用方式：land use type
+根伸长：root elongation
+液体菌种：liquid spawn
+研究报告：research report
+保护规划：conservation planning
+空气温度：air temperature
+红色荧光蛋白：Red Fluorescent Protein
+药物相互作用：drug-drug interaction
+Caspase3：Caspase 3
+血管内皮生长因子(VEGF)：Vascular endothelial growth factor(VEGF)
+种类分布：species distribution
+血凝素基因：Hemagglutinin gene
+治疗性疫苗：Therapeutic vaccine
+PCNA：proliferating cell nuclear antigen
+分子克隆：molecular clone
+悬浮细胞：Suspension cell
+牛结核病：bovine tuberculosis
+全长cDNA文库：full-length cDNA library
+中和试验：Neutralization test
+实践教育：Practice education
+夏蜡梅：Sinocalycanthus chinensis
+种子包衣：seed coating
+主要内容：main contents
+野大麦：Hordeum brevisubulatum
+人工种子：artificial seed
+东南景天：Sedum alfredii Hance
+小尾寒羊：Small Tail Han sheep
+GPS导航：GPS navigation
+航空运输：air transportation
+风场模拟：wind field simulation
+园林城市：garden city
+几何布朗运动：geometric Brownian motion
+侵蚀模数：erosion modulus
+分类经营：classification management
+产业技术：industrial technology
+体细胞杂种：somatic hybrids
+基因漂移：gene flow
+施肥效应：Fertilization effect
+双条杉天牛：Semanotus bifasciatus
+岳阳市：Yueyang city
+设施土壤：greenhouse soil
+开花物候：flowering phenology
+欧洲鳗鲡：Anguilla anguilla
+小麦纹枯病：Wheat Sharp Eyespot
+腋芽：axillary bud
+盐碱胁迫：saline-alkali stress
+农业昆虫学：Agricultural Entomology
+ABA：abscisic acid
+穗发芽：Pre-harvest sprouting
+池塘养殖：pond culture
+红螯螯虾：Cherax quadricarinatus
+生态廊道：ecological corridor
+磺酰脲类除草剂：sulfonylurea herbicides
+放样：setting out
+氮污染：nitrogen pollution
+分离蛋白：protein isolate
+啤酒大麦：beer barley
+低渗：low permeability
+氮气：Nitrogen gas
+农业土壤：Agricultural soil
+流动特性：flow behavior
+群落稳定性：community stability
+形态指标：morphological index
+飞行时间质谱：time-of-flight mass spectrometry
+淄博市：Zibo City
+多糖含量：polysaccharide content
+南四湖：Nansihu lake
+高品质：high quality
+高产高效：high production and high efficiency
+木材改性：wood Modification
+放电特性：discharge characteristic
+硅胶柱层析：silica gel column chromatography
+天然植被：natural vegetation
+腐植酸钠：sodium humate
+植物油：vegetable oils
+食用仙人掌：edible cactus
+扩展青霉：Penicillium expansum
+日变化：daily change
+生态调控：ecological regulation
+葡萄糖酸钠：sodium gluconate
+洛伦茨曲线：lorenz curve
+技术问题：technical problem
+分布式水文模型：distributed hydrologic model
+经济预测：Economic Forecasting
+动态表面张力：dynamic surface tension
+贝叶斯推理：Bayesian inference
+大豆幼苗：soybean seedling
+控制管理：control management
+磷矿石：phosphate rock
+木材加工：wood processing
+叶片结构：Leaf structure
+监测技术：Monitoring technique
+蒸馏水：distilled water
+基本参数：basic parameter
+巯基乙酸：mercaptoacetic acid
+高光谱数据：hyperspectral data
+国家森林公园：national forest park
+生态区划：ecological regionalization
+褐牙鲆：Paralichthys olivaceus
+关中盆地：Guanzhong Basin
+元宝枫：Acer truncatum Bunge
+水土保持措施：soil and water conservation measures
+群落动态：community dynamics
+速效养分：available nutrient
+年变化：Annual variation
+轴向载荷：axial load
+优化技术：optimization technique
+灰葡萄孢菌：Botrytis cinerea
+点格局分析：point pattern analysis
+RS-485通信：RS-485 communication
+花棒：Hedysarum scoparium
+中心频率：center frequency
+电学特性：Electrical properties
+肥料效应：fertilizer effect
+专题图：Thematic map
+麦长管蚜：Macrosiphum avenae
+协方差分析：covariance analysis
+填料密封：Packing seal
+对照品：Reference substance
+临界深度：critical depth
+溶血活性：Hemolytic activity
+籽粒苋：grain amaranth
+东亚地区：East Asia
+QTL：Quantitative trait loci
+rpoB基因：rpoB gene
+迁地保护：Ex situ conservation
+摄食行为：feeding behavior
+开发与保护：Development and protection
+针叶林：coniferous forest
+系统获得抗性：systemic acquired resistance
+模糊隶属函数：fuzzy membership function
+鸭乙型肝炎病毒：duck hepatitis B virus
+三带喙库蚊：Culex tritaeniorhynchus
+减毒沙门氏菌：attenuated Salmonella typhimurium
+福寿螺：Pomacea canaliculata
+分子鉴别：molecular identification
+遗传监测：genetic monitoring
+细胞松弛素B：Cytochalasin B
+脂肪细胞分化：adipocyte differentiation
+药敏试验：drug sensitivity
+生后发育：Postnatal development
+植物保护学：plant protection
+CpG岛：CpG Islands
+生殖生物学：reproductive biology
+偏分离：segregation distortion
+谷氨酸受体：glutamate receptor
+脂肪栓塞综合征：Fat embolism syndrome
+水泡性口炎病毒：vesicular stomatitis virus
+根尖：Root tip
+免疫机理：Immune mechanism
+黑熊：black bear
+普通野生稻：common wild rice
+腔前卵泡：Preantral follicles
+生长节律：growth rhythm
+费氏中华根瘤菌：Sinorhizobium fredii
+最高气温：maximum temperature
+种植模式：cropping pattern
+实施机制：implementation mechanism
+钾含量：potassium content
+畦灌：border irrigation
+IBIS模型：IBIS model
+浅圆仓：Squat silo
+GPS测量：GPS measurement
+可行域：feasible region
+土壤墒情：soil moisture
+教学组织：teaching organization
+智能温室：Intelligent Greenhouse
+养分消化率：nutrient digestibility
+二斑叶螨：Tetranychus urticae Koch
+形态可塑性：morphological plasticity
+辣椒疫霉菌：Phytophthora capsici
+稻曲病：Rice false smut
+发育起点温度：threshold temperature
+氮素利用：Nitrogen utilization
+苹果砧木：Apple rootstock
+主要性状：Main characters
+水分代谢：water metabolism
+节节麦：Aegilops tauschii
+种子贮藏：seed storage
+矮秆基因：dwarf gene
+森林演替：forest succession
+养分利用效率：nutrient use efficiency
+繁殖分配：Reproductive allocation
+墨兰：Cymbidium sinense
+迟钝爱德华氏菌：Edwardsiella tarda
+根长密度：root length density
+分类修订：taxonomic revision
+30年：30 years
+原子吸收法：Atomic absorption
+短绒：short fiber
+总酸：Total acid
+次级代谢产物：secondary metabolite
+磨损性能：wear behavior
+水乳剂：emulsion in water
+湿地恢复：Wetland restoration
+CO2排放：CO2 emission
+白芷：Radix angelicae dahuricae
+鞣酸：tannic acid
+生态系统服务价值：ecosystem services value
+生态健康：ecological health
+促渗剂：penetration enhancers
+蒸汽爆破：steam explosion
+氧化硫硫杆菌：Thiobacillus thiooxidans
+包气带：vadose zone
+物理方法：physical method
+典型设计：typical design
+出汁率：juice yield
+薄荷：Mentha haplocalyx Briq
+调质：quenching and tempering
+地方病：endemic diseases
+景观格局分析：landscape pattern analysis
+土地利用类型：Land use types
+碳同位素：carbon isotopes
+藤茶：Ampelopsis grossedentata
+SDS-PAGE电泳：SDS-PAGE electrophoresis
+润湿剂：Wetting agent
+文献计量：literature metrology
+火焰原子吸收分光光度法：flame atomic absorption spectrometry
+微核实验：Micronucleus test
+土壤样品：Soil sample
+生理指标：physiological parameters
+生态服务价值：ecological service value
+冰点：freezing point
+土壤胶体：soil colloid
+湿地土壤：wetland soil
+C/N：C/N ratio
+填充柱：packed column
+质量监测：quality monitoring
+活力指数：vigor index
+公益林：public welfare forest
+栝楼：Trichosanthes kirilowii Maxim
+安全问题：Security problem
+粟酒裂殖酵母：Schizosaccharomyces pombe
+日照市：Rizhao city
+可变电荷土壤：variable charge soil
+波长选择：Wavelength selection
+异养菌：heterotrophic bacteria
+农业景观：agricultural landscape
+热惯量：thermal inertia
+特征曲线：characteristic curve
+静力学分析：static analysis
+引物设计：primer design
+坡面流：overland flow
+无性繁殖：asexual propagation
+市场运作：market operation
+均匀化理论：homogenization theory
+兽药：Veterinary Drug
+豚草：Ambrosia artemisiifolia
+苦竹：Pleioblastus amarus
+药用价值：medical value
+运城市：Yuncheng City
+游离棉酚：free gossypol
+生长方程：growth equation
+N_2O排放：N_2O emission
+线性规划模型：linear programming model
+RNA聚合酶：RNA polymerase
+面积测量：area measurement
+参数估算：parameter estimation
+POD活性：POD activity
+K-S检验：K-S test
+县域：county area
+科学实验：scientific experiment
+分子调控：molecular regulation
+保护遗传学：conservation genetics
+研究框架：research framework
+中波紫外线：ultraviolet B
+18srDNA：18s rDNA
+纯培养：pure culture
+风能资源：wind energy resources
+智能识别：intelligent recognition
+全胚胎培养：Whole embryo culture
+雨强：rainfall intensity
+玉米象：sitophilus zeamais
+热红外遥感：Thermal infrared remote sensing
+VP7基因：VP7 gene
+治疗作用：therapeutic action
+黄连解毒汤：Huanglian jiedu decoction
+血清淀粉酶：serum amylase
+岩黄连：corydalis saxicola bunting
+滴鼻免疫：intranasal immunization
+保定市：Baoding city
+顺式作用元件：cis-acting element
+非结构蛋白：non-structural protein
+间接免疫荧光：Indirect immunofluorescence
+透明带：Zona pellucida
+反向遗传：reverse genetics
+拷贝数：Copy number
+生殖器官：Reproductive organ
+钙代谢：Calcium metabolism
+基因传递：gene delivery
+罗伯逊易位：Robertsonian translocation
+栽培密度：planting density
+番鸭呼肠孤病毒：Muscovy duck reovirus
+卵巢储备：ovarian reserve
+管氏肿腿蜂：Scleroderma guani
+近等基因系：near-isogenic line
+小熊猫：red panda
+表达与纯化：expression and purification
+土壤水分特征曲线：soil water characteristic curve
+决策树分类：decision tree classification
+土壤分类：soil classification
+降雨入渗：rain infiltration
+气候适应性：Climate adaptability
+地面灌溉：surface irrigation
+移动管理：mobility management
+土壤抗蚀性：soil anti-erodibility
+虚拟植物：virtual plants
+ELES模型：ELES model
+抗寒：cold resistance
+栲树：Castanopsis fargesii
+粗山羊草：Aegilops tauschii
+晚疫病菌：Phytophthora infestans
+杨树无性系：poplar clones
+化感效应：allelopathic effect
+柱头可授性：stigma receptivity
+荒漠植物：desert plant
+林窗：forest gap
+香稻：Aromatic rice
+BADH基因：BADH gene
+果实成熟：fruit ripening
+形态多样性：Morphological diversity
+大豆疫霉：Phytophthora sojae
+活动节律：Activity rhythm
+侧根：lateral root
+水稻白叶枯病菌：Xanthomonas oryzae pv. oryzae
+动物营养：Animal nutrition
+土壤脲酶：soil urease
+立地质量：site quality
+煤矸石：coal refuse
+材料学：Material science
+工业园：industrial park
+超声技术：ultrasonic technology
+挥发性脂肪酸：volatile fatty acids
+大风：strong wind
+耐酸性：acid resistance
+酶处理：enzyme treatment
+乙醇脱水：ethanol dehydration
+混合特性：mixing characteristics
+分子质量分布：molecular weight distribution
+大豆浓缩蛋白：soy protein concentrate
+快速成型技术：rapid prototyping technology
+多源数据：multi-source data
+美国红鱼：Sciaenops ocellatus
+空间分异：spatial variation
+双水相：aqueous two-phase
+SOD：superoxide dismutase(SOD)
+水头：water head
+羰基硫：carbonyl sulfide
+统计指标：statistical index
+机械特性：mechanical properties
+功能性食品：function food
+黑豆：black soybean
+黄酮苷：flavonoid glycosides
+刺山柑：Capparis spinosa L
+生长特征：growth characteristics
+活性测定：activity determination
+梅州市：Meizhou city
+圆锯片：circular saw blade
+道路建设：road construction
+分子修饰：molecular modification
+抗氧化肽：antioxidant peptide
+控制作用：control effect
+全磷：Total phosphorus
+评价体系：evaluate system
+复合墙体：composite wall
+电磁振动：electromagnetic vibration
+业务系统：operational system
+系统演化：System Evolution
+盐池县：Yanchi county
+自然因素：natural factors
+电子经纬仪：electronic theodolite
+羧化效率：carboxylation efficiency
+植物配置：plant configuration
+邓恩桉：Eucalyptus dunnii
+半干旱地区：semi-arid area
+物种鉴定：species identification
+平均温度：average temperature
+空间统计：spatial statistics
+赤松：Pinus densiflora
+植物生理：plant physiology
+肺靶向：lung targeting
+群体行为：group behavior
+知母：Rhizoma anemarrhenae
+香猪：Xiang pig
+农业资源：agriculture resources
+明党参：Changium smyrnioides
+冰草：Agropyron cristatum
+养分管理：nutrient management
+生态护坡：Ecological slope protection
+缺水：water shortage
+作物生长：crop growth
+龙血素B：Loureirin B
+菟丝子：semen cuscutae
+特有种：endemic species
+生理参数：physiological parameters
+成分数据：Compositional data
+红海榄：Rhizophora stylosa
+乌桕：sapium sebiferum
+新西兰兔：New Zealand rabbit
+刚性转子：Rigid rotor
+传动系：Transmission system
+基本方法：Basic method
+自然植被：natural vegetation
+肠上皮细胞：Intestinal epithelial cell
+钙电流：calcium current
+草珊瑚：Sarcandra glabra
+丙酮酸激酶：pyruvate kinase
+卵裂率：Cleavage rate
+柽柳：Tamarix chinensis
+甘露糖受体：Mannose receptor
+重组疫苗：Recombinant vaccine
+夹心ELISA：Sandwich ELISA
+光合效率：photosynthetic efficiency
+南阳牛：Nanyang cattle
+NK细胞活性：NK cell activity
+抗病力：disease resistance
+NS1蛋白：NS1 protein
+NP基因：NP gene
+缺失突变：deletion mutation
+液位传感器：liquid level sensor
+病原细菌：Pathogenic bacteria
+植物育种：plant breeding
+华山新麦草：Psathyrostachys huashanica
+禽白血病病毒：Avian leukosis virus
+短信平台：short message platform
+水土保持监测：soil and water conservation monitoring
+信息服务体系：information service system
+视频技术：video technology
+整体稳定：integral stability
+移动定位：mobile location
+表型多样性：phenotypic diversity
+卫星云图：satellite cloud image
+切花月季：cut rose
+四翅滨藜：Atriplex canescens
+落叶松毛虫：Dendrolimus superans
+玉米收获机：corn harvester
+锌肥：zinc fertilizer
+裂果：Fruit cracking
+玉米育种：Maize breeding
+抗虫棉：insect-resistant cotton
+无核葡萄：Seedless grape
+养分动态：nutrient dynamics
+热带山地雨林：Tropical montane rain forest
+大豆胞囊线虫：Soybean cyst nematode
+PEG胁迫：PEG stress
+体色：body color
+烟田：tobacco field
+蔗糖合成酶：Sucrose synthase
+杂交早稻：early hybrid rice
+双受精：double fertilization
+育性转换：fertility alteration
+表型变异：phenotypic variation
+蔗糖代谢：Sucrose metabolism
+猪轮状病毒：Porcine rotavirus
+土壤可蚀性：soil erodibility
+退化红壤：degraded red soil
+鉴别寄主：differential host
+幼胚培养：immature embryo culture
+油菜菌核病菌：Sclerotinia sclerotiorum
+基因分离：gene isolation
+新种质：New germplasm
+愈伤诱导：callus induction
+抗倒伏：Lodging resistance
+石墨炉原子吸收：Graphite furnace atomic absorption spectrometry
+非离子型表面活性剂：nonionic surfactant
+干燥模型：drying model
+60CO-γ射线：60CO-γ ray
+羊肚菌：Morchella esculenta
+喷粉：powder injection
+N2O：Nitrous oxide
+人参皂苷Rg3：ginsenoside Rg3
+白地霉：Geotrichum candidum
+气体浓度：gas concentration
+敏感性评价：sensitivity evaluation
+重力流：gravity flow
+黄水：yellow water
+猪血红蛋白：porcine hemoglobin
+有效部位：Active fraction
+茉莉花茶：Jasmine tea
+长江流域：Yangtze valley
+水质指标：Water quality index
+慈竹：Neosinocalamus affinis
+济宁市：Jining City
+生物控制：biological control
+综合应用：Comprehensive application
+广州地区：Guangzhou area
+伊乐藻：Elodea nuttallii
+加速试验：Accelerated testing
+悬浮液进样：Suspension Sampling
+微生物法：microbiological method
+工业分析：proximate analysis
+四苯硼钠：Sodium Tetraphenylborate
+湘南：southern Hunan
+湘西：West Hunan
+药用真菌：Medicinal fungi
+研究展望：research prospect
+硼氢化钾：potassium borohydride
+维生素B_1：Vitamin B_1
+肉品品质：meat quality
+自然条件：natural conditions
+生产经营：Production and management
+赤子爱胜蚓：Eisenia foetida
+桃果实：peach fruit
+高陡边坡：high and steep slope
+生态模式：Ecological model
+酸雨胁迫：acid rain stress
+可追溯系统：traceability system
+智能化控制：intelligent control
+鲢：Hypophthalmichthys molitrix
+硝酸还原酶活性：nitrate reductase activity
+环境模拟：environmental simulation
+潜水：phreatic water
+糖含量：sugar content
+对虾养殖：shrimp culture
+相对介电常数：relative dielectric constant
+土壤水分含量：soil water content
+紫穗槐：amorpha fruticosa
+生态因素：ecological factors
+生殖激素：reproductive hormones
+淀粉粒：Starch granule
+氮素损失：nitrogen loss
+质量控制图：Quality control chart
+舟山群岛：Zhoushan Archipelago
+GFP基因：GFP gene
+设施农业：protected agriculture
+现代科学技术：modern science and technology
+无血清培养基：serum-free medium
+绿色文化：Green culture
+异常分析：anomaly analysis
+VB程序：VB program
+盾壳霉：Coniothyrium minitans
+人溶菌酶：human lysozyme
+盐城市：Yancheng City
+复合PCR：multiplex PCR
+土壤热通量：Soil heat flux
+菌株鉴定：Strain identification
+细胞质效应：Cytoplasmic effect
+实用价值：practical value
+D1蛋白：D1 protein
+藏鸡：Tibetan Chicken
+绿色维修：green maintenance
+钠离子通道：Sodium Channel
+气候资源：climatic resource
+温郁金：Curcuma wenyujin
+耐药基因：Resistant genes
+表面肌电：surface electromyography
+曲古菌素A：trichostatin A
+成骨生长肽：osteogenic growth peptide
+错配修复：Mismatch repair
+颜色传感器：color sensor
+根腐病：root rot disease
+大肠杆菌O157：Escherichia coli O157
+ES细胞：ES cells
+朊蛋白：prion protein
+表达载体构建：construction of expression vector
+日本脑炎病毒：Japanese encephalitis virus
+汕头市：Shantou city
+优质小麦：high quality wheat
+遗传机制：genetic mechanism
+生化机制：biochemical mechanism
+细胞质雄性不育：cytoplasmic male sterility (CMS)
+猪流行性腹泻病毒：porcine epidemic diarrhea virus
+持续感染：Persistent infection
+轻链：Light chain
+线性混合模型：linear mixed model
+体细胞杂交：somatic hybridization
+季节性冻土：seasonal frozen soil
+形态设计：form design
+连香树：cercidiphyllum japonicum
+衬砌混凝土：lining concrete
+干旱指标：drought index
+肥料利用率：fertilizer use efficiency
+贝叶斯推断：Bayesian inference
+地图服务：map service
+数字地形分析：digital terrain analysis
+会计确认：accounting confirmation
+蛋白质二级结构预测：Protein secondary structure prediction
+入渗模型：infiltration model
+组培苗：tissue culture seedling
+客观分析：Objective analysis
+脂肪体：fat body
+赤点石斑鱼：Epinephelus akaara
+采穗圃：cutting orchard
+地理种群：geographical population
+产量构成：Yield component
+剑叶：flag leaf
+无毒基因：avirulence gene
+氮矿化：nitrogen mineralization
+楸树：Catalpa bungei
+胚珠培养：ovule culture
+荷斯坦奶牛：Holstein cow
+产量结构：yield structure
+萧氏松茎象：Hylobitelus xiaoi Zhang
+苗木生长：seedling growth
+长苞铁杉：Tsuga longibracteata
+乙烯受体：ethylene receptor
+氮效率：Nitrogen efficiency
+果蔗：Chewing cane
+叶斑病：leaf spot
+初生重：birth weight
+抗虫：insect resistance
+饲用玉米：Forage maize
+小麦生产：Wheat production
+东乡野生稻：Dongxiang wild rice
+杨扇舟蛾：Clostera anachoreta
+甜菜碱醛脱氢酶：betaine aldehyde dehydrogenase
+小麦叶锈病：Wheat leaf rust
+紫斑牡丹：Paeonia rockii
+安哥拉山羊：Angora Goat
+热带风暴：tropical storm
+无功控制：reactive power control
+南亚：South Asia
+阜新市：Fuxin city
+科尔沁沙地：Horqin Sand Land
+河蚬：Corbicula fluminea
+颗粒粒径：particle size
+正交实验法：Orthogonal experiment
+抗氧化能力：antioxidant activity
+苏丹红：Sudan red
+表层土壤：surface soil
+形态分析：morphological analysis
+氟含量：fluorine content
+成本-效益分析：cost-benefit analysis
+降解产物：degradation products
+水稻田：paddy field
+栽培模式：cultivation mode
+杏仁油：almond oil
+营养状态：nutritional status
+食物网：food web
+肯定列表制度：positive list system
+耐高温：high temperature resistant
+东营市：Dongying city
+蚕沙：silkworm excrement
+裂褶菌：Schizophyllum commune
+成像技术：imaging technique
+分离提纯：separation and purification
+荒漠植被：desert vegetation
+吉林：Jilin Province
+电阻：electric resistance
+火棘：pyracantha fortuneana
+民勤县：Minqin county
+实验分析：experiment analysis
+甘蔗：sugar cane
+二维模型：two-dimensional model
+生殖生长：reproductive growth
+微生物生态学：microbial ecology
+利益机制：benefit mechanism
+贮藏条件：storage condition
+轮叶党参：Codonopsis Lanceolata
+大豆卵磷脂：soybean lecithin
+重庆地区：Chongqing Area
+减震器：shock absorber
+曲柄摇杆机构：crank rocker mechanism
+化学特征：chemical characteristics
+风险指标：risk index
+微生物生物量碳：microbial biomass carbon
+光系统II：photosystem II
+欧氏贴近度：euclid approach degree
+聚集行为：Aggregation behavior
+红景天：Rhodiola rosea
+可再生资源：renewable resources
+培养时间：Culture time
+传动机构：transmission mechanism
+盐渍土：Salty soil
+估算方法：estimation method
+胸腺素α1：thymosin α1
+显微观察：microscopic observation
+松果腺：pineal gland
+未确知有理数：unascertained rational number
+中药材：Chinese traditional medicine
+昆虫生长调节剂：insect growth regulator
+鄱阳湖区：Poyang lake area
+城市湿地公园：Urban wetland park
+单核苷酸多态性(SNP)：single nucleotide polymorphism(SNP)
+发展措施：development measures
+荒漠生态系统：desert ecosystem
+离子含量：ion content
+茶叶品质：tea quality
+乙酸钠：sodium acetate
+人口压力：population pressure
+决策方法：decision-making method
+规划管理：planning and management
+生态结构：ecological structure
+沙枣：Elaeagnus angustifolia L
+可见分光光度法：visible spectrophotometry
+三聚氰酸：Cyanuric acid
+硝酸盐还原酶：nitrate reductase
+谷胱甘肽硫转移酶：glutathione S-transferase
+血卟啉衍生物：Hematoporphyrin derivative
+景观空间格局：landscape spatial pattern
+汾河水库：Fenhe Reservoir
+云锦杜鹃：Rhododendron fortunei
+邢台市：Xingtai City
+喜旱莲子草：Alternanthera philoxeroides
+毛蚶：Scapharca subcrenata
+沼气工程：biogas project
+虹鳟：Oncorhynchus mykiss
+区域特征：regional characteristics
+景观资源：landscape resource
+售后服务：after-sale service
+最优参数：Optimum parameters
+鸟类资源：bird resource
+蒜头果：Malania Oleifera
+表达调控：Expression and regulation
+IAA氧化酶：IAA oxidase
+吸收效率：absorption efficiency
+哺乳动物细胞：Mammalian cell
+肠道：Intestinal tract
+无乳链球菌：Streptococcus agalactiae
+亲子鉴定：paternity testing
+重组PCR：recombinant PCR
+巢式RT-PCR：Nested RT-PCR
+基因组进化：genome evolution
+消化器官：Digestive organ
+H9N2亚型：H9N2 subtype
+亲环素A：cyclophilin A
+猪生殖与呼吸综合征病毒：porcine reproductive and respiratory syndrome virus
+植物生长物质：plant growth substance
+早期胚胎：early embryos
+学术论文：research paper
+侧翼序列：flanking sequence
+淀粉酶活性：amylase activity
+负相关：Negative correlation
+重组禽痘病毒：Recombinant fowlpox virus
+植物生长调节物质：plant growth regulator
+迟缓爱德华氏菌：Edwardsiella tarda
+冰灾：ice disaster
+外水压力：external water pressure
+地被植物：Ground Cover Plants
+黑龙江垦区：Heilongjiang reclamation area
+水利建设：water conservancy construction
+最低气温：minimum temperature
+机载激光雷达：Airborne Lidar
+农业干旱：agricultural drought
+空间演化：spatial evolution
+承压含水层：confined aquifer
+准公共物品：quasi-public goods
+Richards方程：Richards equation
+土地利用数据库：land use database
+生理分化：physiological differentiation
+饲料配方：feed formula
+环流特征：Circulation characteristic
+青枯雷尔氏菌：Ralstonia solanacearum
+土壤物理性质：soil physical property
+双季稻：double cropping rice
+间伐强度：thinning intensity
+侵染过程：infection process
+胚后发育：postembryonic development
+北极狐：Arctic fox
+多枝赖草：Leymus multicaulis
+农业企业：agricultural enterprise
+土壤压实：soil compaction
+水土保持林：soil and water conservation forest
+gB基因：gB gene
+呼吸代谢：respiratory metabolism
+转基因马铃薯：Transgenic potato
+外源DNA导入：exogenous DNA introduction

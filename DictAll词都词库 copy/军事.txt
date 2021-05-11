@@ -1,0 +1,4275 @@
+风险管理：risk management
+信息管理：information management
+风险评估：risk assessment
+因素分析：factor analysis
+监控系统：Monitoring system
+模糊综合评判：Fuzzy comprehensive evaluation
+移动代理：Mobile Agent
+江泽民：Jiang Zemin
+民族精神：national spirit
+综合素质：comprehensive quality
+科学发展观：scientific outlook on development
+刑法：criminal law
+心理素质：Psychological quality
+效用函数：utility function
+国际法：international law
+固体力学：solid mechanics
+交易费用：Transaction Cost
+新形势：new situation
+伺服控制：servo control
+风险识别：risk identification
+综合评价：synthetic evaluation
+抗日战争：Anti-Japanese War
+孙中山：Sun Yat-sen
+USB接口：USB interface
+晚清：late Qing Dynasty
+库存控制：inventory control
+国家安全：National security
+过程建模：process modeling
+道德建设：Moral Construction
+自适应遗传算法：adaptive genetic algorithm
+东北亚：Northeast Asia
+核电站：Nuclear power station
+计算机系统：Computer system
+21世纪：21st century
+弹道导弹：ballistic missile
+反舰导弹：anti-ship missile
+武器系统：Weapon system
+福建：Fujian Province
+数字地图：digital map
+网络分析：network analysis
+供应商选择：supplier selection
+网络攻击：network attack
+模糊积分：fuzzy integral
+网络性能：network performance
+作战效能：operational effectiveness
+军事物流：military logistics
+火控系统：fire control system
+体制创新：system innovation
+政治社会化：Political socialization
+民国：the Republic of China
+局部搜索：local search
+选址：site selection
+信息化建设：information construction
+周恩来：Zhou Enlai
+数据拟合：data fitting
+群决策：group decision making
+文化精神：cultural spirit
+实践性教学：Practical teaching
+明朝：Ming Dynasty
+装备保障：equipment support
+结构动力学：structural dynamics
+生活满意度：Life satisfaction
+人力资源开发：Human resources development
+脉冲响应：impulse response
+历史经验：historical experience
+效能评估：efficiency evaluation
+本科教学：undergraduate teaching
+绩效考评：performance appraisal
+数据链：data link
+系统科学：system science
+指派问题：assignment problem
+政治制度：political system
+曾国藩：Zeng Guofan
+服务管理：service management
+推理机：reasoning machine
+失效率：failure rate
+欧洲一体化：European integration
+医疗保障：medical Security
+自动测量：automatic measurement
+备件：spare parts
+门脉高压症：Portal hypertension
+电子战：electronic warfare
+多元回归分析：multiple regression analysis
+集装箱运输：container transportation
+稳定控制：stability control
+集成管理：integrated management
+投资效益：Investment benefit
+阶跃响应：step response
+胡锦涛：HU Jintao
+知识资本：Knowledge capital
+学术价值：academic value
+性能化设计：performance-based design
+博弈理论：game theory
+人生观：outlook on life
+政党：Political Party
+故障率：failure rate
+故障模型：fault model
+新西兰：New Zealand
+更新过程：renewal process
+《孙子兵法》：Military Science of Sun Tzu
+宋朝：Song Dynasty
+地方高校：local college
+网络体系结构：Network architecture
+核心价值体系：core value system
+曹操：Cao Cao
+科学内涵：scientific connotation
+关联矩阵：incidence matrix
+网络中心战：network centric warfare
+德治：rule of virtue
+教学创新：teaching innovation
+Bezier曲线：Bezier curve
+研究设计：research design
+健康人格：healthy personality
+激光测量：Laser measurement
+灰色聚类：grey clustering
+示范中心：demonstration center
+军事人员：Military personnel
+监督管理：supervision and management
+验证性因素分析：confirmatory factor analysis
+文化环境：cultural environment
+XML模式：XML schema
+接受理论：reception theory
+心理障碍：psychological obstacle
+核安全：nuclear safety
+重复博弈：repeated game
+寿命周期费用：Life Cycle Cost
+洋务运动：Westernization Movement
+教育体制：Education system
+软件维护：software maintenance
+态势评估：situation assessment
+提前期：lead time
+信息咨询：information consultation
+高校学生：college student
+国防教育：national defense education
+过程仿真：process simulation
+随动系统：servo system
+运行优化：Operation optimization
+湖湘文化：HuXiang culture
+党员：Party member
+效能分析：effectiveness analysis
+路径优化：path optimization
+0-1规划：0-1 programming
+军事训练：military training
+导弹武器系统：missile weapon system
+态势估计：situation assessment
+生存概率：survival probability
+群集智能：swarm intelligence
+探索性因素分析：exploratory factor analysis
+高斯噪声：Gaussian noise
+船舶运动：ship motion
+反辐射导弹：anti-radiation missile
+维修保障：maintenance support
+泰勒级数：Taylor series
+自行火炮：self-propelled gun
+层次模型：Hierarchical model
+发展分析：development analysis
+和平与发展：peace and development
+方案评价：scheme evaluation
+石油库：oil depot
+心理社会因素：psychosocial factors
+车辆调度：vehicle scheduling
+协同优化：collaborative optimization
+数理统计学：mathematical statistics
+战略地位：strategic position
+文化安全：cultural security
+负性情绪：negative emotion
+威胁评估：threat assessment
+单亲遗传算法：partheno-genetic algorithm
+函授教育：correspondence education
+方案选择：scheme selection
+科研能力：scientific research ability
+血氧饱和度：oxygen saturation
+创新发展：innovation and development
+人格特质：personality trait
+Bootstrap方法：Bootstrap method
+电力线：power line
+指挥控制：command and control
+系统效能：system effectiveness
+信息战：information warfare
+临近空间：near space
+政治教育：political education
+内容分析法：content analysis
+评估指标体系：evaluation index system
+相平面：phase plane
+清朝：the Qing Dynasty
+舰空导弹：ship-to-air missile
+清华大学：Tsinghua University
+选址模型：location model
+安全距离：safe distance
+历史沿革：historical evolution
+隐身技术：stealth technique
+拉格朗日插值：lagrange interpolation
+竞争机制：competitive mechanism
+空战：air combat
+世界观：world view
+熵理论：entropy theory
+哲学基础：philosophical foundation
+能力建设：capacity building
+设计与开发：Design and development
+核能：nuclear energy
+毁伤概率：damage probability
+帧结构：frame structure
+膳食结构：dietary pattern
+维修管理：maintenance management
+公理化设计：Axiomatic design
+命中概率：hit probability
+辐射噪声：radiated noise
+LCD控制器：LCD controller
+网络财务：network finance
+腐蚀与防护：Corrosion and protection
+责任制：responsibility system
+间接测量：indirect measurement
+电子装备：electronic equipment
+分层抽样：stratified sampling
+高素质：high quality
+SWOT矩阵：SWOT matrix
+经济寿命：economic life
+饮食文化：diet culture
+设计与应用：design and application
+政治工作：political work
+激光制导：laser guidance
+战术互联网：tactical internet
+寿命周期：life cycle
+热通量：Heat flux
+大气波导：atmospheric duct
+国家战略：national strategy
+传播特性：propagation characteristics
+思维方法：thinking method
+家庭因素：Family factors
+军用飞机：military aircraft
+比例导引：Proportional navigation
+防火分区：fire compartment
+信息交流：Information Exchange
+政治功能：political function
+视觉设计：Visual design
+自杀意念：Suicide ideation
+Shannon熵：Shannon entropy
+有色Petri网：colored Petri net
+面向对象编程：object oriented programming
+检索方法：Retrieval method
+经验教训：experiences and lessons
+数量分析：Quantitative analysis
+基于问题的学习：Problem-Based Learning
+继承与发展：inheritance and development
+海洋产业：marine industry
+时间约束：time constraint
+黄金分割法：golden section method
+河西地区：Hexi region
+社会资源：Social resources
+人文教育：humanism education
+地方院校：local college
+国民收入：national income
+逻辑结构：Logic structure
+无尺度网络：scale-free network
+思想道德建设：Ideological and Moral Construction
+武装直升机：armed helicopter
+朱德：ZHU De
+教学质量评价：teaching quality evaluation
+惯导系统：inertial navigation system
+C3I系统：C3I system
+模糊综合评估：fuzzy comprehensive evaluation
+战术数据链：tactical data link
+加速遗传算法：accelerating genetic algorithm
+装药结构：charge structure
+社会主义文化：socialist culture
+思维品质：thinking quality
+军队院校：military academy
+社会公德：social morality
+作战系统：combat system
+利用效率：utilization efficiency
+网络容量：network capacity
+袁世凯：YUAN Shi-kai
+平台建设：platform construction
+数据映射：data mapping
+红外隐身：infrared stealth
+创新与发展：innovation and development
+军训：Military training
+航路规划：route planning
+GO法：GO methodology
+古典文学：classical literature
+飞行安全：flight safety
+维修策略：maintenance strategy
+理想点：ideal point
+频率规划：Frequency planning
+频谱管理：spectrum management
+存储模型：storage model
+政治动员：political mobilization
+春秋：the Spring and Autumn Period
+安全困境：security dilemma
+软件实现：software realization
+分类管理：classified management
+欧洲联盟：European Union
+目标选择：Target selection
+复杂电磁环境：complex electromagnetic environment
+执行力：executive power
+寿命分布：life distribution
+食品科学：food science
+监督控制：Supervisory Control
+决策矩阵：decision matrix
+工程装备：engineering equipment
+影响图：influence diagram
+开放式教学：open teaching
+防空：air defense
+辐射强度：radiation intensity
+延安时期：Yan an period
+战略柔性：strategic flexibility
+接入技术：access technology
+战略思维：strategic thinking
+军事思想：military thought
+环境适应性：environmental worthiness
+多分辨率建模：multi-resolution modeling
+模糊需求：fuzzy demand
+冲突解决：Conflict resolution
+信息优势：information superiority
+刘基：Liu Ji
+战略价值：strategic value
+生物传热：bioheat transfer
+系统方法：system method
+传统伦理：Traditional Ethics
+C4ISR系统：C4ISR system
+装备维修：equipment maintenance
+语言变量：linguistic variable
+均值-方差模型：mean-variance model
+信息系统安全：Information system security
+博奕论：game theory
+激励模型：incentive model
+模糊认知图：Fuzzy Cognitive Map
+心理测量：psychological measurement
+安全战略：security strategy
+航空相机：Aerial camera
+匈牙利算法：Hungary algorithm
+发现概率：detection probability
+雷达装备：radar equipment
+加权平均法：weighted average method
+模糊子集：Fuzzy subset
+指挥系统：command system
+信息编码：Information coding
+文化氛围：cultural atmosphere
+核心价值观：core value
+自测健康：Self-rated health
+杀伤概率：kill probability
+调度模型：Scheduling model
+战场环境：battlefield environment
+育人功能：educational function
+基础课：basic course
+导弹防御：Missile defense
+优势关系：dominance relation
+装备管理：equipment management
+虚拟训练：virtual training
+蝴蝶效应：butterfly effect
+资源集成：resource integration
+委托代理模型：principal-agent model
+法律服务：legal service
+三维空间：three-dimensional space
+工程仿生学：engineering bionics
+核辐射：nuclear radiation
+有效措施：effective measures
+水面舰艇：surface ship
+模拟训练：simulated training
+党支部：Party branch
+绩效预算：Performance budget
+渗透力：seepage force
+态势感知：situation awareness
+科学共同体：scientific community
+国民教育：national education
+军事战略：military strategy
+聚类分析法：cluster analysis
+优化问题：optimization problem
+实时通信：real time communication
+模糊隶属函数：fuzzy membership function
+国民经济动员：National economy mobilization
+威胁估计：threat assessment
+性能改进：Performance improvement
+SCOR模型：SCOR model
+网络图：network graph
+电子信息系统：electronic information system
+心理辅导：psychological guidance
+现代战争：modern war
+总线技术：bus technology
+机枪：machine gun
+非线性整数规划：Nonlinear integer programming
+商鞅：Shang Yang
+法律保障：legal safeguard
+英语教学改革：English teaching reform
+微分进化算法：differential evolution algorithm
+仿真训练：simulation training
+装备采购：equipment procurement
+航空母舰：aircraft carrier
+启发函数：heuristic function
+组合赋权：combination weighting
+指数法：index method
+理想类型：ideal type
+精神实质：spiritual essence
+口述历史：oral history
+数据库接口：database interface
+基础工作：basic work
+绿色维修：green maintenance
+心理战：psychological warfare
+理想信念：ideal and faith
+属性权重：attribute weight
+政治理论：political theory
+法律概念：legal concept
+概念模型：conception model
+估算方法：estimation method
+信息化管理：informatization management
+最优决策：optimal decision
+中医理论：TCM theory
+垂直发射：Vertical Launching
+装备采办：equipment acquisition
+国家安全战略：National Security Strategy
+政治信仰：political belief
+刘备：Liu Bei
+范畴论：category theory
+管理教育：management education
+教育生态学：Educational Ecology
+应急反应：emergency response
+多准则决策：multi-criteria decision making
+试验设备：test equipment
+飞行器设计：aircraft design
+火控雷达：fire control radar
+作战模拟：combat simulation
+Dempster-Shafer理论：Dempster-Shafer theory
+自我教育：self education
+收入效应：income effect
+蒋介石：Jiang Jie-shi
+群众工作：mass work
+OWA算子：OWA operator
+自由度：Freedom degree
+维护管理：maintenance and management
+行为科学：behavior science
+任务可靠性：mission reliability
+批量生产：batch production
+可靠性分配：reliability distribution
+散射理论：scattering theory
+囚徒困境：prisoner's dilemma
+维修保障系统：maintenance support system
+孙子兵法：the Art of War
+外语教师：Foreign language teacher
+中俄关系：Sino-Russian relations
+运行成本：running cost
+模糊测度：fuzzy measures
+辩证思维：Dialectical thought
+改进模型：improved model
+数学方法：mathematics method
+辐射源：radiation source
+考试方法：examination method
+系统复杂性：system complexity
+可视化系统：visualization system
+实时信息：real-time information
+指控系统：command and control system
+帕累托效率：Pareto efficiency
+灰数：grey number
+不确定环境：uncertain environment
+分组调度算法：packet scheduling algorithm
+军用软件：military software
+移动电站：movable power station
+徐光启：Xu Guangqi
+动态评估：Dynamic Assessment
+精度评定：accuracy evaluation
+军事技术：military technology
+信息化战争：information war
+工资制度：wage system
+协同空战：cooperative air combat
+效用最大化：utility maximization
+库存策略：inventory strategy
+二元语义：two-tuple linguistic
+后备力量：reserve forces
+海权：Sea power
+信息化技术：Information technology
+实验体系：Experiment system
+爆压：detonation pressure
+学生保健服务：Students health services
+拟合函数：fitting function
+技术框架：technical framework
+国防：national defense
+基本规律：basic law
+基本经验：basic experiences
+综合优化：comprehensive optimization
+不确定性推理：uncertain reasoning
+模糊向量：Fuzzy vector
+任职教育：professional education
+《老子》：Lao Zi
+张居正：Zhang Juzheng
+信息作战：Information operation
+制导武器：guided weapon
+鸦片战争：Opium War
+战术决策：tactical decision
+训练体系：training system
+军事运输：Military Transportation
+音乐文化：Musical culture
+改进蚁群算法：improved ant colony algorithm
+立法语言：legislative language
+灰色局势决策：grey situation decision
+有序度：degree of order
+流-固耦合：Fluid-solid coupling
+状态维修：condition based maintenance
+实践意义：practical meaning
+控制变量：control variable
+SF-36量表：SF-36 scale
+体育和训练：physical education and training
+控制制度：control system
+自动机：automatic mechanism
+作战效能评估：operational effectiveness evaluation
+兰彻斯特方程：Lanchester equation
+鸭式布局：canard configuration
+导弹防御系统：missile defense system
+吊放声纳：dipping sonar
+需求模型：demand model
+军用装备：military equipment
+交通建设：traffic construction
+顶层设计：top-level design
+新局面：new situation
+审计制度：audit system
+孙权：SUN Quan
+课程观：curriculum view
+盛宣怀：Sheng Xuanhuai
+美国外交政策：American foreign policy
+生灭过程：birth and death process
+主体地位：subject position
+设备监理：equipment supervision
+案例库：Case base
+旋转射流：swirling jet
+贝叶斯决策：Bayes decision
+超声波流量计：ultrasonic flow meter
+信息标准：information standard
+Monte-Carlo仿真：Monte-Carlo simulation
+寒区：cold area
+市场开拓：market development
+外债：foreign debt
+野战：field battle
+简单随机抽样：simple random sampling
+教育问题：education problem
+思想品德：ideology and morality
+Krein空间：Krein space
+协同作战：cooperative engagement
+威胁判断：threat estimation
+维修性设计：maintainability design
+战场态势：battlefield situation
+使用可用度：operational availability
+信息化系统：information system
+综合集成研讨厅：hall for workshop of metasynthetic engineering
+美国政治：American politics
+最优停止：optimal stopping
+出口管制：export control
+军事法：military law
+思想政治建设：ideological and political construction
+集对分析法：set pair analysis
+有偿使用：paid use
+诊断矩阵：diagnosis matrix
+浅埋：shallow buried
+制度结构：system structure
+新特点：new characteristic
+数理分析：mathematical analysis
+损伤模式：damage mode
+量化模型：quantitative model
+状态预测：state prediction
+晚期血吸虫病：Advanced schistosomiasis
+内环境：Internal environment
+信息化平台：Information platform
+方法创新：method innovation
+联合作战：joint operations
+作战仿真：operation simulation
+防空导弹：Anti-aircraft Missile
+系统评估与可行性分析：systematic evaluation and feasibility analysis
+命中精度：hit accuracy
+学科定位：subject orientation
+灰色关联投影法：grey relation projection method
+精益六西格玛：lean six sigma
+军事革命：military revolution
+新疆生产建设兵团：Xinjiang Production and Construction Corps
+情报分析：information analysis
+游戏开发：Game development
+软件质量管理：software quality management
+军事供应链：military supply chain
+黄兴：Huang Xing
+新装备：new equipment
+系统安全性：system security
+发达地区：developed area
+操作程序：Operation procedure
+人为失误：human error
+辐射特性：radiative properties
+战斗力：combat effectiveness
+防护体系：protection system
+美军：US Army
+排序方法：Priority method
+网络构建：network construction
+应急保障：emergency support
+激光致盲：laser blinding
+惯性测量组合：inertial measurement unit
+金属风暴：metal storm
+管理过程：management process
+柔性战略：flexible strategy
+时代价值：time value
+电信网络：telecommunication network
+关羽：Guan Yu
+审计体制：audit system
+军事教育：military education
+抗弹性能：ballistic performance
+技术应用：technique application
+模糊物元：fuzzy matter element
+均方差：mean square deviation
+文化观念：cultural concept
+动态指标：dynamic index
+防护结构：protective structure
+安全性评估：security evaluation
+惯性器件：inertial device
+衰减因子：attenuation factor
+实时计算：real-time calculation
+学习动力：Learning motivation
+逆反心理：antagonistic psychology
+组网雷达：netted radar
+常规导弹：conventional missile
+目标分配：target allocation
+计算平台：computing platform
+动力学与控制：dynamics and control
+对偶算法：dual algorithm
+土地革命：agrarian revolution
+社会化改革：socialization reform
+管理环境：management environment
+学报编辑：journal editors
+共同理想：Common Ideal
+加强管理：strengthen management
+发展动向：developing trend
+体系框架：system frame
+跌落冲击：drop impact
+行动计划：action plan
+耗散结构理论：theory of dissipative structure
+电脑游戏：computer games
+党委：party committee
+信息安全技术：information security technology
+情绪管理：emotion management
+鉴定试验：qualification test
+线导鱼雷：wire-guided torpedo
+攻击区：Attack area
+效率工资：efficiency wage
+多信号模型：multi-signal model
+训练模拟：Training simulation
+国防工业：National Defense Industry
+监控机制：Monitoring Mechanism
+项目化管理：project management
+战略文化：strategic culture
+美国内战：American Civil War
+总体设计：integrated design
+堆密度：bulk density
+统计建模：statistical modeling
+供气系统：gas supply system
+路线优化：route optimization
+健康素养：Health literacy
+自主神经系统：autonomic nerve system
+关键要素：Key factors
+考评体系：evaluation system
+保障能力：support ability
+空军：air force
+网络课堂：network classroom
+防空系统：air defense system
+体系创新：system innovation
+光电跟踪：optoelectronic tracking
+最小风险：minimum risk
+仿真评估：simulation evaluation
+预警机：early warning aircraft
+战场电磁环境：battlefield electromagnetic environment
+作战指挥：combat command
+常规潜艇：Conventional submarine
+欺骗式干扰：deception jamming
+维修质量：maintenance quality
+搜索效率：search efficiency
+机动决策：maneuvering decision
+美国海军：US Navy
+情报系统：Intelligence System
+健壮设计：robust design
+彭德怀：Peng Dehuai
+充电系统：charging system
+挫折心理：frustration psychology
+组织效能：organizational effectiveness
+民族工作：national work
+拍卖理论：auction theory
+陈毅：Chen Yi
+核战略：nuclear strategy
+新动向：new trends
+质量功能展开：quality function deployment(QFD)
+局部战争：local war
+辅助决策系统：Decision support system
+轮式车辆：wheeled vehicle
+红外对抗：infrared countermeasure
+领导艺术：leading art
+离退休干部：retired cadres
+学习质量：learning quality
+秦汉时期：Qin and Han Dynasties
+科研经费：scientific research funds
+高技术战争：high-tech war
+情报工作：information work
+新军事变革：new military revolution
+决策科学：decision science
+车辆装备：vehicle equipment
+远程维修：remote maintenance
+网络战：network warfare
+轨道机动：orbital maneuver
+评估算法：evaluation algorithm
+供给效率：supply efficiency
+流程模型：process model
+特征向量法：eigenvector method
+Lanchester方程：Lanchester equation
+导弹武器：missile weapon
+组织行为：organization behavior
+反辐射无人机：anti-radiation UAV
+分布式干扰：distributed jamming
+新四军：New Fourth Army
+通信装备：communication equipment
+海防：coast defense
+电视导引头：TV seeker
+供应链结构：supply chain structure
+属性层次模型：attribute hierarchical model
+多维博弈：multidimensional game
+贝叶斯纳什均衡：bayesian nash equilibrium
+军备控制：Arms control
+交易费用理论：transaction cost theory
+动态频谱管理：dynamic spectrum management
+办学模式：school-running mode
+简牍：Bamboo slips
+会计分析：accounting analysis
+和平解放：peaceful liberation
+高拱：Gao Gong
+华盛顿会议：Washington conference
+孙武：Sun Wu
+权重系数：weighted coefficient
+故障预测：fault forecasting
+思想渊源：ideological origin
+运作流程：Operation process
+总体方案：overall scheme
+时效性：time effectiveness
+精度评估：accuracy assessment
+经典理论：Classical theory
+动力学稳定性：kinetic stability
+爆炸场：explosion field
+神经网络专家系统：Neural network expert system
+直接搜索法：direct search method
+教学机制：teaching mechanism
+在校大学生：College students
+军事后勤：military logistics
+多媒体网络：multi-media network
+心理调控：psychological control
+战备完好性：operational readiness
+弹道模型：Trajectory model
+火力分配：firepower assignment
+C2组织：C2 organization
+空中目标：air target
+漕运：water transport
+训练质量：training quality
+射击误差：Firing error
+高炮：antiaircraft gun
+毁伤评估：damage assessment
+无人飞行器：Unmanned Aerial Vehicle
+结构化方法：structured method
+舰炮武器系统：naval gun weapon system
+C~4ISR系统：C~4ISR system
+创新风险：innovation risk
+三阶段：three stages
+军费：military expenditure
+国防建设：national defense construction
+王守仁：Wang Shouren
+军事改革：military reform
+石油价格：petroleum price
+恐怖袭击：terrorism attack
+方法评价：method evaluation
+全面小康社会：well-off society
+采集方法：acquisition method
+教改：teaching innovation
+官兵：officers and soldiers
+电子伤票：electronic medical tag
+经费管理：Funds management
+战斗精神：fighting spirit
+管理效益：management benefit
+指导意义：guiding significance
+路线选择：Route selection
+地地导弹：Ground-to-Ground Missile
+指挥决策：command decision
+指挥自动化：command automation
+RFID：radio frequency identification
+红外制导：IR guidance
+火箭助飞鱼雷：rocket-assisted torpedo
+搜索雷达：search radar
+峰值波长：peak wavelength
+航母编队：aircraft carrier formation
+导航装备：navigation equipment
+软件保障：software support
+水声网络：Underwater acoustic network
+效能模型：Efficiency model
+价值链理论：Value chain theory
+变精度：variable precision
+原子弹：atomic bomb
+信息化水平：informatization level
+军事情报：military intelligence
+三角形模糊数：triangular fuzzy number
+兰切斯特方程：lanchester equation
+谈判模型：negotiation model
+军事通信网：military communication network
+军机：military aircraft
+决策信息系统：decision information system
+信息栅格：information grid
+战略转变：strategic transformation
+春秋时期：Spring and Autumn Period
+财力资源：Financial resources
+培训项目：training project
+格兰杰因果：Granger causality
+军事安全：military security
+精神教育：spiritual education
+军事文化：military culture
+法律基础：legal foundation
+加权最小二乘法：Weighted least square method
+海洋环境：sea environment
+实践创新：Practice and innovation
+全寿命周期：whole life cycle
+管理方式：management method
+水柱：water column
+任意分布：arbitrary distribution
+通用装备：General Equipment
+相似分析：similarity analysis
+维修时间：maintenance time
+反馈回路：feedback loop
+战伤：war wound
+武警：armed police
+效益审计：Performance auditing
+战场损伤评估：battlefield damage assessment
+诊断策略：Diagnosis strategy
+法规体系：legal system
+教育转型：Educational transformation
+外军：foreign army
+国内法：National Law
+防空武器系统：air defense weapon system
+空战态势：air combat situation
+红外烟幕：infrared smoke screen
+系统工程方法论：methodology of system engineering
+匈牙利法：Hungary method
+战术通信：tactical communication
+维修任务：maintenance task
+数据计算：data calculation
+网络复杂性：network complexity
+姿态更新：attitude updating
+军事标图：military plotting
+价值意义：value and significance
+协同作战能力：Cooperative Engagement Capability
+指挥与控制：command and control
+大型桥梁：long-span bridge
+装备研制：equipment development
+管理沟通：managerial communication
+静态爆破：Static blasting
+导弹攻击：missile attack
+主战坦克：main battle tank
+供应链合作：supply chain cooperation
+控制规律：control rule
+战争系统：war system
+对象Petri网：object Petri nets
+协同攻击：coordinated attack
+运行环境：running environment
+可靠度函数：reliability function
+精神资源：Spiritual Resources
+计划识别：Plan recognition
+军事理论：military theory
+联合攻击：coalition attack
+教育训练：education and training
+确定性需求：deterministic demand
+靶弹：Target Missile
+原子操作：atomic operation
+网络演化：network evolution
+知识分布：knowledge distribution
+溢出概率：overflow probability
+《纽约时报》：New York Times
+理论综述：theoretical review
+战略利益：strategic interests
+技术创新管理：technology innovation management
+秘书问题：secretary problem
+知识分析：knowledge analysis
+新使命：new mission
+中国国民党：Chinese Kuomintang
+中欧关系：Sino-EU relations
+赫德：Robert Hart
+军事伦理：military ethics
+军事斗争：military struggle
+统计技术：Statistic technique
+贮存性能：storage property
+安全工作：safety work
+滨海地区：coastal region
+影响机理：influencing mechanism
+支持向量分类：support vector classification
+宽禁带半导体：wide band gap semiconductor
+食品冷链：food cold chain
+树立：set up
+工程硕士：masters of engineering
+平台构建：platform construction
+影响机制：Effect mechanism
+航迹：flight path
+限制因素：limiting factor
+光电对抗：optoelectronic countermeasures
+规范化建设：Standardization construction
+项目成本：item cost
+启发式教学：elicitation teaching
+战备：combat readiness
+边境地区：Border area
+财务工作：financial work
+民事案件：civil case
+舰船设计：ship design
+基本理念：Basic ideas
+黄埔军校：Huangpu Military Academy
+膛压：chamber pressure
+车辆调度问题：vehicle routing problem
+面目标：area target
+威胁等级：threat level
+弹药保障：ammunition support
+成本价格：cost price
+军交运输：military transportation
+环境优化：environmental optimization
+海战场：sea battlefield
+导航战：navigation war
+阵地选择：position selection
+贝叶斯博弈：bayesian game
+备件库存：spare parts inventory
+北斗系统：Beidou system
+时间反转镜：time reversal mirror
+试验评估：test evaluation
+空间谱估计：space spectrum estimation
+刘铭传：Liu Mingchuan
+任务剖面：mission profile
+任务协调：task coordination
+器材保障：material support
+教学系统设计：instructional system design
+计算技术：computing technology
+军事运筹学：military operational research
+装备指挥：equipment command
+教育心理学：Education Psychology
+新大纲：new syllabus
+坦克分队：tank element
+国家发展：national development
+诊断树：diagnosis tree
+通信网络系统：communication network system
+人生价值观：outlook on life
+最优定价：optimal pricing
+思维定势：Thinking Set
+滑行力：planing force
+军事人才：military talents
+SEA方法：SEA method
+本质内涵：essential connotation
+精神动力：spiritual power
+使命感：Sense of Mission
+中国外交：China diplomacy
+复杂网络理论：complex network theory
+发展平台：development platform
+引领作用：leading role
+对华政策：China policy
+解放战争：War of Liberation
+心理援助：psychological aid
+日美同盟：Japan-US alliance
+军事制度：military system
+心理认知：psychological cognition
+民族独立：National Independence
+队形保持：formation keeping
+抢修性：combat resilience
+级联失效：cascading failure
+军用食品：military food
+组织设计：weave design
+最优选择：Optimal selection
+汽车运输：automobile transportation
+政策演变：policy evolution
+管理标准：Management Standard
+综合集成：comprehensive integration
+海事安全：maritime safety
+信息交互：information interactive
+流体动力：fluid dynamic
+核潜艇：nuclear-powered submarine
+SCL-90：SCL 90
+军校：Military college
+军事应激：Military stress
+不确定推理：uncertain inference
+学习素质：learning quality
+授课质量：teaching quality
+军事心理学：Military psychology
+研制阶段：development phase
+新概念武器：new concept weapon
+装备保障训练：equipment support training
+射击效率：Shooting efficiency
+对空防御：air defense
+目标价值：target value
+电磁频谱管理：Electromagnetic spectrum management
+储存可靠性：storage reliability
+系统响应时间：system response time
+毁伤效能：damage efficiency
+航天装备：space equipment
+装备发展：equipment development
+信息对抗：information countermeasures
+地域通信网：area communication network
+智能化调度：intelligent dispatching
+能力素质：ability quality
+搜索概率：search probability
+航母：aircraft carrier
+军事代表：military representatives
+能力分析：capability analysis
+最优加权：optimal weight
+攻防对抗：attack-defense confrontation
+空时自适应：space-time adaptive
+增长机制：Growth mechanism
+作战模型：combat model
+登陆作战：landing operation
+航电系统：avionics system
+党的领导：The Party's leadership
+人防：civil air defense
+飞行参数：flight data
+目标航迹：target track
+专业教学：specialized teaching
+多指标综合评价：multi-index comprehensive evaluation
+算法库：Algorithms library
+情报侦察：intelligence reconnaissance
+小世界模型：small-world model
+军备竞赛：arms race
+后勤工作：logistic work
+人才质量：personnel quality
+系统分析与集成：system analysis and integration
+一阶逻辑：first order logic
+教学态度：teaching attitude
+司马光：Si Ma-guang
+工作作风：work style
+军用标准：military standard
+军事卫星：Military satellite
+内在矛盾：inner contradiction
+替代效应：substitution effects
+制度机制：system mechanism
+诸葛亮：Zhu Ge-liang
+学习特点：learning characteristics
+磁测：magnetic survey
+范例表示：Case representation
+不良心理：unhealthy psychology
+最优订货量：optimal order quantity
+联合分析法：conjoint analysis
+阵地进攻：positional attack
+中国特色社会主义理论体系：socialist theoretical system with Chinese characteristics
+学术梯队：academic echelon
+历史嬗变：historical evolution
+晚清政府：late Qing government
+政治立场：political stand
+军事合作：military cooperation
+岑毓英：Cen Yuying
+国内立法：domestic legislation
+最大心率：maximal heart rate
+小布什政府：Bush Administration
+韦拔群：Wei Baqun
+群组AHP：group AHP
+建设水平：construction level
+目标评价：target evaluation
+人才战略：human resource strategy
+物资储备：material reserve
+动态变形：dynamic distortion
+小子样：small samples
+分析与预测：Analysis and forecast
+装备设计：equipment design
+回归预测：regressive prediction
+伪装遮障：Camouflage screen
+组织方法：organizing method
+战略计划：strategic plan
+长期性：protracted nature
+定价模式：pricing mode
+显示装置：display device
+医疗卫生：medical and health work
+战略方针：strategic policy
+课题研究：topic research
+政工干部：Political cadres
+后勤保障：logistics guarantee
+办学定位：orientation of running a school
+卫生工作：Health work
+研究生管理：postgraduate management
+基本素质：essential quality
+网络空间：internet space
+机载火控系统：airborne fire control system
+指挥体制：command system
+防空兵群：air defense group
+军用物资：military material
+通信对抗：communication electronic warfare
+射击效能：firing efficiency
+防空兵：air defense forces
+卫星侦察：satellite reconnaissance
+目标毁伤：target damage
+超视距：beyond visual range
+区域防空：area air defense
+军事信息系统：military information system
+装备试验：equipment test
+维修性验证：maintainability demonstration
+WSEIAC模型：WSEIAC model
+分配模型：assignment model
+超视距空战：beyond visual range air combat
+决策单元：decision unit
+水雷战：mine warfare
+精神激励：moral incentive
+演化均衡：evolutionary equilibrium
+基本内涵：Fundamental connotation
+住房补贴：Housing subsidies
+动能拦截器：kinetic interceptor
+TOPSIS：TOPSIS method
+中国历史：History of China
+系统能力：System capacity
+信息流程：Information process
+态势预测：situation prediction
+采购合同：procurement contract
+显性教育：dominant education
+虚拟仓库：virtual warehouse
+零基预算：zero-based budget
+军事行动：military operation
+黄帝：Yellow Emperor
+偏序关系：partial ordering relation
+再订货点：reorder point
+军事系统：military system
+工控计算机：industrial computer
+国防动员：national defense mobilization
+目标点：Target point
+政治观：political outlook
+多智能体仿真：multi-Agent simulation
+积极防御：Active defense
+信息化时代：information era
+评估框架：evaluation framework
+集中支付：centralized payment
+作战计划：operation plan
+系统信息：system information
+空天飞机：aerospace plane
+隐马尔科夫模型(HMM)：hidden Markov model(HMM)
+电子战战法：electronic warfare tactics
+教育作用：educational function
+情报教育：information education
+数据销毁：data destruction
+维修备件：maintenance spare parts
+联合发展：joint development
+军营文化：military culture
+引力势：gravitational potential
+装备维修保障：equipment maintenance support
+输入估计：input estimation
+时间满意度：Time Satisfaction
+军事同盟：military alliance
+隐性思想政治教育：Implicit Ideological and Political Education
+民主实践：democratic practice
+延安整风：Yan an rectification movement
+整体发展：overall development
+战略任务：strategic task
+许景澄：Xu Jingcheng
+军事现代化：Military Modernization
+游击战争：guerrilla war
+中国古代历史：Chinese ancient history
+非战争军事行动：non-war military operations
+国防采办：defense acquisition
+方法优化：method optimization
+消光系数：extinction coefficients
+物资供应管理：material supply management
+电磁频谱：electromagnetic spectrum
+安全发展：safe development
+声固耦合：acoustic-structure coupling
+安全第一：safety first
+时延神经网络：Time-Delay neural network
+扰动方程：perturbation equation
+方舱：square cabin
+人才素质：personnel quality
+混合整数规划：mixed integer linear programming
+火灾蔓延：fire spread
+解法：solution method
+新举措：new measure
+热红外伪装：thermal infrared camouflage
+油料装备：petroleum equipment
+井冈山：Jinggangshan Mountain
+化学武器：chemical weapon
+基本属性：basic attributes
+专家知识库：expert knowledge base
+GPS定位技术：GPS technology
+培养基稀释法：medium dilution method
+效果评估：Evaluation of effect
+脉率：pulse rate
+激励方法：incentive method
+新疆兵团：Xinjiang production and construction corps
+培训质量：quality of training
+保障模式：support mode
+学科优势：Discipline advantage
+李鸿章：Li Hung-chang
+营房管理：barracks management
+发展原则：development principle
+情报价值：information value
+武器装备体系：weapon equipment system
+保障性评价：supportability assessment
+能力评估：Capability evaluation
+构成体系：Constitution system
+舰艇编队：formation of ship
+任务成功概率：mission availability
+目标分群：target grouping
+结构技术：structure technology
+反潜直升机：antisubmarine helicopter
+舰载直升机：ship-borne helicopter
+实施方略：Implementation Strategy
+拦截概率：interception probability
+代数算法：algebraic algorithm
+联合战斗：joint combat
+任务效能：mission effectiveness
+指挥自动化系统：automatic command system
+旋转导弹：rolling missile
+信号灯：traffic signal
+重型装备：heavy equipment
+作战指挥系统：combat command system
+模糊多目标决策：fuzzy multi-objective decision making
+杀伤区：damage zone
+财务人员：financial personnel
+军械装备：ordnance equipment
+军事需求：military requirements
+定型试验：approval test
+空间平台：space platform
+作战需求分析：operational requirement analysis
+通用弹药：general ammunition
+空间作战：space warfare
+空间预警系统：space early warning system
+对地攻击：ground attack
+光电干扰：electro-optical jamming
+立法理念：legislative concept
+存储量：Computer memory
+防空作战：air-defense combat
+航空反潜：air anti-submarine
+信息化战场：information battlefield
+当代启示：contemporary inspiration
+外国：foreign country
+雷达兵：Radar troops
+电子攻击：Electronic attack
+生命周期费用：life cycle cost
+专家评价：expert evaluation
+MCMC：Markov chain Monte Carlo
+资产组合：asset combination
+集成化供应链管理：integrated supply chain management
+装备训练：equipment training
+威胁度：Threat degree
+油料保障：oil support
+主动力装置：main power plant
+武器-目标分配：weapon-target assignment
+基层组织：grass-roots organization
+一体化物流：integrated logistics
+效能指标：effectiveness index
+核威慑：nuclear deterrence
+保障设备：support equipment
+完好率：intact rate
+军队物资：military material
+战术通信网：tactical communication network
+武装力量：armed force
+战略思想：strategic idea
+平衡计分法：balanced scorecard
+可达矩阵：reachable matrix
+机载武器系统：airborne weapon system
+心理承受能力：psychological endurance
+最优结构：optimal structure
+逻辑门：logical gate
+地空导弹部队：surface to air missile troops
+军事物流中心：military logistics center
+通信组网：communication network
+问题框架：problem frame
+战略理论：strategic theory
+篇章结构：discourse structure
+抗震救灾：earthquake disaster relief
+终极目标：Ultimate aim
+美国政府：US government
+文化品质：cultural quality
+融合中心：fusion center
+TOPSIS算法：TOPSIS algorithm
+需求偏好：demand preference
+思想政治素质：Ideological and political qualities
+长征精神：the Long March spirit
+政策制度：policy and system
+模型分类：Model classification
+物流保障网络：logistics support network
+试验鉴定：test and evaluation
+信息与火力：information and fire
+服务保障：service guarantee
+自适应干扰抵消：adaptive interference cancellation
+军语：military term
+混合型多属性决策：hybrid multiple attribute decision making
+群体心理：mass psychology
+二战：World War Two
+人才资本：human capital
+开发机制：development mechanism
+哲学境界：philosophical realm
+同步发展：synchronous development
+非主流文化：non-mainstream culture
+专用性资产：specific assets
+朝鲜战争：the Korea War
+心育：Psychological education
+湘军：Hunan Army
+戚继光：Qi Jiguang
+政治理论课教学：political theory teaching
+综合素质测评：comprehensive quality assessment
+反思型教学：reflective teaching
+古田会议：Gutian Conference
+审计职能：Audit function
+心理失衡：psychological imbalance
+新军：the New Army
+基本路径：basic way
+理性自觉：rational consciousness
+曾国荃：Zeng Guoquan
+军事经济：military economy
+军法：military law
+中心任务：central task
+一战：World War I
+裴松之：Pei Songzhi
+经济大国：economic power
+时代内涵：time connotation
+损伤等级：damage grade
+服务保证：service guarantee
+建设方法：construction method
+指数平滑法：exponential smooth method
+修复方法：Restoring method
+免疫进化算法：immune evolution algorithm
+政治格局：Political Pattern
+价格管理：price regulation
+基本情况：basic status
+指挥体系：command system
+安全率：Safety ratio
+快速反应系统：quick response system
+理论认识：Theoretical understanding
+安全心理：safety psychology
+技术手册：technical manual
+艰苦奋斗：plain living and hard struggle
+微胶囊相变材料：microencapsulated phase change materials
+捕捉概率：Catching probability
+发展形势：developing situation
+边际分析法：marginal analytical method
+人工系统：artificial system
+技术人才：technical talents
+人才建设：Talent cultivation
+多层介质：multilayered media
+共性问题：common problems
+军校大学生：Military college students
+部门法：law department
+师资管理：Faculty management
+军事变革：military transformation
+教育方式：education mode
+模糊贝叶斯网络：fuzzy Bayesian networks
+系统脱敏疗法：systematic desensitization therapy
+学术探讨：academic discussion
+Pennes方程：Pennes equation
+烟雾吸入：Smoke inhalation
+军事院校：military academy
+平均修复时间：mean time to repair
+学术平台：academic platform
+专题教学：Subject teaching
+超低频：Ultra low frequency
+外国留学生：Foreign student
+军事科学：military science
+博士生：doctoral students
+ISO体系：ISO system
+防空反导：Air defense and anti-missile
+扫雷：mine sweeping
+毁伤效果：damage efficiency
+联盟博弈：coalitional game
+舰炮：navy gun
+订货提前期：lead time
+交通保障：traffic guarantee
+战略导弹：Strategic Missile
+空战能力：air combat capability
+体系对抗：SoS combat
+理财环境：financial management environment
+地效飞行器：WIG craft
+指挥所：command post
+装备价格：equipment price
+多维数据分析：multi-dimensional data analysis
+全寿命：total life
+策略平衡点：strategy equilibrium
+地形遮蔽：terrain masking
+TRIZ进化理论：TRIZ evolution theory
+国防生：national defence students
+信息化装备：information equipment
+理想方案：ideal alternative
+损坏率：Damage rate
+位置随动系统：position follow-up system
+战损：battle damage
+人本：People foremost
+拍卖算法：Auction algorithm
+传输时延：Transmission time delay
+防空武器：antiaircraft weapon
+目标任务：target and task
+反导作战：anti-missile operation
+威胁级别：threat level
+大学生教育：College Students Education
+数据耕耘：data farming
+运输装备：transportation equipment
+战略态势：Strategic Situation
+维修性冲突：maintainability conflict
+舰载导弹：shipborne missile
+光电跟踪仪：opto-electronic tracker
+总体性能：overall performance
+轨道拦截：orbit interception
+战备完好率：operational readiness
+仅有角测量：bearing-only measurement
+贝叶斯均衡：Bayes equilibrium
+库存结构：inventory structure
+受教育者：the educated
+保障性工程：supportability engineering
+物流体系：logistic system
+零备件：spare parts
+武器装备系统：weapon equipment system
+军事技术创新：military technological innovation
+备件保障度：spare availability
+空间力量：space power
+数字化部队：digital army
+物资保障：material support
+炸药探测：explosive detection
+炮兵火力：artillery firepower
+定价方式：Pricing Mode
+存储方法：storage method
+技术伦理：Technological ethics
+质量结构：quality structure
+作战任务：operation task
+物流外包风险：logistics outsourcing risk
+先进战斗机：advanced fighter
+车辆优化调度：vehicle routing problem
+伪装防护：camouflage protection
+淮军：huai army
+场理论：field theory
+QFD：quality function deployment
+分数阶相关：Fractional correlation
+控制通道：control channel
+战略防御：Strategic defense
+分解结构：breakdown structure
+军事力量：military force
+航空火控系统：aeronautic fire control system
+知识军事：knowledge-based military
+个性特点：individual character
+载荷历程：load history
+不完全信息动态博弈：dynamic game of incomplete information
+军队建设：army construction
+海湾战争：Gulf war
+人才思想：talent thoughts
+信息差：information difference
+突变评价法：catastrophe evaluation method
+网络对抗：network warfare
+文化工作：cultural work
+形势与任务：situation and task
+政治领导：political leadership
+制度绩效：institution performance
+组织转型：organizational transformation
+理论学习：Theory study
+都柏林核心元数据：Dublin core metadata
+一体化建模：integrative modeling
+需求验证：requirements verification
+任务驱动教学：Task-driven teaching
+方案评估：Project evaluation
+信息欺骗：information deception
+服务质量参数：QoS parameter
+体系对抗仿真：System-of-systems combat simulation
+教育过程：Education Process
+系统级诊断：system-level diagnosis
+创新途径：innovation way
+教学保障：teaching guarantee
+科研经费管理：management of scientific research funds
+红军长征：the Long March of the Red Army
+中美高校：Chinese and American universities
+时代要求：time requirement
+思考与实践：reflection and practice
+心理管理：psychological management
+敏捷动员：agile mobilization
+行为管理：Behavioral management
+历史进程：the course of history
+赖少其：Lai Shaoqi
+军民结合：civil-military integration
+项目管理绩效：project management performance
+义务本位：obligation standard
+法治精神：legal spirit
+秦国：the Qin State
+清末新政：the New Deal in the Late Qing Dynasty
+汉魏：Han and Wei Dynasties
+先进军事文化：advanced military culture
+中央红军：the Central Red Army
+内心体验：inner experience
+人事干部：personnel cadres
+中国海军：Chinese navy
+军事实践：military practice
+边防：border defense
+兵学：military science
+核威胁：nuclear threat
+国防意识：national defense consciousness
+宋哲元：Song Zheyuan
+结构性差异：structural difference
+大学生综合素质：comprehensive quality of college students
+主要经验：main experience
+军事价值：military value
+军事辩证法：military dialectics
+陈水扁：Chen Shui-bian
+晋国：Jin Kingdom
+舆论战：public opinion warfare
+行为事件访谈法：behavior event interview
+军队政治工作：political work in the army
+战略对抗演习：strategic seminar gaming
+多目标排序：multicriteria scheduling
+岗位胜任力：post competency
+人民防空：Civil Air Defence
+质量规制：quality regulation
+军事外交：military diplomacy
+储备结构：reserve structure
+科研投资：R&D investment
+远程火力打击战法：long-range fire attack tactics
+古田会议精神：spirit of Gutian Meeting
+水下目标：Underwater targets
+军事装备：military equipments
+建筑管理：building management
+事例推理：case based reasoning
+作业安全：operation safety
+惩罚函数法：penalty function desalting
+抢险救灾：disaster relief
+新特征：new characteristic
+方式选择：Method Selection
+综合效能：comprehensive efficiency
+环境要素：environmental element
+决策因子：decision factor
+标准规范：standard specification
+理想点法：idealized pattern
+定期检查：periodic inspection
+双层区域模型：two-layer zone model
+监督检查：supervise and inspect
+保障系统：ensure system
+贮存系统：storage system
+技术的社会形成：social shaping of technology
+资源规划：resources planning
+亚太地区：Asia Pacific
+舵面：control surface
+一体化模式：integrated model
+评估参数：evaluation parameter
+主攻方向：main direction
+详细规划：Detailed plan
+马尔科夫过程：markovian process
+首因效应：first effect
+人事：personnel affairs
+先验信息：a prior information
+声纳浮标：Sonar buoy
+军官：Military officers
+联勤：joint services
+心理检测：Psychological test
+武警部队：Chinese People's Armed Police Force
+政策含义：policy meaning
+地方大学生：Local university student
+心理防御：psychological defense
+珠心算：Mental abacus calculation
+问责制：responsibility system
+李登辉：Li Denghui
+主体教育：main body education
+训练模拟器：training simulators
+竞争性谈判：competitive negotiation
+反坦克武器：antitank weapon
+汽车驾驶员：car driver
+能力模型：ability model
+虚实：deficiency and excess
+一致性分析：Coherence analysis
+体能素质：physical stamina
+时空观：concept of time and space
+法理依据：legal principle basis
+作战能力：combat capacity
+综合保障：Comprehensive support
+地空导弹：Anti-air missile
+军队财务：military finance
+复杂自适应系统：complex adaptive system(CAS)
+航空武器：airborne weapon
+灰色物元分析法：grey matter element analysis
+装备保障链：equipment support chain
+国防经济：defense economy
+装备合同：equipment contract
+车辆装备保障：vehicle equipment support
+目标运动分析：Target Motion Analysis(TMA)
+战斗机引导：fighter guidance
+情报处理：intelligence processing
+伦理意蕴：ethical implication
+干线：trunk road
+生态要素：ecological element
+P-J模型：P-J model
+战斗损伤评估：battle damage assessment
+改进AHP法：improved AHP
+军用车辆：military vehicles
+目标价值评估：target value evaluation
+制导工具误差：Guidance instrumentation systematic error
+优化原则：optimal principle
+参数敏感度：parameter sensitivity
+工程保障：Engineering Guarantee
+逆向装备物流：reverse equipment logistics
+超高射频武器：hyper firing-rate weapon
+一体化建设：integration construction
+电子进攻：electronic attack
+观测设备：observation apparatus
+基于状态的维修：condition-based maintenance
+分布式作战体系：distributed combat system of systems
+保障任务：support task
+加速寿命实验：accelerated life test
+航线规划：Route Planning
+维修性增长：maintainability growth
+军事装备学：subject of military equipment
+发射噪声：launching noise
+机动作战：mobile battle
+威胁排序：threat sorting
+业务工程：business engineering
+航材：aerial material
+分层分布式：Layered and distributed
+一体化联合作战：integrative joint operations
+作战模式：combat mode
+协作策略：cooperation strategy
+战场目标价值：battlefield target value
+作战体系：operation system
+雷达组网系统：radar network system
+拖曳体：towed vehicle
+军用集装箱：military container
+航材保障：Air materiel support
+精确打击：precision attack
+探测范围：detectable area
+实现方式：implementation mode
+系统效能评估：system effectiveness evaluation
+火力支援：fire support
+专业基础：professional foundation
+射击距离：firing distance
+多属性群决策：multiple attribute group decision-making
+工资改革：salary reform
+战车：Combat Vehicle
+约束管理：Constraints management
+机动模型：maneuver model
+兵力部署：force disposition
+高空弹道：high altitude ballistic
+远程弹箭：long-range shells and rockets
+模糊神经：Fuzzy neural
+网络化作战：network combat
+能力需求：capability requirement
+便携式防空导弹：portable air defense missile
+合同商保障：contractor support
+结构分析方法：structure analysis method
+航天侦察：space reconnaissance
+空运：air transportation
+安置方式：resettlement mode
+红外隐身技术：infrared stealthy technology
+兵力需求：military strength demand
+时延分析：delay analysis
+体系演化：SOS evolution
+指挥效能：command efficiency
+整体涌现性：whole emergence
+AIP潜艇：AIP submarine
+维修保障能力：maintenance support capability
+统筹协调：overall coordination
+光电制导：photoelectric guidance
+历史使命：historical missions
+效能指数：Efficiency index
+战略物资：strategic materials
+综合分析法：Comprehensive analytical method
+三防设计：three-proof design
+作风建设：construction of working style
+驱护舰编队：destroyer and frigate formation
+军事知识：military knowledge
+创新工程：innovation engineering
+历史文化传统：historical and cultural tradition
+院校教育：academy education
+需求论证：requirement demonstration
+深度撞击：Deep Impact
+战争复杂系统：war complex system
+威布尔模型：Weibull model
+参数检验：parametric test
+质量功能部署：quality function deployment
+炮兵阵地：artillery position
+军事采购：Military procurement
+综合对抗：Integrated Countermeasure
+编队对地攻击：group airplanes attacking ground targets
+费用-效能分析：Cost-effectiveness analysis
+美国陆军：U.S. Army
+政治信念：political belief
+火力配系：fire system
+作战通道：battle channels
+基于仿真的采办：simulation-based acquisition
+通信保障：communication guarantee
+海军装备：naval equipment
+班组武器：crew served weapon
+保障方案：support concept
+主导度：dominant degree
+评估质量：evaluation quality
+运作方式：operating mode
+教学流程：teaching process
+无人机(UAV)：Unmanned Aerial Vehicle (UAV)
+现代化教学：modern education
+材料工艺：material technology
+军事物流配送：Military logistics delivery
+拦阻系统：arresting system
+保障网络：Logistics networks
+轮询周期：polling cycle time
+决策能力：decision-making capability
+新民主主义革命时期：new-democratic revolution period
+法规制度：Legal system
+科学预测：scientific forecast
+综合素质评价：Synthetic evaluation of quality education
+企业经营管理：Enterprise management
+军事通信：military communications
+基层干部：grass-roots cadres
+和谐思维：harmony thinking
+思想动态：ideological trends
+质量效益：Quality benefit
+气象保障：Meteorological support
+军队管理：military management
+专家咨询系统：Expert consultation system
+人民战争：people's war
+建模与分析：modeling and analyzing
+校园传媒：campus media
+组织与实施：organisation and implementation
+作战实验室：Battle lab
+分类准则：classification rule
+网络思想政治教育：web-based ideological and political education
+CPN模型：CPN model
+培育途径：cultivation approach
+期待视野：expected vision
+军民一体化：Civil-military integration
+仰角：Angle of elevation
+系统效能分析：System effectiveness analysis
+性能度量：performance measurement
+火力计划：fire plan
+兵力聚合：force aggregation
+出入库调度：loading and unloading scheduling
+教学训练：teaching & training
+精神支柱：spiritual backbone
+野战地域网：field regional communication network
+人才规划：talent planning
+指导地位：guiding status
+IP通信：IP communication
+容量优化：capacity optimization
+直觉模糊数：intuitionistic fuzzy number
+非线性自治系统：Non-linear self-consistent system
+目标导向：objective orientation
+寓军于民：civil-military integration
+分配结构：distribution structure
+不确定决策：Decision Making under Uncertainty
+理论特征：theoretical characteristic
+建模支持系统：modeling support system
+战略布局：Strategic distribution
+现代国家：modern countries
+管理育人：management education
+抗美援朝战争：the War to Resist USA and to Aid Korea
+认知方法：cognitive approach
+刘伯承：Liu Bocheng
+互助保险：mutual insurance
+思想作风：ideological style
+岗位练兵：On-the-job Training
+马克思主义人学：Marxist human theory
+马列主义：Marxism and Leninism
+《中国近现代史纲要》："outline of Chinese modern history"
+动态权衡：dynamic weight
+解放战争时期：the period of liberation war
+参与式教学：participating teaching method
+制度设想：system assumption
+立法主体：legislative subject
+国家秘密：national secret
+特色项目：items with features
+治国方略：ruling strategy
+内在动力：Internal Motivation
+《三国志》：Records of Three Kingdoms
+治安防控体系：public security prevention and control system
+崇高精神：lofty spirit
+会计核算制度：accounting system
+武汉抗战：Anti-Japanese War in Wuhan
+需要层次：demanding levels
+途径方法：ways and methods
+北洋军阀：Beiyang warlords
+现实途径：realistic way
+蒋百里：JIANG Bai-li
+训练管理：Training Management
+人民军队：people's army
+德育为先：moral education first
+后方仓库：rear depot
+兵团精神：BINGTUAN spirit
+唐代诗人：poet of Tang Dynasty
+土地革命战争时期：the Agrarian Revolutionary War
+常备军：standing army
+哈佛商学院：Harvard Business School
+关节点：key points
+军市：military market
+亚洲冷战：Cold War in Asia
+礼治：rule of courtesy
+军事哲学：military philosophy
+立法内容：legislative contents
+创造素质：creative quality
+采购方式：purchasing way
+大学生活：college life
+中国军队：Chinese army
+制度化建设：system construction
+《战争论》：On War
+主题教育：theme education
+学科特色：subject characteristics
+培育研究：cultivation research
+抗美援朝：War to resist U.S. Aggression and Aid Korea
+法理念：law concept
+新方式：new ways
+军事刑法：military criminal law
+军事用语：military terms
+总体战：total war
+军事人力资本：Military Human Capital
+增量改革：incremental reform
+徐建寅：Xu Jianyin
+军事成语：military idiom
+战争与革命：war and revolution
+北约东扩：NATO enlargement
+3P模型：3P model
+国庆：National Day
+交互质量：interaction quality
+军事效益：military benefit
+兵役制度：military service system
+方法与对策：method and countermeasure
+空情：air situation
+实物资产：real assets
+协同反潜：cooperative anti-submarine
+强制外交：Coercive Diplomacy
+军队后勤：military logistics
+法制化建设：Legal System Construction
+战略合作关系：Strategic Cooperation Relationship
+小班化教学：smaller class teaching
+度量体系：measurement system
+战略解析：strategic analysis
+生物战剂：biological agent
+近因效应：recency effect
+平面交叉：grade crossing
+胡志明：Ho Chi Minh
+首属群体：primary group
+马尔可夫决策：Markov decision
+军民融合：Civil-Military Integration
+引导策略：guiding strategy
+炮兵连：artillery company
+新中国60年：the 60th anniversary of the foundation of New China
+目标参数估计：target parameter estimation
+库存弹药：stock ammunition
+弹药事故：ammunition accident
+军人核心价值观：core values of servicemen
+优势评估：comparative superiority evaluation
+产权归属：property ownership
+军事理论课：military theory course
+装备器材：Equipment Material
+知识对接：knowledge relay
+人机对话：human-computer conversation
+气-固两相流：gas-solid flow
+进化模式：evolution pattern
+进化路线：evolution line
+协同度：degree of synergetic
+电容变化：capacitance change
+匹配关系：match relation
+实践要求：practical demand
+灰色关联法：gray correlation analysis
+光电系统：photoelectricity system
+综合集成方法：Comprehensive Integrated Method
+逼近理想解：similarity to ideal solution
+离散偶极子近似方法：discrete dipole approximation
+重要途径：key way
+联合运输：combined transport
+发展重点：development emphasis
+关系方程：relation equation
+质量影响因素：factors affecting the quality
+综合模糊评判：Comprehensive fuzzy evaluation
+相对优属度：relative importance degree
+军事工程：military construction
+重要地位：important role
+数据统计分析：data statistics analysis
+发展关系：developmental relations
+设计参数优化：design parameter optimization
+投资决策分析：investment decision
+边际收益：marginal cost
+讨论式教学：discussing style of teaching
+机关干部：organ cadre
+卫勤：military medicine
+军队干部：Military officers
+设施设备：Facilities and equipments
+基层部队：grass-roots unit
+自救互救：first aid
+特种部队：special force
+网上采购：Online purchase
+行为类型：behavior type
+青年军人：Young armyman
+部队训练：military training
+密闭舱室：airtight cabin
+社会化保障：Social security
+采购程序：procurement procedure
+飞行学员：Pilot student
+学员管理：student management
+比例风险模型：Proportional hazard model
+陆军航空兵：army airman
+训练效果评估：Assessment of training effect
+讲授艺术：teaching art
+专业技术职务：professional title
+睡眠者效应：sleeper effect
+执法力度：Law enforcement dynamics
+中心医院：central hospital
+阴阳观：theory of yin and yang
+饮食卫生：food hygiene
+航空装备：aerial equipment
+精确制导武器：precision-guided weapon
+三角白化权函数：Triangle whiten function
+智能指控系统：intelligent command and control system
+目标排序：target sequencing
+优化决策模型：majorized decision model
+信息化作战：information warfare
+装备动员：equipment mobilization
+陆军武器装备：army material facility
+军事领域：military field
+后勤装备：logistic equipment
+运输勤务训练：transportation service training
+作战样式：combat mode
+废气分析仪：exhaust gas analyzer
+临近空间飞行器：nearspace aerocraft
+高超声速导弹：Hypersonic Missile
+声测：acoustic survey
+应急维修：lash-up maintenance
+指挥流程：command process
+联合火力打击：joint fire attack
+时敏目标：time critical target
+目标武器分配：weapon target assignment
+多目标群体决策：multi objective group decision
+无人侦察机：unmanned scout
+遗传禁忌混合算法：genetic tabu hybrid algorithm
+水体信息：water information
+战争设计工程：war design engineering
+备件满足率：spares fill rate
+装备维修保障系统：equipment maintenance support system
+基地化训练：training base
+干扰方法：jamming method
+三防技术：three-protection technology
+集装：container packaging
+战损等级评定：battlefield damage level assessment
+备件分类：classification of spare parts
+故障树模型：fault tree model
+射击持续时间：firing duration
+毁伤幅员：killing zone
+威力场：combat power field
+保障性分析：logistics support analysis
+模糊多目标优化：fuzzy multi-objective optimization
+观察体系：observe system
+最大保障时间：most support time
+海上目标：target on the sea
+电子维修车：Electronic maintenance vehicle
+六朝时期：The Six Dynasties
+生态营区：ecological camp
+交通目标：traffic target
+弹炮结合：Hybrid of missile and artillery
+军事任职教育：military post education
+灰色模糊评估：Grey fuzzy evaluation
+历史起源：historical origin
+AHP-FUZZY算法：AHP-FUZZY algorithm
+军事转型：military transform
+全寿命周期费用：life-circle cost
+舰船装备：warships equipment
+军交运输保障装备：military transportation equipment
+射击残留物：gunshot residue
+精确保障：precise support
+营房保障：barracks support
+导弹武器装备：Missile weapon and equipment
+使用风险管理：operational risk management
+学生军训：student military training
+军事技能训练：military skill training
+作战运用：operational application
+起爆方式：initiation method
+作战需求：operational requirements
+主观贝叶斯方法：subjective Bayesian approach
+教育主体：education subject
+部队建设：troop construction
+军事运筹：Military operation
+影响图对策：influence diagram game
+防空导弹系统：air defense missile system
+逼近理想解的排序法：TOPSIS method
+路线优选：Transit Route Optimal Choice
+航母战斗群：carrier fighting group
+水面舰艇编队：surface warship formation
+信息科学与系统科学基础学科：basic disciplines of information science and system science
+灰色层次模型：Grey hierarchy model
+舰载武器：shipbased weapon
+指挥引导：command and guide
+体系评价：system assessment
+故障树分析方法：fault tree analysis
+火力运用：firepower application
+反干扰：anti jamming
+寿命监控：service life supervision
+击针：firing pin
+作战文书：military document
+作战系统网络：combat system network
+军事计量：military measure
+空袭兵器：air-raid weapon
+评估算子：Evaluation operators
+军标：military standard
+舰载作战系统：ship combat system
+海洋权益：ocean rights and interests
+国防科研：national defense scientific research
+故障风险：failure risk
+维修器材：maintenance materials
+资金安全：fund safety
+指挥关系：relationship of command
+灰色加权关联度：grey weight relation
+模块式教学：module teaching
+掩护角：cover angle
+军事航天装备：military spaceflight equipment
+实验教学创新：innovation of experimental teaching
+动力学仿真分析：dynamics simulation analysis
+多级影响图：multistage influence diagram
+空间武器：space weapons
+综合防护：synthetic defense
+非参量法模型：Non-Parameter model
+浮标阵：buoys array
+火力单位：fire unit
+文化根基：culture foundation
+空对地攻击：air-to-surface target attacking
+效损比：efficiency-loss ratio
+磁场推算：magnetic field extrapolation
+空防对抗：air defense
+保险险种：insurance type
+军事物流系统：military-logistics system
+研究式教学：researching teaching
+普通高等学校：regular higher educational institutions
+决策准则：decision criteria
+环境适应能力：environmental adaptability
+射击指挥能力：firing command ability
+数字化战场：digitalized battlefield
+国防科技：national defense science and technology
+作战方案：operational proposal
+库存控制与优化：Inventory Control and Optimization
+同异反联系度：identical discrepancy contrary (IDC)
+联合战役：combined campaign
+装备指挥体系：equipment command system
+计算研究：calculation and study
+整体推断：Integral inference
+主瓣宽度：mainlobe width
+自适应能力：self-adaptive ability
+斗争策略：struggle strategy
+全寿命费用：life cycle costs
+人防建设：civil air defence construction
+集成决策：integrated decision
+登陆地域：landing area
+空袭目标：air target
+国防科技工业：defense science and technology industry
+通用数据链：common data link
+军事素质：Military quality
+火力战：fire fight
+半物理仿真平台：semi-physical simulation platform
+红外辐射源：infrared radiant source
+北斗卫星导航定位系统：BEIDOU satellite navigation and positioning system
+测试与评估：Test and Evaluation (T&E)
+军事设施：military facilities
+火控网：fire-control network
+保障费用：support cost
+远距离支援干扰：stand-off jamming
+经济动员：economy mobilization
+动员能力：mobilization capability
+管理课程：management course
+装备质量：equipment quality
+决心方案：decision and plan
+多目标群决策：multiobjective group decision making
+多发串联预装填：multiple rounds pre-load in series
+弹药消耗：ammunition consume
+反导拦截：anti-missile interception
+反导武器：Anti-missile weapon
+人才培养目标：aim of cultivating talents
+武器装备采办：weapon equipment acquisition
+雷锋精神：Leifeng Spirit
+分解协调法：hierarchical method
+网络德育：Network moral
+拉氏变化：Laplace transform
+中国台湾：Taiwan of China
+辅助生成：aided generation
+作战指数：battle index
+优良传统：fine traditions
+军队工程：military engineering
+弹炮结合防空武器系统：anti-aircraft gun missile system
+曲线法：curve method
+导弹性能：missile performance
+中继制导：relay guidance
+消耗标准：consumption standard
+伪装效果：Camouflage effect
+预先研究：advanced research
+鱼雷诱饵：torpedo decoy
+游击战：guerrilla warfare
+军事决策：military decision
+自卫干扰：self screening jamming
+军工科研院所：military research institute
+观察所：observation station
+电点火具：electric ignitor
+模糊预计：fuzzy forecast
+地地战术导弹：surface to surface tactical missile
+后勤保障社会化：the socialization of logistic support
+人格力量：character power
+运动舰船：moving vessel
+使用质量：application quality
+靶船：target ship
+需求变异：requirement variation
+装备保障指挥：equipment support command
+车辆器材：vehicle material
+潜艇作战：submarine combat
+必要措施：necessary measures
+公共产品理论：public product theory
+《全唐诗》：The Entire Tang Poems
+作战决策：operations decision
+函授教学：teaching by correspondence
+探测效能：Detection Efficiency
+能力教育：capability education
+科研合作：scientific research cooperation
+远程分布：remote distributed
+教学工作评价：Teaching evaluation
+技术力量：technical force
+设备信息：device information
+安全保卫：public security
+军事影响：military influence
+基础性工作：Basic Work
+战略位置：strategic position
+计算方法研究：calculation method research
+经费保障：funding guarantees
+制度均衡：institution balance
+资格审查：Qualification evaluation
+互信机制：mutual trust mechanism
+重点问题：key problems
+保障体制：guarantee system
+湘西地区：West Hunan
+次级群体：secondary mapping populations
+阶级阶层：classes and strata
+核心能力理论：core competence theory
+科技兴农：science and technology promoting agriculture
+办学效益：efficiency of running school
+民主革命时期：the Democratic Revolution period
+效能评判：Efficiency evaluation
+机动路径选择：maneuver routing selection
+经费分配：funds distribution
+战略预警：strategic warning
+舰载导弹防空系统：ship-based missile antiaerial system
+通用弹药供应保障：General ammunition supply support
+国防科技信息：defense's & T information
+Chameleon算法：Chameleon algorithms
+国防科技情报：defense scientific and technical information
+质量熵：quality entropy
+社会仿真：Social simulation
+转弯模型：turn model
+日本海军：Japanese Navy
+电子信息装备：electronic information equipment
+图书资料室：reference room
+金属封装：metal package
+语体特征：linguistic features
+侦察兵力：reconnaissance force
+主动元建模：motivated metamodeling
+惩罚机制：punish mechanism
+潜艇武器系统：Submarine weapon system
+激励管理：stimulation management
+攻击决策：attacked decision-making
+不确定性熵：Uncertain entropy
+科技奖励：science and technology reward
+智能武器：intelligent weapon
+威胁度评估：threat evaluation
+体系结构描述：Architecture description
+离散动态贝叶斯网络：discrete dynamic Bayesian network
+协同关系：Coordination relation
+信息化人才：information talent
+单亲遗传：partheno genetic algorithm
+产权产籍：property right
+协同保障：collaborative guarantee
+质量工作：Quality work
+地基拦截器：Ground-based interceptor
+俄军：Russian army
+装备保障信息化：Equipment support informationization
+军训工作：military training
+复杂装备：complicated equipment
+五步教学法：Five-step teaching method
+战争动员：war mobilization
+最小错误率：minimum error ratio
+网络协作：network collaboration
+冲突证据组合：conflict evidence combination
+医学情报服务：Medical information service
+军事概念：military concept
+空降作战：airborne fighting
+守法：obeying the law
+二维态势：two-dimension situation
+军校学报：military university journal
+评估专家：evaluation expert
+能力要素：ability element
+相似插值：Similarity interpolation
+天线长度：antenna length
+指标量化：index quantifying
+保障模型：assurance model
+毁伤模拟：damage simulation
+目标冲突：target conflicts
+新安全观：new security outlook
+文化修养：Cultural training
+预警探测：early warning detection
+联合作战仿真：joint operations simulation
+效益管理：Benefit management
+文化课：cultural lessons
+要害指数：vital index
+射击指挥效率：air-defense command efficiency
+士官教育：petty officer education
+春秋战国：Spring And Autumn And Warring States
+综合性实验室：comprehensive laboratory
+多维模糊决策：multidimensional fuzzy making decision
+和谐后勤：harmonious logistics
+教育格局：educational structure
+何承天：He Chengtian
+国防支出：defense expenditure
+教育效果：effect of education
+经费预算：fund budget
+综合实验室：integrative laboratory
+作用模型：function model
+监督模型：model of supervision
+最小费用流问题：min-cost flow problem
+军械仓库：ordnance depot
+重大成就：great achievements
+价值考量：value consideration
+培养路径：training path
+基层建设：Grass-roots construction
+国家安全观：national security
+地方物流：social logistics
+实践特色：practice feature
+社会主义核心价值观：Core values of the Socialist
+民营物流企业：private logistics enterprises
+抗日斗争：the Anti-Japanese war
+雇佣军：Mercenary Army
+经济分析方法：Economic analytical method
+改革开放时期：reform and opening period
+情报传递：information transmission
+《商君书》：The Book of Shang Yang
+限塑令：the restriction of plastic bags
+心理素质培养：development of psychological quality
+实践路径：practical route
+文职人员：military civilian staff
+西藏高校：universities in Tibet
+思想特点：thought characteristic
+中国远征军：Chinese expeditionary army
+训练研究：Training Research
+军事近代化：military modernization
+中世纪晚期：late medieval
+职工群众：Workers and Staff
+情报思想：intelligence thoughts
+双重职能：dual functions
+法律战：legal war
+车战：chariot battle
+育人机制：education system
+战争观：war view
+李凤苞：Li Feng-bao
+晚清海军：the late Qing Dynasty navy
+苏元春：Su Yuan-chun
+特种兵：special forces
+以军制党：command the Kuomintang by the armies
+时代发展：The development of the times
+军阀：the warlord
+数学学科：mathematics subject
+基本理论问题：basic theoretical issues
+利弊得失：advantages and disadvantages
+心理建设：psychological building
+卓越贡献：remarkable contribution
+马政：Horse Policy
+军事物流配送中心：military logistics distribution center
+主要成就：major achievement
+全胜：overall victory
+慎战：being cautious in war
+战争法：military law
+军售：arms sales
+服务人民：serve the people
+国防现代化：modernization of national defense
+军事立法：military legislation
+高校国防教育：national defense education in colleges and universities
+采购效率：purchase efficiency
+正确方向：correct orientation
+学习意识：Learning awareness
+政治优势：political superiority
+配送流程：delivery process
+生成模式：generative model
+研讨厅：hall for workshop of meta-synthetic engineering
+心理救助：psychological assistance
+中国人民解放军：The Chinese People's Liberation Army
+中央领导集体：Central Leading Group
+兵家：Military strategies
+孙子兵学：Military science of Sun Tzu
+兵制：military organization
+军事技术合作：military technical cooperation
+社会经济形态：social-economic formation
+名利：fame and wealth
+国防教育法：National Defense Education Act
+和谐幸福：harmonious happiness
+军队律师：military lawyer
+联合国维持和平行动：UN peacekeeping operations
+海防体系：Coast Defense System
+政党现代化：modernization of party
+海军建设：navy construction
+政治技术：Political technology
+军事联盟：Military Alliance
+奉献精神：spirit of contribution
+经济待遇：economic treatment
+丘吉尔：Winston Churchill
+立法机制：Legislative Mechanism
+教育投资风险：educational investment risk
+培养提高：Train and improve
+教学沟通：teaching communication
+奖励制度：awarded system
+尉缭：Wei Liao
+援助机制：assistance mechanism
+第二战场：the Second Battlefield
+竞争制度：competition system
+中国军事史：Chinese military history
+经济振兴：economic rejuvenation
+国际政治关系：international political relations
+家庭教养方式：Parenting pattern
+社会化教育：socialized education
+法律保障机制：legal safeguard mechanism
+公共教育资源：public educational resources
+人民解放军：People's liberation Army
+《尉缭子》：Wei Liao Zi
+优良作风：fine style
+朴素辩证法：naive dialectics
+客观复杂性：Objective Complexity
+李靖：Li Jing
+政治要求：political demand
+合作领域：fields of cooperation
+中国军人：PLA men
+退役军官：retired officers
+战争史：history of wars
+失利原因：failure reason
+实践方式：practice way
+贷款制度：loan system
+弹药配送：ammunition distribution
+军事体育训练：military physical training
+军事群体：military group
+五种能力：five kinds of ability
+干部队伍建设：building of the contingent of cadres
+领导机关：leading body
+国家安全环境：national security environment
+军事新闻：military news
+兵法：the art of war
+军队政治工作学：Science of political work in the Army
+军事斗争准备：military struggle preparation
+军事法制：military legal system
+中国国家安全：national security of China
+情感动力：affective drive
+军队报纸：Army newspaper
+绝对领导：absolute leadership
+队列教学：formation teaching
+陶瓷-金属复合装甲：ceramic-metal composite armor
+探测原理：survey principle
+军事配送：military distribution
+无迹卡尔曼滤波器：Unscented Kalman Filter(UKF)
+电磁信号环境：electromagnetic signal environment
+远程火力：long-range fire
+出动能力：sortie ability
+作战环：operation loop
+导弹作战体系：missile combat system
+兰彻斯特战斗方程：Lanchester combat equation
+浅海混响：reverberation in shallow water
+初始位置误差：Initial position error
+军事技能：military skill
+航空自导深弹：aviation homing depth charge
+装备损伤：weapon damage
+三标度改进方法：Three-marked Extended Process
+效用函数模型：utility function model
+装备体系：equipment architecture
+装备抢修分队：equipment celerity repairing unit
+应急调度：emergency scheduling
+承包商选择：Contractor Selection
+目标意图预测：target intention prediction
+民主素养：democratic accomplishment
+能力理论：capabilities theory
+社会支持量表：Social Support Questionnaire
+生物袭击：biological attack
+武器装备发展：Weapons and Equipments Development
+结算方式：settlement mode
+装备保障计划：equipment support plan
+战略投送：strategic projection
+野战地域通信网：Regional Communication Network
+样本选取：Sample Selection
+参数化CAD模型：Parametric CAD Model
+培养研究：cultivation study
+虚拟网站：Virtual website
+变参数分析：time varying parameter analysis
+核心素质：core qualities
+优抚：the Special Care
+意义分类：meaning classification
+问题透视：question perspective
+时代变迁：Changes of times
+军工复合体：The Military-Industrial Complex
+培育方法：cultivation method
+信息防御：Information Defense
+途径选择：The way to choose
+社会适应状况：social adjustment
+海洋战略：Maritime strategy
+财务公开：finance publicity
+军费效益：Military Expenditure Effectiveness
+后备军官：reserve officer
+政治口号：political slogans
+厌学现象：study-weary situation
+海军战略：Naval Strategy
+训练环境：Training Environment
+留美幼童：Chinese educational mission students
+拍卖合同：auction contract
+军事语言：military language
+国防费：defense expenditure
+西柏坡时期：Xibaipo period
+国防思想：National Defense thought
+毛泽东军事思想：Mao Zedong military thought
+德国因素：German factor
+先期毁伤：Earlier damage
+炮兵阵地防御：artillery positional defense
+混合对策：Hybrid game
+多业务接入平台：multi-service access platform
+原子能：nuclear energy
+近距空中支援：close air support
+潜艇脱险：submarine escape
+磁方位：magnetic bearing
+光学伪装：optical camouflage
+速度增益：speed gain
+方位偏差：azimuth deviation
+惯性控制系统：inertial control system
+外部约束：external constraint
+库存现金：cash on hand
+核污染：nuclear pollution
+空投鱼雷：aerial torpedo
+走出：walk out
+转业：transferred to civilian work
+文档类：document class
+建立信任措施：Confidence-building measures
+第四野战军：Fourth Field Army
+资料准备：data preparation
+边防部队：frontier guards
+兵力分配：distribution of forces
+应急需求：Emergency Demand
+作战效果：Operational Effects
+考核指标体系：evaluation index system
+灰色综合评价法：gray comprehensive evaluation method
+作战部队：combat troops
+红色文化资源：Red culture resource
+中苏：The Sino-Soviet
+优化建模：optimization modeling
+新型团场：New Type of State Farms
+军事关系：Military Relations
+武器装备管理：Weapon equipment management
+订货决策：ordering policy
+灰色关联熵：grey correlation entropy
+卫勤保障能力：medical support capability
+虚拟信息：virtual information
+装备建设：equipment construction
+健康状态评估：health assessment
+信息耦合：Information coupling
+几个问题：Several Problems
+武器装备保障：weaponry support
+装备型号：equipment type
+军事供应链管理：Military supply chain management
+装备综合保障：equipment integrated support
+军用汽车：military automobile
+民生工程：Livelihood projects
+军交运输保障：military transportation guarantee
+维修可达性：maintenance accessibility
+公共艺术课程：Public artistic curriculum
+新型雷达装备：new-type radar equipment
+论证模式：demonstration modes
+仿真支撑环境：support environment of simulation
+复杂信息环境：complex information environment
+弹药需求：ammunition demand
+多级影响图对策：multi-stage influence diagram game
+装备保障能力：equipment support ability
+最小维修策略：minimal maintenance strategy
+兵法经营学：strategic business science
+云重心理论：cloud focus theory
+SMART原则：SMART principle
+特种作战：special operation
+井冈山斗争时期：The period of struggle in Jinggangshan
+指数回归模型：exponential regression model
+技术体系结构：technology architecture
+弹药配套包装：ammunition set package
+信息作战训练：information operation training
+军用被覆线：Field Phone Line Channel
+跨层容量分析：Cross-Layer Capacity
+有效信道容量：Effective Channel capacity
+军事复杂系统：military complex system
+军官学校：service academies
+起飞重量：take-off weight
+互操作性分析：interoperability analysis
+文化育人：culture education
+新中国成立初期：in the early years of New China
+戈壁沙漠地区：Gobi desert
+军用车辆器材：military vehicle instrument
+平方律：square theorem
+最优测试序列：optimal test sequence
+颜色空间变换：color space conversion
+军队综合大学：military university
+维修分队：maintenance unit
+虚拟战争空间：virtual global war space
+联勤体制：joint logistics support system
+企业安全管理：enterprise safety administration
+选择指标体系：choose the index system
+财务信息化建设：financial information system
+饮食装备：catering equipment
+野战管线：Field Petroleum Pipeline
+拖曳线列阵声纳：towed linear sonar
+湘赣边区：the border area of eastern Hunan and western Jiangxi provinces
+EGIS：Enviromental geographic information system (EGIS)
+航空深弹：Aerial Depth Bomb
+微生物限度检查方法：microbial limit test
+军队离退休干部：retired army cadres
+军事飞行人员：military pilots
+基层军官：basic-level officer
+处突：Performing task of emergency
+部队生：Students from the armed forces
+做法与体会：Methods and experience
+海军部队：navy troop
+战场管理：battlefiled management
+初级军官：junior military officer
+卫勤干部：carder of medical services
+心理防护：pschological protection
+卫生士官：medical sergeant
+招飞体检：physical examination for recruiting pilots
+汽车兵：military drivers
+标准经费：standard layout
+人武部：army office
+炮兵部队：Artillery unit
+特点规律：characteristics and principal
+国防军工：defence industry
+火力分配方案：fire distribution plans
+时效熵：time efficacy entropy
+港口基础设施：harbor infrastructure
+火力打击能力：firepower striking capability
+关机方法：shutoff approach
+联合火力毁伤：Joint fire damage
+装备物资供应：equipment material supply
+抗击效率：resistant ratio
+云重心评价法：method of cloud and its gravity centre(MCGC)
+优选策略：selective principle
+公共信息传播：Public Information Dissemination
+自协同：adaptive coordinated
+等离子体柱天线：plasma column antenna
+装甲机械化部队：armored and mechanized army
+防空导弹混编群：ground-to-air missile composite group
+权衡空间：tradeoff space
+炮兵侦察：Artillery Reconnaissance
+战役指挥：campaign command
+指数-Lanchester方程：Exponent-Lancheser equations
+四渡赤水：Crossing the Chishui River Four Times
+坎合连接：bumpy ridge joining
+补充模型：supplementary model
+空天一体作战：air and space integrated operation
+发射惯性系：launching inertial system
+装备信息化：weapon equipment informationalization
+公路军事运输：Millitary Highway Transportation
+渡江战役：Crossing river campaigns
+构建基础：set up the foundation
+定额配置：ration allocation
+力量建设：force construction
+士官任职教育：sergeants post educationt
+网络中心战(NCW)：network centric warfare (NCW)
+平战转换机制：the mechanism of transit from peacetime to wartime
+国防功能：functions of national defense
+武器装备建设：weaponry and military equipment construction
+态势元素：situation element
+防空效能：antiaircraft effectiveness
+角色模拟：role playing
+无人作战系统：unmanned combat system
+原子能法：atomic energy act
+和平利用：application for peaceful use
+监狱安全：the safety of jails
+后勤机动装备：logistic motor-driven equipment
+车辆装备管理：vehicle equipment management
+通用装备保障训练：all-purpose equipment support training
+战斗效能：combat function efficacy
+损伤等级评定：damage grade evaluation
+样本产生：Sample producing
+岸舰导弹：shore-to-ship missile
+作战理论：operation theories
+采购费用：stock cost
+经济利益驱动：economic profit incentive
+任职培训：position training
+机动保障：mobile support capability
+生长军官学员：growing cadre student
+简易制导火箭：simple guided rocket
+登陆舰艇：amphibious warfare ships
+打击目标：Hitting target
+装备抢修：equipment rush repairing
+装备维修管理：management of equipment maintenance
+军地一体化：martial and local integration
+供水装备：water supply equipments
+研制监督：supervise of project development
+外军军官：foreign armies'officer
+空袭主攻方向：main orientation of air attack
+战场目标：field objects
+竞争性采购：competitive procurement
+教研室建设：building of the teaching and research section
+武器装备研制：weapon and equipment project management
+财务控制目标：the goal of financial control
+标准头型：standard headform
+国际军火贸易：international arms trade
+装备人才：equipment personnel
+箭弹：missiles and rockets
+一般系统结构理论：structural theory of general systems
+机动指挥系统：mobile command system
+美军标：U.S.military standard
+作战方式：battle model
+设计定型试验：design finalizing test
+招标程序：public bidding process
+军队工程院校：military engineering college
+多模复合寻的制导：multi-mode composite homing
+多目标分配：mine to target assignment
+机会约束模型：chance constrained model
+合训分流：basic education in whole & specialty education in separation
+水电部队：Hydropower Engineering Troops
+回顾与思考：reviewing and thinking
+军民协同：military-commercial synergy
+装备费：armament expenditure
+务求实效：be pragmatic and efficient
+通信网络模型：communication network model
+军工科研：defense scientific research
+防范能力：prevention ability
+理论素养：theoretical attainment
+弹炮结合系统：anti aircraft gun missile system
+飞机研制：aircraft development
+盔形：helmet form
+超视距攻击：over the horizon attack
+军队院校教育：military academy teaching
+非常规机动：Unconventional maneuver
+民用：civil use
+一致性排序：consensus ranking
+资金保障：funds safeguard
+外资监管：supervision on foreign investment
+西北战区：the Northwest battlefront
+能力素养：ability and accomplishment
+持续高效：sustainable and efficient
+装备承制单位：equipment contractor
+寿命分布类型：lifespan distribution type
+电子信息装备体系：electronic information equipment system
+军需保障：army supplies toensure
+队干部：Team cadre
+雷达备件：radar spare part
+人才培养标准：talent training standard
+语义网规则语言：SWRL(Semantic Web Rule Language)
+军代表：equip-stock delegate
+重大突发公共事件：important public outburst
+军队信息化：Military informatization
+图书情报信息：Literature Information
+地勤维护：ground maintenance
+电子战能力：EW capability
+大规模群体行为：massive crowd behavior
+采购经费：Procurement funding
+点迹融合：spot fusion
+炮兵作战：artillery combat
+打击控制：strike control
+科技动员：Technology Mobilization
+反潜作战：antisubmarine maneuver
+军校教学：military college education
+回顾与启示：review and insight
+MDVRPTW：Multi-Depot Vehicle Routing Problem with Time Windows(MDVRPTW)
+作战指挥流程：operational command and control flow
+推演系统：war-gaming system
+效益观念：benefit conception
+信息化条件：informative condition
+战术计划识别：Tactical Plan Recognition
+知论：theory of knowing
+基于效果作战：Effects Based Operations
+新型军事人才：modern military talented people
+二次训练：second training
+需求分级：the classification of the need
+作战辅助决策：combat decision-aid
+军事司法：military judicature
+协同需求：coordination requirement
+基层文化工作：local cultural work
+最优线路：optimal line
+优秀大学生：excellent college students
+非均匀信息扩散：uneven information diffusion
+多维度解构：multi-dimension construction
+军队物资采购：military material procurement
+军队采购：military purchasing
+化学释放：Chemical release
+一次抽样：single sampling
+调整顺序：adjustment of sequence
+高素质军事人才：military personnel of high quality
+空城计：Empty Castle Stratagem
+需求势能理论：potential energy theory
+武德教育：education of Wushu morality
+铁甲舰：armoured battleships
+军队初级指挥院校：Basic Military College for Command
+中段防御：midcourse defense
+国防安全：national defense security
+C2系统：C 2 systems
+决策效益：Policy making benefit
+战斗队形：combat formation
+国防知识产权：Defence Intellectual Property
+中级指挥：intermediate command
+古田会议决议：the resolution of Gutian Conference
+国防精神：national defence spirit
+教育援助：education assistance
+岗位绩效工资制：performance system of job subsidy
+公民军队：Citizen Army
+中共六大：the 6th National Congress of CPC
+信仰培育：belief breeding
+中共第一代领导集体：the first generation leadership of CPC
+考试方法改革：reform of test methods
+国防观：national defense awareness
+军校教员：military academy teachers
+荆襄：Jing-Xiang areas
+后勤保障能力：logistics support capability
+高技能人才培养：education of high skilled talents
+航材供应：air material supply
+湘南起义：Xiangnan uprising
+奇正：direct and the indirect
+人道主义救援：humanitarian relief
+军事人才培养：cultivation of military talents
+练兵：training soldiers
+国际人道主义援助：International humanitarianism Assistance
+粟裕：SU Yu
+抗日游击战：the guerrilla war against Japan
+指挥院校：command institute
+强军：Making armed forces powerful
+基层锻炼：exercises at the basic levels
+谋略运用：the application of stratagems
+军事文化建设：military culture construction
+公安现役部队：the public security forces
+北洋舰队：the Northern Fleet
+宣传心理战：propaganda psychological warfare
+海上编队：formation of warships
+后勤装备采购：logistics equipment procurement
+复杂系统方法：Complex System Methods
+政治院校：political institutes
+合训学员：integrated training cadets
+安置现状：levied status
+对外表述：foreign expression
+中期管理：the metaphase management
+国防R&D：Defense R&D
+军事词语：military word
+文化熏陶：culture edification
+军校建设：military academy construction
+服务到位：satisfying service
+质量建军：prioritized army
+兵学思想：the art of strategies
+国民党军队：Kuomintang army
+心理工作：psychology work
+统一战争：unified warfare
+军事法院：military courts
+高校军训：military training in colleges & universities
+警卫部队：security forces
+军事地位：military position
+治理出路：treatment path
+美军装备：U.S.military equipment
+军事体能训练：military fitness training
+人-岗匹配：Person-Organization Fit
+节约型后勤：economical logistics
+高级将领：advanced general
+大胆创新：audacious renovation
+军队转业干部：demobilized officers
+以法治军：managing the army according to the law
+边防建设：frontier defense construction
+吉田松阴：Yoshida Shōin
+19世纪中期：the mid-19th century
+党委班子：party committee teams
+战争指导：war conduct
+势论："Shi" theory
+谭政：Tan Zheng
+罗炳辉：Luo Binhui
+核心动力：core driver
+军事犯罪：Military Transgressions
+党和国家领导人：cardinal party leaders
+教育有效性：educational validity
+联合动员：Integrated mobilisation
+系统运行机制：system operation mechanism
+日澳关系：Australian-Japanese relation
+国防后备力量建设：reserve forces building for national defense
+军品价格：price of the military products
+军魂意识：The consciousness of the Party Soul
+军工专业：defense specialties
+军事法庭：military tribunal (court)
+军事立法权：military legislative power
+军队现代化：Army Modernization
+学员队干部：team officers
+青年官兵：young officers
+大学生军训：military training of college students
+南风效应：south wind effect
+军事法律文化：military legal culture
+基层教练员：Grassroots coach
+精确思维：precision thinking
+战时缓刑：wartime probation
+财务集中核算：centralized financial accountancy
+货币化改革：monetization reform
+军事行政诉讼制度：system of military administrative litigation
+退伍士兵：demobilized soldiers
+本科学员：4-years college students
+创新成本：cost of innovation
+军事干部：martial cadre
+全过程跟踪审计：full-track audit
+中共七大：the 7~(th) National Conference of CCP
+电子对抗部队：the electronic warfare camp
+军事刑事诉讼：military criminal procedures
+刘月季：Liu Yueji
+军事司法权：military judicial power
+军事教师：military teachers
+军事教育技术：military education technology
+师资管理模式：pattern of teaching staff management
+保障社会化：ensure socializing
+对台军售：arms sales to Taiwan
+指挥方式：directing methods
+研究生干部：postgraduate leaders
+第二次世界大战史：the History of WWⅡ
+学习品格：quality of learning
+职业军事教育：professional military education
+公安边防部队：public security frontier forces
+孙子思想：Sun Tzu thinking
+优化训练：optimal training
+价值观导向：values guidance
+攻守：Offence and Defense
+训练能力：training competence
+基层干部队伍：the construction of the basic-level group of cadres
+双拥共建：mutual support and joint construction
+维护和平：maintaining peace
+警卫工作：security guard work
+可诉性标准：prosecutable standard
+军队建设思想：Military Building Thoughts
+未来作战：future campaign
+需求平衡：balance of requirement
+情报战：intelligence fight
+西路军：st-route Army
+科学历史观：scientific historical perspective
+黄埔精神：Whampoa Spirit
+物资资源：Goods and materials resources
+科研协作：coordination of scientific research
+卫国战争：The Soviet war against nazi Germany
+身体素质评估：physical quality evaluation
+自主择业：Job-hunting by Self-determination
+干部考核制度：examination system of the officials
+法军：French army
+心理健康教育模式：psychological health education pattern
+特殊津贴：Special Subsidy
+申请权：application right
+国防军事教育：national defensive martial education
+国防和军队建设：national defense and the construction of the armies
+海南岛战役：Hainan island war
+改土归流：tujia clan into the han officials
+军政关系：state-army relationship
+政治任务：a political task
+团以上干部：cadres over regimental commander
+党委理财：party committee's engaging in financial management
+经常性思想工作：frequent ideological work
+治军思想：thoughts on governing troops
+睦邻政策：good neighbourly policy
+军事理论教学：military theory teaching
+培训学员：training student
+俄印关系：Russo-Indian relations
+战例：examples of battles
+军营：military camp
+后发制人：posterior strategy
+军事法文化：the culture of military law
+投资决策方法：investment decision method
+信息网络时代：Times of Information and Networking
+马市：horse market
+以俄为师：adopting the Russian ideas"
+成才环境：studying circumstance
+学员队建设：student unit construction
+国防与军队建设：The construction of the national defense and the army
+评估与监控：evaluation and super vision
+模拟器材：material of simulator
+新教员：new teachers
+社会不稳定因素：social unstable factor
+军人合法权益：military men's legal rights
+优抚制度：the preferential treatment system
+新兵训练：Recruit training
+部队战斗力：combat effectiveness of troops
+部队基层：basic-level troops
+战争神话：war mythology
+周边国家及地区：neighboring countries and regions
+饮食保障：sustenance support
+学术型：academic university
+军民共建：joint efforts of the army and the masses
+军事行政诉讼：Military Administrative Procedure
+奖励工作：incentive work
+新型人才：new type of professionals
+宿营地：caravan park
+军事秩序：military order
+军事人力资源：military human resource
+听党指挥：under the Party's command
+院校建设：Construction of VTC
+国防体育：national defense sport
+淡水战役：Danshui Battle
+重要目标：important goal
+文德：cultivated virtue
+谋划：Being Resourceful
+退役安置：retirement settlement
+军事课：martial lesson
+高学历干部：cadres with higher education (background)
+军费增长：military expendi ture increase
+民族宗教政策：Nationalities and religious poicies
+军事刑罚：military penalty
+前瞻意识：premonitory sense
+转型建设：construction of PE transformation
+合作收益：benefit of cooperation
+国防观念：national defence notion
+教学管理人员：teaching administration staff
+革命党人：the revolutionist
+攻：exclusive study of
+军队法制建设：army legal system construction
+国防建设思想：thought about construction of national defe
+军事审判权：jurisdic authority
+师旅部队：Divisions and Brigades
+新军建设：Construction of the New Army
+制权：restriction of Powers
+国家理念：national notion
+传播谋略：propagation skills
+安国保民：keep the country at peace and protect the people
+军人体能训练：military physical fitness training
+化学战：chemical war
+机关建设：organization construction
+军事警察：Military police
+河北大学：Hebei Universith
+谈判思想：Negotiation Thinking
+育人目标：the aim of training people
+军事战略方针：guiding principles of military strategy
+综合演练：comprehensive drilling
+军事人才学：the science of military talent
+政治工作研究：study of political work
+利益基础：interest foundation
+大融合：Big Fusion
+反炮兵侦察：anti-artillery reconnaissance
+感知与响应后勤：sense and response logistic
+导调：directing & adjusting
+灰色关联度法：the method of gray correlation
+转型改革：transforming reform
+发射阵地：launching base of battle
+精确定点：accuracy position
+攻潜模型：anti-submarine model
+期望毁伤概率：expected damage probabilities
+最小起降带：minimum operation strip
+军校教育：Education of Military Academies
+基层财务：the grass roots financial management
+和谐原则：Harmony Principle
+军事法律关系：military jural relation
+基层官兵：officers and soldiers at basic levels
+军校研究生：Graduate Students in Military College
+军事卫勤：military medical services
+女兵：female soldier
+联合作战能力：joint warfighting capabilities
+复转军人：The demobilized soldier
+多边安全合作机制：Multilateral security cooperation system
+17-18世纪：17th-18th century
+重返：the Southeast Asia
+先秦兵家：the pre-Qin military strategist
+小站练兵：Way Station Training
+俄美：Russia and US
+西部安全：westem security
+标准制度：practicing countermeasure
+护理士官：Nurse sergeant
+调运模型：Delivery Model
+湖北枪炮厂：Hubei Guns Factory
+快速机动：Rapid Maneuver
+航材管理：aircraft material management
+数字单兵：Single soldier in arithmetic figure
+任务控制站：Task Control Station
+重大科技专项：the district key project
+军分区：The area of cent of soldier
+情报观：view on intelligence
+通用输入输出：universal input-output
+数据战略：Data strategy
+信息安全理论：Information Security Theory
+部队后勤：Army rear service
+军标库：Military Tab Warehouse
+水下作战：undewater warfare
+情报体制：Intelligence System
+灾后救援：rescue after disaster
+士官制度：Non-commissioned officer constitution
+普通法院：common court
+闲置资产：idle assets in storage
+现实缘由：real cause
+商君书：Shang Jun Book
+货币资产：Monetary Assets
+美国军事战略：military affairs stratagem of America
+军魂：The soul of the military
+军人保险制度：Army Insurance System
+时代诉求：Times Demand
+援越抗法：Aiding Vietnam resisting France
+美国军方：the American Military
+军校校园文化：campus culture of military academy
+教法创新：teaching way improve
+综合绩效评价：Integrative Performance Evaluation
+生长军官：developed military officer
+东北抗日义勇军：Anti-Japanese Volunteer Armies
+西点军校：West Point
+战时新闻管制：wartime news blackout
+军事素养：The military cultivated manner
+办学转型：running-school transform
+法律体系建设：construction of law system
+云南讲武堂：Yunnan Military Academy
+和谐周边：harmonious peripheral
+军事审判：military criminal trial
+制定依据：the base for the policy making
+军事英语：military English
+基层政工干部：The grass-roots political officers
+职业境界：occupation bourn
+武警院校：armed police college
+心战：Moral Battle
+教员素质：qualities of the P.E teachers
+坚持原则：hold to the principle
+专守防卫："purely defensive defense"
+海防思想：Thought of Coast Defense
+成因特点：reasons and characterizations
+生长干部学员：Growing Cadre Students
+素质管理：diathesis management
+工作压力管理：job stress management
+海军国防生：The navy national defense major students
+非战争行动：Non-war Operation
+非现役文职教员：non-active civilian faculty
+军事新闻发言人：military press spokesman
+网络舆论战：Network Consensus Warfare
+供应标准：provision standard
+《中国军力报告》："The Annual Report on the Military Power of the People's Republic of China"
+中国军事：The Chinese military
+军人社会保障：the Military Social Security
+东北海军：Northeastern navy
+职工分流：staff's division
+新中国成立前后：Before and after PRC's constitution
+国防素质：national defense quality
+中国特色军事变革：Military Reform With Chinese Characteristics
+国防高校：national defense university
+军队干部工作：Military officers work
+战斗精神培育：Fight cultivatin
+问题特征：the characteristics of problem
+科学理财：Manage Money Matter Scientifically
+生长干部：Growing Cadre
+立法规划：legislative layout
+军人违反职责罪：crimes of soldiers violating military duties
+军人保险：armymen's insurance
+预算执行力：budgeting implementation
+军事法制教育：military legal system education
+法的结构：structure of law
+军费结构：Military Expenditure Construction
+管理特色：distinctive administrative feature
+科技强军：vitalizing the army through science and technology
+朝鲜义勇军：Korea Volunteers
+财力动员：military financial mobilization
+军队现代化建设：modernization construction of PLA
+置将法：Zhijiang law
+精确指挥：Accurate Command
+狙击步枪：sniping rifle
+遥控武器站：Remoto Weapons Station
+依法治军：governing the PLA by law
+军需：Military supplies
+科技手段：science and technology means
+思想管理：ideological control
+军用无人机：military UAV
+二阶动态规划：Two rank dynamic plan
+民用客机：Civil Aircraft
+屯垦戍边：reclaiming land and guarding the border areas
+结合度：integrate degree
+建设思想：establishment idea
+民族宗教工作：the work of nationalities and religions
+民防建设：construction of civil defense
+非权力性：charismatic captivation
+整合保护：integration conservation
+半主动寻的：semiactive homing
+地区津贴：area allowance
+目标噪声：target noise
+通信组织：correspondent entity
+突然袭击：sneak attack; surprise attack
+战略后勤：strategic logistics
+纵队：line astern(formation); trail formation; column formation,columa
+法国海军：Republic of France Navy
+正阵：positive matrix
+动员中心：mobilization center
+地下指挥所：underground headquarter
+军法署署长：judge advocate general
+突袭：sweep down
+编配标准：allocation standard
+军民兼容：for dual military and civilian use
+军民团结：the unity between the army and the people;army-people unity
+军需装备：quartermaster equipment exhibition area
+兵种战术学：Branch Tactics
+现金支出：Cash Out
+经济风险管理：managing economic exposure
+复员军人：demobilized serviceman
+第二学位：second Bachelor's degree
+现金收入：CR cash receipts
+国家信息基础建设：National information infrastructure(NII )
+兵役法：Ius militare
+军事民主：military democracy
+党对军队的绝对领导：Party's absolute leadership to the Army
+新式整军运动：new type of ideological education movement in the Liberation Army
+战时政治工作：wartime political work
+政治机关：political organs
+中国古代军事思想：ancient military thought of China
+后勤指挥：logistical command
+联合军事演习：joint military maneuvers.
+巴顿：Barton, Elizabeth
+生活津贴：living allowance
+防空识别区：air defense identification zone [ADIZ]
+消防部门：the fire department
+短训班：Crack(/short-term training)course;institute
+服现役：on active service
+执勤：proceed for duty
+公安部队：public security troops
+偷袭珍珠港：Pearl Harbor Attack
+军法署：JAGD (Judge Advocate General's Department)
+国防经费：outlays for national defense
+义务兵役：oBligatory military service
+军事思想史：history of military thought
+世界军事史：world military history
+英勇善战：Eing martial and skilful in fighting
+警备：to be on one's guard to keep watch
+东北民主联军：Northeast Democratic United Army
+普通刑法：Codigo Penal Ordinario
+对外军事交往：Foreign Military Contacts
+人民武装：the armed forces of the people
+山本五十六：Yamamoto Isoroku (1884～1943)
+战前动员：mobilization before a battle
+济南战役：Jinan Campaign
+开国大典：the ceremony to proclaim the founding of a state
+志趣：aspirations and interests; bent
+单兵识别：Identif ication of Friend or Foe Technology
+军事物流能力：Military Logistics Capability
+条约派：the Treaty Fraction
+舰队派：the Fleet Fraction
+海军裁军会议：Naval Disarmament Conferences
+统帅权独立：the independent supreme command authority
+海军假日：Naval Holiday
+应急采办：Contingency Acquisition
+扩军：arms expansion
+Acyclic-Continuous-Phase-Type分布：Acyclic-Continuous-Phase-Type Distributions
+驾驭能力：capacity of master
+墨家军事学说：Mohist military doctrine
+军交运输联勤：Military traffic and transport logistics
+和谐军营：harmonious army
+军品价格审查：equipment pricing
+小时费用率：hourly rate
+转业安置制度：demobilized army cadre emplacement system
+省军区：The provincial military region
+军队法律服务：army legal services
+行政应急法制：Chief of Emergency Law
+军事诉讼：Military Lawsuit
+战时军事刑事诉讼：Military Criminal Procedure in Wartime
+俘虏工作：POW work
+何去非：He qufei
+论兵：discussing the military
+《何博士备论》：elevating the clivician official and debasing the military official
+崇文抑武：He boshi bei lun
+欧洲军事变革：European Military Revolution
+内容型激励理论：Content-based Motivation Theory
+国防后备力量：Reserve force for national defense
+国防教育资源配置：the Allocation of NDERs
+海权战略：strategy of sea power
+海上自卫队：Maritime Self-Defense Force
+人民武装院校：people's armed forces institute
+内蒙古骑兵：Inner Mongolian cavalryman
+军队专业技术人才：military professionals
+高校国防生：National defense students in the university
+编配方法：allocation methods
+军费开支：Military spending
+军休：the military retired
+《日澳安全保障联合宣言》："Japan-Australia Joint Declaration on Security Cooperation"
+基层部队管理：grass-roots force management
+随机交货：random delivery
+海上联合军事演习：Maritime Combined Military Exercises
+海上合作安全：Maritime Cooperative Security
+军事装备人力资本：Military equipment human capital
+绝对价值计量：Absolute value measurement
+相对价值计量：Relative value measurement
+军事主官：Central military officer
+公用房管理：Public Housing Management
+博弈竞拍：Game Auction
+初级指挥军官：primary commander
+海防部队：coastal defense military
+预备役军官：reserve officers
+军民关系：the relationship between the militaries and citizens
+天津满洲水师营：Naval battalion in Tientsin
+天津水师都统表：History list for general of naval battalion in Tientsin
+军转干部：demobilized army cadres
+晚清官制改革：the reform of official system
+欧洲军事：European military
+火药革命：Gunpowder Revolution
+火药武器：gunpowder weapons
+售台武器：arms sale to Taiwan
+中美政治关系：the political relations between Sino-U.S
+节能营房：Energy Efficiency barracks
+教学设计者：instructional designers
+综合集成研讨环境：discussion information
+剿匪斗争：wars against bandits
+带兵：Personnel Management to Lead Troops
+兵员管理：Management of Soldiers
+"90后"新兵："90 post" of new recruits
+军交运输指挥系统：military transportation command system
+路径优化算法：path planning teconology
+军礼服：Military dress
+武警初级指挥警官：CAPF academy
+武警警种指挥学院：JingZhong Command College of the CAPF
+陆海军联席会议：Joint Board
+部际协调：Inter-ministerial coordination
+澎湖海战：Sea Battles at Penghu
+咸丰朝：Xianfeng Era
+胡燏棻：Hu Yufen
+编练新军：Training the New Army
+中曾根内阁：Nakasone Cabinet
+海国时代：the age of coastal country
+近代海防：modern coastal defense
+同治朝海防思想：Thought of coast defence in Tongzhi dynasty
+管带：Battalion commander
+参战退役人员：Ex-servicemen who had participated in the war
+优抚安置政策：The special care and placement policy
+大长径比：high aspect ratios
+轻型步枪：light weight rifle
+弹性抛壳：elastic ejection
+军售禁令：Arms Ban
+单兵生命参数：life parameters of individual-soldier
+火力优化分配：optimization of fire distribution
+公共预算管理：Public budget management
+显性思想政治教育：the Dominant Ideological and Political Education
+变权理论：variable weight theory
+指挥对象：Command Object
+学历教育合训学员："formal education with integrated training" students
+装备竞争性采购：Equipment Competitive Procurement
+承制商选择：Manufacturer Choice
+作战力量：Combat Power
+军队基层文化工作：Grass-roots cultural work in the military
+ASME方法：ASME method
+人岗匹配度：human-post matching degree
+执勤支队：Detachment on duty
+军队继续教育：Military continuing education
+同盟安全：Security alliance
+边防团：frontier defense regiment
+戍边军队：The border region military
+基本历程：the basic course
+少年军校：Junior military academy
+成本加成率：markon percentage
+军备控制理论：arms control theory
+高低压发射：high-low launch system
+井冈山时期：Jinggangshan conflict
+西方正义战争理论：western just war theory
+转业干部：retired military officer
+兵役行政：Military service Administration
+兵役法规：Military service regulations
+履职能力：the capacity of carry out the functions
+三晋兵学：The Strategics of Three Jin
+军队思想政治教育：Army's ideological and political education
+义务民兵制：the system of compulsory serviceman
+军事声像情报：Military Video Intelligence
+军转安置：Placement of demobilized army officers
+近代海军群体：modern naval groups
+近代海军官兵：officers and soldiers the modern times of navy
+骑邑：Stationed cavalry cities
+党军思想：Idea about Bout "Political Party Leading the Army"
+军镇：Jun Zhen
+东北装甲兵：northeastern armored forces
+战史：battle history
+明万历时期：Ming Yang Wanli period
+智能算法优化：Intelligent Arithmetic Optimization
+历史发展脉络：history development skeleton
+典型教育：typical education
+混元线性规划：mixed elements linear programs
+克里尔委员会：The Committee On Public
+卫勤动员：health service mobilization
+部队班长：military monitor
+同时建构效度：concurrent construct validation
+军校育人主体：subjects of education in military universities
+风帆时代：Age of Sails
+人性需求：human requirement
+费用审核：Expense Approval
+印度海权：India's sea power
+中国海上安全：Chinese ocean security
+战争性质：Nature of wars
+台湾军队：the Taiwan's army
+战争形态：War Morphology
+军用物资配送：Military material distribution
+军费透明：Military Expenses Transparency
+大国责任：Great Nation Responsibility
+军队专业技术干部：military technical personnel
+军事翻译：military translation
+苏联援华：Soviet Union's aid to China
+战争传单：Warfare Leaflet
+战地文化工作：battlefield cultural work
+人民军队形象：The people's army image
+志愿军：Chinese People's Volunteers
+战俘心理转化：psychological transformation of POW
+军事技术引进：introduction of military technology
+潜艇空间运动模型：the motion equations of the submarine
+水动力系数敏感性指数：the sensitivity index of hydrodynamic coefficient
+弹库系统：magazine system
+遥测系统设计：remote measure system design
+凝聚粒子：aggregate particle
+读者隐性流失：Recessive Reader Loss
+典型武器：typical armament
+管理监督机制：management and supervision mechanism
+军队财务信息：Military financial information
+反潜指挥仪：antisubmarine director
+信号转换隔离：signal transduction interruption
+EMC电磁防护：EMC electromagnetic defense
+海洋军事：Ocean military
+军事通信学：military communication science
+海军特种作战：Naval Special Operation
+次声聚焦：Infrasound focusing
+军事活动法：Military activity law
+反导系统：missile defense system
+装备作战单元：equipment combat unit
+评估指导：evaluation guides
+饮食保障社会化：diet socialization
+非现役文职人员：non-active service civilian personnel
+卫生人才：health talented person
+近期再手术：recent reoperation
+一体化试验：integrated test evaluation
+需求可信性：reliability of requirement
+高新技术武器装备：high-technology equipment
+作战阶段：operational phase
+行动样式：action manner
+保障力：capability of support
+虚拟互联网系统：virtual internet system
+沉浸式用户体验：immersive user experience
+低空飞行目标识别：acoustic recognition of flying target
+知识库构建：institutional repositories construction
+随动推力：follower thrust
+存储检索：storage and retrieval
+联合文化：joint culture
+国外弹炮结合系统：foreign missile-gun integrated air-defence system
+内隐集体自尊：Implicit collective self-esteem
+身份重要性：Importance to identity
+团队荣誉：Team hornor
+军民科技：military and civil science and technology
+价值排序：value sort
+加权和折扣：weighted sum by discounting-and-averaging
+军队审计：military auditing
+加权平均算子：weighted average operator
+巧实力：Smart Power
+军人权益：military rights
+军人权益保护法：military rights protection law
+航材筹措：aircraft spare parts procuration
+军事辩证法思想：military Dialectics Thought
+着船：landing on ship
+海洋观：ocean conception
+目标威胁评估：target threat assessment
+预警监视指挥：early warning surveillance command
+军队研究生教育：graduate education in the army
+ADC原理：the theory of ADC
+FINC方法：FINC methodology
+步兵分队：infantry unit
+数字化装甲团：digital armored regiment
+工程兵：engineer troops
+反机动保障：anti-maneuver guarantee
+反潜网络：anti-submarine networks
+舰炮火控设备故障诊断：fault diagnosis fire control equipment of naval gun
+对海射击：fire to sea
+照相侦察：imaging reconnaissance
+处置突发事件：Dealing with contingencies
+车辆保障能力：vehicle guarantee capacity
+外国师船图表：foreign teacher boat form
+院校领导：leaders of academy
+办学能力：capability for running an academy
+国防MBA：military MBA
+军队人力资源：military manpower
+军事管理能力：military management ability
+军事基本技能：basic military skills
+院级档案：faculty archives
+人民军队光荣传统与历史使命：PLA glorious tradition and historical mission
+军校学员核心价值观：core value of military cadets
+经常性思想和管理工作：regular ideological and administration work
+变形遮障：deformation screen
+持续保障：Sustaining support
+装备维修保障资源：Weapon equipment maintenance support resource
+装备保障机构：Equipment support organization
+雷弹装填装置：torpedo storage equipment
+全寿命保障：life-cycle support
+车材保障：vehicle materials support
+完全覆盖选址：complete covering location model
+预制破片战斗部：prefabricated fragment warhead
+射击方案：shoot scheme
+威胁预测：threat prediction
+威胁概率：threat probability
+潜艇活动：submarine action
+固态燃料空气炸药：solid FAE(fuel air explosion)
+迷彩图案：painting pattern
+指标评定：targets assessment
+通用自动检测系统：universal automatic test system
+多小波能量谱：multi-wavelet energy spectrum
+火力协同：firepower cooperation
+抗击能力：resist capability
+作战指挥决策：warfare command decision making
+Lanchester方程理论：lanchester equation theory
+多弹种武器：multi-bullet grenade rifle
+野外宿营：encampment in field
+国防基础科研：the National Defense Basic Scientific Research
+作战指挥实验教学：experimental teaching of operational commander
+指挥人才：commander person with ability
+军队专业实验室开放：military specialized laboratory opening
+官兵素质改造：cultivating officers' qualities
+综合情报体系：comprehensive information service system
+预算理念：conception of budget
+理性预算：rational budget
+结构成本：structural costs
+库存持有：stock holding costs
+军人心理：servicemen psychology
+国防动员法：National defense mobilization law
+洪学智：Hong Xuezhi
+防空混编群：air-defense mixed group
+太空武器化：Space weaponization
+批量采购：blocked stock
+皖西北地区：the north west of Anhui province
+不确定作战决策：operational decision-making under uncertainty
+理想观察者分析：ideal observer analysis
+行动决策：action decision
+项目支出分配比例：Distribution Proportion of Project Expenditure
+武警专业教育：Professional Education in Armed Police
+油料勤务：petrol-oil and lubricant service
+信息化训练：information training
+履行使命：fulfillment of the mission
+军队思想政治建设：PLA's ideological and political construction
+时代课题：topics of the times
+可变报文格式：variable message format(VMF)
+军事特色：Oracle Bone Inscriptions
+马克思主义信仰培育：the cultivation of the faith of the Marxism
+民用运力：civilian transport force
+国防动员预案：schemes for the mobilization of national defense
+民航货机：civilian airfreight plane
+表尺分配：backsight distribution
+无人战斗机系统：unmanned combat aircraft system
+队形优化配置：optimal disposition of warship formation
+分队训练：unit training
+辅助裁决：aided arbitrament
+分配区：assigning area
+目标隶属点表：target subjection table
+100kW纳秒脉冲：100kW nanosecond pulse
+CO2舰载激光：CO2 shipborne laser
+雷达分队：radar company
+民标：civil standards
+信息立方：information cube
+国防科技计划：defense S&T program
+MM测试训练：MM testing
+汽车部(分)队：military automobile units
+人员输送：personnel transportation
+泊松预测模型：Poisson prediction model
+物资投送保障链：materials projection chain
+全程教育管理：the whole process of education & management
+维修力量：service force
+跨国族体问题：problems of transnational ethnic groups
+作战行为：combat behavior
+汽车维修分队保障能力：Vehicle maintain uint's support ability
+梯形FAHP：Trapezia FAHP
+多变量函数优化：optimization of multivariable function
+模糊启发规则：fuzzy heuristic rules
+潜艇定位：submarine localization
+治军模式：mode of the army construction
+穿插迂回行动：penetrating and outflanking action
+激光观测仪：laser instrument of observation
+武警法：the armed police forces law
+武警法学：the science of the armed police forces law
+雷达突防：radar penetration
+军事系统工程：military system engineering
+军事航运：military shipping
+水上中转基地：maritime transit base
+军工院校：military industrial universities
+耦合度评价：evaluation of the degree of coupling
+作战资源：Combat resource
+精确制导弹药：precision guidance ammunition
+滚装托盘：container roll-in/out platform
+通用武器装备维修器材：general weaponry maintenance materials
+精确化保障：accurate support
+帕累托分类法：Pareto Classification method
+可修复型车辆器材：repaired material
+布雷方案：minelaying plan
+战役后勤：operational logistics
+数量编配：amount deployment
+国防领域：Defense Industry
+大学国防教育：national defense education
+遮障伪装系统：Camouflage screen system
+淡泊名利：indifference to fame and wealth
+舰艇调度问题：naval vessel scheduling
+装备保障方案：Equipment Safeguard Plan
+老年军人：army elderly
+采办管理：acquisition management
+应激环境：stress circumstances
+野战病历：field medical history
+新纲目：new criterion
+车辆装备质量：vehicle equipment quality
+数字化步兵：digitalized infantry
+时间费用综合值：time-cost integrated value
+武器装备需求论证：equipment requirement demonstration
+综合微观分析：synthetic microanalytic approach
+生产定型试验：production approval test
+大国防：big national defense
+国防理念：the concept of natonal defense
+正统观：the orthodox idea
+二炮导弹发射分队：the second artillery shoot corps
+操作号手：the warrior of elite operation
+专业性体能：the specific physical fitness
+作战实验：warfare experiment
+军事物流发展观：outlook on the development of military logistics
+手段创新：innovation in the means
+党委书记：secretary of the Party Committee
+应用型研究生：application-oriented postgraduate
+创建工作：building work
+热带和亚热带热区：Tropical and subtropical area
+反鱼雷深弹：anti-torpedo depth charge
+火力毁伤：firepower damage
+空中特殊情况：aero special-case
+操作评估：operation assessment
+要素融合：factor fusion
+装备维修力量：equipment maintenance power
+舰机协同反潜：ship-heli cooperating ASW
+野战指控系统：battle field command and control system
+格式化描述：formatting representations
+组合聚类：combination clustering
+可能位置域：possibility position area
+指挥控制分系统：command and control sub-system
+装备保障能力生成：equipment support ability production
+作战指挥训练手段：training means of fight command
+打击顺序：attaching sequence
+使用需求：application demand
+检查搜潜：anti-submarine inspection searching
+猎扫雷装备：mine-hunting and mine-sweeping armaments
+区域联合防空预警：Early-warning of joint air defense
+通信接入：communication access
+端口I/O技术：port I/O technology
+队列缓冲：queue buffer technology
+协同防空：cooperative anti-air
+备件补给数量：spare parts supplied amount
+短缺数：short amount
+营区物资储备：military materials reserve
+样本散布：sample distribution
+组合平均法：combination average method
+弹种决策：ammunition type decision
+发射时序：firing time sequence
+西藏军人：Tibetan Servicemen
+油料供应站：POL depot
+轮流出价：alternating offers
+同时出价：simultaneous offers
+武装冲突法：Laws of Armed Conflicts
+最大维修策略：maximal maintenance strategy
+势哲学：posture philosophy
+全胜经营学：overall victory business
+中国现代管理：Chinese modern management
+企业规范化管理：enterprise standardized management
+战争力学：military dynamics
+兵形：the army formation
+公益性文化：public welfare culture
+天基信息：space-based information
+伪装假目标：Camouflage target
+应急动员：Lash-up Mobilization
+科学发展机制：scientific development mechanism
+拥政爱民：Supporting the government and cherishing the people
+军政军民团结：Government and army-people unity
+和谐视域：visual threshold of harmony
+情报保密：intelligence secrecy
+军校新生：military college freshmen
+基层士兵：Grassroots soldiers
+应急物资采购：emergency materials purchase
+非监督多属性：unsupervised multi-attribute
+反直升机智能雷：anti-helicopter intelligent mine
+伦理制约：ethical restriction
+理论武装：armed by theory
+晋升考核：promotion assessment
+战斗力标准：the standard of fighting capability
+维和官兵：peacekeeping officers and soldiers
+中国常模：Chinese norm
+野战机动通信：field mechanical communication
+电子盘设计：electronic disk design
+军车调度：corps vehicle scheduling
+基层培养：cultivating in grass roots
+美军援助：rescue work by the US Army
+装甲兵：Armored Force
+防空导弹制导系统：guidance and control system of anti-aircraft missile
+作战决策方案：operational decision scheme
+鱼雷电动力系统：torpedo electro-dynamic system
+备品备件需求量：spare demand
+Bayes融合：Bayes integration
+空间信息资源：geospatial information resources
+运力动员：mobilization of the transportation capability
+系统时代：systematic era
+国防科技安全：defense technology security
+国防科技人才：defense technology talent
+军用车辆维修合同商：army vehicle maintenance contractor
+军交运输专业院校：academies of military transportation
+联合作战指挥：joint operational command
+战备物资储备供应链：combat readiness reserve supply chain
+DBR系统：Drum-Buffer-Rope system
+CRT图：Current Reality Tree
+快速收发：speedy receiving and sending
+拦阻射击方式：Interdiction fire method
+跟踪集火射击方式：Tracking firing method
+未来空域窗射击方式：Future airspace window shot method
+指挥稳定性：Command stability
+供应良好率：Materiel supply operational rate
+四路径模型法：four-parth module
+无限大介质板模拟方法：infinite medium plate method
+调制外场：modulation outfield
+固体颗粒群：solid particles
+斥力势：repulsion potential
+吴王：King of Wu
+政治军官：political military officer
+情商修养：EQ nurturance
+核心军事能力：core military capability
+多样化任务：various tasks
+国防伦理：national defense ethics
+新晋升干部：new promoting officers
+中国先进军事文化：Chinese advanced military culture
+装备经费：equipment funds
+综合集成设计：synthetical integration design
+发展应用研究：development application research
+联合编队作战协同系统(协同系统)：joint fleet combat coordination system(JFCCS)
+协同对象：coordinative element
+两两比较表：binary comparison table
+后勤经费：logistic funding
+俄罗斯军校：russian military schools
+航空保障工程：aviation maintenance engineering
+学历硕士：master in science
+迷彩设计：camouflage design
+初级指挥生长军官：junior naval commanders
+岸防雷达：shore defense artillery radar
+装备指挥模拟训练：equipment command simulation and training
+预备役部队：Reserve duty army
+当代革命军人核心价值观：present age revolutionary soldier core values
+物资采办：The commodity manages
+尾迹探测仪：wake detector
+相似装备：resemble equipment
+舰艇协同：ship cooperation
+检查搜索：inspection search
+K均值聚类分析：K-means clustering analysis
+国际规制：international regulating
+空战优势：air combat superiority
+海军潜艇：Navy submarine
+军事威胁：Military Threats
+前膛装滑膛炮：Muzzle-loading smooth-bore guns
+舷炮线式齐射战术：Shipboard guns linear salvo
+地方入伍大学生：place enlisting university student
+反恐怖斗争：fight on terrorism
+不确定时延神经网络：uncertain time-delay neural network
+启发式元模型：motivated metamodel
+武器需求：demand for weapons
+挂载配置：Pod configuration
+援建项目：helping constructional item
+高速宽带：high-speed broad-band
+四合四统：four match four all
+军事遗产：military heritage
+应急空间：operationally responsive space(ORS)
+航天运输装备体系：spacelift equipment architecture
+全系统全寿命理论：total system and total life theory
+装备退役：equipment discard
+抢修等级：BDAR level
+需求方法：requirement method
+联合能力集成与发展系统：the joint capabilities integration and development system
+国家西北安全：security in the northwest
+成就感低：low sense of achievement
+国防费支出结构：defense expenditure structure
+军兵种：army services
+育人为本：cultivating students foremost
+国防生干部：national defense student cadres
+光纤参数：parameters of optical fiber
+战术无线网：Tactical wireless networks
+双向中和法：bidirectional neutralizing method
+概念结构化描述：structured describing of notions
+智能作战：intelligent combat
+对潜跟踪：anti-submarine trace
+火力系统配置：firepower system deployment
+多平台协同作战：corporative engagement of multiple platforms
+交换合同：swap contract
+分布式目标分配：distributed target assignment
+激光识别：laser identification
+平津战役：Beijing-Tianjin Campaign
+平郊战场：Battlefields of Bejing Suburbs
+军人精神：the soldier spirit
+军校教育管理体制：military college educational management system
+泥模铸炮技术：the model of pouring molten metal into a form with a core to creat a hollow cylinder
+铁模铸炮技术：the technology of Gong Zhenlin Iron mould cannon
+复合金属炮：dual-layer cannon
+砂型铸炮技术：casting cannon in iron boxes or flaks filled with sand
+军队后勤管理：Army logistics management
+生态文明观念：Awareness of conservation
+军校报考生：Applicants for military colleges
+陆军武器装备集成体系：the meta-synthetic of army material facility system of systems(MSOAMFSOS)
+作战能力评估：operational ability evaluation
+有序性判别：order differentiation
+网络效能指标：factors of networks efficiency
+指挥控制关系网：C2 relationship network
+网络中心化：network centric
+炮兵战术：artillery tactics
+混编群：hybrid group
+配置地域：disposition region
+Perron-Frobenius特征值：Perron-Frobenius eigenvalue(PFE)
+防空指挥控制体系：C2 system of air-defense
+网络化效能：netting effectiveness
+潜艇作战方案：submarine combat scheme
+水下声纳阵：underwater sonar array
+火力毁伤评估：Evaluation of damage fire
+目标战斗力：Combat effectiveness of targets
+装备体系结构优化：Optimization of equipment architecture
+多模型混合：a hybrid of methods
+互操作性等级：level of interoperability
+互操作性建模：interoperability modeling
+打击序列：strike sequence
+遥控平台：remote-control flat roof
+用好：make effective use
+作战适用性：operational applicability
+备件需求确定：spare parts demand confirmation
+二叉树多分类器：multi-sorters of binary tree
+军事目标识别建模：military target recognition modeling
+战略势战：potential strategic warfare
+系统对抗：systemic confronting
+B/KNO3点火药：B/KNO3 igniter charge
+耦合联动：coupled linkage
+最佳逃逸策略：optimal escape strategy
+追逃对抗飞行：escape-intercept counter-flight
+AN/WLD-1(V)1系统：AN/WLD-1(V)1 System
+目标再获取：target reacquisition
+搜索线路：searching path
+制导导弹系统：guided missile system
+侦察防护：surveillance and protection
+指挥层次：hierarchy of command
+指挥跨度：span of command
+学员管理机制：cadet's management system
+把握特征：grasping the characteristics
+系列化雷达：serialization radar
+装备课：equipment course
+中军将：chief general
+上卿：official with high rank
+《九变》：Variations in Tactics
+军功爵：military glory
+协同效能：coordinated efficiency
+循环边带相关置换：cyclic side correlation replacement
+战时维修保障：maintenance support in war
+三维人头数据：three dimensional head data
+军队野营物资：military camping materials
+储备计划：reverse project
+装备需求：equipment demand
+外军院校：foreign military academy
+人才培养理念：principle of bring up talented person
+武警部队会计：CAPF Accounting
+制物流权：domination of logistics
+边境安全战略：strategies on frontier safety
+训练考核：train and test
+革命军人核心价值观：revolutionary soldiers' core values
+战争根源：source of war
+海军军事思想：naval military thinking
+争论与析评：controversy and review
+多信息栅格：multi-information grid
+基建营房保障：capital construction and barracks support
+肩空化：partial cavity
+科研评价与监督机制：mechanism of scientific estimation and supervision
+新中国成立以来：since the establishment of the P.R.C
+湘赣边：The Junction of Hunan-Jiangxi
+主力舰吨位比例：tonnage proportionality of capital ship
+创新目标：goal of innovation
+备件配送：spare parts distribution
+初级指挥学员：Preliminary command students
+军交运输装备：military traffic transportation equipment(MTTE)
+保障效能：guarantee effectiveness
+摩托化输送：motorized transport
+重大地震灾害：serious earthquake
+保障研究：support resarch
+理论数学模型：theoretical mathematical model
+工程数学模型：engineering mathematical model
+火力目标：firepower target
+地方高校大学生：college students at local colleges and universities
+装备维修器材：arming maintenance material
+火器技术：firearm technology
+有限发展：limited development
+学习实践活动：study and practice activity
+军警院校：military and police institutions
+军、警校学员：military and police cadets
+装甲兵指挥系统：Armored command system
+后勤保障模式：Logistic support mode
+自主式保障系统：Automotive support system
+信息作战能力：Information operation capability
+空袭目标排序：Air-raid targets sequencing
+装备质量监督：Equipment quality surveillance
+库存调拨：stock transshipment
+储备总量：total storage quantity
+储龄：stock time
+保障链：guarantee chain
+通用战备物资：war reserve materiel
+代储：replaced storage
+位置基准点问题：flaming datum problem
+协同静默攻击：cooperative silence attack
+无线电修正指令：radio revision directive
+无人机建模：UCAV simulation
+面磁荷：surface magnetic charge
+磁隐身：magnetic silencing
+主观体力感觉：rating of perceived exertion
+航母舰载机：aircraft on a carrier
+出航保障：launching preparation
+军垦文化：Junken Cultur
+命中区域圆概率偏差：hit area circular error probability
+蒙特.卡罗积分法：Monte Carlo integral method
+兵力损耗：force attrition
+卫星信息支援：satellite information supporting
+影响度排序：influence ranking
+决策优化模型：decision optimal model
+超近程防护系统：super close-in defence system
+超限装载：overrun loading
+战争虚拟空间：Global war space(GWS)
+使用风险：application risk
+教育管理工作：education management work
+国防科技投资：national defense science and technology investment
+岗位需求：post need
+非传统安全威胁：non-traditional threats to security
+不规则四边形模糊数：irregular quadrangle fuzzy number
+乐观系数准则：optimistic coefficient criterion
+RMS参数：RMS parameter
+训练成绩分析：analysis of training grades
+退休军官：PLA officer
+需求生成：requirements generation
+社会支持度量表：Social Support Rate Score(SSRS)
+老年幸福程度量表：Memorial University of Newfoundland Score of Happiness(MUNSH)
+主动式信息分发：initiative information distribution
+装备定价：weaponry pricing
+拉姆塞定价模型：Ramsey pricing model
+价格结构性规制：structural price regulation
+装备教育：equipment education
+谋划部署：planning and deployment
+基于效果的操作：effects-based operation
+确定性框架：deterministic framework
+概率性框架：probabilistic framework
+经济院校：economy academy
+霍曼变轨：Hohmann rendezvous
+主动调相：Active phase modulation
+加和形式：adding format
+边防情报分析：border-control intelligence analysis
+散兵线作战：skirmish line fight
+专兼结合：combination of full-time and part-time teachers
+对海观察：surface observation
+对潜攻击：anti-submarine attack
+任务驱动式教学法：Task-Drive teaching method
+俄格冲突：Russia-Georgia Conflict
+战斗行为：fight behavior
+保障周期：support cycle
+备件传统保障概率：normal spare support probability
+备件平均保障概率：average spare support probability
+反爆炸：preventing bomb
+战场网络战：battlefield network ware
+网络情报侦察：network intelligence reconnaissance
+网络综合分析：comprehensive network analysis
+标度扩展：mark degree expand
+陆军战役：campaign of the army
+制空作战：air-mastery battle
+制空效能：air-mastery efficiency
+红外成像制导武器：infrared imaging guided weapons
+秦兵马俑：Terra-cotta Warriors
+纵向密集度：longitudinal in- tensity
+对抗空战：antagonistic air combat
+作战效能仿真：operational efficiency simulation
+舰载制导炮弹：naval guided projectile
+战斗保障模型：combat and logistics model
+反恐维稳：anti-terrorist and peace maintaining operation
+IPC分类：Classification of IPC
+军事体育社会化：socialization of military sports
+"类军体"俱乐部：similar military sports club
+多指标指派问题：multi-index assignment problems
+模糊匈牙利算法：fuzzy Hungarian method
+火力单位分配：fire units distribution
+应急事故指挥：command of emergency
+军事装备供应链：Military equipment supply chain
+升空对抗：airborne countermeasures
+车辆装备保障分队：Support unit of vehicle equipment
+炮兵指挥信息系统：Artillery command information system
+装甲装备机动性能：Flexibility effectiveness of armored weapon system
+验证环境因素确定模型：environment confirmation model
+验证环境信息管理系统：environmental information management system
+决策支援：remote decision support
+任务成功性：mission availability
+人造云雾：man-made cloud and mist
+炸弹质心运动方程：bomb's mass center motion equations
+机动警戒雷达：mobile warning radar
+综合化学科环境：comprehensive disciplines environment
+岗位体验：post experience
+系统仿真评估：system evaluation by simulation
+路径探析：practice:path analysis
+防空信息防御作战：air defense information defensive operation
+单兵战术基础动作：basic movements for individual tactics
+动作技能形成规律：the formation principles of action skill
+比较军事教育：comparative military education
+经典动员：classic mobilization
+干扰方案：jamming scheme
+数据传输精度：data transmission precision
+决策满意度：decision-maker's satisfaction
+目标选择模型：Object selective model
+拥挤替换：Crowding replacement
+武器装备需求：materiel requirements
+武器装备需求映像：materiel requirements reflection
+出口控制：output control
+远距离作战：long-range operation
+陆战装备：equipment of land operation
+炮兵战场：artillery battlefield
+垂直登陆：vertical landing
+管控处理装置：manager device
+雷区范围估计：estimation of minefield scope
+指挥效能评估：evaluating command effectiveness
+对空观察：air observation
+防空C3I：aerial defence C3I
+数字夜视仪器：digital night-inspect instrument
+指挥终端计算机：command terminal computer
+单兵数字显示电台：single-arms digital display transmitter-receiver
+单兵定位仪：single-arms orientation instrument
+后勤人员：logistics staff
+弹炮结合武器系统：anti-aircraft gun missile weapon system
+维修器材采购系统：equipment maintenance material acquisition system
+力量结构：force structure
+基层文化：grass-root culture
+蓝色文化：blue culture
+战斗力评估：evaluation of the effectiveness
+情报共享：information communion
+军队基层：military grass roots
+淘汰因素：factors of elimination
+任务时间约束：Task-time Constraints
+高斯伪谱方法：Gauss pseudospectral method (GPM)
+备件需求量：amount of spares
+概率区间模型：probabilistic interval model
+兵团团场：Regimental Farms
+代际退出：Intergenerational Withdrawal
+基层干部考核：the assessment of police grass-root-unit officers
+解放战士：Liberation Soldiers
+军事行政行为：military administrative acts
+扭转应力波：twisting stress wave
+投送模式：the airlift and air-drop mode
+国家交通运输：national traffic and transportation
+贯彻国防要求：carrying out national requirements in national defense
+军事代表体制：the system of military representatives
+国防体制：the system of defense
+反潜平台：anti-submarine platform
+反潜武器：anti-submarine weapons
+反潜战系统：anti-submarine system
+末端软硬：terminal hard and soft weapon
+网电一体战：integrated electricity network warfare
+海上作战特点：battlefield characteristic
+反导预警探测系统：anti-ammile's early warning detection system
+炮兵群(团)：artillery forces group(regiment)
+联合维修策略：joint maintenance policy
+预先更换：preventive replacement
+自动调整提前角导引弹道：automatically adjust lead angle guide trajectory
+碰撞角约束：impact angle constraints
+空中多平台：aerial multi-platform
+军用危险品：military hazardous articles
+综合性能评价：comprehensive function assessment
+条约改正：Treaties Revision
+青年教员：young instructors
+自感压力：Self-felt stress
+轮式车辆装备学：subject of wheeled vehicle equipment
+战役态势：campaign posture
+军交标号：military transportation mark
+能力架构：capability framework
+高阶UKF：high order UKF
+防空作战方案：Air defense operational proposal
+作战方案优化：Operational proposal optimization
+布雷兵力：mine-laying forces
+数据校核、验证和确认：data VV&C
+陆基导弹武器系统：land-based missile weapon system
+抢先发射：lead up launch
+飞机机动性：airplane flexibility
+防空作战部署：air defense combat disposition
+防空队形：formation for air defense
+海军数据链：navy data link
+描述与设计：description and design
+航路角：angle of fairway
+采办信息：procurement information
+选拔培养：selection and cultivation
+军事装备物流人才：military equipment logistics personnel
+军事物流装备：military logistics equipment
+最佳收容面积：best taking in area
+入学训练：entrance training
+印度崛起：rise of India
+油料供应标准：oil supply standard
+孙子学：study on Sun-tzu
+《安边论》：Defending the Frontier
+军事思想教育：education of military thoughts
+岗位任职教育：Post Education
+G1赋权法：G1 Method
+装备保障演练：Equipment Support Maneuver
+备件标准：Spare Parts Standard
+视换件：On-condition Replace Items
+野战装备仓库：Field Equipment Storehouse
+空间辐射特性：space information radiation
+太空防御：space defense
+全系统相容：compatibility of the whole system
+复合防护：multiple defense
+武汉城防：city defense of Wuhan
+战时交通通信体系：the traffic communication system in the war-time
+评估信息：assessment information
+多杀伤器：multiple kill vehicle(MKV)
+拦截策略：intercepting strategy
+海军装备体制：navy equipment system
+装备需求论证：equipment requirement demonstration(ERD)
+跟踪编目：tracking and cataloging
+地面观测站：ground-based observing sites
+轨道预报模型：orbit prediction models
+装备研发制造：equipment development and manufacture
+科学统筹：scientific co-development
+外挂重量：suspension weight
+采购效益：purchase benefit
+中国军人睡眠质量量表：Sleep Quality Scale of Chinese Military Personnel
+双高期："double-high" period
+线式作战：battle lines
+义与力：justice and power
+守与战：defense and attack
+声与实：the true and false
+作用关系：linkage process
+基础体能达标：fundamental standard of physical strength
+实弹投掷场地：places of throwing hand grenades
+贴近实战：close to actual combats
+炮兵营：artillery battaltion
+人防系统财务：the financing of air defense system
+教官制度：Drillmaster System
+作战指挥观：view of operations commanding
+开放体系结构(OA)：open architecture(OA)
+数据分发服务(DDS)：data distribution services(DDS)
+共用作战图(COP)：common operational picture (COP)
+用户定制的作战图(UDOP)：user defined operational picture (UDOP)
+网络政治工作：Internet political work
+排雷：Mine clearance
+360度绩效考核法：method of 360-degree performance evaluation
+军事想定：military setting
+战时动员理论：wartime mobilization theory
+非对称作战：asymmetric warfare
+EINSTein仿真平台：EINSTein simulation platform
+导弹作战任务规划：missile operational mission planning
+约束满足优化模型：constraint satisfaction optimize model
+约束效用：constraint satisfaction utility
+时间传播算法：time promulgate algorithm
+效用传播算法：utility promulgate algorithm
+能力型防空群：competent integrated air-defense group
+信息结构力：power of information structure
+战场控制能力：command and control capability
+要地防空：point-air defense
+兵力编组：organization of troops
+编队群体识别：identification of fleet
+自适应交互式多模型算法：adaptive interacting multiple models algorithm
+最优落水点：most excellent dropping area
+水下作战网络：underwater operation network
+基层级：Grass-root level
+区间数特征向量法：Internal-number eigenvector method(IEM)
+主要防御方向：Main direction of defense
+空时2D分布：space-time two-dimensional distribution
+保障性目标：supportability objective
+执行任务能力：mission-performing capability
+AHP-Bayes方法：AHP-Bayes method
+战损装备维修工作量：battle-damaged equipment maintenance workload
+决策触发：decision-making trigger
+固定时间间隔：fixed time interval
+三角模糊综合评价：triangle fuzzy comprehensive evaluation
+防潜队形：formation for antisubmarine defence
+防御鱼雷：anti-torpedo defence
+分组限制：group restriction
+三维空战：3D air combat
+强迫奇异摄动：forced singular perturbation
+次最优火控：sub-optimal fire control
+人工散布：artificial scatter
+军事训练评估系统：military training evaluation system
+军校人员：military academy personnel
+联合作战指挥人才培养：training of joint operating command personnel
+美军做法：US Army measures
+研究生学员：graduate cadets
+西方文化渗透：infiltration of western culture
+装备课教学：equipment course teaching
+现代武器：modern weapons
+一级密封招标：first-price-sealed bid
+空中战场：aerial battlefield
+电磁威胁：electromagnetic threat
+党代表制：The representative of the party system
+政治部制：the Political Department of the system
+政工制度：Political work system
+装备经费结构：equipment cost structure
+军事互信：mutual military trust
+《竹简孙子》：Military Science of Sun Tzu on Bamboo-slips
+武器组合：weapon mix
+体系需求仿真：system-of-systems requirement simulation
+兵力指数：military strength
+军用土地：Military Land
+野战油库：battle-field oil depot
+防暴水炮：anti-riot water cannon
+兵团文化：Bingtuan culture
+数字头盔：digital helmet
+不同箱型：different container
+区域依托：rely on regionally
+体制编制：the system of the force to draw up
+职能任务：working talent mission
+淮海战役：Huaihai Campaign
+山东解放区：Shandong liberated area
+支前：support the battle front
+皮套：leather sheath
+国际社会软环境：soft environment of the international community
+军事软实力：military soft power
+选址方案：site-choosing project
+机场道面抢修：airfield pavement repairing
+战备储备：war preparedness reserve
+油料消耗：petrol-oil and lubricants consumption
+西藏民主改革：democratic reform in Tibet
+士官学员：petty offi cer cadets
+南海争端：the dispute over the South China Sea
+任职：holding a post
+部队实践：forces practice
+内涵重构：Connotation Reconstruction
+人民战争思想：Demotic battle theory
+《唐太宗李卫公问对》：Questions and Replies between Tang Taizong and Li Weigong
+写作艺术：writing art
+移动平均控制法：Moving horizon control approach
+阵地配置：deployment of positions
+炮兵目标：artillery target
+战争时空观：conception of war space-time
+战争时间：war time
+战争空间：war space
+信息传输链：chain of information transmission
+冲淡式电子干扰：dilution electronic jamming
+效能因素：usefulness factor
+正当权益：the legitimate rights and interests
+仿生迷彩：bionic camouflage pattern
+生物基元图片：biologic element picture
+仿生结构元素：bionic structuring element
+情报预警：early intelligence warning
+精确打击武器系统：precise guidance weapon system
+战时计量保障：metrology support in war
+车辆维修资源：vehicle maintaining resources
+海防炮兵营：Coastal defense artillery battalion
+导弹通道：missile channel
+战斗准备程度：combat preparative extent
+鱼雷攻击圆：available attack circle of torpedo
+可攻区域：available attack region
+反潜区域：antisubmarine region
+岛屿封锁作战：island blockade combat
+炮兵目标价值排序：artillery target value sequencing
+多轮次打击：more assaults
+跑道失效率：runway invalidation probability
+打击能力：strike ability
+军事互信机制：military mutual trust mechanism
+心理咨询治疗车：psychological counseling and treatment centre
+军营饮食：military catering
+配置队形：formation of disposition
+配置间隔：interval of disposition
+射击指挥方式：firing command method
+兵力组织：force organization of forces
+联合军事教育：joint operation education
+联合职业军事教育：joint professional military education
+信息熵值法：information entropy value
+信息化武器系统：Informational weapon system
+批处理遗传算法：Genetic algorithm with bulk evaluation
+时序着色模糊时间Petri网：temporal colored fuzzy time Petri net
+任务实时性：real timeliness of task
+三防：three protection
+军用物资包装：military supplies package
+机关工作作风：work style of organs
+服务官兵：serving the armymen
+牺牲奉献：sacrifice and dedication
+从严治军：strictly managing the military
+政工人才：political work talents
+400米障碍：400 meters hurdles
+军校大学新生：freshmen in military academies
+经费物资：funds and materials
+重要经济目标防护：important economic targets defense
+军事人才战略思想：military talent strategy thought
+军事调整：military adjustment
+作战计划验证：Course of Action(COA) validation
+目标特点：aim features
+仓城：Cang town
+当代革命军人：contemporary revolutionary armyman
+中国特色国防精神：spirit of defence military with Chinese characteristic
+军工国防精神：spirit of defence and military
+任务状态需求：mission state requirement
+IMM模型：IMM model
+野营保障：camping service
+批量订购：Lot sizing order
+航材储备：Aviation equipment reservation
+生长干部任职培训：Cadres' Career Education
+主观复杂性：subjective complexity
+联合研制：united research and development
+天基武器试验：space weapon test
+武器装备需求分析：analysis of weapon equipment requirements
+装备采购制度改革：reform of equipment-purchasing contract system
+图片类：photograph class
+集群防御：gathering the strength of all the people to defend
+BP神经网络法：BP neural network technique
+法律整合机制：law integration mechanism
+消耗性物资：expendable supplies
+互动失真：interactive distortion
+互动教学组织：interactive teaching organizations
+优势色：background superior color
+伪装色：camouflage color
+海洋经济开发：marine economic
+高炮连：gun unit
+情报决策：Intelligence Decision-making
+方位干扰：azimuth disturbance
+上船地域：taking-boat zone
+警戒直升机：guard helicopter
+阵位配置：deployment of position
+软件保障活动：software support activities
+理论基础和方法：Theoretical Bases and Methods
+国防供给：national defense supplies
+美国海军学院：American Naval Academy
+应急性非战争军事行动：Emergency wargame
+防空火力分配：Distribution of fire antiaircraft
+部队-院校-训练机构：Army-College-Training institution
+战场感知能力：battlefield perception capability
+全球方格坐标：global grid coordinate
+专家意见集成：experts' minds integration
+驱护舰：destroyer and frigate
+方面指挥：aspect command
+维修器材需求量：requirement of maintenance equipment
+增益失调因子：gain maladjustment factor
+指挥控制关系网络：Command and Control relationship network
+网络连接数：numbers of network connections
+态势感知时间一致性：sharing situation awareness simultaneous characteristic
+接口BOM：IF BOM
+封装BOM：ECAP BOM
+装备战备完好性：equipment readiness
+挂弹：missile loaded to fighter
+威胁值：threat of air targets
+能力关系：capability relation
+能力空间：capability spaces
+能力子系统：capability subsystem
+威胁区：Threatening area
+备件需求率：spare demand rate
+火力任务分配：fire power assignment
+测地保障系统：survey support system
+组网情报处理系统：netting intelligence process system
+边防情报：border control intelligence
+术语泛化：generalization of terms
+《将苑》：A General Must Know
+《便宜十六策》：Sixteen Excellent Strategies
+军事情报思想：military intelligence thought
+人生结局：end of life
+不确定模拟：uncertain simulation
+对抗决策：opposed decision-making
+战争非线性：warfare nonlinearity
+网络思想道德教育：network moral education
+军用电子产品：military electronic product
+协同系数：cooperation coefficient
+物资储备体系：materials storing mechanism
+垂直保障：perpendicular support
+精确空投：precise airdrop
+人才吸引力：talents attractiveness
+沉底雷：ground mine
+机群分组：air fleet grouping
+公路军事运输线路：highway military transport routes
+偏好优选法：hobby optimization method
+创新内容：innovative content
+炮兵装备：artillery weapons and equipment
+炮兵火力配置：artillery fire distribution
+Ad Hoc按需距离向量：Ad Hoc On-demand Distance Vecto(rAODV)
+目标指向：target directing
+跑道抢修：rapid runway repair
+台湾研究：Taiwan: A Radical Quarterly in Social Studies
+士气理论：morale theory
+富国：rich countries
+战士学员：solider student
+军事指导理论：military direction theory
+核心价值观教育：key values outlook education
+横滚控制：roll control
+军队思想政治工作：military ideological and political work
+应急交通保障：emergency traffic guarantee
+航空军事运输：military air transport
+装卸装备：loading-and-unloading equipment
+光电自卫：electro-optic self-defense
+两栖突击车：amphibious armored car
+预防性维修保障：preventive maintenance support
+修复性维修保障：corrective maintenance support
+扫雷等强线：mine sweeping isodynamic
+扫雷宽度：mine sweeping breadth
+扫雷效率：mine sweeping efficiency
+军事通信抗干扰：military communication anti-jamming
+电子攻击机：electronics attack plane
+信息优化控制：information optimization control
+社会分工理论：theory of social division of labor
+导弹扩散治理机制：missile proliferation governance regime
+明清战争：Ming-Qing war
+UCAV编队：Uninhabited Combat Air Vehicle(UCAV) team
+国防交通抢修装备：rush-repaired equipment of national defense transportation
+联合演习：joint exercise
+装备研发：weapon equipment development
+相关性计算：Pertinence account
+军事运输业务：business of military transportation
+串联聚合：aggregation in plane
+空间聚合：aggregation in space
+多维矢量空间：multi-demotion vector space
+分布式联合决策：distributed joint decision-making
+空降兵登岛作战：airborne troops landed combat
+战场目标打击：battlefield targets strike
+地面雷达信息综合技术：ground radar information integrating technology
+联合指挥控制能力：ability of united command and control
+空军一体化信息系统：air force Integrated Information system
+D-S证据合成：D-S synthesizing
+指挥决策系统：command decision system
+非军事功能：non-military function
+探索性仿真分析框架：Exploratory simulation analysis framework
+国家关键基础设施：National critic infrastructure
+经济学基础：foundations of economics
+防空策略：Aerial defence strategy
+战术无线接入网：tactical radio access network
+BCMP排队网络：BCMP queuing network
+多类边缘分布分析：multi-class marginal distribution analysis
+积累探测概率：cumulative detection probability
+水下目标搜索：underwater target searching
+集群目标：target colony
+砸舰概率：probability of dropping on deck
+发射角度：launching angle
+复合型军事人才：comprehensive military talent
+军事应急物流：military emergency logistics
+多样化军事行动：diversified military operation
+应急物流保障：emergency logistics support
+纳入式发展：built-in development
+立法意义：legislation significance
+空天信息：air and aerospace information
+地面运输装备：the ground transport facilities
+开战正义：Jus ad Bellum
+战时正义：Jus in Bello
+战后正义：Jus post Bellum
+报批工作：approval work
+指控资源动态规划组织：task-oriented agile command and control organization
+任务逻辑关系转换：conversion of logic relationship of tasks

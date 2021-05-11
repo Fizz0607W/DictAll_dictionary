@@ -1,0 +1,5000 @@
+遗传算法：genetic algorithm
+数据挖掘：data mining
+小波变换：Wavelet transform
+有限元：finite element
+嵌入式系统：embedded system
+专家系统：expert system
+数据采集：Data acquisition
+信息系统：information system
+遥感：remote sensing
+重金属：Heavy metal
+数据处理：data processing
+粗糙集：Rough set
+数据融合：data fusion
+主成分分析：principal component analysis
+水质：Water quality
+信息融合：information fusion
+气候变化：climate change
+定量分析：Quantitative analysis
+研究进展：research progress
+地理信息系统：Geographic Information System
+关联规则：association rules
+模型试验：model test
+时间序列：time series
+综合利用：comprehensive utilization
+岩石力学：rock mechanics
+数值仿真：numerical simulation
+图像压缩：image compression
+太阳能：solar energy
+微量元素：trace elements
+线性规划：linear programming
+模糊神经网络：Fuzzy neural network
+水平井：horizontal well
+气相色谱法：Gas chromatography
+磁场：magnetic field
+数学形态学：mathematical morphology
+稳定性分析：stability analysis
+水资源：water resource
+土壤侵蚀：soil erosion
+BP算法：BP algorithm
+复合地基：composite foundation
+系统集成：system integration
+均匀设计：uniform design
+黄土高原：Loess Plateau
+饮用水：drinking water
+风险评估：risk assessment
+模糊聚类：fuzzy clustering
+动力响应：Dynamic response
+机器学习：machine learning
+水环境：water environment
+内蒙古：Inner Mongolia
+计算方法：calculation method
+嵌入式Linux：embedded Linux
+成本管理：Cost Management
+鄂尔多斯盆地：Ordos Basin
+煤矿：coal mine
+土壤肥力：soil fertility
+沉积相：sedimentary facies
+对比研究：comparative study
+生态足迹：ecological footprint
+模糊综合评判：Fuzzy comprehensive evaluation
+信息集成：Information Integration
+吉林省：Jilin province
+高层建筑：high-rise building
+数据模型：data model
+电磁场：electromagnetic field
+开发利用：development and utilization
+公众参与：public participation
+空间分析：spatial analysis
+X射线衍射：X-ray diffraction
+钻井液：drilling fluid
+属性约简：attribute reduction
+空间结构：spatial structure
+金矿床：gold deposit
+黑龙江省：Heilongjiang province
+空间数据库：spatial database
+多孔介质：porous media
+汶川地震：Wenchuan earthquake
+泥石流：debris flow
+卡尔曼滤波：Kalman Filtering
+传递函数：transfer function
+动态分析：dynamic analysis
+金矿：gold deposit
+准噶尔盆地：Junggar Basin
+松辽盆地：Songliao Basin
+甘肃省：Gansu province
+奇异值分解：Singular value decomposition
+四川盆地：Sichuan Basin
+程序设计：program design
+正态分布：normal distribution
+模糊评价：fuzzy evaluation
+电导率：electrical conductivity
+酸雨：acid rain
+组合导航：integrated navigation
+数据管理：data management
+傅里叶变换：Fourier transform
+功率谱：power spectrum
+空间数据：spatial data
+图论：graph theory
+层序地层：sequence stratigraphy
+工程地质：engineering geology
+知识发现：knowledge discovery
+地震预报：Earthquake prediction
+电磁兼容：electromagnetic compatibility
+相变：phase transformation
+层次分析法：analytical hierarchy process
+湖北省：Hubei Province
+数学模型：Mathematical models
+地震反应：seismic response
+碳酸盐岩：carbonate rock
+边界元法：Boundary Element Method
+温度测量：temperature measurement
+敏感性分析：sensitivity analysis
+环境影响评价：environmental impact assessment
+基坑：foundation pit
+独立分量分析：independent component analysis
+南海：South China Sea
+图象处理：image processing
+边界条件：boundary condition
+灰色理论：Grey Theory
+流体包裹体：fluid inclusion
+疲劳强度：fatigue strength
+膨胀土：expansive soil
+参数识别：parameter identification
+应力分布：Stress Distribution
+监测系统：monitoring system
+复杂网络：complex network
+有机质：organic matter
+森林资源：forest resources
+分形理论：fractal theory
+带式输送机：belt conveyor
+相平衡：phase equilibrium
+扩散系数：diffusion coefficient
+辽宁省：Liaoning province
+高分辨率：high resolution
+自适应滤波：adaptive filtering
+关系数据库：relational database
+非线性控制：nonlinear control
+边界层：Boundary layer
+荧光光谱：fluorescence spectrum
+同步辐射：synchrotron radiation
+地震响应：seismic response
+数字图像：digital image
+岩土工程：geotechnical engineering
+相对湿度：relative humidity
+边坡稳定：slope stability
+层序地层学：sequence stratigraphy
+教育改革：educational reform
+定性分析：qualitative analysis
+黄河：Yellow River
+快速算法：Fast algorithm
+高速铁路：high-speed railway
+自然语言处理：natural language processing
+红壤：Red soil
+波动方程：Wave equation
+马尔可夫链：Markov chain
+溶解氧：dissolved oxygen
+三峡工程：Three Gorges Project
+三维建模：3D modeling
+柴达木盆地：Qaidam Basin
+空间格局：spatial pattern
+蒙特卡罗模拟：Monte Carlo Simulation
+动态监测：dynamic monitoring
+量子化学：quantum chemistry
+最短路径：shortest path
+稀土元素：rare earth element
+青藏高原：Qinghai-Tibet Plateau
+数字城市：digital city
+地质灾害：geological hazard
+三维可视化：3D visualization
+水土流失：soil erosion
+沉积微相：sedimentary microfacies
+景观生态学：landscape ecology
+脉冲压缩：pulse compression
+溶剂萃取：solvent extraction
+时间序列分析：time series analysis
+并行计算：parallel computation
+隧道工程：tunnel engineering
+数据共享：data sharing
+遥感图像：Remote sensing image
+地表水：surface water
+驱动力：Driving force
+概率分布：probability distribution
+地震勘探：seismic exploration
+数字滤波：digital filter
+力学模型：mechanical model
+电子地图：Electronic map
+目标函数：objective function
+济阳坳陷：Jiyang Depression
+边坡工程：slope engineering
+轨道交通：rail transit
+孔隙结构：pore structure
+太湖：Taihu Lake
+知识结构：knowledge structure
+小流域：small watershed
+状态方程：equation of state
+信息提取：information extraction
+地下空间：underground space
+红外辐射：infrared radiation
+有限差分：finite difference
+海南岛：Hainan Island
+振动台试验：shaking table test
+数控系统：CNC System
+亚甲基蓝：methylene blue
+虚拟环境：virtual environment
+精度分析：accuracy analysis
+激波：shock wave
+地面沉降：land subsidence
+国际合作：international cooperation
+水位：water level
+坐标变换：coordinate transformation
+灰色系统理论：grey system theory
+系统模型：system model
+青海省：Qinghai Province
+传热系数：Heat Transfer Coefficient
+城市道路：urban road
+组件技术：component technology
+应急管理：emergency management
+水路运输：waterway transportation
+隐马尔可夫模型：Hidden Markov Model
+非饱和土：unsaturated soil
+管理机制：management mechanism
+高锰酸钾：potassium permanganate
+植被指数：vegetation index
+物理模拟：physical simulation
+欧盟：European Union
+线性模型：linear model
+积分方程：integral equation
+电网：Power grid
+频率响应：Frequency response
+温度梯度：temperature gradient
+胶州湾：Jiaozhou Bay
+纹理分析：texture analysis
+孔隙水压力：Pore water pressure
+拉曼光谱：Raman spectrum
+催化光度法：catalytic spectrophotometry
+生态效应：ecological effect
+形成机制：formation mechanism
+模拟模型：simulation model
+全球定位系统：global positioning system
+寿命预测：life prediction
+土壤有机碳：soil organic carbon
+大涡模拟：large eddy simulation
+区间数：interval number
+应用效果：application effect
+粗集：rough set
+光合细菌：photosynthetic bacteria
+整体解：global solution
+气藏：gas reservoir
+研究方法：research methods
+围岩：surrounding rock
+黑洞：black hole
+反应谱：response spectrum
+珠江三角洲：Pearl River Delta
+低渗透：low permeability
+3S技术：3S technology
+地震前兆：earthquake precursor
+地质环境：geological environment
+鄱阳湖：Poyang Lake
+关联维数：correlation dimension
+数值模型：numerical model
+无源定位：Passive location
+东海：East China Sea
+有机碳：organic carbon
+物理实验：physical experiment
+东北地区：Northeast China
+蒙特卡罗：Monte Carlo
+太阳辐射：solar radiation
+岩土力学：rock and soil mechanics
+长江：Yangtze River
+配电自动化：distribution automation
+疲劳裂纹：fatigue crack
+水力压裂：hydraulic fracturing
+USB接口：USB interface
+渗透系数：Permeability coefficient
+海洋平台：offshore platform
+固溶体：solid solution
+岩体：rock mass
+Radon变换：Radon transform
+动态范围：dynamic range
+前陆盆地：foreland basin
+分布函数：distribution function
+随机模拟：stochastic simulation
+软件重用：software reuse
+原子荧光光谱法：atomic fluorescence spectrometry
+人类活动：Human activity
+趋势分析：trend analysis
+样条函数：spline function
+武汉市：Wuhan city
+砌体结构：Masonry structure
+渗流场：seepage field
+土地利用规划：land use planning
+深井：deep well
+WebService：web service
+总氮：total nitrogen
+高精度：High accuracy
+地质构造：geological structure
+课程建设：curriculum construction
+广州市：Guangzhou City
+模糊模式识别：fuzzy pattern recognition
+油页岩：Oil Shale
+统计学习理论：statistical learning theory
+基础研究：basic research
+单纯形法：Simplex Method
+景观生态：landscape ecology
+数码相机：digital camera
+烧结温度：Sintering Temperature
+测井：well logging
+数理统计：mathematical statistics
+大气湍流：atmospheric turbulence
+工程管理：engineering management
+弹性波：elastic wave
+动力机制：dynamic mechanism
+吸收系数：absorption coefficient
+储层评价：reservoir evaluation
+华南：South China
+接触分析：contact analysis
+渤海：Bohai Sea
+华北：North China
+生态保护：ecological protection
+解析解：analytic solution
+定量评价：quantitative evaluation
+空间数据挖掘：spatial data mining
+凸轮机构：Cam mechanism
+回收率：recovery rate
+东营凹陷：Dongying depression
+模拟实验：simulation experiment
+反分析：back analysis
+热传导：Heat conduction
+数据质量：data quality
+高寒草甸：alpine meadow
+卫星遥感：satellite remote sensing
+粒度分布：particle size distribution
+稳定同位素：stable isotope
+水平位移：horizontal displacement
+中值滤波：median filtering
+免疫遗传算法：immune genetic algorithm
+变化检测：change detection
+冻土：frozen soil
+模糊可靠性：fuzzy reliability
+超临界水：supercritical water
+频谱：frequency spectrum
+胜利油田：Shengli Oilfield
+爆破振动：blasting vibration
+ActiveX控件：ActiveX control
+稠油油藏：heavy oil reservoir
+开采沉陷：Mining subsidence
+Voronoi图：voronoi diagram
+热模拟：thermal simulation
+环境容量：environmental capacity
+核电站：Nuclear power station
+突变理论：catastrophe theory
+油田开发：oilfield development
+地震属性：seismic attribute
+含水量：moisture content
+河西走廊：Hexi Corridor
+景观规划：landscape planning
+沉积体系：sedimentary system
+防雷：lightning protection
+构造应力场：tectonic stress field
+试验研究：experiment research
+数字地球：digital earth
+降噪：Noise reduction
+分形几何：fractal geometry
+延长组：Yanchang formation
+灰色模型：gray model
+图像分类：image classification
+油井：oil well
+采矿方法：Mining method
+谱分析：spectrum analysis
+测量误差：measurement error
+土壤环境：soil environment
+有效应力：effective stress
+海水淡化：seawater desalination
+水力计算：hydraulic calculation
+空间环境：space environment
+PI控制：PI control
+长江三角洲：Yangtze River Delta
+特征识别：feature recognition
+表面结构：Surface structure
+投影寻踪：projection pursuit
+山东：Shandong province
+潮流：tidal current
+抗滑桩：anti-slide pile
+环境科学：environmental science
+高光谱遥感：hyperspectral remote sensing
+烃源岩：hydrocarbon source rock
+发电：power generation
+相空间：phase space
+雷诺数：Reynolds number
+中空纤维：Hollow Fiber
+长白山：Changbai Mountain
+真空预压：vacuum preloading
+数据转换：data conversion
+土壤湿度：soil moisture
+数学分析：mathematical analysis
+动态测量：dynamic measurement
+沉积速率：deposition rate
+激光扫描：Laser scanning
+三峡水库：Three Gorges Reservoir
+流型：flow pattern
+现场应用：field application
+全球变暖：global warming
+高温高压：high temperature and high pressure
+岩质边坡：Rock slope
+地下水资源：groundwater resources
+阻抗匹配：impedance matching
+元胞自动机：cellular automaton
+电磁感应：electromagnetic induction
+温室气体：greenhouse gas
+矿产资源：Mineral resource
+MATLAB语言：MATLAB language
+混沌时间序列：chaotic time series
+福建：Fujian Province
+数字地图：digital map
+无损压缩：lossless compression
+WebServices：Web Services
+土地管理：land management
+分维数：fractal dimension
+瞬时频率：Instantaneous frequency
+网络分析：network analysis
+Markov链：markov chain
+误差模型：error model
+天然气水合物：natural gas hydrate
+稳定性评价：stability evaluation
+极限分析：limit analysis
+时空分布：temporal and spatial distribution
+生长速率：Growth rate
+Monte Carlo方法：Monte Carlo method
+核电厂：nuclear power plant
+曲面拟合：surface fitting
+案例推理：case-based reasoning
+嵌入式技术：embedded technology
+城镇体系：urban system
+空间信息：spatial information
+油藏描述：reservoir description
+MonteCarlo模拟：Monte Carlo simulation
+红外探测器：Infrared detector
+弱解：weak solution
+海岸带：coastal zone
+应用系统：application system
+流量：flow rate
+R/S分析：R/S analysis
+找矿方向：prospecting direction
+PDC钻头：PDC bit
+化学分析：chemical analysis
+供电：power supply
+计算几何：Computational geometry
+油气成藏：hydrocarbon accumulation
+地震数据处理：seismic data processing
+网格技术：grid technology
+摩擦材料：Friction material
+数字校园：digital campus
+经济损失：economic loss
+过程模拟：process simulation
+塔里木河：Tarim River
+视电阻率：apparent resistivity
+海冰：sea ice
+虚拟仿真：virtual simulation
+复杂适应系统：complex adaptive system
+资源调度：resource scheduling
+空间变异性：spatial variability
+气候变暖：climate warming
+滇池：Dianchi Lake
+多分辨分析：multiresolution analysis
+台湾海峡：Taiwan Strait
+原子吸收：atomic absorption
+剩余油：residual oil
+兰州市：Lanzhou city
+大气光学：atmospheric optics
+动应力：dynamic stress
+重力异常：gravity anomaly
+系统功能：system function
+地下结构：underground structure
+多普勒雷达：Doppler radar
+CO2：carbon dioxide
+概率模型：probability model
+地表径流：surface runoff
+空间分辨率：Spatial resolution
+地震相：seismic facies
+地理信息：geographic information
+风能：wind energy
+GPS接收机：GPS receiver
+生态系统健康：ecosystem health
+构造演化：structural evolution
+涡流：eddy current
+射线追踪：ray tracing
+量化分析：quantitative analysis
+边界元：boundary element
+流动单元：flow unit
+核电：Nuclear Power
+数值试验：numerical experiment
+高斯混合模型：Gaussian mixture model
+复合污染：combined pollution
+地震反演：seismic inversion
+信息可视化：information visualization
+大亚湾：Daya Bay
+电子密度：Electron density
+可编程逻辑器件：programmable logic device
+关键技术：key techniques
+空间自相关：Spatial Autocorrelation
+混合编程：mixed programming
+电磁脉冲：electromagnetic pulse
+多学科设计优化：multidisciplinary design optimization
+结构可靠度：structural reliability
+黄河三角洲：The Yellow River Delta
+计算机程序：computer program
+弯矩：bending moment
+数据字典：data dictionary
+大坝安全：dam safety
+森林景观：forest landscape
+驻波：standing wave
+沉积环境：depositional environment
+埋地管道：buried pipeline
+标准差：standard deviation
+空间索引：spatial index
+影像融合：image fusion
+氧含量：oxygen content
+化学位移：chemical shift
+弹性变形：elastic deformation
+长江口：Yangtze Estuary
+微弱信号检测：weak signal detection
+海水：sea water
+Canny算子：CANNY operator
+流体流动：fluid flow
+相对误差：relative error
+力学性质：Mechanical Properties
+建筑工程：construction engineering
+空间插值：spatial interpolation
+煤质：coal quality
+布朗运动：Brownian Motion
+移动终端：mobile terminal
+疲劳分析：fatigue analysis
+加油站：gas station
+教育创新：educational innovation
+沉积特征：sedimentary characteristics
+火成岩：igneous rock
+运行管理：Operation management
+三角模糊数：triangular fuzzy number
+国家利益：National interests
+导航系统：Navigation system
+成矿预测：metallogenic prognosis
+含水饱和度：water saturation
+环境地质：environmental geology
+CFD模拟：CFD simulation
+光学特性：optical properties
+温差：temperature Difference
+地震资料：seismic data
+转换效率：conversion efficiency
+洪水预报：flood forecasting
+压力梯度：Pressure Gradient
+水源热泵：water source heat pump
+临界载荷：critical load
+应用程序：application program
+串行接口：serial interface
+太阳活动：solar activity
+数字矿山：digital mine
+防治措施：control measures
+分布规律：distribution law
+温室效应：greenhouse effect
+Access数据库：access database
+盆地演化：Basin evolution
+卫星导航：satellite navigation
+正演模拟：forward modeling
+郑州市：Zhengzhou City
+松嫩平原：Songnen Plain
+速度分析：velocity analysis
+波阻抗：wave impedance
+成矿流体：ore-forming fluid
+建设用地：Construction land
+模糊数学：fuzzy math
+江汉平原：Jianghan Plain
+Vague集：Vague sets
+储氢：hydrogen storage
+三维模型：three-dimensional model
+能源结构：energy structure
+森林植被：Forest Vegetation
+波浪力：wave force
+模糊层次分析法：Fuzzy analytic hierarchy process
+被动控制：passive control
+三峡库区：Three Gorges Reservoir
+快速测定：rapid determination
+安全系数：safety coefficient
+模型设计：model design
+泊松比：Poisson's ratio
+质量监控：quality control
+驱动机制：driving mechanism
+多元回归：multiple regression
+自适应逆控制：adaptive inverse control
+马尔可夫过程：markov process
+地震数据：seismic data
+表面波：Surface wave
+载波同步：carrier synchronization
+地下水污染：groundwater pollution
+构造运动：tectonic movement
+经验公式：empirical formula
+质量检测：quality inspection
+帷幕灌浆：curtain grouting
+边界元方法：boundary element method
+世界遗产：world heritage
+载波相位：carrier phase
+本科教学：undergraduate teaching
+地层损害：formation damage
+绩效考评：performance appraisal
+数据可视化：data visualization
+地形图：topographic map
+坐标系：Coordinate System
+特征分析：characteristic analysis
+凝结时间：Setting time
+蒙特卡罗法：Monte-Carlo method
+GIS技术：GIS technology
+知识表达：knowledge representation
+辽河油田：Liaohe Oilfield
+勘探潜力：exploration potential
+开放系统：open system
+人体健康：Human health
+生产测井：production logging
+概率神经网络：probabilistic neural network
+震源机制：focal mechanism
+叠前深度偏移：Prestack depth migration
+物理性质：Physical properties
+沙尘暴：dust storm
+辽河盆地：Liaohe Basin
+奇点：singular point
+量纲分析：dimensional analysis
+地质模型：geological model
+须家河组：Xujiahe Formation
+剪切应力：shear stress
+机械强度：Mechanical strength
+火力发电厂：thermal power plant
+铁路建设：railway construction
+系统科学：system science
+网络通讯：Network Communication
+月球车：Lunar rover
+极限平衡法：Limit equilibrium method
+S-N曲线：S-N curve
+Logistic方程：Logistic equation
+判断矩阵：judgement matrix
+位移场：displacement field
+能谱：Energy Spectrum
+土坝：earth dam
+平面应变：plane strain
+氧传感器：oxygen sensor
+水电工程：hydropower project
+黄河流域：Yellow River Basin
+石英晶体：quartz crystal
+色彩管理：color management
+粘土矿物：Clay minerals
+地理信息系统(GIS)：Geographic information system(GIS)
+三峡：Three Gorges
+离心力：Centrifugal force
+数据一致性：data consistency
+抗差估计：robust estimation
+延迟时间：Delay time
+工程建设：project construction
+青海湖：Qinghai lake
+地表温度：land surface temperature
+透射系数：Transmission coefficient
+三塘湖盆地：Santanghu Basin
+权系数：weight coefficient
+相对渗透率：relative permeability
+选矿：mineral processing
+水质分析：water quality analysis
+功能设计：function design
+系统软件：system software
+概率密度：probability density
+相位补偿：phase compensation
+羌塘盆地：Qiangtang Basin
+控制软件：control software
+地磁场：geomagnetic field
+耦合模型：coupling model
+土地覆盖：land cover
+应变能：strain energy
+抽水蓄能电站：pumped storage power station
+BP模型：BP model
+地理环境：geographical environment
+通信接口：communication interface
+油气：oil and gas
+气体钻井：gas drilling
+水资源承载力：Water resources carrying capacity
+相位测量：phase measurement
+CCD相机：CCD camera
+姿态确定：attitude determination
+库车坳陷：Kuqa depression
+精细农业：precision agriculture
+异常处理：exception handling
+浅层地下水：shallow groundwater
+应变测量：strain measurement
+祁连山：Qilian Mountains
+造山带：orogenic belt
+ISA总线：ISA bus
+城市热岛：urban heat island
+多环芳烃：polycyclic aromatic hydrocarbons(PAHs)
+金属元素：metal element
+流变模型：rheological model
+管理模型：management model
+Logistic映射：logistic map
+耦合分析：coupling analysis
+地震活动性：seismic activity
+表层沉积物：surface sediment
+传输矩阵：transfer matrix
+热力学计算：thermodynamic calculation
+相移：phase shift
+实时系统：real time system
+雷达回波：radar echo
+国际政治：international politics
+环境变化：Environmental change
+岩溶塌陷：karst collapse
+土壤水：soil water
+红粘土：red clay
+路径分析：path analysis
+滨海新区：Binhai New Area
+数据格式：data format
+吐哈盆地：Tuha basin
+多尺度分析：multi-scale analysis
+特征建模：feature modeling
+波速：wave velocity
+含油量：oil content
+网格生成：Mesh generation
+稀疏矩阵：Sparse Matrix
+k-means算法：k-means algorithm
+多元统计分析：multivariate statistical analysis
+塔里木盆地：the Tarim Basin
+有机地球化学：organic geochemistry
+定位精度：Positioning accuracy
+岩溶水：karst water
+状态空间模型：state space model
+欧氏距离：Euclidean distance
+数据接口：data interface
+裂变径迹：fission track
+黄海：Yellow Sea
+转移概率：transition probability
+神经网络模型：Neural Network model
+协方差矩阵：covariance matrix
+提升小波：lifting wavelet
+环境风险：environmental risk
+H2O2：hydrogen peroxide
+截断误差：truncation error
+海洋经济：marine economy
+轻烃：light hydrocarbon
+危险性评估：Risk assessment
+主成份分析：principal component analysis
+基础工程：foundation engineering
+凝析气藏：condensate gas reservoir
+晚三叠世：late Triassic
+机械钻速：penetration rate
+氧化动力学：Oxidation Kinetics
+山东半岛：Shandong peninsula
+地壳运动：crustal movement
+晚第四纪：late Quaternary
+地基承载力：bearing capacity of foundation
+设计洪水：design flood
+地幔柱：mantle plume
+地下开采：underground mining
+井眼轨迹：hole trajectory
+空间数据模型：spatial data model
+三维仿真：3D simulation
+矿泉水：mineral water
+凸包：convex hull
+数据库建设：Database construction
+水泥搅拌桩：cement mixing pile
+最优路径：optimal path
+变异系数：variation coefficient
+热力学模型：thermodynamic model
+矿井水：mine water
+光化学反应：photochemical reaction
+标准偏差：standard deviation
+中子活化分析：Neutron activation analysis
+多项式拟合：polynomial fitting
+输气管道：Gas pipeline
+分形维：fractal dimension
+暂态稳定性：transient stability
+多元回归分析：multiple regression analysis
+矿物组成：mineral composition
+脂肪酸组成：fatty acid composition
+压力场：pressure field
+华北平原：North China Plain
+BP人工神经网络：BP artificial neural network
+酸值：acid value
+水质污染：water pollution
+构造环境：tectonic environment
+动强度：dynamic strength
+板块构造：plate tectonics
+调制解调：modulation and demodulation
+技术参数：technical parameters
+巢湖：Chaohu Lake
+分子力学：molecular mechanics
+活断层：active fault
+精细结构：fine structure
+角动量：angular momentum
+数据整合：data integration
+信息传输：information transmission
+BP神经网络：back propagation neural network
+钻机：drilling rig
+监督分类：supervised Classification
+工控机：industrial control computer
+模糊分析：Fuzzy analysis
+成像系统：imaging system
+强度折减法：strength reduction method
+微波辐射计：microwave radiometer
+地层水：formation water
+晚更新世：late pleistocene
+潜山：buried hill
+基态：ground state
+控制测量：control survey
+土-结构相互作用：soil-structure interaction
+解析模型：analytical model
+有机污染：organic pollution
+渔业资源：Fishery resources
+复合形法：Complex method
+粒子模拟：particle simulation
+激光干涉仪：laser interferometer
+构造应力：tectonic stress
+氧化铁：Ferric oxide
+全球气候变化：global climate change
+自动生成：automatic generation
+城市绿化：urban greening
+频率特性：frequency characteristics
+质量检验：quality inspection
+灌区：irrigation area
+分形插值：Fractal interpolation
+线性回归模型：linear regression model
+数值模式：numerical model
+边界积分方程：Boundary integral equation
+变形模量：deformation modulus
+移动GIS：mobile GIS
+地应力：ground stress
+基本原理：basic principle
+苏北盆地：Subei Basin
+恒流源：constant current source
+知识集成：knowledge integration
+成像测井：imaging logging
+含油饱和度：oil saturation
+碳储量：carbon storage
+流态：flow pattern
+沈阳市：Shenyang city
+异常压力：abnormal pressure
+渤海湾：Bohai bay
+冲绳海槽：Okinawa Trough
+相位误差：phase error
+平面图：Planar graph
+趋肤效应：skin effect
+钻具组合：bottom hole assembly
+地层对比：stratigraphic correlation
+方位角：azimuth angle
+自动气象站：automatic weather station
+风蚀：wind erosion
+变形机理：deformation mechanism
+氨挥发：ammonia volatilization
+模拟试验：simulation experiment
+杭州湾：Hangzhou Bay
+极限平衡：limit equilibrium
+马氏距离：Mahalanobis Distance
+概率分析：Probability analysis
+能量收支：Energy budget
+书评：book review
+Boussinesq方程：Boussinesq equation
+灰色关联分析：grey relation analysis
+测井解释：logging interpretation
+离子强度：ionic strength
+化学势：chemical potential
+维纳滤波：Wiener filter
+数字调制：digital modulation
+焉耆盆地：Yanqi basin
+煤层气：coal bed methane
+数据库：data bank
+零排放：zero discharge
+扇三角洲：fan delta
+水电开发：hydropower development
+南海北部：northern South China Sea
+农用地：Agricultural land
+李代数：Lie algebra
+双基地雷达：bistatic radar
+应急预案：emergency Plan
+莺歌海盆地：Yinggehai Basin
+利用率：utilization rate
+气体水合物：gas hydrate
+扩散模型：diffusion model
+海洋工程：ocean engineering
+衰减系数：attenuation coefficient
+构造背景：tectonic setting
+含沙量：sediment concentration
+自回归模型：autoregressive model
+影像匹配：image matching
+气候特征：climatic characteristics
+高程异常：height anomaly
+气象灾害：meteorological disaster
+对数正态分布：lognormal distribution
+成都市：Chengdu City
+空间分布：space distribution
+干热河谷：dry-hot valley
+WebGIS：Web GIS
+双线性插值：bilinear interpolation
+城市形态：urban form
+试井：well test
+膜清洗：membrane cleaning
+动载荷：dynamic load
+风场：wind field
+瑞利波：Rayleigh wave
+人口分布：Population Distribution
+Lorenz系统：Lorenz system
+全球治理：global governance
+遥感技术：remote sensing technique
+地震解释：seismic interpretation
+转换波：converted wave
+群速度：group velocity
+淮河流域：Huaihe River Basin
+酒石酸：tartaric acid
+接触压力：contact pressure
+改性膨润土：modified bentonite
+矢量数据：vector data
+地震序列：Earthquake Sequence
+管网：pipe network
+层速度：interval velocity
+理论框架：theoretical framework
+技术发展：technology development
+剪切模量：Shear modulus
+高等级公路：high-grade highway
+明清时期：Ming and Qing Dynasties
+Delaunay三角网：Delaunay triangulation
+铀矿床：uranium deposit
+新构造运动：neotectonic movement
+实验室试验：laboratory testing
+TM影像：TM image
+脐橙：navel orange
+电液比例控制：electro-hydraulic proportional control
+红外遥控：Infrared remote control
+抛物方程：parabolic equation
+数据组织：data organization
+时空数据模型：spatio-temporal data model
+原型观测：prototype observation
+社会影响：social influence
+品质因子：quality factor
+变化趋势：change trend
+频率稳定度：frequency stability
+孔隙压力：pore pressure
+水驱：water drive
+铜矿床：copper deposit
+游离氨基酸：free amino acids
+大地电磁测深：magnetotelluric sounding
+景观结构：Landscape structure
+节点定位：node localization
+厄尔尼诺：El Nino
+动三轴试验：dynamic triaxial test
+华北克拉通：North China craton
+堆石坝：rockfill dam
+点扩散函数：point spread function
+处理措施：Treatment Measures
+软件集成：software integration
+声波：Sound wave
+傅里叶级数：fourier series
+道路提取：road extraction
+流场：fluid field
+蒙特卡洛：monte carlo
+原子吸收分光光度法：atomic absorption spectrophotometry
+矿业权：Mining right
+吖啶橙：acridine orange
+石羊河流域：Shiyang River basin
+录井：mud logging
+内压：internal pressure
+应变场：strain field
+分子机理：molecular mechanism
+数据建模：data modeling
+实时测量：real-time measurement
+区域气候模式：Regional climate model
+内容体系：content system
+开源软件：open source software
+强度折减：strength reduction
+卫星测高：satellite altimetry
+随机建模：Stochastic Modeling
+下白垩统：lower Cretaceous
+环境影响：environmental influence
+CO_2：carbon dioxide
+大直径：Large diameter
+辐射效应：Radiation effect
+电子海图：electronic chart
+相速度：phase velocity
+古村落：ancient village
+信号重构：signal reconstruction
+活动断层：active fault
+隧道衬砌：tunnel lining
+度量空间：metric space
+SD卡：SD card
+数字摄影测量：Digital photogrammetry
+年代际变化：interdecadal variation
+测井资料：logging data
+声波测井：acoustic logging
+环境地球化学：environmental geochemistry
+气象条件：meteorological conditions
+大港油田：Dagang Oilfield
+体系域：system tract
+动力学方程：dynamic equation
+人工神经元网络：artificial neural network
+功率谱密度：power spectrum density
+结构损伤：structural damage
+关联矩阵：incidence matrix
+分类体系：classification system
+三维地形：3D terrain
+夏季风：summer monsoon
+采收率：oil recovery
+测量精度：measuring accuracy
+土壤盐渍化：soil salinization
+耦合效应：coupling effect
+大气校正：atmospheric correction
+样条插值：spline interpolation
+克山病：Keshan disease
+Markov过程：Markov process
+分数傅里叶变换：fractional fourier transform
+成矿系列：metallogenic series
+地质特征：geological characteristic
+地下水系统：groundwater system
+可采储量：recoverable reserves
+孤东油田：Gudong Oilfield
+小波理论：wavelet theory
+定位算法：localization algorithm
+嵌入式GIS：embedded GIS
+声子晶体：phononic crystal
+火焰原子吸收法：flame atomic absorption spectrometry
+泌阳凹陷：Biyang Depression
+粗糙集理论：Rough Sets Theory
+注水：water flooding
+接触单元：contact element
+巨磁电阻：giant magnetoresistance
+Bezier曲线：Bezier curve
+预报模型：prediction model
+动能：kinetic energy
+Monte-Carlo模拟：Monte-Carlo simulation
+离子源：ion source
+水管理：water management
+相关检测：Correlation detection
+学术质量：Academic quality
+Dirac方程：Dirac equation
+微波遥感：Microwave remote sensing
+数据获取：Data acquisition
+有色金属：nonferrous metals
+正常高：normal height
+注气：gas injection
+油气分布：Oil and gas distribution
+植被演替：vegetation succession
+太湖流域：Taihu basin
+三次样条：cubic spline
+加筋土：reinforced soil
+江汉盆地：Jianghan Basin
+对立统一：unity of opposites
+狭义相对论：special relativity
+基础矩阵：fundamental matrix
+技术改进：technical improvement
+大同市：Datong City
+徐州市：Xuzhou City
+钻杆：drill pipe
+激光测量：Laser measurement
+吸收边界条件：absorbing boundary condition
+电化学方法：electrochemical method
+拓扑关系：topological relation
+烟台市：Yantai City
+热容：heat capacity
+推进系统：propulsion system
+OLE自动化：OLE automation
+模糊分类：fuzzy classification
+氢氟酸：hydrofluoric acid
+碎屑岩：clastic rock
+水质预测：water quality prediction
+多元线性回归：multivariate linear regression
+雷州半岛：Leizhou Peninsula
+合理利用：Rational utilization
+珊瑚礁：coral reef
+穿透曲线：breakthrough curve
+地热资源：geothermal resources
+正交投影：Orthogonal projection
+半参数回归模型：semiparametric regression model
+典型草原：typical steppe
+停留时间：residence time
+开发效果：development effect
+储层保护：reservoir protection
+低渗透油气藏：low permeability pools
+出砂：Sand production
+北部湾：Beibu Gulf
+Raman光谱：Raman spectra
+组织管理：organization and management
+大气边界层：atmospheric boundary layer
+抽水试验：pumping test
+草地资源：grassland resources
+热演化：thermal evolution
+统计分布：statistical distribution
+能量分辨率：energy resolution
+Curvelet变换：curvelet transform
+资料处理：data processing
+胜坨油田：Shengtuo Oilfield
+天津市：Tianjin City
+土壤剖面：soil profile
+水源：water source
+材料科学：materials science
+洪水灾害：flood disaster
+风向：wind direction
+服务系统：service system
+递归算法：recursive algorithm
+剪切波速：shear wave velocity
+CORDIC算法：CORDIC algorithm
+局部冲刷：local scour
+信息网格：information grid
+天气雷达：weather radar
+套管损坏：casing damage
+工作原理：operation principle
+镜质体反射率：vitrinite reflectance
+断裂带：fault zone
+递推算法：recursive algorithm
+动态预测：dynamic prediction
+均一温度：homogenization temperature
+古潜山：buried hill
+角度测量：angle measurement
+时间尺度：time scale
+知识体系：knowledge system
+配分函数：partition function
+面向对象程序设计：object-oriented programming
+凸壳：Convex Hull
+1/f噪声：1/f noise
+多普勒天气雷达：Doppler weather radar
+尺度效应：size effect
+剩余油分布：Residual Oil Distribution
+环境信息：environmental information
+青海：Qinghai Province
+动态断裂：dynamic fracture
+金矿化：gold mineralization
+响应函数：response function
+空间关系：spatial relationship
+频率分析：Frequency Analysis
+工业革命：industrial revolution
+广义相对论：general relativity
+联合反演：joint inversion
+实验方法：experimental method
+高分辨：high resolution
+斑岩铜矿：porphyry copper deposit
+竞争吸附：competitive adsorption
+找矿标志：prospecting criteria
+径向力：radial force
+松花江：Songhua River
+创新型人才：innovative talents
+内共振：internal resonance
+实验平台：experiment platform
+稳健估计：robust estimation
+地壳结构：crustal structure
+节水农业：water saving agriculture
+成因机制：Formation Mechanism
+控制因素：control factor
+勘探开发：exploration and development
+孤岛油田：Gudao Oilfield
+应急监测：emergency monitoring
+沉积模式：depositional model
+球阀：ball valve
+植被覆盖度：vegetation coverage
+低密度：low density
+华南地区：South China
+褐煤：brown coal
+地震层析成像：seismic tomography
+数据预处理：data pretreatment
+分形结构：fractal structure
+模型参考：model reference
+光电效应：photoelectric effect
+自组织临界性：self-organized criticality
+降维：dimension reduction
+海平面：sea level
+小波函数：Wavelet function
+积温：Accumulated temperature
+功率键合图：power bond graph
+暗能量：dark energy
+储层参数：reservoir parameter
+井网：well pattern
+共轭梯度：conjugate gradient
+磷矿：phosphate rock
+表皮系数：skin factor
+块体理论：Block theory
+表面电荷：surface charge
+设备维修：equipment maintenance
+输电线路：power transmission line
+晚新生代：Late Cenozoic
+定性推理：qualitative reasoning
+交通网络：traffic network
+水头损失：head loss
+土地评价：land evaluation
+流量模型：traffic model
+吐哈油田：Tuha oilfield
+湿地资源：wetland resources
+石墨炉：graphite furnace
+磁异常：magnetic anomaly
+原位：in situ
+反应级数：reaction order
+推覆构造：nappe structure
+热采：thermal recovery
+塔里木河流域：Tarim River Basin
+地震资料处理：seismic data processing
+国家公园：national park
+径向分布函数：Radial distribution function
+施工质量控制：construction quality control
+数值分类：numerical taxonomy
+软基处理：soft foundation treatment
+相位相关：phase correlation
+太阳耀斑：Solar flare
+汶川大地震：Wenchuan Earthquake
+致密砂岩：tight sandstone
+测井响应：log response
+影响因子：influence factors
+背景噪声：background noise
+应急响应：emergency response
+碳酸盐岩储层：carbonate reservoir
+工程措施：engineering measures
+辽河油区：Liaohe oil province
+地质意义：geological significance
+应力函数：stress function
+需水量：water requirement
+典型相关：Canonical correlation
+地震作用：seismic action
+拉西瓦水电站：Laxiwa Hydropower Station
+剪切带：shear zone
+粗糙度：surface roughness
+塔中地区：Tazhong area
+无机氮：inorganic nitrogen
+误差控制：error control
+数值研究：numerical study
+气泡：air bubble
+误差函数：error function
+静态模型：static model
+规则库：rule base
+认知模型：Cognitive model
+空间相关性：spatial correlation
+气象卫星：meteorological satellite
+噪声分析：noise analysis
+辽河坳陷：Liaohe depression
+气测录井：gas logging
+能量分析：energy analysis
+结构面：Structural plane
+分形模型：fractal model
+煤矿开采：coal mining
+X射线荧光光谱：X-ray fluorescence spectrometry
+丹江口水库：Danjiangkou reservoir
+随机分析：stochastic analysis
+地基沉降：Foundation settlement
+haar小波：Haar wavelet
+桶形基础：bucket foundation
+全反射：Total reflection
+范例推理：case-based reasoning
+暗物质：dark matter
+深空探测：deep space exploration
+官厅水库：Guanting Reservoir
+污染源：pollution sources
+在线分析：on-line analysis
+解释模型：interpretation model
+煤层：coal bed
+水安全：water security
+载荷识别：load identification
+变形预测：deformation prediction
+畸变校正：distortion correction
+氮沉降：nitrogen deposition
+近场：near field
+可拓集合：extension set
+明渠：open channel
+固氮：Nitrogen fixation
+过渡过程：transient process
+噪声模型：noise model
+饱和砂土：saturated sand
+行政区划：Administrative Division
+夏季降水：summer precipitation
+调和函数：harmonic function
+沁水盆地：Qinshui Basin
+东濮凹陷：Dongpu Sag
+可拓方法：extension method
+沙地：Sandy land
+磁畴：magnetic domain
+从头计算：ab initio calculation
+临界速度：critical velocity
+黄金分割：golden section
+风电：wind power
+上地幔：Upper Mantle
+实时处理：real time processing
+细菌性痢疾：bacillary Dysentery
+斑点噪声：speckle noise
+地震烈度：seismic intensity
+海量数据：massive data
+数字林业：digital forestry
+城市扩展：urban expansion
+设计方法：designing method
+河流相：fluvial facies
+水蒸气：Water Vapor
+储集层特征：reservoir characteristics
+沉积演化：Sedimentary evolution
+羧酸：carboxylic acid
+中国南方：South China
+埕岛油田：Chengdao oilfield
+相分析：phase analysis
+天然水：natural water
+潮滩：tidal flat
+频率域：frequency domain
+数值实验：numerical experiment
+疲劳可靠性：fatigue reliability
+温泉：Hot spring
+分析系统：analysis system
+唐山地震：Tangshan earthquake
+关键链：Critical Chain
+成藏模式：accumulation model
+唐山市：Tangshan city
+标准物质：reference material
+b值：b value
+参考点：Reference Point
+物源分析：provenance analysis
+处理方法：processing method
+富集因子：enrichment factor
+金沙江：Jinsha River
+噪声预测：noise prediction
+CFD：computational fluid dynamics
+扎龙湿地：Zhalong Wetland
+氢同位素：hydrogen isotope
+生产实习：Production practice
+驱动因子：driving factors
+选矿工程：mineral processing
+氧化锰：manganese oxide
+城市土地利用：urban land use
+波形分析：waveform analysis
+VB语言：VB language
+有色噪声：colored noise
+光束整形：beam shaping
+点目标：point target
+甲烷水合物：methane hydrate
+离散元法：discrete element method
+地下储气库：underground gas storage
+定位误差：Positioning Error
+启动压力梯度：threshold pressure gradient
+量子理论：quantum theory
+恒功率：constant power
+内波：internal wave
+灰度共生矩阵：gray level co-occurrence matrix
+误差校正：Error correction
+锌精矿：zinc concentrate
+行程时间：travel time
+激光跟踪仪：laser tracker
+调和分析：harmonic analysis
+塔克拉玛干沙漠：Taklimakan Desert
+部分熔融：partial melting
+交通信息：traffic information
+Allan方差：Allan variance
+集约利用：intensive utilization
+动态校准：dynamic calibration
+分布式存储：distributed storage
+弛豫时间：relaxation time
+崇明岛：Chongming Island
+层序地层格架：sequence stratigraphic framework
+趋势面分析：trend surface analysis
+硫同位素：sulfur isotope
+温压：warm compaction
+流体势：fluid potential
+成都平原：Chengdu plain
+微生物生物量：microbial biomass
+空间差异：spatial difference
+地下水库：groundwater reservoir
+小浪底水库：Xiaolangdi Reservoir
+临界压力：critical pressure
+三次样条插值：cubic Spline interpolation
+时序：time sequence
+地图投影：map projection
+商代：Shang dynasty
+串行总线：Serial bus
+空间认知：spatial cognition
+丹霞地貌：Danxia landform
+空间数据仓库：spatial data warehouse
+磁暴：Magnetic storm
+毛细管压力：capillary pressure
+环境磁学：environmental magnetism
+空间查询：spatial query
+供求：supply and demand
+层间氧化带：interlayer oxidation zone
+合成工艺：synthetic process
+测量方法：measurement methods
+现场试验：field experiment
+二甲酚橙：xylenol orange
+生态景观：ecological landscape
+危险性评价：risk assessment
+Morlet小波：morlet wavelet
+遗传神经网络：genetic neural network
+孔隙演化：pore evolution
+绝缘材料：insulating material
+耗散结构：dissipation structure
+非线性理论：nonlinear theory
+水平衡：water balance
+合肥盆地：Hefei basin
+中侏罗世：Middle Jurassic
+施工措施：Construction measure
+荧光强度：Fluorescence Intensity
+评估模型：assessment model
+潜热通量：latent heat flux
+正交多项式：orthogonal polynomials
+泊松方程：Poisson equation
+土壤蒸发：soil evaporation
+层次模型：Hierarchical model
+偏导数：Partial derivative
+车辆导航：vehicle navigation
+网络RTK：Network RTK
+京都议定书：Kyoto Protocol
+工艺矿物学：process mineralogy
+早古生代：Early Paleozoic
+升温速率：heating rate
+蠕变试验：creep test
+体积电阻率：volume resistivity
+产能预测：Productivity prediction
+晚二叠世：Late Permian
+遥感信息：remote sensing information
+分子间相互作用：intermolecular interaction
+钱塘江：Qiantang River
+爆速：detonation velocity
+浅层气：shallow gas
+城市管理：city management
+降雨强度：rainfall intensity
+地震灾害：Seismic disaster
+早寒武世：early Cambrian
+卫星影像：Satellite image
+频率补偿：frequency compensation
+数据同化：data assimilation
+增量式更新：incremental updating
+最优化方法：optimization method
+化学性质：Chemical properties
+叠前时间偏移：prestack time migration
+环境安全：environmental safety
+氰化浸出：cyanide leaching
+有机颜料：organic pigment
+深孔：Deep hole
+承压水：confined water
+寒潮：cold wave
+凝析气：condensate gas
+石油工程：petroleum engineering
+物元：matter element
+城市供水：Urban water supply
+矩阵分解：Matrix Decomposition
+奇异点：singular point
+产生式系统：production system
+方案评价：scheme evaluation
+速度结构：Velocity structure
+版本控制：version control
+景观多样性：landscape diversity
+晚中生代：late Mesozoic
+近景摄影测量：close-range photogrammetry
+路网：road network
+东北老工业基地：Northeast old industrial base
+动态分段：dynamic segmentation
+天气预报：weather forecast
+前兆异常：precursory anomaly
+尾矿坝：tailing dam
+构造样式：structural style
+油气勘探：oil-gas exploration
+十六烷基三甲基溴化铵：cetyltrimethylammonium bromide
+冲积扇：alluvial fan
+多相流：multi-phase flow
+资源潜力：resource potential
+成矿系统：metallogenic system
+铜精矿：copper concentrate
+地球系统科学：earth system science
+Hurst指数：Hurst index
+研究与应用：research and application
+前馈控制：feed-forward control
+残余应变：residual strain
+水分平衡：water balance
+资料分析：data analysis
+红砂岩：red sandstone
+小生境遗传算法：niche genetic algorithm
+固体潮：earth tide
+地理要素：geographical elements
+车辆调度：vehicle scheduling
+GPS高程：GPS height
+蒸发波导：evaporation duct
+潜力分析：potential analysis
+地下矿山：Underground mine
+遥感数据：remote sensing data
+时域有限差分法：finite-difference time-Domain
+帷幕注浆：Curtain grouting
+储层建模：reservoir modeling
+台阶爆破：Bench blasting
+时间序列预测：time series prediction
+恒温：constant temperature
+晚白垩世：Late Cretaceous
+盆地模拟：basin modeling
+信息扩散：Information diffusion
+莱州湾：Laizhou Bay
+构造变形：structural deformation
+空间尺度：Spatial scale
+草地生态系统：grassland ecosystem
+传质模型：mass transfer model
+牙轮钻头：roller bit
+变质岩：metamorphic rock
+元数据管理：metadata management
+数据管理系统：Data Management System
+太原组：Taiyuan Formation
+过度竞争：excessive competition
+程序开发：program development
+层序界面：sequence boundary
+水力模型：hydraulic model
+参数反演：parameter inversion
+回归系数：regression coefficient
+复变函数：complex function
+人口密度：population density
+非平稳信号：non-stationary signal
+航道整治：waterway regulation
+最短路径算法：shortest path algorithm
+权限管理：authority management
+不规则波：irregular wave
+成岩相：diagenetic facies
+能带结构：energy band structure
+回收利用：recovery and utilization
+废渣：waste residue
+生长效应：growth effect
+谐响应分析：harmonic response analysis
+二氧化氮：nitrogen dioxide
+西秦岭：West Qinling
+山西组：Shanxi formation
+运行维护：operation and maintenance
+地球化学异常：geochemical anomaly
+多媒体定时器：Multimedia Timer
+重矿物：heavy mineral
+监测数据：monitoring data
+气象要素：meteorological element
+虚拟技术：virtual technique
+有机化合物：organic compound
+铀矿石：Uranium ore
+双河油田：Shuanghe Oilfield
+平面波：plane wave
+特性参数：characteristic parameter
+喀斯特石漠化：Karst rocky desertification
+矢量地图：vector map
+全局最优：global optimization
+三门峡水库：Sanmenxia Reservoir
+地图符号：Map symbol
+施工设备：construction equipment
+数据绑定：data binding
+数据包：data packet
+制图综合：cartographic generalization
+气压：air pressure
+全站仪：total station instrument
+间接测定：Indirect determination
+地质条件：geological conditions
+稳定平台：stabilized platform
+残余强度：Residual strength
+研究与实践：research and practice
+误差建模：error modeling
+粒度分析：grain size analysis
+岩盐：Rock salt
+裂缝预测：fracture prediction
+模型优化：Model optimization
+电磁波：electromagnetic waves
+地层层序：stratigraphic sequence
+早二叠世：Early Permian
+剂量率：Dose Rate
+大陆动力学：continental dynamics
+区域分布：regional distribution
+Chirp信号：Chirp signal
+奇怪吸引子：strange attractor
+朝鲜半岛：Korean Peninsula
+垂直形变：vertical deformation
+历史地震：historical earthquake
+质量浓度：Mass concentration
+破坏机理：damage mechanism
+人类健康：human health
+横波：shear wave
+量化计算：quantum chemistry calculation
+土地沙漠化：land desertification
+生态评价：ecological evaluation
+辛算法：symplectic algorithm
+希尔伯特-黄变换：Hilbert-Huang transform
+深部构造：deep structure
+亮温：brightness temperature
+中国北方：North China
+琼东南盆地：Qiongdongnan Basin
+防灾减灾：disaster prevention and reduction
+功函数：work function
+震害：earthquake damage
+络合滴定：complexometric titration
+海上平台：offshore platform
+中子衍射：neutron diffraction
+海洋资源：marine resources
+迭代算法：iteration algorithm
+时序分析：time series analysis
+Tabu搜索：tabu search
+坐标系统：Coordinate system
+路堑边坡：Cutting slope
+开发与管理：development and management
+自由边界：free boundary
+消力池：stilling basin
+大射电望远镜：large radio telescope
+诱发地震：induced earthquake
+CO2浓度：CO2 concentration
+红移：red shift
+修正系数：correction coefficient
+占空比：Duty ratio
+热传递：heat transfer
+振动系统：vibration system
+Bootstrap方法：Bootstrap method
+氧化机理：oxidation mechanism
+光谱反射率：spectral reflectance
+小波基：wavelet base
+地震应急：earthquake emergency
+TM图像：TM image
+红松：korean pine
+海洋微藻：marine microalgae
+地球自转：earth rotation
+浅水：shallow water
+光学传递函数：Optical transfer function
+边坡稳定分析：Slope stability analysis
+接收函数：Receiver function
+农村公路：rural road
+渗流分析：seepage analysis
+林火：forest fire
+临近空间：near space
+波阻抗反演：wave impedance inversion
+珠江：Pearl River
+资料同化：data assimilation
+评定方法：evaluation method
+地温梯度：Geothermal gradient
+苏州河：Suzhou Creek
+非监督分类：unsupervised Classification
+偏最小二乘回归：partial least square regression
+层状硅酸盐：layered silicate
+油藏工程：reservoir engineering
+生存环境：living environment
+压力系数：pressure coefficient
+陕西省：Shanxi Province
+三次样条函数：Cubic Spline Function
+热红外：thermal infrared
+表层结构：surface structure
+姿态测量：attitude measurement
+黄土区：Loess area
+基于案例的推理：case-based reasoning
+设计风格：design style
+贝叶斯理论：Bayesian theory
+汛期：flood season
+模型误差：model error
+物理机制：physical mechanism
+被动定位：Passive Location
+调制不稳定性：Modulation instability
+专题地图：thematic map
+化学形态：chemical speciation
+应力敏感：stress sensitivity
+含气量：gas content
+示范工程：demonstration project
+反射波：reflection wave
+信号系统：signal system
+三江平原：the Sanjiang Plain
+精度控制：Precision control
+孢粉组合：sporopollen assemblage
+多相流动：multiphase flow
+变权：variable weight
+悬浮泥沙：suspended sediment
+河网：river network
+恒张力：constant tension
+水系：water system
+滇西：western Yunnan
+GPS控制网：GPS control network
+注蒸汽：steam injection
+位置误差：position error
+元素地球化学：element geochemistry
+脉冲信号：pulse signal
+尖点突变：cusp catastrophe
+后向散射系数：backscattering coefficient
+河北平原：Hebei plain
+基质吸力：Matrix suction
+水质模拟：water quality simulation
+初值：Initial value
+正交解调：quadrature demodulation
+车辆导航系统：vehicle navigation system
+水库移民：reservoir resettlement
+宇宙线：cosmic ray
+脚本语言：script language
+地震工程：earthquake engineering
+数据库连接池：database connection pool
+中子星：neutron star
+断层活动性：fault activity
+小麦产量：wheat yield
+飑线：Squall line
+南堡凹陷：Nanpu sag
+速度模型：Velocity model
+地质建模：geological modeling
+防治对策：control countermeasure
+定向钻井：directional drilling
+辅助设计：aided design
+结构函数：structure function
+氢化物发生-原子荧光光谱法：hydride generation-atomic fluorescence spectrometry
+残差：residual error
+表观密度：apparent density
+过渡区：transition region
+地热水：geothermal water
+南通市：Nantong city
+发展状况：development status
+测控系统：measuring and controlling system
+比例控制：proportional control
+减灾：disaster reduction
+高斯投影：Gauss projection
+植被盖度：vegetation coverage
+人类社会：human society
+三角高程测量：trigonometric leveling
+爆破设计：blasting design
+沉管隧道：immersed tunnel
+几何模型：geometry model
+初始缺陷：initial imperfection
+径流系数：Runoff coefficient
+信息分类：information classification
+吸湿：Moisture absorption
+传输系统：transmission system
+JavaApplet：Java Applet
+拉格朗日插值：lagrange interpolation
+破坏概率：failure probability
+匹配滤波：matched filtering
+砖混结构：masonry structure
+磁传感器：magnetic sensor
+命名实体识别：named entity recognition
+震源参数：Source parameter
+黏土矿物：clay mineral
+气溶胶光学厚度：Aerosol optical depth
+矿区：mine area
+油层保护：reservoir protection
+地质调查：geological survey
+有限差分法：finite-difference method
+谱分解：spectral decomposition
+声波时差：interval transit time
+生态需水：ecological water demand
+安全疏散：safety evacuation
+Mie理论：Mie theory
+防灾：disaster prevention
+海河流域：Haihe River basin
+东营组：Dongying Formation
+离子浓度：ion concentration
+投影法：projection method
+响应分析：response analysis
+设计与开发：Design and development
+环境演变：environmental evolution
+非达西流：non-Darcy flow
+模型结构：model structure
+静水压力：hydrostatic pressure
+环境同位素：environmental isotope
+推理机制：reasoning mechanism
+宝鸡市：Baoji City
+历史时期：historical period
+生态适应性：Ecological adaptation
+日食：Solar Eclipse
+模糊支持向量机：Fuzzy support vector machine
+数据清理：Data cleaning
+卫星星座：satellite constellation
+辐射定标：radiometric calibration
+动力可靠度：dynamic reliability
+总线接口：bus interface
+梯度分析：Gradient analysis
+主控因素：main controlling factors
+低渗透油藏：low-permeability reservoir
+应用前景：application foreground
+实验模拟：experimental simulation
+高密度电阻率法：high density resistivity method
+钻井液密度：drilling fluid density
+JC法：JC method
+危险化学品：dangerous chemicals
+农业环境：agricultural environment
+铅锌矿床：lead-zinc deposit
+晚侏罗世：Late Jurassic
+变质核杂岩：Metamorphic core complex
+金精矿：Gold concentrate
+大庆市：Daqing City
+导管架平台：jacket platform
+参数模型：Parameter model
+污闪：pollution flashover
+景观变化：Landscape change
+峰值：peak value
+产能评价：productivity evaluation
+地质处置：geological disposal
+高灵敏度：high sensitivity
+原位测试：in-situ test
+冰芯：ice core
+辐射场：Radiation Field
+系统构建：system construction
+抗滑稳定：stability against sliding
+电流环：current loop
+分布式模型：distributed model
+软件接收机：software receiver
+毛管压力：capillary pressure
+防洪：Flood prevention
+冲击矿压：rock burst
+中生代：Mesozoic Era
+低渗透储层：low permeability reservoir
+博斯腾湖：Bosten Lake
+晶体缺陷：crystal defect
+标准溶液：standard solution
+多项式插值：polynomial interpolation
+储层描述：reservoir description
+功率谱分析：power spectrum analysis
+民勤绿洲：Minqin Oasis
+岩溶区：karst area
+业务模型：business model
+载波：Carrier wave
+径向速度：radial velocity
+数据服务：data service
+频率分辨率：Frequency Resolution
+基因变异：gene mutation
+影像分类：image classification
+固结沉降：consolidation settlement
+局部稳定性：local stability
+谱聚类：spectral clustering
+地下流体：Underground fluid
+义县组：Yixian Formation
+高分辨率层序地层学：high resolution sequence stratigraphy
+成矿规律：metallogenic regularity
+石油地质：petroleum geology
+气象因素：meteorological factor
+岩性油藏：lithologic reservoir
+隶属度：membership grade
+极谱催化波：polarographic catalytic wave
+地震子波：seismic wavelet
+下古生界：Lower Paleozoic
+关中地区：Guanzhong region
+干旱地区：arid area
+遥感影像：remote sensing images
+馆陶组：Guantao Formation
+Fourier变换：Fourier transformation
+虚拟激励法：pseudo excitation method
+X射线粉末衍射：X-ray powder diffraction
+参数匹配：parameter matching
+分层流：stratified flow
+嘉陵江：Jialing River
+西湖：West Lake
+激光跟踪：laser tracking
+植被覆盖：vegetation coverage
+长距离：long distance
+人文地理学：human geography
+多重分形谱：multifractal spectrum
+基本要求：basic requirement
+多径效应：multipath effect
+光强分布：light intensity distribution
+空间推理：spatial reasoning
+漫反射：diffuse reflection
+维管植物：vascular plant
+信息源：Information source
+分层抽样：stratified sampling
+数据更新：data updating
+地籍管理：cadastral management
+土地定级：land grading
+精密单点定位：precise point positioning
+缓存管理：Buffer management
+A型花岗岩：A-type granite
+天津滨海新区：Tianjin Binhai New Area
+砂岩油藏：sandstone reservoir
+普光气田：Puguang Gas Field
+水资源管理：water resource management
+微生物活性：Microbial activity
+变化特征：variation characteristics
+藏北：northern Tibet
+定量计算：quantitative calculation
+地层评价：formation evaluation
+工作方法：working method
+碳循环：carbon cycling
+澜沧江：Lancang River
+位移监测：Displacement monitoring
+Lamb波：Lamb wave
+设计与应用：design and application
+网络化管理：network management
+工程勘察：engineering investigation
+磁组构：magnetic fabric
+乡村景观：Rural landscape
+嵌入维数：embedding dimension
+通径系数：path coefficient
+SH波散射：scattering of SH-wave
+模糊控制系统：fuzzy control system
+灾后重建：post-disaster reconstruction
+广州地铁：Guangzhou Metro
+飞行器控制、导航技术：control and navigation technology of aerocraft
+布局设计：layout design
+道路网：road network
+积雪：snow cover
+精密星历：precise ephemeris
+有机染料：organic dye
+二次生烃：secondary hydrocarbon generation
+生产方式：Production mode
+中国东部：East China
+研究现状：research actuality
+基准面旋回：base level cycle
+可靠性评价：Reliability evaluation
+塑性极限分析：plastic limit analysis
+最大熵原理：maximum entropy principle
+莫尔条纹：moiré fringe
+煤储层：coal reservoir
+勘探前景：exploration prospect
+东莞市：Dongguan city
+油藏类型：reservoir type
+地下水脆弱性：groundwater vulnerability
+模型集成：model integration
+保护措施：protection measure
+冀中坳陷：Jizhong Depression
+熔融共混：melt blending
+化学热力学：chemical thermodynamics
+海洋生态系统：marine ecosystem
+临汾市：Linfen city
+华北地台：North China platform
+动边界：moving boundary
+幂函数：power function
+散射截面：scattering cross section
+化学风化：chemical weathering
+聊城市：Liaocheng city
+Excel软件：Excel software
+应用模型：Application model
+千岛湖：qiandao lake
+洪泽湖：Hongze Lake
+黄淮海平原：Huang-huai-hai Plain
+热通量：Heat flux
+球面波：spherical wave
+土坡稳定：slope stability
+数据场：Data Field
+投影算子：projection operator
+引力场：gravitational field
+大气波导：atmospheric duct
+年降水量：annual precipitation
+原子钟：atomic clock
+旅游信息系统：tourism information system
+地震定位：earthquake location
+地幔对流：mantle convection
+土壤-植物系统：soil-plant system
+旅游环境：tourism environment
+锰矿：Manganese ore
+深水：deep water
+应急系统：emergency system
+吉布斯自由能：Gibbs free energy
+BP神经网络模型：BP neural network model
+数值预报：numerical prediction
+钻具：drilling tool
+变化规律：change law
+城市绿地：urban greenland
+同位素地球化学：isotope geochemistry
+质量模型：quality model
+张峰水库：ZhangFeng reservoir
+信息查询：Information query
+偶氮胂Ⅲ：arsenazo Ⅲ
+应用与发展：application and development
+红层：red beds
+温度影响：temperature effect
+半干旱区：Semi-arid area
+单模光纤：single-mode fiber
+垂直结构：vertical structure
+边界单元法：boundary element method
+Floyd算法：Floyd Algorithm
+施工成本：construction cost
+地形分析：terrain analysis
+对等网：peer-to-peer network
+土工试验：Soil test
+构造柱：constructional column
+矢量传感器：vector sensor
+采样定理：sampling theorem
+矢量图形：Vector graphics
+冷空气：cold air
+岩心分析：core analysis
+矿床成因：genesis of deposit
+罗布泊：Lop Nur
+塔河油田：Tahe Oil Field
+遥感监测：remote sensing
+科学思维：scientific thinking
+液压传动：hydraulic drive
+重金属元素：heavy metal elements
+SOM神经网络：SOM neural network
+分析检测：analysis and determination
+沉积旋回：sedimentary cycle
+蒸汽驱：steam drive
+能量优化：energy optimization
+小波域：wavelet domain
+ZigBee协议：ZigBee protocol
+地下水环境：groundwater environment
+深海采矿：Deep-sea mining
+盐岩：salt rock
+矿物化学：mineral chemistry
+化学元素：chemical elements
+稳定系数：stability factor
+外部成本：External cost
+国际标准：international standards
+长江河口：Changjiang estuary
+光学厚度：optical depth
+气候因子：Climatic factor
+时态GIS：temporal GIS
+模拟信号：analog signal
+构造意义：tectonic significance
+调谐质量阻尼器：tuned mass damper
+数字测图：Digital mapping
+扩展卡尔曼滤波器：extended kalman filter
+物流规划：Logistics Planning
+东亚冬季风：East Asian Winter Monsoon
+梅雨锋：Meiyu front
+激发极化法：induced polarization method
+地质样品：Geological samples
+铀矿化：uranium mineralization
+油砂：oil sand
+环境评价：Environment assessment
+惠民凹陷：Huimin Depression
+水利工程：hydraulic project
+数值算法：numerical algorithm
+复杂地形：complex terrain
+固溶度：solid solubility
+海岸侵蚀：Coastal Erosion
+误差评定：Error evaluation
+置信水平：confidence level
+高分辨率层序地层：high-resolution sequence stratigraphy
+隐蔽圈闭：subtle trap
+西峰油田：Xifeng Oilfield
+科学方法论：scientific methodology
+助磨剂：grinding aids
+流场模拟：flow field simulation
+电气系统：electric system
+表面模型：surface model
+营城组：Yingcheng Formation
+马尔柯夫链：Markov chain
+融合算法：fusion algorithm
+太行山：Taihang mountain
+混合优化：hybrid optimization
+地电阻率：Earth resistivity
+人为因素：human factors
+水敏性：water sensitivity
+自然恢复：Natural restoration
+海平面上升：sea level rise
+高斯函数：Gaussian function
+AutoLisp语言：AutoLisp language
+深度偏移：depth migration
+保护与利用：protection and utilization
+分布式人工智能：distributed artificial intelligence
+丁坝：spur dike
+辐射传输：radiative transfer
+GPS网：GPS network
+地热田：geothermal field
+教学团队：teaching team
+卫星导航系统：satellite navigation system
+遥感卫星：Remote Sensing Satellite
+非稳定渗流：unsteady seepage
+条分法：slice method
+Lagrange插值：Lagrange interpolation
+FAT文件系统：FAT file system
+矩阵光学：matrix optics
+Hawking辐射：hawking radiation
+海洋产业：marine industry
+非线性反演：Nonlinear inversion
+岩浆岩：magmatic rock
+磷灰石裂变径迹：apatite fission track
+天然气管道：gas pipeline
+海底管线：submarine pipeline
+瓦斯突出：gas outburst
+铜矿：copper ore
+化探：geochemical exploration
+有限单元：finite element
+有机氮：organic nitrogen
+北美：North America
+多元统计：multivariate statistics
+百色盆地：Baise Basin
+正演模型：forward model
+蠕变模型：creep model
+断裂系统：fault system
+地球系统：Earth system
+MODIS数据：MODIS data
+实验验证：experimental verification
+环境经济学：environmental economics
+过程方法：process method
+流体性质：fluid property
+图解法：graphical method
+相关分析：related analysis
+塑性应变：plastic strain
+矿床类型：deposit type
+孔隙水：pore water
+分析评价：analysis and evaluation
+西昆仑：West Kunlun
+热点：hot spot
+遗迹化石：trace fossils
+社会调查：social investigation
+规则抽取：rule extraction
+诊断模型：diagnosis model
+政策创新：policy innovation
+锆石U-Pb年龄：zircon U-Pb age
+硬岩：hard rock
+精密定位：precision positioning
+重现期：Return period
+岛弧：island arc
+岩石强度：rock strength
+差分GPS：differential GPS
+技术引进：technology import
+有限差分格式：finite difference scheme
+晚石炭世：Late Carboniferous
+工程地质学：engineering geology
+EOF分析：EOF analysis
+吸积盘：accretion disk
+贝叶斯估计：bayes estimation
+动态规划算法：dynamic programming algorithm
+气象服务：meteorological service
+全文检索：full text retrieval
+径流模拟：runoff simulation
+南海夏季风：South China Sea summer monsoon
+东天山：East Tianshan
+物性：physical properties
+新场气田：Xinchang gas field
+历史地理学：Historical Geography
+发热量：calorific value
+无机陶瓷膜：inorganic ceramic membrane
+聚氨酯泡沫塑料：polyurethane foam
+岩溶地下水：karst groundwater
+判别函数：discriminant function
+走滑断层：strike-slip fault
+泉州湾：Quanzhou Bay
+调整井：adjustment well
+洪灾：Flood disaster
+南秦岭：South Qinling
+NaCl溶液：NaCl solution
+海平面变化：sea-level change
+设计软件：design software
+Matlab程序：matlab program
+网络监测：network monitoring
+马尔科夫模型：Markov model
+逻辑结构：Logic structure
+庐山：Lushan Mountain
+并行效率：parallel efficiency
+耦合矩阵：Coupling matrix
+相似变换：Similarity Transformation
+射电望远镜：radio telescope
+核聚变：nuclear fusion
+人工影响天气：Weather modification
+邯郸市：Handan city
+复杂构造：complex structure
+断块油气藏：fault block reservoir
+地层测试：formation testing
+高含水：high water cut
+西湖凹陷：Xihu Sag
+综合指数：comprehensive index
+应力场：stress fields
+随钻测量：measurement while drilling
+控制算法：control arithmetic
+有效厚度：effective thickness
+应力敏感性：stress sensitivity
+负熵：negative entropy
+大气压：atmospheric pressure
+砂岩型铀矿：sandstone type uranium deposit
+赋存状态：occurrence state
+幅频特性：amplitude-frequency characteristic
+间接法：indirect method
+水足迹：water footprint
+可持续开发：Sustainable development
+风载荷：wind load
+断裂活动：fault activity
+定量遥感：quantitative remote sensing
+交通规划：transport planning
+天气系统：weather system
+时变可靠度：time-dependent reliability
+净初级生产力：Net primary productivity
+轨道确定：Orbit determination
+孢粉分析：pollen analysis
+历史数据：historical data
+光合有效辐射：photosynthetically active radiation
+动力模型：dynamic model
+电磁噪声：electromagnetic noise
+曼彻斯特码：Manchester code
+植被变化：vegetation change
+平差模型：adjustment model
+通信模块：communication module
+混合像元：mixed pixel
+软件模拟：software simulation
+标准贯入试验：standard penetration test
+视频编解码：Video codec
+悬沙浓度：suspended sediment concentration
+地形模型：terrain model
+水汽输送：Water vapor transport
+土地集约利用：intensive land use
+下地壳：lower crust
+土地质量：Land quality
+接口程序：interface program
+感应测井：induction logging
+垂向分布：vertical distribution
+长兴组：Changxing Formation
+几何误差：geometric error
+灰色关联：gray correlation
+吉林油田：Jilin oilfield
+相稳定性：phase stability
+矿物成分：mineral composition
+伊犁盆地：Yili basin
+加速遗传算法：accelerating genetic algorithm
+动态特征：dynamic characteristics
+铁矿：Iron mine
+地震采集：seismic acquisition
+地下水位：ground water level
+找矿前景：prospecting potential
+城市湿地：urban wetland
+测量仪：measuring instrument
+数字化测图：digital mapping
+埋藏史：burial history
+大别造山带：Dabie orogenic belt
+岷江上游：upper reaches of Minjiang River
+疏松砂岩：unconsolidated sandstone
+内摩擦角：Internal friction angle
+干旱指数：drought index
+地震反射：seismic reflection
+改革与实践：Reform and practice
+控制网：control net
+3D模型：3D model
+侏罗系：Jurassic System
+常德市：Changde city
+远程管理：Remote management
+辐射强迫：radiative forcing
+数字传感器：digital sensor
+专利技术：patent technology
+质量评定：quality evaluation
+简化方法：simplified method
+数字成像：digital imaging
+合成地震记录：synthetic seismogram
+配点法：collocation method
+时间域：time domain
+热量平衡：heat balance
+重整化群：renormalization group
+渔船：fishing vessel
+挡墙：retaining wall
+相似系数：similarity coefficient
+参数化模型：parametric model
+定量关系：quantitative relationship
+亮度温度：Brightness temperature
+时间分辨率：time resolution
+协方差函数：covariance function
+科学价值：scientific value
+Fourier分析：Fourier analysis
+空间目标：space object
+渗透变形：seepage deformation
+波浪破碎：wave breaking
+空间信息网格：spatial information grid
+海拔梯度：altitude gradient
+国民素质：national quality
+土地调查：land survey
+裂缝识别：fracture identification
+质量平衡：mass balance
+氧化还原电位：Redox potential
+天然裂缝：natural fracture
+矿产勘查：mineral exploration
+氧化亚铁硫杆菌：Acidithiobacillus ferrooxidans
+剩余油饱和度：residual oil saturation
+采煤：coal mining
+构造特征：Structural features
+储油罐：oil tank
+土地覆被：Land cover
+沾化凹陷：Zhanhua Sag
+资源优势：resource advantage
+农业灌溉：agricultural irrigation
+酸压：acid fracturing
+生态敏感性：ecological sensitivity
+自动提取：automatic extraction
+联合分析：conjoint analysis
+统计特征：Statistical characteristics
+煤系：coal measures
+水土资源：water and soil resources
+乌尔逊凹陷：Wuerxun Depression
+边坡稳定性：Stability of slope
+分形特征：Fractal characteristics
+矿源层：source bed
+地质工程：geological engineering
+投影变换：projection transformation
+德州市：Dezhou City
+磁结构：magnetic structure
+相关系数：coefficient of correlation
+测速：speed measurement
+杨氏模量：young modulus
+资料解释：data interpretation
+长城：the Great Wall
+滑坡灾害：Landslide hazard
+黄土边坡：loess slope
+权向量：weight vector
+训练系统：training system
+盲区：Blind area
+电力通信网：power communication network
+能力谱方法：capacity spectrum method
+风切变：wind shear
+加权函数：weighting function
+相对论平均场：relativistic mean field
+广义奇异值分解：generalized singular value decomposition
+循环谱：cyclic spectrum
+虚拟城市：Virtual City
+采样率：Sampling rate
+湖泊沉积物：Lake sediments
+岩石圈减薄：lithospheric thinning
+油压：oil pressure
+化学沉积：electroless deposition
+大气颗粒物：atmospheric particles
+海河：Haihe River
+高邮凹陷：Gaoyou sag
+冀东油田：Jidong Oilfield
+开发前景：development prospect
+物理吸附：physical adsorption
+页岩气：shale gas
+油田水：oilfield water
+XRD分析：XRD analysis
+石漠化：rock desertification
+煤结构：coal structure
+初次运移：primary migration
+热流：Heat flow
+综合处理：comprehensive treatment
+K-L变换：K-L transformation
+断块：fault block
+运动响应：motion response
+测井仪器：logging tool
+三维有限元：3-D FEM
+洪湖：Honghu Lake
+银矿床：silver deposit
+勘探目标：exploration target
+边坡稳定性分析：slope stability analysis
+热带雨林：tropical rainforest
+多金属结核：polymetallic nodules
+直接测定：Direct determination
+城市地质：urban geology
+缓冲区分析：buffer analysis
+频率分布：frequency distribution
+质量检查：quality inspection
+边坡加固：slope reinforcement
+逻辑模型：logical model
+伽辽金法：Galerkin method
+太平洋：Pacific Ocean
+角度传感器：angle sensor
+ESR测年：ESR dating
+浮游有孔虫：Planktonic foraminifera
+损伤定位：damage localization
+岭估计：ridge estimation
+分析预测：analysis and forecast
+区域分解法：Domain decomposition method
+矩阵变换：matrix transformation
+机械化施工：mechanized construction
+小波重构：wavelet reconstruction
+动力有限元：dynamic finite element
+天线方向图：antenna pattern
+影像分割：image segmentation
+竞争学习：competitive learning
+Ka波段：Ka band
+数据标准：data standard
+云检测：cloud detection
+移动智能体：Mobile agent
+数字化地震台网：Digital seismic network
+海雾：sea fog
+震源深度：focal depth
+Bass模型：Bass model
+解释方法：interpretation method
+高氯酸：perchloric acid
+孔店组：Kongdian Formation
+套损：casing damage
+室内实验：laboratory experiment
+沉积构造：sedimentary structure
+底水：bottom water
+储气库：gas storage
+数值法：Numerical method
+事件树：event tree
+柳州市：Liuzhou City
+流变性质：rheological properties
+纵波：longitudinal wave
+单因素：single factor
+裂谷盆地：rift basin
+定量模型：Quantitative model
+地热井：geothermal well
+随机信号：random signal
+含油率：oil content
+毕节地区：Bijie prefecture
+物质平衡：mass balance
+定向钻进：directional drilling
+温州市：Wenzhou City
+现场监测：in-situ monitoring
+土地利用格局：land use pattern
+树木年轮：tree ring
+季节性变化：seasonal variation
+稳定性控制：stability control
+随机优化：stochastic optimization
+地下采矿：underground mining
+库区：reservoir area
+行业发展：industry development
+热带气旋：Tropical cyclones
+固结系数：coefficient of consolidation
+净辐射：Net radiation
+陡山沱组：Doushantuo formation
+断层泥：Fault gouge
+LU分解：LU decomposition
+燃气管网：Gas network
+信号分离：Signal separation
+重力式挡土墙：gravity retaining wall
+粉质粘土：Silty clay
+相似关系：similarity relation
+土质边坡：soil slope
+海洋文化：marine culture
+饱和-非饱和渗流：saturated-unsaturated seepage
+形式化模型：formal model
+天体力学：Celestial mechanics
+低空急流：low-level Jet
+早更新世：Early Pleistocene
+北极涛动：Arctic Oscillation
+ENSO循环：ENSO cycle
+氢渗透：hydrogen permeation
+低渗透油田：low permeability oilfield
+在线监控：on-line monitoring
+油气运移：oil-gas migration
+混相驱：miscible flooding
+非达西渗流：non-Darcy flow
+晶体形态：crystal morphology
+松辽盆地南部：southern songliao basin
+注入剖面：injection profile
+形成条件：Formation conditions
+钻孔：Drill hole
+原型盆地：prototype basin
+对氨基苯甲酸：p-aminobenzoic acid
+锶同位素：strontium isotope
+西天山：western Tianshan
+人工岛：artificial island
+油气运聚：hydrocarbon migration and accumulation
+自发极化：spontaneous polarization
+贡嘎山：Gongga mountain
+标型特征：typomorphic characteristic
+波前重构：wavefront reconstruction
+插值方法：interpolation method
+SCS模型：SCS model
+相似材料：similar material
+全球定位系统(GPS)：global positioning system (GPS)
+浅水方程：Shallow water equation
+岩石圈地幔：lithospheric mantle
+地层划分：stratigraphic classification
+黄土滑坡：Loess landslide
+小波消噪：wavelet denoising
+热噪声：thermal noise
+传输线理论：transmission line theory
+弱信号：weak signal
+发生规律：occurrence rule
+多点激励：multi-support excitation
+雪灾：snow disaster
+数字社区：Digital Community
+逆控制：inverse control
+数字水准仪：digital level
+伪随机码：pseudo-random code
+尺度参数：scale parameter
+垂直位移：vertical displacement
+开放的复杂巨系统：open complex giant system
+树型结构：tree structure
+输电铁塔：transmission Tower
+卫星高度计：satellite altimeter
+动态法：dynamic method
+均衡分析：equilibrium analysis
+相对渗透率曲线：relative permeability curve
+控制功能：control function
+静态：static state
+低渗透气藏：low permeability gas reservoir
+油气藏类型：reservoir type
+嘉陵江组：Jialingjiang Formation
+共轭梯度法：conjugate gradient algorithm
+三维地震勘探：3D seismic prospecting
+碳汇：carbon sequestration
+二次运移：secondary migration
+总硬度：total hardness
+电阻率测井：resistivity logging
+湿沉降：wet deposition
+硫酸钙：calcium sulphate
+网格法：grid method
+正断层：normal fault
+海拉尔盆地：Hailar Basin
+空冷：air cooling
+额济纳绿洲：Ejina Oasis
+早三叠世：Early Triassic
+坐标转换：Coordinate transform
+傅氏变换：Fourier transform
+Sagnac效应：Sagnac effect
+间隙水：interstitial water
+差分进化算法：differential evolution
+青海高原：Qinghai plateau
+电荷：electric charge
+差异分析：difference analysis
+南中国海：South China Sea
+水动力：hydrodynamic force
+抽样检验：sampling inspection
+时-频分析：time-frequency analysis
+技术研究：Technology research
+冻结壁：frozen wall
+属性识别：Attribute recognition
+管道工程：pipeline engineering
+地电场：Geoelectric field
+资源分布：resource distribution
+水资源利用：utilization of water resources
+误差分布：error distribution
+模拟方法：simulation method
+反循环：reverse circulation
+辐射强度：radiation intensity
+绵阳市：mianyang city
+晶体化学：crystal chemistry
+自旋阀：spin valve
+二次曲面：quadratic surface
+线性分析：linear analysis
+晋城市：Jincheng City
+干扰效应：interference effect
+聚类中心：clustering center
+重点实验室：Key laboratory
+地下热水：geothermal water
+数据质量控制：data quality control
+河流阶地：River terrace
+热机：heat engine
+科学数据：scientific data
+模型重建：model reconstruction
+养护管理：maintenance and management
+遥感图像分类：remote sensing image classification
+危险理论：danger theory
+信号设计：Signal design
+渐进传输：progressive transmission
+地震危险性分析：seismic risk analysis
+服务描述：service description
+土壤水库：soil reservoir
+数字地形模型：digital terrain model
+定性空间推理：qualitative spatial reasoning
+降水预报：precipitation forecast
+构造隆升：tectonic uplift
+磁场重联：Magnetic reconnection
+楚雄盆地：Chuxiong Basin
+识别方法：identification method
+海底管道：subsea pipeline
+气源：gas source
+钻井技术：drilling technology
+八面河油田：Bamianhe Oilfield
+靖边气田：Jingbian Gas Field
+GIS：geographic information system(GIS)
+油源对比：oil source correlation
+辫状河：braided river
+应急指挥：emergency command
+映射函数：mapping function
+洛阳市：Luoyang City
+厚煤层：thick seam
+南黄海：South Yellow Sea
+开发技术：Development technology
+毛乌素沙地：Maowusu sandland
+技术方法：technical method
+物质平衡方程：material balance equation
+围岩压力：surrounding rock pressure
+海流：ocean current
+超深井：ultra-deep well
+物探：geophysical exploration
+开发区：development area
+盆地分析：basin analysis
+全球变化：global changes
+控制标准：control standard
+自组织神经网络：self-organizing neural network
+公共服务体系：public service system
+地热能：geothermal energy
+特征线：Characteristic line
+干扰源：interference source
+连续介质力学：continuum mechanics
+物理量：physical quantity
+信息维数：information dimension
+卫星天线：satellite antenna
+厦门湾：Xiamen Bay
+子波分析：wavelet analysis
+路径选择：route selection
+卓越周期：predominant period
+系泊系统：mooring system
+稳定性条件：stability condition
+频率稳定性：frequency stability
+开关磁阻发电机：switched reluctance generator
+雷达图像：radar image
+城市化进程：Urbanization process
+港口工程：port engineering
+卫星编队飞行：Satellite formation flying
+形变监测：Deformation monitoring
+车载导航系统：vehicle navigation system
+一致性维护：consistency maintenance
+空间域：spatial domain
+发震构造：Seismogenic structure
+夷平面：planation surface
+副高：subtropical high
+环流背景：circulation background
+Rossby波：rossby wave
+地基GPS：ground-based GPS
+斯通利波：Stoneley wave
+下寒武统：Lower Cambrian
+泥质含量：shale content
+瓦斯地质：gas geology
+开发潜力：development potential
+弹塑性有限元：elastic-plastic FEM
+储层伤害：reservoir damage
+断裂构造：fracture structure
+饱和烃：saturated hydrocarbon
+质量损失：mass loss
+环境演化：environmental evolution
+蒸汽吞吐：cyclic steam stimulation
+山区公路：mountainous highway
+高阶统计量：high-order statistics
+井网密度：well spacing density
+原生晕：primary halo
+破裂压力：fracture pressure
+酒泉盆地：Jiuquan basin
+Gompertz模型：Gompertz model
+源岩：source rock
+KL变换：KL transform
+水文模型：hydrologic model
+水质参数：water quality parameter
+P波：P wave
+土地利用/覆盖：land use/cover
+组织模型：organization model
+艾比湖：Ebinur Lake
+喇曼光谱：Raman spectra
+时间变化：temporal variation
+强迫对流：forced convection
+教学基地：teaching base
+数值求解：numerical solution
+滤波算法：filtering algorithm
+输运方程：transport equation
+海浪：ocean wave
+风应力：wind stress
+小波滤波：wavelet filter
+感热通量：Sensible heat flux
+预防维修：preventive maintenance
+速度谱：Velocity Spectrum
+输沙量：sediment discharge
+城乡一体化：integration of urban and rural areas
+相似性测度：Similarity measure
+滑动窗：sliding window
+自主定轨：autonomous orbit determination
+C/A码：C/A code
+多尺度表达：multi-scale representation
+水资源评价：water resources assessment
+损伤指标：damage index
+雷达高度计：radar altimeter
+空间数据引擎：spatial data engine
+滑坡稳定性：landslide stability
+勘测设计：survey and design
+水文水资源：hydrology and water resources
+滑坡监测：landslide monitoring
+广播星历：broadcast ephemeris
+盲信号处理：blind signal processing
+网络互连：Network interconnection
+Java3D：Java 3D
+空间信息服务：spatial information service
+位涡：Potential vorticity
+孔隙介质：porous medium
+核磁共振测井：NMR logging
+河道：river course
+天然气勘探：natural gas exploration
+压力平衡：pressure balance
+动态监控：dynamic monitoring
+含氧量：oxygen content
+保护区：Nature reserve
+陷落柱：subsided column
+非均质油藏：heterogeneous reservoir
+平衡剖面：balanced section
+高密度电法：high density resistivity method
+风险概率：risk probability
+活性白土：activated clay
+矿物质：mineral matter
+地质资料：geological data
+沉积物-水界面：sediment-water interface
+共和盆地：Gonghe basin
+光束法平差：bundle adjustment
+季节变化：seasonal variations
+海相地层：marine strata
+轻烃回收：light hydrocarbon recovery
+真空紫外：vacuum ultraviolet
+技术体系：technological system
+宝浪油田：Baolang oilfield
+典型曲线：typical curve
+波高：wave height
+震源：seismic source
+分布模式：distribution pattern
+臭氧层：ozone layer
+油气远景：Hydrocarbon potential
+形成演化：Formation and evolution
+S变换：S transform
+大雾：heavy fog
+响应特性：response characteristic
+上侏罗统：Upper Jurassic
+分析软件：analysis software
+信息量：Information content
+碱性溶液：Alkaline solution
+深海：deep sea
+熔体结构：melt structure
+惯性测量：Inertial Measurement
+动态更新：dynamic updating
+大陆裂谷：continental rift
+数据维护：data maintenance
+普里兹湾：Prydz Bay
+极大似然法：maximum likelihood method
+裂隙网络：fracture network
+相位同步：phase synchronization
+广义线性模型：Generalized linear model
+野外实习：field practice
+折减系数：reduction factor
+质量监理：quality supervision
+网络分析法：analytic network process
+发现概率：detection probability
+交通系统：transportation system
+潼关高程：Tongguan elevation
+内点算法：interior point algorithm
+增量更新：incremental update
+干旱监测：Drought monitoring
+有效波高：significant wave height
+变分同化：variational assimilation
+Born近似：Born approximation
+WRF模式：WRF model
+高矿化度：high salinity
+铀矿：Uranium deposit
+生物反应器填埋场：bioreactor landfill
+瞬时相位：instantaneous phase
+三角洲前缘：delta front
+湖底扇：sublacustrine fan
+侵蚀机理：corrosion mechanism
+曲流河：meandering river
+底水油藏：bottom water reservoir
+井壁稳定：borehole stability
+模糊集理论：fuzzy sets theory
+直井：vertical well
+胶莱盆地：Jiaolai Basin
+灾害链：disaster chain
+嘉兴市：Jiaxing City
+深层地下水：deep groundwater
+构造圈闭：structural trap
+铁氧化物：iron oxides
+水压致裂：hydraulic fracturing
+水生植被：Aquatic vegetation
+象山港：Xiangshan bay
+碳酸盐岩油藏：carbonate reservoir
+偏心结构：eccentric structure
+平均值：average value
+螺旋结构：helical structure
+井壁：shaft lining
+地层格架：stratigraphic framework
+环境外交：environmental diplomacy
+三维地质模型：3D geological model
+埋地管线：buried pipeline
+分析计算：analysis and calculation
+有机岩石学：organic petrology
+中三叠世：Middle Triassic
+GPS技术：GPS technique
+岩石损伤：rock damage
+加权平均法：weighted average method
+地质遗迹：geological relics
+导热率：thermal conductivity
+SPAR平台：SPAR platform
+平均速度：average velocity
+模糊子集：Fuzzy subset
+基础数据：basic data
+区域填充：region filling
+勘察设计：survey and design
+耦合作用：coupling effect
+扩频通信：spread spectrum communications
+卫星定位：satellite positioning
+早前寒武纪：Early Precambrian
+Schrdinger方程：Schrdinger equation
+生境破碎化：Habitat fragmentation
+等效阻尼比：equivalent damping ratio
+校准方法：calibration method
+热力学第二定律：The Second Law of thermodynamics
+电感耦合等离子体质谱法：inductively coupled plasma mass spectrometry
+波形反演：Waveform inversion
+热压缩：hot compression
+教学体会：teaching experience
+中山站：Zhongshan Station
+气候预测：climate prediction
+混沌优化算法：Chaos optimization algorithm
+教学实习：teaching practice
+场地条件：Site condition
+卫星姿态：satellite attitude
+供水工程：water supply project
+紧凑城市：compact city
+年径流：annual runoff
+标度因数：scale factor
+锁定放大器：lock-in amplifier
+线程同步：thread synchronization
+UKF：unscented Kalman filter
+非饱和渗流：unsaturated seepage
+水下航行体：underwater vehicle
+信号模拟器：signal simulator
+内存映射：memory mapping
+单频：single frequency
+辽东半岛：Liaodong Peninsula
+视应力：apparent stress
+形状分析：shape analysis
+概率空间：probability space
+旅游流：tourist flow
+区域气候：Regional climate
+早石炭世：Early Carboniferous
+光束传输：beam propagation
+天文学史：history of astronomy
+岩性识别：lithologic identification
+光谱特征：Spectral characteristics
+人工神经网络(ANN)：Artificial Neural Network(ANN)
+电法勘探：Electrical Prospecting
+清洁发展机制：Clean Development Mechanism(CDM)
+定量解释：quantitative interpretation
+德兴铜矿：Dexing copper mine
+气流：air flow
+太原盆地：Taiyuan Basin
+渗流模型：percolation model
+生态环境质量：eco-environmental quality
+土地沙化：land desertification
+起动过程：starting process
+零点漂移：zero drift
+大型：large scale
+六偏磷酸钠：sodium hexametaphosphate
+点群：point group
+城市河道：urban river
+水文地质条件：hydrogeological conditions
+矿床模型：Deposit model
+中原油田：Zhongyuan oil field
+单井：single well
+秦岭造山带：Qinling Orogen
+藏南：southern Tibet
+温度效应：temperature effects
+调度系统：dispatching system
+测量装置：measuring device
+基本特征：basic character
+回顾与展望：review and prospect
+地化录井：geochemical logging
+东昆仑：eastern Kunlun
+液态烃：liquid hydrocarbon
+指数模型：exponential model
+区域地质调查：regional geological survey
+新疆北部：northern Xinjiang
+模型应用：model application
+辅助决策：assistant decision
+城市灾害：urban disaster
+地表水资源：surface water resources
+脆弱性评价：vulnerability assessment
+分维值：fractal dimension
+银川平原：Yinchuan Plain
+导线测量：traverse survey
+锆石U-Pb定年：zircon U-Pb dating
+城市气候：urban climate
+水动力模型：hydrodynamic model
+实时校正：real-time correction
+地质填图：geological mapping
+稀土元素地球化学：REE geochemistry
+热液蚀变：Hydrothermal alteration
+西北：northwest China
+坡地：sloping land
+森林资源管理：Forest resource management
+管理职能：Management function
+理想模型：ideal model
+气象数据：Meteorological Data
+动应变：Dynamic strain
+观测资料：observation data
+Gamma分布：Gamma distribution
+二进制：binary system
+湍流强度：turbulence intensity
+区域构造：regional structure
+存储管理：memory management
+数据编码：data coding
+Hilbert谱：Hilbert Spectrum
+替代数据：surrogate data
+数字高程模型(DEM)：digital elevation model(DEM)
+谐波畸变：harmonic distortion
+相对导航：Relative navigation
+海岸工程：coastal engineering
+砖砌体：brick masonry
+振动台模型试验：shaking table model test
+大地高：geodetic height
+分频：frequency division
+圈梁：ring beam
+Kuhn-Tucker条件：Kuhn-Tucker condition
+异步交互：asynchronous interaction
+滑动速率：slip rate
+服务策略：service strategy
+移动应用：Mobile application
+嵌入式地理信息系统：embedded GIS
+语义映射：semantic mapping
+地图设计：map design
+对地观测：earth observation
+薄层：thin bed
+振动疲劳：vibration fatigue
+气层：gas reservoir
+三维空间：three-dimensional space
+参数优选：parameter optimization
+大民屯凹陷：Damintun Sag
+煤质分析：coal quality analysis
+生态安全评价：ecological security assessment
+物质平衡法：material balance method
+生烃：hydrocarbon generation
+黑色页岩：Black shale
+供水管网：water distribution network
+能量守恒：Conservation of energy
+元素硫：elemental sulfur
+农田灌溉：farmland irrigation
+潜江凹陷：Qianjiang depression
+储层反演：reservoir inversion
+聚煤作用：coal accumulation
+山地城市：Mountain city
+保护对策：protection countermeasures
+青山口组：Qingshankou Formation
+水污染防治：water pollution control
+气井产能：gas well productivity
+减压膜蒸馏：vacuum membrane distillation
+应力降：Stress drop
+三维模拟：Three-dimensional simulation
+OH自由基：OH radical
+K值：K value
+滩涂：tidal flat
+模拟退火法：simulated annealing algorithm
+空间信息技术：spatial information technology
+活动断裂：Active faults
+定量测量：quantitative measurement
+底水锥进：bottom water coning
+大连湾：Dalian Bay
+Bessel函数：Bessel function
+直线拟合：linear fitting
+盐酸羟胺：hydroxylamine hydrochloride
+数据流程：data flow
+地震地层学：seismic stratigraphy
+岷江：Minjiang River
+振幅比：amplitude ratio
+加工利用：processing and utilization
+二相流：two-phase flow
+西藏高原：Tibet Plateau
+GPS监测：GPS monitoring
+三相流：three-phase flow
+随机介质：random medium
+地震记录：seismic record
+非连续变形分析：discontinuous deformation analysis
+上海地区：Shanghai area
+地表反照率：surface albedo
+综合信息：comprehensive information
+侵入岩：intrusive rock
+南京：Nanjing city
+软件应用：software application
+分类标准：classification standard
+土地利用方式：land use type
+大陆架：Continental shelf
+非线性耦合：nonlinear coupling
+数据重构：data reconstruction
+系数矩阵：coefficient matrix
+基线漂移：baseline drift
+等离子体密度：plasma density
+空气温度：air temperature
+经济基础：economic basis
+逻辑回归：logistic regression
+GPS导航：GPS navigation
+渗透力：seepage force
+分解算法：decomposition algorithm
+冲击荷载：impact loading
+桥梁健康监测：bridge health monitoring
+风场模拟：wind field simulation
+新安江模型：Xin anjiang model
+孔压：pore pressure
+水库大坝：reservoir dam
+GIS数据：GIS data
+历史洪水：historical flood
+高坝：high dam
+建筑物提取：building extraction
+方差分量：variance components
+大陆岩石圈：continental lithosphere
+混合噪声：mixed noise
+岳阳市：Yueyang city
+冷锋：cold front
+地质教育：geological education
+模式搜索：pattern search
+石油测井：petroleum logging
+下二叠统：Lower Permian
+系统误差：systematic errors
+大气探测：atmospheric sounding
+钻井设计：drilling design
+自升式平台：jack-up platform
+低渗：low permeability
+氮气：Nitrogen gas
+浮选分离：floatation separation
+体积密度：Bulk density
+飞行时间质谱：time-of-flight mass spectrometry
+淄博市：Zibo City
+压缩因子：compressibility factor
+峨眉山玄武岩：Emeishan basalt
+日变化：daily change
+潜在生态风险：potential ecological risk
+技术问题：technical problem
+分布式水文模型：distributed hydrologic model
+压力预测：pressure prediction
+蓬莱镇组：Penglaizhen Formation
+锰矿石：manganese ore
+找矿意义：prospecting significance
+磷矿石：phosphate rock
+监测技术：Monitoring technique
+蒸馏水：distilled water
+基本参数：basic parameter
+电阻率法：resistivity method
+储层敏感性：reservoir sensitivity
+差示分光光度法：differential spectrophotometry
+深井钻井：deep drilling
+生态区划：ecological regionalization
+饱和压力：saturation pressure
+关中盆地：Guanzhong Basin
+激光扫描仪：laser scanner
+震害预测：earthquake disaster prediction
+年变化：Annual variation
+凝固点：Freezing point
+师范院校：normal universities
+深圳湾：Shenzhen Bay
+GPSRTK：GPS RTK
+监测站：monitoring station
+悬移质：suspended sediment
+长大隧道：long tunnel
+速度梯度：velocity gradient
+地域分布：regional distribution
+质谱仪：mass spectrometer
+中国西北地区：Northwest China
+专题图：Thematic map
+训练样本：training sample
+临界深度：critical depth
+东亚地区：East Asia
+生物硅：Biogenic silica
+垂直速度：vertical velocity
+开发与保护：Development and protection
+非线性估计：nonlinear estimation
+误差椭圆：error ellipse
+异步通讯：asynchronous communication
+FIR滤波：FIR filter
+Hilbert曲线：Hilbert curve
+水文预报：hydrological forecasting
+河床演变：fluvial processes
+最高气温：maximum temperature
+共轭梯度算法：conjugate gradient algorithm
+数据标准化：data standardization
+波浪绕射：wave diffraction
+数据调度：data scheduling
+路灯：street lamp
+非线性最优化：nonlinear optimization
+传输协议：transmission protocol
+视频数据库：video database
+GPS测量：GPS measurement
+土壤墒情：soil moisture
+地震台网：seismic network
+地籍信息系统：cadastral information system
+Henon映射：Henon map
+土地信息系统：Land Information System
+极端降水：Extreme precipitation
+专利地图：patent map
+海气相互作用：air-sea interaction
+考据：textual research
+水稳性：Water stability
+屏蔽效应：shielding effect
+重大危险源：major hazards
+边水：edge water
+油气预测：hydrocarbon prediction
+概率积分法：Probability integral method
+处理技术：processing technology
+生态系统服务价值：ecosystem services value
+地表变形：surface deformation
+倾角：inclination angle
+悬浮物：suspended solids
+包气带：vadose zone
+云南地区：Yunnan area
+能量转换：energy transformation
+喇嘛甸油田：Lamadian oilfield
+下三叠统：Lower Triassic
+地方病：endemic diseases
+润湿角：wetting angle
+测井评价：log evaluation
+时移地震：time-lapse seismic
+硫化物：sulfur compounds
+天然焦：natural coke
+碳同位素：carbon isotopes
+体积模量：bulk modulus
+波浪载荷：wave load
+直接线性变换：direct linear transformation
+套管：casing pipe
+上白垩统：Upper Cretaceous
+临盘油田：Linpan Oilfield
+镜质组反射率：Vitrinite reflectance
+土壤样品：Soil sample
+砂金：placer gold
+成岩环境：diagenetic environment
+C/N：C/N ratio
+Kriging模型：Kriging model
+修井机：workover rig
+潜山油藏：buried hill reservoir
+重力场：gravitational field
+石英脉：quartz vein
+轻质油：light oil
+碎屑岩储层：clastic reservoir
+不确定信息：uncertain information
+航磁异常：aeromagnetic anomaly
+计算程序：calculating program
+中子发生器：neutron generator
+软件编程：software programming
+复杂地表：complex surface
+有机聚合物：organic polymer
+石油勘探：oil exploration
+蒙特卡洛方法：Monte-Carlo method
+高层次人才：high-level talents
+研究趋势：research trend
+边坡变形：slope deformation
+监测网：monitoring network
+研究意义：research significance
+静力学分析：static analysis
+变形场：Deformation field
+地震剖面：seismic profile
+B-P算法：B-P algorithm
+大陆边缘：continental margin
+地面站：ground station
+影像处理：image processing
+信息发布：information release
+淮北市：Huaibei City
+酒西盆地：Jiuxi Basin
+AutoLISP：auto LISP
+非参数检验：nonparametric test
+面积测量：area measurement
+投资模型：investment model
+预测误差：Prediction error
+诊断分析：Diagnosis analysis
+反应扩散系统：reaction diffusion system
+参数研究：parameter study
+超短脉冲：ultra-short pulse
+系统体系结构：system architecture
+岩石磁学：rock magnetism
+风能资源：wind energy resources
+度量模型：measurement model
+空间数据集成：spatial data integration
+地下水水位：groundwater level
+辐射雾：radiation fog
+水团：water mass
+跟踪精度：Tracking precision
+余流：residual current
+雨强：rainfall intensity
+热红外遥感：Thermal infrared remote sensing
+时间差：time difference
+静电感应：electrostatic induction
+拉尼娜：La Nina
+设计矩阵：design matrix
+空间相干性：spatial coherence
+姿态角：attitude angle
+RS485：RS 485
+空间天气：space weather
+局域波：local wave
+滑坡治理：landslide treatment
+MATLAB工具箱：MATLAB Toolbox
+决策树分类：decision tree classification
+土地登记：land registration
+相位中心：Phase center
+降雨入渗：rain infiltration
+探索性分析：exploratory analysis
+快速捕获：fast acquisition
+增长模型：growth model
+强余震：strong aftershock
+吸附模型：adsorption model
+土地资源管理：land resource management
+模糊隶属度函数：fuzzy membership function
+天池火山：Tianchi volcano
+格罗夫山：Grove Mountains
+事件视界：event horizon
+城市边界层：urban boundary layer
+兰坪盆地：Lanping Basin
+关联度：related degree
+阵列感应测井：array induction logging
+煤矸石：coal refuse
+海域：sea area
+铁精矿：iron ore concentrate
+气田开发：gas field development
+本质安全：inherent safety
+大风：strong wind
+浊积扇：turbidite fan
+水动力条件：hydrodynamic condition
+二分法：bisection method
+油气生成：hydrocarbon generation
+平原水库：plain reservoir
+多源数据：multi-source data
+油藏评价：reservoir evaluation
+地震沉积学：seismic sedimentology
+悬浮颗粒物：suspended particulate matter
+空间分异：spatial variation
+东辛油田：Dongxin oilfield
+钻井工艺：drilling technology
+盐构造：salt structure
+烷基苯：alkyl benzene
+勘探评价：exploration evaluation
+梅州市：Meizhou city
+石油地质学：petroleum geology
+政策模拟：Policy Simulation
+华北油田：Huabei Oilfield
+钨矿床：tungsten deposit
+中侏罗统：Middle Jurassic
+多维模型：multidimensional model
+控制作用：control effect
+有机相：organic phase
+X射线荧光分析：X-ray fluorescence analysis
+大规模：large scale
+容积法：volumetric method
+偏移速度分析：migration velocity analysis
+弧长：arc length
+最大Lyapunov指数：the largest Lyapunov exponent
+电磁振动：electromagnetic vibration
+业务系统：operational system
+柱撑蒙脱石：pillared montmorillonite
+沃尔什函数：Walsh function
+自然因素：natural factors
+应力释放：stress release
+半干旱地区：semi-arid area
+动态数据库：Dynamic database
+系统参数：system parameters
+恒压：constant voltage
+平均温度：average temperature
+技术风险：technical risk
+空间统计：spatial statistics
+成岩演化：diagenetic evolution
+参数率定：parameter calibration
+约束反演：constrained inversion
+马家沟组：Majiagou formation
+地震层序：seismic sequence
+评价矩阵：Evaluation matrix
+逆温层：Inversion layer
+地磁异常：geomagnetic anomaly
+基本方法：Basic method
+科学思想：scientific thought
+样本熵：sample entropy
+机制分析：Mechanism analysis
+陷波器：notch filter
+微分进化算法：differential evolution algorithm
+H∞滤波：H∞ filtering
+超静孔隙水压力：excess pore water pressure
+月球探测器：Lunar probe
+启发函数：heuristic function
+移动定位：mobile location
+年径流量：annual runoff
+科学实践：scientific practice
+土地储备：land banking
+激励函数：activation function
+激光测距仪：laser range finder
+模型空间：model space
+多径传播：multipath propagation
+被动微波遥感：passive microwave remote sensing
+几何畸变：geometric distortion
+平方根：square root
+卫星云图：satellite cloud image
+钙质砂：calcareous sand
+旅游网站：tourism website
+黑洞熵：black hole entropy
+断层形变：fault deformation
+热带山地雨林：Tropical montane rain forest
+Hf同位素：Hf isotope
+恒星形成：star formation
+双侧向测井：dual laterolog
+低渗油藏：low permeability reservoir
+石墨炉原子吸收：Graphite furnace atomic absorption spectrometry
+低渗透率：low permeability
+稠油：thick oil
+伴生气：associated gas
+煤层厚度：coal seam thickness
+降温速率：Cooling rate
+渤海湾盆地：Bohaiwan Basin
+储集层预测：Reservoir prediction
+地震监测：seismic monitoring
+敏感性评价：sensitivity evaluation
+白层：white layer
+重力流：gravity flow
+地质因素：geological factors
+水井：water well
+排替压力：displacement pressure
+长江流域：Yangtze valley
+水质指标：Water quality index
+反演分析：inversion analysis
+济宁市：Jining City
+综合应用：Comprehensive application
+广州地区：Guangzhou area
+钻铤：Drill collar
+覆盖率：coverage rate
+压裂：hydraulic fracturing
+芳香烃：aromatic hydrocarbon
+有机碳同位素：organic carbon isotope
+大别山：Dabie Mountain
+应急疏散：Emergency Evacuation
+四杆机构：four-bar mechanism
+岩石应力：rock stress
+含气饱和度：gas saturation
+地浸采铀：in-situ leaching of uranium
+湘南：southern Hunan
+成因模式：genetic model
+总铬：total chromium
+白云鄂博：Bayan Obo
+计算软件：calculation software
+储集岩：reservoir rock
+排烃：hydrocarbon expulsion
+油气检测：hydrocarbon detection
+定量指标：quantitative index
+枣庄市：Zaozhuang city
+《京都议定书》：Kyoto Protocol
+高陡边坡：high and steep slope
+边界提取：boundary extraction
+选择方法：selection method
+复电阻率：complex resistivity
+区域地质：regional geology
+时深转换：Time-depth conversion
+剪应变：shear strain
+岱海：Daihai Lake
+顶板稳定性：roof stability
+框架模型：Framework model
+沉积岩：sedimentary rock
+相对定位：relative positioning
+试验数据：test data
+AVO反演：AVO inversion
+潜水：phreatic water
+相机检校：camera calibration
+陆相盆地：continental basin
+约束方程：constraint equation
+舟山群岛：Zhoushan Archipelago
+岩溶洞穴：karst cave
+滑动面：Slip surface
+设施农业：protected agriculture
+预应力锚索：prestressed anchor rope
+异常分析：anomaly analysis
+VB程序：VB program
+地基稳定性：foundation stability
+噪声干扰：noise interference
+采样间隔：sampling interval
+板块运动：plate movement
+土壤热通量：Soil heat flux
+潮汐河口：tidal estuary
+天然矿泉水：natural mineral water
+单历元：single epoch
+变形监测：deformation monitor
+历史分析：historical analysis
+位场：potential field
+Rayleigh波：Rayleigh wave
+气候资源：climatic resource
+原始数据：raw data
+知识可视化：knowledge visualization
+信息共享平台：information sharing platform
+铅含量：lead content
+防汛：flood prevention
+雷电定位系统：lightning location system
+数字化测量：digital measurement
+季节性冻土：seasonal frozen soil
+镜头畸变：lens distortion
+带通滤波：Band-pass filter
+岩溶水系统：karst water system
+道路施工：road construction
+非稳定流：unsteady flow
+应用层多播：application layer multicast
+地震安全性评价：seismic safety evaluation
+载波频偏：carrier frequency offset
+富客户端：rich client
+景观要素：landscape element
+声学测量：acoustic measurement
+饱和黄土：saturated loess
+地形建模：terrain modeling
+地图服务：map service
+数字地形分析：digital terrain analysis
+岩石类型：rock type
+地图数据库：map database
+火山喷发：volcanic eruption
+西南季风：southwest monsoon
+干侵入：dry intrusion
+热带风暴：tropical storm
+东南极：East Antarctica
+南亚：South Asia
+深层：deep formation
+阜新盆地：Fuxin basin
+北秦岭：North Qinling
+科尔沁沙地：Horqin Sand Land
+油气藏：oil and gas pool
+涡轮流量计：turbine flowmeter
+颗粒流：particle flow
+蚂蚁算法：ant colony algorithm
+成矿模式：metallogenetic model
+地震速度：seismic velocity
+拓扑空间：topological spaces
+逆冲断层：thrust fault
+表层土壤：surface soil
+结构原理：structure principle
+历史拟合：history matching
+氟含量：fluorine content
+油藏地球化学：Reservoir geochemistry
+套管变形：casing deformation
+结构改进：structural improvement
+流入动态：inflow performance
+低伤害：low damage
+结构材料：structural material
+地震数据采集：seismic data acquisition
+东营市：Dongying city
+PE管：PE pipe
+地下水补给：groundwater recharge
+吉林：Jilin Province
+等高线：contour lines
+滑脱效应：slippage effect
+实验分析：experiment analysis
+环境史：environmental history
+二维模型：two-dimensional model
+水质变化：water quality change
+相似原理：similarity principle
+二层规划：bi-level programming
+重庆地区：Chongqing Area
+生物地球化学循环：biogeochemical cycle
+化学特征：chemical characteristics
+气体泄漏：gas leakage
+概念模型：conception model
+压力系统：pressure system
+东河砂岩：Donghe sandstone
+成矿特征：metallogenic characteristics
+可再生资源：renewable resources
+盐渍土：Salty soil
+文留油田：Wenliu Oilfield
+估算方法：estimation method
+未确知有理数：unascertained rational number
+竖向设计：Vertical design
+岩石物理：rock physics
+校正方法：correction method
+工作流程：Working process
+波场分离：wave field separation
+辫状河三角洲：braided river delta
+离散单元法：distinct element method
+地质雷达：geologic radar
+地壳演化：crustal evolution
+新生代：Cenozoic era
+突破压力：breakthrough pressure
+中子管：neutron tube
+规划管理：planning and management
+工程地质问题：engineering geological problem
+空间曲线：space curve
+冬季风：winter monsoon
+横向分布：transverse distribution
+屈服函数：yield function
+CCD图像：CCD image
+河流系统：river system
+岩石变形：rock deformation
+随机参数：random parameter
+工程特性：engineering characteristic
+大气质量：air quality
+低信噪比：low signal-to-noise ratio
+景观空间格局：landscape spatial pattern
+汾河水库：Fenhe Reservoir
+邢台市：Xingtai City
+白令海：Bering sea
+电路原理：circuit principle
+研究内容：research contents
+非线性过程：nonlinear process
+区域特征：regional characteristics
+盆地类型：basin type
+指标分析：index analysis
+景观资源：landscape resource
+冲击能：Impact energy
+Windows平台：Windows platform
+铜矿石：Copper ore
+地震资料解释：seismic data interpretation
+核心课程：core curriculum
+工作模式：work mode
+模糊线性回归：fuzzy linear regression
+负相关：Negative correlation
+日冕物质抛射：coronal mass ejection
+灵敏度矩阵：sensitivity matrix
+冰灾：ice disaster
+多路径效应：multipath effect
+符号库：symbol library
+洪水模拟：flood simulation
+相对位置：relative position
+激光测距机：Laser range finder
+车辆监控系统：vehicle monitoring system
+最低气温：minimum temperature
+中原城市群：Zhongyuan urban agglomeration
+本体集成：ontology integration
+机载激光雷达：Airborne Lidar
+压水试验：water pressure test
+无缝集成：seamless integration
+群速：group velocity
+空间演化：spatial evolution
+承压含水层：confined aquifer
+态势分析：situation analysis
+航空摄影测量：aerial photogrammetry
+有效压力：effective pressure
+风场反演：wind retrieval
+Socket通信：Socket communication
+相对定向：relative orientation
+土地利用数据库：land use database
+台风路径：typhoon track
+环流特征：Circulation characteristic
+土壤物理性质：soil physical property
+Morison方程：morison equation
+湍流大气：turbulent atmosphere
+大暴雨：heavy rainstorm
+亚洲夏季风：Asian summer monsoon
+地震矩：Seismic moment
+地震台阵：seismic array
+风暴轴：storm track
+地震危险区：Seismic risk region
+香溪河：Xiangxi River
+模型研究：model study
+油藏模拟：reservoir simulation
+上覆水：overlying water
+硫酸盐还原菌：sulfate-reducing bacteria(SRB)
+水源地：water source area
+类比法：analogy method
+排水采气：drainage gas recovery
+岩石破碎：rock breaking
+资源量：resource extent
+难处理金矿：refractory gold ore
+三维结构：3D structure
+火山岩气藏：volcanic gas reservoir
+地应力测量：in-situ stress measurement
+耦合关系：coupling relation
+瞬变电磁场：transient electromagnetic field
+RS和GIS：RS and GIS
+显气孔率：Apparent porosity
+神东矿区：Shendong mining area
+外推法：Extrapolation Method
+IPR曲线：IPR curve
+接收系统：receiving system
+确定方法：determination method
+罗源湾：Luoyuan Bay
+异常数据：abnormal data
+珠江口：Zhujiang Estuary
+热液矿床：hydrothermal deposit
+车镇凹陷：Chezhen sag
+连续测定：Continuous determination
+水花生：alternanthera philoxeroides
+三角洲相：Delta Facies
+PVC：polyvinyl chloride
+湄洲湾：Meizhou Bay
+裂缝性储集层：fractured reservoir
+衰减率：attenuation rate
+速度反演：velocity inversion
+九佛堂组：Jiufotang Formation
+薄互层：Thin interbed
+青西油田：Qingxi oilfield
+地质图：geological map
+应急反应：emergency response
+主成分分析(PCA)：principal component analysis(PCA)
+哀牢山：Ailao Mountain
+天然气藏：gas reservoir
+热水沉积：hydrothermal sediment
+扩展Kalman滤波：Extended Kalman filter
+砾岩油藏：conglomerate reservoir
+激光诱导击穿光谱：laser-induced breakdown spectroscopy
+油源：oil source
+断陷：fault depression
+频散曲线：dispersion curves
+场论：field theory
+昆明盆地：Kunming basin
+民和盆地：Minhe basin
+信息网：Information network
+演化规律：evolution law
+遥感模型：Remote sensing model
+环境梯度：environmental gradient
+数据采集器：data collector
+GPS系统：GPS system
+空间信息系统：spatial information system
+风洞模拟：wind tunnel simulation
+临界频率：critical frequency
+地震活动：earthquake activity
+绿岩带：greenstone belt
+误差源：error source
+不可逆热力学：irreversible thermodynamics
+力学效应：mechanical effect
+混合层：Mixed layer
+风险度：risk degree
+Love波：Love wave
+引潮力：Tidal force
+对流边界层：convective boundary layer
+目视解译：visual interpretation
+模糊评价模型：Fuzzy evaluation model
+双频：dual frequency
+动水压力：Dynamic water pressure
+航空遥感：airborne remote sensing
+莫高窟：Mogao Grottoes
+元素丰度：element abundance
+轴比：axial ratio
+中暑：heat stroke
+数据检索：Data Retrieval
+纵断面：vertical section
+信号提取：signal extraction
+城市规划管理：urban planning management
+本征正交分解：proper orthogonal decomposition
+滑转率：slip ratio
+QuickBird影像：QuickBird image
+地形指数：topographic index
+桩基施工：pile foundation construction
+暴雨洪水：storm flood
+流动不稳定性：Flow instability
+航迹规划：trajectory planning
+ArcGISEngine：ArcGIS Engine
+数字海洋：Digital Ocean
+栈桥：trestle bridge
+运输需求：transportation demand
+水动力系数：hydrodynamic coefficients
+Gumbel分布：Gumbel distribution
+电离层暴：ionospheric storm
+影像配准：image registration
+滑动平均：moving average
+松耦合：loose coupling
+精密定轨：precise orbit determination
+数字相关器：digital correlator
+光学遥感：optical remote sensing
+箱形基础：box foundation
+数据加载：data loading
+数字海图：digital chart
+对流层延迟：Tropospheric Delay
+人工增雨：precipitation enhancement
+地表破裂：surface rupture
+任务模型：Task model
+空间元数据：spatial metadata
+网格GIS：grid GIS
+高性能计算机：high performance computer
+卫星移动通信：mobile satellite communication
+格式塔心理学：Gestalt Psychology
+越赤道气流：Cross-equatorial flow
+天山云杉：Picea schrenkiana
+晚全新世：Late Holocene
+鸡西盆地：Jixi Basin
+教师知识：teacher knowledge
+颗粒粒度：particle size
+激发极化：induced polarization
+地幔热柱：mantle plume
+数字处理：digital processing
+发展道路：development path
+水淹层：water-flooded zone
+束缚水：bound water
+灯影组：Dengying Formation
+致密储层：tight reservoir
+普查：general investigation
+井距：well spacing
+颗粒分布：particle distribution
+控矿构造：ore-control structure
+发展史：developing history
+预裂爆破：pre-split blasting
+灾害预测：disaster prediction
+成藏条件：reservoir-forming condition
+恢复系数：restitution coefficient
+涌水量：water inflow
+阳离子交换容量：cation exchange capacity
+灾害防治：disaster prevention
+碳酸盐岩油气藏：carbonate reservoir
+合成记录：synthetic seismogram
+注采比：injection-production ratio
+有效孔隙度：effective porosity
+矿山测量：mine surveying
+热成熟度：thermal maturity
+船舶安全：ship safety
+环境质量评价：environmental quality evaluation
+变形特征：deformation characteristic
+激光拉曼光谱：Laser Raman spectra
+八道湾组：Badaowan Formation
+饱和指数：saturation index
+感潮河段：tidal reach
+石油射孔：petroleum perforation
+生态与环境：ecology and environment
+次生灾害：secondary disaster
+氮同位素：nitrogen isotope
+风速：air velocity
+递减率：decline rate
+地质储量：geological reserves
+行业标准：trade standard
+全球气候变暖：global warming
+应用开发：application development
+配套技术：matching technology
+侧向力：side force
+运移通道：migration pathway
+Kriging方法：Kriging method
+定量评估：quantitative assessment
+灾害评估：disaster evaluation
+内河：Inland river
+注入水：injected water
+互相关函数：cross correlation function
+渤中坳陷：Bozhong depression
+同位素组成：isotopic composition
+拟合精度：fitting precision
+危岩：dangerous rock
+参数选择：parameters selection
+测量原理：measuring principle
+滇西北：northwestern Yunnan
+地形校正：topographic correction
+径流变化：runoff variation
+湍流混合：turbulent mixing
+模式分析：mode analysis
+图形数据库：graphic database
+中国科学院：Chinese Academy of Sciences
+成因矿物学：genetic mineralogy
+属性分析：attribute analysis
+浅层地震勘探：shallow seismic exploration
+浅水湖泊：shallow lakes
+勘查地球化学：Exploration geochemistry
+弹性参数：elastic parameter
+解析表达式：analytical expression
+限速：speed limit
+高放废物：high level radioactive waste
+徐深气田：Xushen gas field
+碳收支：carbon budget
+希尔伯特变换：Hilbert transformation
+命中率：hit rate
+环流形势：Circulation pattern
+岩浆演化：Magmatic evolution
+材料阻尼：material damping
+下奥陶统：lower Ordovician
+水文地质参数：hydrogeological parameter
+经济建设：Economic development
+大比例尺：large scale
+郯庐断裂带：Tanlu fault zone
+攀枝花市：Panzhihua city
+图像信息：image information
+地质演化：geological evolution
+南海南部：Southern South China Sea
+昆明地区：Kunming area
+盐水入侵：saltwater intrusion
+粗差：gross errors
+散射理论：scattering theory
+政策扶持：policy support
+遗产廊道：heritage corridor
+中尺度模式：mesoscale model
+树轮：Tree ring
+热对流：thermal convection
+标度指数：scaling exponent
+职业技能：Professional skills
+车辆定位：vehicle positioning
+多场耦合：Multi-field coupling
+波浪能：wave energy
+整体稳定性：overall stability
+形变场：deformation field
+施工控制网：construction control network
+高分辨率遥感：High resolution remote sensing
+搜索空间：search space
+奇异谱分析：singular spectrum analysis
+天文望远镜：astronomical telescope
+TBM施工：TBM construction
+旋转矩阵：rotation matrix
+剪切流：shear flow
+平均路径长度：average path length
+水文时间序列：hydrological time series
+LZW算法：LZW algorithm
+文档对象模型：Document Object Model
+高填方：high fill
+Hopfield模型：Hopfield model
+水面蒸发：water surface evaporation
+辐射测量：radiation measurement
+GPS数据：GPS data
+空间关联规则：spatial association rule
+纹理贴图：Texture mapping
+中更新世：middle Pleistocene
+审稿：peer review
+金字塔模型：Pyramid model
+土壤水资源：soil water resources
+风沙土：aeolian sandy soil
+阻塞高压：blocking high
+自然地理学：physical geography
+氮收支：nitrogen budget
+预报指标：Forecast index
+极涡：polar vortex
+龙山文化：Longshan culture
+地震迁移：Earthquake migration
+宜昌市：Yichang city
+斜井：deviated well
+油气资源：Oil-gas resources
+石膏矿：gypsum mine
+铅锌矿：lead-zinc mine
+突水：water bursting
+时空变化：spatio-temporal variation
+褪色光度法：discoloring spectrophotometry
+姚家组：Yaojia formation
+镁铝尖晶石：magnesia-alumina spinel
+硼含量：boron content
+力学参数：mechanics parameters
+地层温度：formation temperature
+实验条件：experimental condition
+裂缝孔隙度：fracture porosity
+压力动态：pressure behavior
+江陵凹陷：Jiangling depression
+气象因子：weather factor
+台北凹陷：Taibei depression
+浑善达克沙地：Otindag Sandy Land
+安塞油田：Ansai oil field
+构造带：structural belt
+保存条件：preservation condition
+地质事件：geological event
+理论模拟：theoretical simulation
+烃源岩评价：Source rock evaluation
+湖水：lake water
+地浸：in-situ leaching
+水箱模型：tank model
+节理岩体：Jointed rockmass
+矢量法：vector method
+脂肪酸酯：fatty acid ester
+循环系统：circulation system
+海口市：Haikou City
+北部湾盆地：Beibuwan Basin
+紫外线辐射：ultraviolet radiation
+课程群：Curriculum group
+龙潭组：Longtan Formation
+隆线溞：Daphnia carinata
+质量比：Mass ratio
+颗粒有机碳：particulate organic carbon
+最小二乘：least square method
+河套灌区：Hetao irrigation district
+三维分析：three-dimensional analysis
+谱分布：size distribution
+耦合机理：Coupling Mechanism
+实时数据：real time data
+卡林型金矿：Carlin-type gold deposit
+全球环境变化：global environmental change
+剩余静校正：residual static correction
+无机成因：inorganic origin
+过程神经网络：process neural network
+初始损伤：Initial damage
+等参元：isoparametric element
+静力触探：static sounding
+总体规划：general plan
+异常值：abnormal value
+空间预测：Spatial prediction
+管理对策：management measures
+改进模型：improved model
+雷电灾害：lightning disaster
+地震分辨率：seismic resolution
+性能模拟：performance simulation
+稳定性计算：stability calculation
+水力梯度：hydraulic gradient
+土地覆盖分类：Land cover classification
+中国大陆科学钻探：Chinese Continental Scientific Drilling
+不等式约束：inequality constraints
+天津地区：Tianjin area
+涠洲岛：Weizhou Island
+伊利石结晶度：illite crystallinity
+电阻率层析成像：resistivity tomography
+组织与管理：organization and management
+扬子地台：Yangtze platform
+相似性分析：similarity analysis
+忻州市：Xinzhou City
+气候系统：climate system
+日常维护：Daily maintenance
+盐碱地：saline-alkali land
+土地开发整理：land development and consolidation
+深基坑工程：deep excavation
+台湾省：Taiwan Province
+栅格数据：grid data
+密云县：Miyun County
+广义差分法：generalized difference method
+海洋化学：marine chemistry
+科学钻探：scientific drilling
+线段：line segment
+随机理论：Stochastic theory
+随机波浪：random wave
+焦斑：Focal Spot
+疾病预防控制：disease prevention and control
+AIC准则：AIC criterion
+西安地区：Xi an area
+测距：measuring distance
+可视化系统：visualization system
+IIC总线：IIC bus
+隧道塌方：tunnel collapse
+防洪调度：flood control operation
+单粒子效应：single event effects
+最小安全系数：minimum safety factor
+定轨：orbit determination
+工质：working fluid
+影像金字塔：image pyramid
+路堑开挖：cutting excavation
+热核：heat kernel
+地下水流：groundwater flow
+图像解译：image interpretation
+正交函数：orthogonal function
+PDM：Product Data Management
+无线模块：wireless module
+单站：single observer
+城市空间扩展：urban spatial expansion
+数据控制：data control
+波浪作用：wave action
+天气学：synoptic meteorology
+开发过程：development process
+卫星重力：satellite gravity
+隧洞开挖：tunnel excavation
+VBA编程：VBA programming
+洪水管理：flood management
+数值波浪水槽：numerical wave flume
+空间复杂性：spatial complexity
+空间相互作用：spatial interaction
+栅格地图：grid map
+地震波传播：seismic wave propagation
+影像数据库：Image database
+查准率：precision ratio
+末次冰期：last glaciation
+厦门岛：Xiamen Island
+智能导航：intelligent navigation
+空间数据共享：spatial data sharing
+无线电掩星：radio occultation
+西太平洋暖池：Western Pacific Warm Pool
+瀑布沟水电站：Pubugou hydropower station
+水交换：Water exchange
+空间统计分析：spatial statistical analysis
+服务总线：Service bus
+环境矿物学：environmental mineralogy
+切变线：Shear line
+异常识别：anomaly recognition
+常量元素：major element
+电厂：power station
+铁矿床：iron deposit
+误差分析：error analyzing
+遥测：Remote sensing
+改进建议：improvement suggestion
+浅海：shallow sea
+乡村聚落：rural settlement
+储集层模型：reservoir model
+集合卡尔曼滤波：ensemble Kalman filter
+闪蒸：flash evaporation
+超声波探伤：ultrasonic detection
+红外吸收光谱：infrared absorption spectrum
+铅同位素：Pb isotope
+基体效应：Matrix effects
+地震成像：seismic imaging
+人类中心主义：human centralism
+环境退化：environmental degradation
+臭氧浓度：Ozone concentration
+量子隧穿：quantum tunneling
+雅砻江：Yalong River
+海洋管理：marine management
+适宜性评价：suitability assessment
+非线性方程：non-linear equation
+储层特征：Reservoir character
+注采系统：injection-production system
+滚动勘探开发：progressive exploration and development
+信息维：information dimension
+丹江口大坝：Danjiangkou Dam
+变形量：deformation amount
+布达特群：Budate Group
+水侵：water invasion
+油气聚集：petroleum accumulation
+一站式服务：One-Stop Service
+六盘山盆地：Liupanshan Basin
+机械故障：Mechanical fault
+图像模拟：image simulation
+溶解有机碳：dissolved organic carbon
+白云凹陷：Baiyun sag
+盐湖：saline lake
+隐蔽油藏：subtle reservoir
+成藏：reservoir formation
+地球物理方法：Geophysical method
+辽西：western Liaoning Province
+古潜山油气藏：Buried hill reservoir
+模型模拟：Model simulation
+乐清湾：Yueqing bay
+塔北隆起：Tabei uplift
+地质异常：geological anomaly
+矿化类型：mineralization type
+赤平投影：Stereographic projection
+噪声衰减：noise attenuation
+保护环境：environmental protection
+盆地原型：basin prototype
+精度评定：accuracy evaluation
+全硫：total sulfur
+剥蚀：exfoliation corrosion
+AVO分析：AVO analysis
+表层：surface layer
+大地热流：terrestrial heat flow
+鲕状赤铁矿：Oolitic hematite
+3DGIS：3D GIS
+热岛效应：urban heat island effect
+工程事故：engineering accident
+数学地质：mathematical geology
+预测精度：prediction precision
+贝叶斯正则化：Bayesian regularization
+弯矩图：bending moment diagram
+模型库：model database
+文东油田：Wendong oilfield
+氧同位素：oxygen isotopes
+非线性动力系统：nonlinear dynamical system
+古城：ancient city
+Mann-Kendall检验：Mann-Kendall test
+红外技术：infrared technique
+海洋灾害：marine disaster
+化学分离：chemical separation
+叠加分析：overlay analysis
+防风：Saposhnikovia divaricata
+南天山：South Tianshan
+Sarma法：Sarma method
+冲刷深度：scour depth
+井深：well depth
+古尔班通古特沙漠：Gurbantonggut Desert
+绝热过程：adiabatic process
+白石水库：Baishi reservoir
+流向：Flow direction
+泥岩盖层：mudstone caprock
+科氏力：coriolis force
+大城市：large city
+Bayes分析：Bayes analysis
+宇宙射线：Cosmic ray
+安装误差：Installation error
+潜在价值：potential value
+重力反演：gravity inversion
+粘性土：clayey soil
+边坡监测：Slope monitoring
+区域尺度：Regional scale
+高空间分辨率：High spatial resolution
+空间数据结构：spatial data structure
+产流：runoff yield
+快速计算：fast calculation
+复小波变换：complex wavelet transform
+重力波：Gravity waves
+法方程：normal equation
+通信与信息系统：communication and information system
+水库淤积：reservoir sedimentation
+MapX控件：MapX control
+边界识别：boundary identification
+损失模型：loss model
+数字近景摄影测量：digital close-range photogrammetry
+震源机制解：focal mechanism
+大型射电望远镜：Large radio telescope
+Volterra滤波器：Volterra filter
+前方交会：forward intersection
+优先队列：priority queue
+电离层延迟：Ionospheric Delay
+随机采样：random sampling
+切比雪夫多项式：Chebyshev polynomial
+可用性评估：usability evaluation
+有效应力法：effective stress method
+tortoise变换：tortoise transformation
+坡长：slope length
+空间后方交会：space resection
+暖冬：warm winter
+益阳市：Yiyang City
+晚泥盆世：late Devonian
+春旱：Spring drought
+内蒙：Inner Mongolia
+富集地幔：Enriched mantle
+非绝热加热：diabatic heating
+Hawking温度：Hawking temperature
+水平形变：Horizontal deformation
+南海东北部：northeastern South China Sea
+环流异常：Circulation anomaly
+海权：Sea power
+生态政治：ecological politics
+大牛地气田：Daniudi Gasfield
+淤地坝：check dam
+层位标定：horizon calibration
+吸水剖面：injection profile
+GM(1,1)模型：GM (1,1) model
+川东北：northeastern Sichuan
+元素组成：elemental composition
+加权系数：weighted coefficient
+扶余油田：Fuyu oilfield
+储层表征：reservoir characterization
+方法比较：method comparison
+地层圈闭：stratigraphic trap
+地球化学特征：geochemistry characteristics
+残余油：residual oil
+川西：west Sichuan
+山地：mountainous area
+地球化学勘查：geochemical exploration
+坡折带：Slope break
+构造解析：structural analysis
+冲断带：thrust belt
+苏里格气田：Sulige Gasfield
+纵向分辨率：vertical resolution
+滚动勘探：Progressive exploration
+精细油藏描述：fine reservoir description
+煤炭质量：coal quality
+生烃动力学：hydrocarbon generation kinetics
+破碎带：fracture zone
+长江上游：upper reaches of Yangtze River
+振幅谱：amplitude spectrum
+大尺度：large scale
+东秦岭：eastern Qinling
+能量衰减：energy attenuation
+苦咸水：brackish water
+溶解动力学：dissolution kinetics
+景观评价：landscape assessment
+露天开采：Open-pit mining
+水平定向钻进：horizontal directional drilling
+大气压力：atmospheric pressure
+层状介质：layered medium
+结构演变：structural evolution
+滇东南：southeast Yunnan
+含煤地层：coal-bearing strata
+能量比：energy ratio
+找矿模式：prospecting model
+影响程度：Influence Degree
+生命线系统：lifeline system
+水环境保护：water environmental protection
+变密度：Variable density
+固体沥青：solid bitumen
+生产流程：production process
+失稳机理：instability mechanism
+西山窑组：Xishanyao Formation
+表面特征：surface characteristics
+生态响应：ecological response
+海底扇：submarine fan
+RTK技术：RTK technique
+涵养水源：water conservation
+测量技术：measuring technique
+计算机编程：computer programming
+数学描述：mathematical description
+珠江流域：Pearl River Basin
+流动机理：flow mechanism
+同伦算法：homotopy algorithm
+曲线重构：curve reconstruction
+预警模型：Warning model
+剩余推力法：residual thrust method
+沉积层序：depositional sequence
+大气监测：atmospheric monitoring
+数字检波器：digital geophone
+安全判据：safety criterion
+数量化理论：quantification theory
+工程测量：engineering measurement
+国土资源：territorial resources
+原理分析：Principle analysis
+拟合函数：fitting function
+检波器组合：geophone array
+层析反演：tomographic inversion
+技术框架：technical framework
+双峰式火山岩：bimodal volcanic rocks
+沉降史：subsidence history
+草本植物：herbaceous plant
+地质数据：geological data
+传输模型：transmission model
+误差方程：error equation
+有效渗透率：effective permeability
+冗余技术：redundant technology
+结构类型：structural type
+臭氧总量：total ozone
+自适应噪声抵消：adaptive noise cancellation
+非饱和土壤：unsaturated soil
+北祁连山：North Qilian mountains
+正则化参数：regularization parameter
+玛纳斯河流域：Manas River basin
+分布特点：distribution characteristics
+天然地震：natural earthquake
+色散介质：dispersive media
+Dijkstra算法：Dijkstra arithmetic
+电阻率测深：resistivity sounding
+景观分类：landscape classification
+综合措施：comprehensive measures
+问题与建议：problems and suggestions
+阳泉市：Yangquan City
+重力梯度：Gravity Gradient
+光谱响应：Spectrum response
+摄动解：perturbation solution
+活动构造：Active structure
+动量矩：moment of momentum
+双缓冲：Double Buffer
+岩土工程勘察：geotechnical engineering investigation
+矩法：Moment method
+中子源：neutron source
+欧拉数：Euler number
+SAR影像：SAR image
+鱼类群落：fish community
+噪声处理：noise processing
+快速小波变换：fast wavelet transform
+韧性变形：ductile deformation
+地球信息科学：geo-information science
+环境考古：environmental archaeology
+中奥陶统：Middle Ordovician
+程函方程：eikonal equation
+气象资料：meteorological data
+统计模拟：statistical simulation
+大连地区：Dalian area
+地震各向异性：seismic anisotropy
+模态实验：Modal experiment
+数据监控：data monitoring
+辐射功率：radiation power
+定位技术：positioning technology
+CompactPCI总线：CompactPCI bus
+惯性导航系统：Inertial navigation system(INS)
+饱和效应：saturation effect
+火星探测：Mars exploration
+EXCEL函数：EXCEL function
+设计荷载：design load
+滑坡推力：landslide thrust
+自主飞行：autonomous flight
+工程哲学：philosophy of engineering
+QR分解：QR factorization
+智能优化算法：intelligent optimization algorithms
+土地利用程度：Land use degree
+参考作物蒸发蒸腾量：reference crop evapotranspiration
+地震危险性：seismic hazard
+对流云：convective cloud
+输沙率：sediment transport rate
+路网容量：road network capacity
+chirp-z变换：chirp-z transform
+泥沙运动：sediment transport
+非正态分布：non-normal distribution
+面向对象分类：object-oriented classification
+线性理论：linear theory
+土地利用分类：land use classification
+构造地震：tectonic earthquake
+拓扑模型：topology model
+水文分析：hydrological analysis
+城市道路网：urban road network
+地下河：underground river
+方向谱：directional spectrum
+分解与重构：Decomposition and reconstruction
+协同虚拟环境：collaborative virtual environment
+沉积地球化学：sedimentary geochemistry
+科普：popular science
+能量积分：energy integral
+峰值加速度：peak acceleration
+滨海旅游：coastal tourism
+动态负载均衡：dynamic load balancing
+水分状况：water status
+橡胶园：rubber plantation
+季节性干旱：seasonal drought
+趋势系数：Trend coefficient
+旅游信息：tourism information
+早中生代：Early Mesozoic
+集合预报：Ensemble forecast
+泥河湾盆地：Nihewan Basin
+北冰洋：Arctic Ocean
+场地响应：Site response
+西南涡：southwest vortex
+岩浆混合作用：Magma mixing
+邢台地震：Xingtai Earthquake
+恒星演化：stellar evolution
+汉初：early Han Dynasty
+岩溶地质：karst geology
+局地环流：local circulation
+储层识别：reservoir identification
+矿化度：mineralization degree
+特性曲线：performance curve
+元素分析：ultimate analysis
+大气降水：atmospheric precipitation
+六氟化硫：Sulfur hexafluoride
+相位移：phase shift
+低孔低渗：low porosity and low permeability
+铅精矿：lead concentrate
+裂缝高度：fracture height
+灵敏系数：Sensitivity coefficient
+应急救援：emergency response
+地质勘察：geological investigation
+歧口凹陷：Qikou sag
+次生孔隙：secondary pores
+自燃倾向性：spontaneous combustion tendency
+纵向岭谷区：longitudinal range-gorge region
+光谱特性：Spectral characteristic
+有序度：degree of order
+U-Pb定年：U-Pb dating
+功能区：functional area
+中国近海：China offshore
+排土场：waste dump
+氢氧化铁：ferric hydroxide
+氢传感器：hydrogen sensor
+计算分析：computational analysis
+群组决策：group decision making
+测井相：logging facies
+井壁取心：sidewall coring
+煅烧高岭土：calcined kaolin
+滨海湿地：coastal wetlands
+矿床特征：deposit characteristics
+封闭系统：Closed system
+线性滤波：linear filtering
+防震减灾：Earthquake prevention and disaster mitigation
+Bayes理论：Bayes theory
+储层沥青：reservoir bitumen
+生长指数：growth index
+胶质芽孢杆菌：Bacillus mucilaginosus
+未来趋势：future trend
+CT技术：CT technology
+田间持水量：field capacity
+地质体：geological body
+二维核磁共振：2D NMR
+水岩作用：water-rock interaction
+印支运动：Indosinian movement
+压力指数：pressure exponent
+辽河群：Liaohe group
+关系型数据库：relation database
+两层流体：two-layer fluid
+稀有金属：rare metal
+岩石性质：Rock property
+地球物理模型：geophysical model
+赣南：South Jiangxi
+台风灾害：typhoon disaster
+右江盆地：Youjiang basin
+湘江：Xiangjiang river
+构造抬升：tectonic uplift
+好氧生物降解：aerobic biodegradation
+灾区：disaster area
+结晶基底：crystalline basement
+采暖期：Heating period
+饶阳凹陷：Raoyang sag
+遥感反演：remote sensing inversion
+沉积建造：sedimentary formation
+大气环流：atmosphere circulation
+淮北平原：Huaibei plain
+Zoeppritz方程：Zoeppritz equation
+预测系统：prediction system
+富水性：water yield property
+混沌分析：chaos analysis
+既有铁路：existing railway
+醋酸钾：potassium acetate
+燕山运动：Yanshan movement
+下蜀黄土：Xiashu loess
+火山岩油藏：volcanic reservoir
+前向散射：Forward scattering
+全数字：Full digital
+联合应用：combined application
+开放体系：Open system
+大庆长垣：Daqing placanticline
+流-固耦合：Fluid-solid coupling
+湿球温度：wet bulb temperature
+残留盆地：residual basin
+内部结构：inner structure
+级数展开：series expansion
+基本农田：prime farmland
+功率放大：power amplifier
+锑矿床：Antimony deposit
+构造分析：structural analysis
+函数模型：Functional model
+构造活动：tectonic movement
+拆离断层：detachment fault
+钦州湾：Qinzhou Bay
+格局分析：pattern analysis
+时限：time limit
+成岩阶段：diagenetic stage
+地质分析：geological analysis
+场模型：field model
+高压输电线路：HV transmission line
+强降水：Heavy precipitation
+岩溶山区：Karst mountain area
+世界自然遗产：world natural heritage
+非线性弹性：nonlinear elasticity
+空间特征：spatial characteristic
+气温变化：temperature variation
+地球化学场：geochemical field
+大地坐标：geodetic coordinate
+相空间重构：Reconstruction of phase space
+高程拟合：elevation fitting
+产沙量：sediment yield
+危险度：hazard degree
+菲涅耳公式：fresnel formula
+波的传播：Wave propagation
+水-岩相互作用：water-rock interaction
+水力坡度：hydraulic gradient
+自适应陷波器：adaptive notch filter
+条件模拟：conditional simulation
+非平衡相变：nonequilibrium phase transition
+气候模拟：climate simulation
+地下管道：underground pipeline
+研究历史：research history
+现场调查：field investigation
+被动大陆边缘：Passive continental margin
+和田玉：Hetian jade
+脆性破坏：brittle failure
+电磁测深：Electromagnetic sounding
+堰塞湖：barrier lake
+植物根系：plant roots
+统计学方法：statistical method
+赣东北：northeastern Jiangxi
+Lorenz曲线：Lorenz curve
+天气过程：Weather process
+专利数据库：patent database
+向下延拓：downward continuation
+九华山：Jiuhua Mountain
+极端气温：extreme temperature
+AutoCAD2000：AutoCAD 2000
+相位分析：Phase analysis
+电力网络：electric power network
+框剪结构：frame-shear wall structure
+基带信号：baseband signal
+马斯京根法：Muskingum method
+奇异性分析：singularity analysis
+PRIM算法：PRIM algorithm
+建筑结构：Architecture structure
+服务对象：service object
+畸形波：freak wave
+古滑坡：ancient landslide
+湿陷性黄土：collapsed loess
+裂缝检测：crack detection
+NANDFlash：NAND Flash
+拟合模型：fitting model
+超宽带雷达：UWB radar
+挟沙水流：sediment-laden flow
+载波相位测量：carrier phase measurement
+浮泥：fluid mud
+应用服务：application service
+径流预测：Runoff Prediction
+路面管理：pavement management
+模糊控制理论：fuzzy control theory
+土体变形：soil deformation
+柔性连接：flexible connection
+多线程技术：Multithread technology
+等式约束：equality constraints
+时间片：time slice
+周期比：period ratio
+空间内插：spatial interpolation
+轨迹分析：trajectory analysis
+渗透稳定性：seepage stability
+平稳过程：stationary process
+重力变化：Gravity change
+SAR成像：SAR imaging
+数字产品：digital product
+天体：celestial body
+电离层闪烁：ionospheric scintillation
+地震测深：seismic sounding
+果业：Fruit industry
+XML数据：XML data
+川滇地区：Sichuan-Yunnan area
+吕宋海峡：Luzon Strait
+中泥盆世：Middle Devonian
+渭河盆地：Weihe basin
+霍金辐射：Hawking radiation
+华北板块：North China Plate
+西太平洋副热带高压：West Pacific subtropical high
+可降水量：precipitable water
+De Sitter空间：De Sitter space
+地球物理反演：Geophysical inversion
+泥浆侵入：mud invasion
+综合解释：integrated interpretation
+简介：brief introduction
+趋势面：Trend Surface
+新疆：Xinjiang Region
+重质碳酸钙：heavy calcium carbonate
+沉积盆地：sedimentary basins
+乌兰布和沙漠：Wulanbuhe Desert
+化探异常：geochemical anomaly
+入渗速率：infiltration rate
+X-射线荧光光谱法：X-ray fluorescence spectrometry
+大宁河：Daning river
+震旦系：Sinian System
+生态环境效应：eco-environmental effect
+连续介质：continuous medium
+铁矿资源：iron ore resources
+惯性效应：inertia effect
+煤种：coal type
+方法改进：method improvement
+岩屑录井：cutting logging
+前陆冲断带：foreland thrust belt
+长江中下游：middle and lower reaches of the Yangtze River
+评价因子：evaluation factors
+行星运动：planetary motion
+基底断裂：basement fault
+富钴结壳：Cobalt-rich crusts
+轮南地区：Lunnan area
+晚奥陶世：Late Ordovician
+滹沱河：Hutuo River
+渝东南：southeast Chongqing
+试井解释：well testing interpretation
+石油资源：petroleum resources
+软件开发：software design
+钴结壳：cobalt crust
+中三叠统：Middle Triassic
+多效蒸发：multi-effect evaporation
+风暴潮：storm tide
+丘陵地区：hilly area
+濮城油田：PuCheng Oil field
+盆山耦合：basin-mountain coupling
+深部岩体：deep rock mass
+支持向量机回归：support vector machine regression
+贺兰山：Helan mountains
+低阶煤：low rank coal
+农牧交错带：ecotone between agriculture and animal husbandry
+紧急救援：emergency rescue
+首都圈：capital circle
+三明治结构：sandwich structure
+金矿物：gold mineral
+大陆碰撞：continental collision
+动荷载：dynamic loading
+地球化学块体：geochemical block
+扶杨油层：Fuyang reservoir
+案例库：Case base
+AD转换：AD conversion
+剥采比：stripping ratio
+构造控制：structural control
+频散：frequency dispersion
+矿物学特征：mineralogical characteristics
+质量特性：quality characteristic
+设计元素：design elements
+毛管力：capillary force
+地震信息：seismic information
+断层带：fault zone
+概率理论：Probability theory
+低速层：Low velocity layer
+超声波流量计：ultrasonic flow meter
+延安组：Yan'an Formation
+计算模式：calculation model
+显著性检验：test of significance
+传统方法：Traditional method
+资料采集：data acquisition
+蚀变信息：alteration information
+物化性能：physicochemical properties
+标志层：marker bed
+AIC：AIC(Akaike Information Criterion)
+本质特征：essential characteristic
+物理参数：physical parameters
+能量准则：energy criterion
+民勤盆地：Minqin Basin
+水侵量：water influx
+九龙江口：Jiulong River Estuary
+初始模型：Initial model
+多变量分析：Multivariate analysis
+剪切波：shear wave
+新疆维吾尔自治区：Xinjiang Uygur Autonomous Region
+储层分类：reservoir classification
+煤相：coal facies
+空间配置：spatial allocation
+上石炭统：Upper Carboniferous
+中国大陆：Mainland of China
+水-岩作用：water-rock interaction
+规划方案：planning scheme
+岩石破裂：rock fracture
+水均衡：Water balance
+小波降噪：Wavelet denoising
+地质信息：geological information
+水汽含量：water vapor content
+电子水准仪：electronic level
+弹簧模型：spring model
+滞后效应：hysteresis effect
+大变形：large strain
+休闲渔业：recreational fishery
+寒区：cold area
+消落带：water-level-fluctuating zone
+垂向分辨率：vertical resolution
+琼州海峡：Qiongzhou Strait
+拉分盆地：pull-apart basin
+形态变化：morphological change
+驱动轮：driving wheel
+碳酸盐台地：carbonate platform
+城市用地：urban land use
+声波方程：acoustic wave equation
+精度设计：precision design
+岩性预测：lithology prediction
+乌鲁木齐河：Urumqi River
+江门市：Jiangmen city
+能量补偿：energy compensation
+面向对象数据库：Object oriented database
+软件研制：software development
+吸收边界：absorbing boundary
+布格重力异常：Bouguer gravity anomaly
+伏牛山：Funiu Mountain
+上奥陶统：Upper Ordovician
+Gabor变换：Gabor transformation
+位移预测：displacement prediction
+瘦客户端：thin client
+XML：extensible markup language(XML)
+辐射校正：radiometric correction
+延性系数：ductility factor
+二次多项式：quadratic polynomial
+地址码：address code
+缩尺模型：scale model
+椭圆轨道：elliptical orbit
+川藏公路：Sichuan-Tibet highway
+域名系统：Domain name system
+抗火性能：fire resistance
+能源供应：energy supply
+分类精度：classification precision
+排水管网：Drainage network
+弹性波速：elastic wave velocity
+混沌反控制：chaos anti-control
+花岗岩残积土：granite residual soil
+均质土坝：homogeneous earth dam
+碳税：carbon tax
+高分辨率遥感影像：high-resolution remote sensing image
+侧扫声纳：side scan sonar
+防洪规划：flood control planning
+地磁导航：geomagnetic navigation
+区域地球化学：Regional geochemistry
+水面线：water surface profile
+自组织网络：self-organizing network
+基准站：reference station
+战场态势：battlefield situation
+西南低涡：southwest vortex
+海表面温度：sea surface temperature
+牛顿插值：Newton Interpolation
+公共服务平台：Public service platform
+世界地质公园：world geopark
+自适应因子：adaptive factor
+状态控制：state control
+场地分类：site classification
+Levenberg-Marquardt方法：levenberg-marquardt method
+城市地理学：Urban geography
+农业气候资源：agricultural climate resources
+Penman-Monteith公式：Penman-Monteith formula
+粒度参数：grain size parameters
+技术系统：technical system
+震源过程：source process
+回击：Return stroke
+中断控制器：Interrupt controller
+降水异常：precipitation anomaly
+最小二乘配置：least squares collocation
+激光传输：laser transmission
+鲜水河断裂：Xianshuihe fault
+图形编辑：graphic editing
+安庆市：Anqing city
+文化地理学：Cultural geography
+映射法：mapping method
+辐射机制：radiation mechanism
+专题制图：thematic mapping
+卫星资料：Satellite data
+地幔橄榄岩：Mantle peridotite
+统计物理：statistical physics
+风廓线：wind profile
+库姆塔格沙漠：Kumtag Desert
+水平分辨率：horizontal resolution
+雪盖：snow cover
+地籍图：cadastral map
+垂直风切变：vertical wind shear
+长波长：long wavelength
+超导重力仪：superconducting gravimeter
+地幔交代作用：Mantle metasomatism
+重合点：coincidence point
+形变分析：deformation analysis
+孕震过程：Seismogenic process
+油气开采：oil and gas production
+亭子口水利枢纽：Tingzikou Water Control Project
+找矿模型：ore-prospecting model
+Hilbert-Huang变换：Hilbert-Huang transform(HHT)
+密度测井：density logging
+沉积韵律：sedimentary rhythm
+钼矿床：molybdenum deposit
+套管井：cased well
+密闭取心：sealed coring
+井斜角：deviation angle
+地质评价：geological evaluation
+磁性矿物：Magnetic mineral
+水分迁移：moisture movement
+空气质量模式：air quality model
+开发评价：development evaluation
+有偿使用：paid use
+充水因素：water filling factor
+有机质丰度：organic abundance
+危险度评价：risk assessment
+硫化矿：Sulfide ores
+数浓度：number concentration
+绳索取心：wire-line coring
+沙丘：sand dune
+溶解速率：dissolution rate
+城市安全：urban safety
+盐析：salt out
+浮动基准面：floating datum
+Excel：Microsoft Excel
+有效烃源岩：effective source rock
+大气能见度：atmospheric visibility
+构造体系：structural system
+中国南海：South China Sea
+效果评价：Effect Appraisal
+年际变化：annual variation
+参数估值：parameter estimation
+三工河组：Sangonghe Formation
+泰州组：Taizhou Formation
+渗流机理：percolation mechanism
+测量数据：Measured data
+净现值法：net present value
+线性范围：Linear range
+等效参数：equivalent parameter
+GIS数据库：GIS database
+黔西南：southwest Guizhou
+水文特征：hydrological characteristics
+稀有气体：rare gas
+陕北地区：northern Shaanxi
+公路交通：road traffic
+变化分析：change analysis
+褶皱构造：fold structure
+过渡带：transition zone
+下侏罗统：Lower Jurassic
+下套管：casing running
+红黏土：red clay
+原子捕集：atom trapping
+北江：Beijiang River
+编码方法：encoding method
+大气散射：atmospheric scattering
+矿山环境：mining environment
+放大：scale up
+资源评价：resources assessment
+扬子板块：Yangtze Plate
+3维可视化：3D visualization
+北黄海：North Yellow Sea
+储层类型：reservoir type
+储集层评价：reservoir evaluation
+试验结果：test results
+岩体质量分级：Rock mass quality classification
+灾害性天气：disastrous weather
+找矿潜力：prospecting potential
+潜孔锤：DTH hammer
+黑碳气溶胶：black carbon aerosol
+气候效应：climate effect
+雷达图：radar chart
+监测指标：monitoring index
+地震属性分析：seismic attribute analysis
+花状构造：flower structure
+初至波：first break
+导电机理：conduction mechanism
+迭代方法：iterative methods
+早白垩世：Lower Cretaceous
+线性构造：linear structure
+断裂体系：fault system
+高阶谱：high-order spectrum
+水文循环：hydrological cycle
+岩石热解：rock pyrolysis
+水域：water area
+弯曲波：flexural wave
+平滑滤波：smoothing filter
+变形参数：deformation parameter
+厂址选择：site selection
+结构系统：structure system
+X衍射：X-ray diffraction
+响应机制：response mechanism
+钻进工艺：drilling technology
+体系建设：system building
+频率计算：frequency calculation
+激光拉曼：Laser Raman
+搜救：search and rescue
+参数拟合：Parameter fitting
+残积土：residual soil
+临清坳陷：Linqing depression
+稳定流：steady flow
+北京山区：Beijing mountain area
+低气压：low air pressure
+自由水：Free water
+作业分析：activity analysis
+高保真：high fidelity
+张家口市：Zhangjiakou City
+GIS系统：GIS system
+区域应力场：regional stress field
+辐射平衡：radiation balance
+近地层：Surface layer
+登陆台风：landing typhoon
+极坐标法：polar coordinate method
+高压泵：high pressure pump
+气候背景：Climate background
+振荡流：oscillating flow
+自相关系数：autocorrelation coefficient
+状态模型：state model
+地震模型：Seismic model
+电磁响应：electromagnetic response
+图形系统：graphic system
+振幅补偿：amplitude compensation
+东亚季风：East Asia monsoon
+状态矩阵：state matrix
+观测误差：observation error
+米氏理论：Mie theory
+折算系数：conversion coefficient
+水文过程：hydrological processes
+植被动态：vegetation dynamics
+激光共聚焦扫描显微镜：Confocal laser scanning microscopy
+岭参数：Ridge parameter
+网络数据：Network data
+直接经济损失：direct economic loss
+潮沟：tidal creek
+风险量化：risk quantification
+幅值谱：amplitude spectrum
+动力效应：dynamic effect
+平稳时间序列：stationary time series
+水下定位：underwater positioning
+特长隧道：extra-long tunnel
+震陷：seismic subsidence
+初始地应力场：initial geostress field
+航空影像：aerial image
+围垦工程：reclamation project
+万有引力：universal gravitation
+滑坡预报：landslide prediction
+到达角：direction of arrival
+传播损失：transmission loss
+墨卡托投影：Mercator projection
+库水位：reservoir water level
+长期沉降：Long-term settlement
+RS232接口：RS232 interface
+GIS空间分析：GIS spatial analysis
+惯性传感器：inertial sensor
+地下水资源评价：groundwater resources evaluation
+小波方差：wavelet variance
+条件随机域：conditional random fields
+路基施工：roadbed construction
+激光测距：laser range
+TSP：traveling salesman problem
+时差法：time difference method
+单位线：unit hydrograph
+Toeplitz矩阵：Toeplitz matrices
+潜水蒸发：phreatic evaporation
+极化滤波：polarization filter
+GPS信号：GPS signal
+数据格式转换：Data format conversion
+平差计算：Adjustment calculation
+遥测数据：telemetry data
+导航接收机：navigation receiver
+传输延迟：transmission delay
+水面蒸发量：water surface evaporation
+相关噪声：correlated noise
+自动标定：automatic calibration
+MATLAB应用：MATLAB application
+水下导航：underwater navigation
+简正波：normal mode
+雷电定位：lightning location
+电子沙盘：electronic sand table
+游憩空间：recreation space
+中国东北地区：northeast China
+叠置分析：overlay analysis
+有限应变：finite strain
+三维地形可视化：3D terrain visualization
+区域地理：regional geography
+模糊不确定性：Fuzzy uncertainty
+粮食作物：grain crops
+群落类型：community types
+季节分布：seasonal distribution
+蒸发皿蒸发量：pan evaporation
+气候异常：climatic anomaly
+数字旅游：digital tourism
+噪声温度：noise temperature
+突变级数法：Catastrophe progression method
+ENSO事件：ENSO events
+活动地块：active block
+海面地形：Sea surface topography
+预测反褶积：predictive deconvolution
+物理量场：physical quantity field
+早泥盆世：Early Devonian
+札达盆地：Zanda basin
+天水地区：Tianshui area
+环斑花岗岩：Rapakivi granite
+震群：Earthquake swarm
+能量交换：energy exchange
+物理海洋学：physical oceanography
+保险创新：insurance innovation
+国际机制：international mechanism
+临界密度：Critical density
+持水率：water holdup
+围岩蚀变：wallrock alteration
+变异函数：variation function
+pH计：pH meter
+鄯善油田：Shanshan oilfield
+煤田：coal field
+氟化铝：aluminum fluoride
+辽东湾：Liaodong gulf
+大陆科学钻探：continental scientific drilling
+常见故障：common faults
+土地利用总体规划：comprehensive land use planning
+流场结构：flow field structure
+干摩擦：dry sliding
+时间切片：time slice
+影响评估：impact assessment
+多时间尺度：multiple time scales
+储层损害：reservoir damage
+抚仙湖：Fuxianhu lake
+构造解释：structure interpretation
+控矿条件：ore-controlling condition
+兴凯湖：Xingkai Lake
+上限解：upper-bound solution
+定量表征：quantitative characterization
+性能检测：performance testing
+凝析油气田：condensate gas field
+潜江组：Qianjiang formation
+水敏：Water sensitivity
+三水盆地：Sanshui Basin
+水文模拟：hydrological simulation
+异常高压：abnormally high pressure
+铁路选线：railway location
+井筒：well bore
+海相沉积：marine deposit
+钻进参数：drilling parameter
+富集规律：enrichment regularity
+深水钻井：deep water drilling
+沿海城市：coastal cities
+碳同位素组成：Carbon isotope composition
+怒江：Nujiang River
+高斯-牛顿法：gauss-newton method
+模型转换：Model conversion
+开发调整：development adjustment
+东江：Dongjiang River
+剪切应变：shear strain
+克拉通盆地：Cratonic basin
+高校校园：college campus
+线性拟合：linear fit
+勘探方法：exploration method
+沂沭断裂带：Yishu fault zone
+弹性阻抗：elastic impedance
+月球：the moon
+波场：Wave field
+X射线荧光光谱仪：X-ray fluorescence spectrometer
+波场延拓：wavefield continuation
+位移测量：displacement measuring
+广州大学城：Guangzhou university town
+全铁：total iron
+松辽流域：Songliao River Basin
+低电阻：low resistance
+丹东市：Dandong city
+不稳定试井：transient well test
+地质地球化学：geology and geochemistry
+宝石学特征：gemmological characteristic
+函数拟合：function fitting
+变质反应：metamorphic reaction
+计算精度：calculation accuracy
+华东：East China
+岩相古地理：lithofacies and paleogeography
+潮坪：tidal flat
+开采方法：Mining method
+矿物组合：mineral assemblage
+气候因素：climate factor
+正多边形：Regular polygon
+全烃：total hydrocarbon
+数字地形：digital terrain
+分析应用：Analytical application
+水汽通量：water vapor flux
+辐射特性：radiative properties
+动态研究：dynamic research
+相干分析：coherent analysis
+区域响应：Regional response
+辐射环境：radiation environment
+钨精矿：tungsten concentrate
+样本数据：sample data
+非构造圈闭：non-structural trap
+声压：acoustic pressure
+统计检验：statistic test
+水溶开采：solution mining
+自助法：Bootstrap Method
+物理概念：physical concept
+异步传输：Asynchronous transmission
+硝酸盐污染：Nitrate pollution
+微晶白云母：micro-crystal muscovite
+计算机辅助系统：computer-aided system
+黄河下游：lower reaches of Yellow River
+摩擦速度：friction velocity
+线性回归方程：linear regression equation
+探测灵敏度：detection sensitivity
+定量化分析：quantitative analysis
+灾情评估：disaster evaluation
+Abel变换：Abel transform
+碱性花岗岩：alkali granite
+黄山风景区：Huangshan Scenic Spot
+关系数据模型：relational data model
+精度评价：Precision evaluation
+最优化算法：optimization algorithm
+ARX模型：ARX model
+AVO技术：AVO technique
+深部结构：deep structure
+秩和检验：Rank Sum Test
+景观类型：Landscape type
+海洋地质：marine geology
+北山地区：Beishan area
+基底构造：basement structure
+四川西部：western Sichuan
+线性内插：linear interpolation
+历史气候：historical climate
+地震荷载：earthquake load
+参数设定：Parameter Setting
+叠加速度：Stacking velocity
+地形改正：terrain correction
+导航定位：navigation positioning
+矢量模型：vector model
+惠州凹陷：Huizhou depression
+钙质超微化石：calcareous nannofossil
+牛顿迭代：Newton iteration
+稳产：stable production
+风险沟通：risk communication
+赤峰市：Chifeng City
+办公自动化系统：OA System
+观测精度：Observation accuracy
+Powell算法：Powell algorithm
+应急保障：emergency support
+力矩限制器：moment limiter
+海上风电场：offshore wind farm
+坝基：dam base
+城市路网：urban road network
+接地系统：earthing system
+能源开发：energy development
+方差比：variance ratio
+相关方程：correlation equation
+地震映像法：seismic imaging method
+K-D树：K-D tree
+实时洪水预报：real-time flood forecasting
+笔记本电脑：notebook computer
+出行方式：travel mode
+图模型：graphical model
+方差分量估计：variance component estimation
+接触算法：contact algorithm
+地图数字化：map digitization
+FFT：fast Fourier transform
+混沌搜索：chaotic search
+抗震措施：seismic fortification measures
+边坡支护：slope support
+显热通量：sensible heat flux
+潮汐汊道：tidal inlet
+曲面插值：surface interpolation
+基础平台：basic platform
+水位流量关系：stage-discharge relation
+侵位机制：emplacement mechanism
+共享系统：Sharing system
+界址点：boundary point
+设定地震：scenario earthquake
+光场分布：optical field distribution
+RPC模型：RPC model
+方向关系：direction relation
+信息损失：information loss
+并行调度：parallel scheduling
+耦合法：coupling method
+分布式问题求解：Distributed problem solving
+重力场模型：gravity field model
+自热效应：self-heating effect
+海洋旅游：marine tourism
+爆发性气旋：explosive cyclone
+特大暴雨：torrential rain
+业务平台：service platform
+平均海面：mean sea level
+地面气温：Surface air temperature
+组件开发：component development
+麻粒岩相：granulite facies
+电子地图集：electronic atlas
+表层沉积：surface sediment
+龙门山断裂带：Longmenshan Fault zone
+磁重联：magnetic reconnection
+海洋磁力测量：marine magnetic survey
+参考站：reference station
+光变曲线：light curve
+中尺度分析：mesoscale analysis
+空间大地测量：space geodesy
+拐角频率：Corner Frequency
+板溪群：Banxi Group
+阿尔奇公式：Archie formula
+大同盆地：Datong basin
+几何因子：geometric factor
+测井曲线：well logs
+微震监测：microseismic monitoring
+影响半径：radius of influence
+输流管道：pipe conveying fluid
+水热条件：hydrothermal condition
+水环境管理：water environmental management
+污染机理：pollution mechanism
+技术应用：technique application
+磨溪气田：Moxi Gas Field
+逆冲推覆构造：thrust nappe structure
+核桃园组：Hetaoyuan Formation
+分布密度：distribution density
+断层解释：fault interpretation
+不稳定流动：unstable flow
+沉降速率：settlement rate
+形势分析：Situation analysis
+基准点：datum point
+数值摸拟：numerical simulation
+水污染事故：water pollution accident
+瞬变电磁法：transient electromagnetic method(TEM)
+产出剖面：production profile
+启动压力：threshold pressure
+兴化湾：Xinghua bay
+CSAMT法：CSAMT method
+压裂工艺：fracturing technology
+裂缝性油气藏：fractured pool
+属性数据：property data
+层析成像：tomographic imaging
+综合模型：integrated model

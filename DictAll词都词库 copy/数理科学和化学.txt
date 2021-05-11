@@ -1,0 +1,3900 @@
+数值模拟：numerical simulation
+遗传算法：genetic algorithm
+神经网络：neural network
+数据挖掘：data mining
+小波变换：Wavelet transform
+力学性能：mechanical property
+晶体结构：Crystal structure
+数据处理：data processing
+粗糙集：Rough set
+主成分分析：principal component analysis
+信号处理：signal processing
+自适应控制：adaptive control
+氨基酸：amino acid
+数字水印：Digital watermarking
+模态分析：Modal analysis
+活性炭：activated carbon
+铝合金：aluminum alloy
+热稳定性：thermal stability
+定量分析：Quantitative analysis
+模型试验：model test
+课堂教学：classroom teaching
+数值仿真：numerical simulation
+传热：heat transfer
+自由基：free radical
+最优控制：optimal control
+数值计算：numerical calculation
+低温：low temperature
+碳纳米管：carbon nanotubes
+溶胶-凝胶法：sol-gel method
+非线性系统：nonlinear system
+耐磨性：wear resistance
+鲁棒控制：robust control
+耐蚀性：corrosion resistance
+周期解：periodic solution
+线性规划：linear programming
+有限元方法：finite element method
+毛细管电泳：Capillary electrophoresis
+模糊神经网络：Fuzzy neural network
+水处理：water treatment
+应力分析：stress analysis
+不动点：fixed point
+磁场：magnetic field
+碳纤维：carbon fiber
+节能：energy conservation
+磁控溅射：magnetron sputtering
+分形维数：fractal dimension
+二氧化钛：titanium dioxide
+均匀设计：uniform design
+钛合金：titanium alloy
+动态规划：dynamic programming
+薄膜：thin film
+密度泛函理论：density functional theory
+水热合成：hydrothermal synthesis
+计算方法：calculation method
+预测控制：predictive control
+电子结构：electronic structure
+乳液聚合：emulsion polymerization
+燃料电池：fuel cell
+催化裂化：catalytic cracking
+网格计算：grid computing
+催化氧化：catalytic oxidation
+曲线拟合：curve fitting
+正解：positive solution
+离子注入：ion implantation
+表面张力：surface tension
+应力强度因子：stress intensity factor
+线性矩阵不等式：linear matrix inequality
+急性毒性：acute toxicity
+变结构控制：variable structure control
+微波辐射：microwave irradiation
+光纤：optical fiber
+模拟退火：simulated annealing
+电磁场：electromagnetic field
+分子动力学：molecular dynamics
+微分方程：differential equation
+声发射：acoustic emission
+教学内容：teaching content
+教师教育：teacher education
+X射线衍射：X-ray diffraction
+并行算法：parallel algorithm
+水污染：water pollution
+晶体生长：crystal growth
+应力集中：stress concentration
+两相流：two-phase flow
+微波消解：Microwave digestion
+非线性光学：Nonlinear optics
+结构分析：structure analysis
+数据压缩：Data Compression
+远程控制：Remote Control
+介电性能：dielectric properties
+参数辨识：parameter identification
+多孔介质：porous media
+电场：Electric field
+预应力混凝土：prestressed concrete
+边值问题：boundary value problem
+混凝土结构：Concrete structure
+振动与波：vibration and wave
+奇异值分解：Singular value decomposition
+污水处理：sewage treatment
+滑模控制：Sliding Mode Control
+断裂韧性：fracture toughness
+正态分布：normal distribution
+时滞：time delay
+循环伏安法：Cyclic voltammetry
+核函数：kernel function
+形状记忆合金：Shape memory alloy
+相图：phase diagram
+多媒体技术：multimedia technology
+电导率：electrical conductivity
+液晶：liquid crystal
+阻燃剂：flame retardant
+碳酸钙：calcium carbonate
+抗坏血酸：Ascorbic acid
+状态反馈：state feedback
+物理化学：physical chemistry
+傅里叶变换：Fourier transform
+氧化锌：zinc oxide
+绿色化学：green chemistry
+聚乙烯醇：polyvinyl alcohol
+折射率：refractive index
+反馈控制：feedback control
+悬索桥：suspension bridge
+动态响应：dynamic response
+主动控制：Active control
+多Agent系统：multi-agent system
+Banach空间：Banach space
+知识发现：knowledge discovery
+甲基橙：Methyl orange
+碳化硅：silicon carbide
+复杂系统：complex system
+相变：phase transformation
+乳酸：Lactic acid
+尿酸：uric acid
+传质：mass transfer
+教学改革：teaching reformation
+反问题：inverse problem
+边界元法：Boundary Element Method
+小波包：wavelet packet
+流动注射：flow injection
+温度测量：temperature measurement
+导热系数：thermal conductivity
+炭黑：carbon black
+接枝共聚：graft copolymerization
+边界条件：boundary condition
+模糊集：fuzzy set
+接触角：contact angle
+任务调度：task scheduling
+全局优化：global optimization
+光催化降解：photocatalytic degradation
+破产概率：ruin probability
+参数识别：parameter identification
+分子量：molecular weight
+应力分布：Stress Distribution
+复杂网络：complex network
+离子液体：ionic liquids
+理论分析：theoretical analysis
+化学合成：chemical synthesis
+修饰电极：Modified electrode
+动力学模型：dynamic model
+摩擦系数：friction coefficient
+分形理论：fractal theory
+负载型催化剂：supported catalyst
+冲击波：shock wave
+纳什均衡：Nash equilibrium
+电化学性能：electrochemical performance
+相平衡：phase equilibrium
+扩散系数：diffusion coefficient
+红外图像：infrared image
+非线性振动：nonlinear vibration
+酚醛树脂：phenolic resin
+红外光谱：Infrared Spectrum
+偶联剂：coupling agent
+断裂力学：fracture mechanics
+非线性控制：nonlinear control
+亚纯函数：Meromorphic function
+边界层：Boundary layer
+荧光光谱：fluorescence spectrum
+同步辐射：synchrotron radiation
+离子色谱：ion chromatography
+脂肪酸：fatty acids
+多媒体课件：multimedia courseware
+碳酸二甲酯：dimethyl carbonate
+Lyapunov函数：Lyapunov function
+分子动力学模拟：molecular dynamics simulation
+计算流体力学：computational fluid dynamics
+随机振动：random vibration
+定性分析：qualitative analysis
+快速算法：Fast algorithm
+光学设计：optical design
+电磁散射：electromagnetic scattering
+有机合成：organic synthesis
+Ad Hoc网络：Ad hoc network
+波动方程：Wave equation
+马尔可夫链：Markov chain
+溶解氧：dissolved oxygen
+循环伏安：cyclic voltammetry
+甲基丙烯酸甲酯：methyl methacrylate
+有机化学：organic chemistry
+有限体积法：Finite volume method
+种群动态：Population dynamics
+遗传距离：genetic distance
+物理教学：physics teaching
+相转移催化：phase transfer catalysis
+催化活性：catalytic activity
+激光焊接：Laser welding
+教学体系：teaching system
+表面质量：surface quality
+量子光学：quantum optics
+调度算法：scheduling algorithm
+分子筛：Molecular sieve
+蒙特卡罗模拟：Monte Carlo Simulation
+孔结构：pore structure
+数值方法：Numerical method
+量子化学：quantum chemistry
+应力波：stress wave
+直线电机：linear motor
+文件系统：File system
+硅橡胶：silicone rubber
+无机非金属材料：inorganic non-metallic materials
+差分方程：difference equation
+傅立叶变换：Fourier Transform
+行动研究：action research
+紫外分光光度法：UV spectrophotometry
+创新教育：creative education
+溶剂萃取：solvent extraction
+并行计算：parallel computation
+科学研究：scientific research
+光学测量：optical measurement
+科学管理：scientific management
+可靠性设计：Reliability design
+化学修饰：chemical modification
+非线性动力学：nonlinear dynamics
+注射成型：injection molding
+能量传递：Energy transfer
+图书馆学：library science
+地表水：surface water
+中草药：Chinese herbal medicine
+驱动力：Driving force
+土木工程：civil engineering
+概率分布：probability distribution
+网络结构：network structure
+误差估计：error estimate
+金属离子：Metal ions
+呼叫中心：call center
+四氯化碳：carbon tetrachloride
+荧光猝灭：fluorescence quenching
+裂纹扩展：crack propagation
+蒙特卡罗方法：Monte Carlo method
+图像加密：image encryption
+固体超强酸：solid superacid
+孔隙结构：pore structure
+光催化氧化：photocatalytic oxidation
+混沌控制：chaos control
+状态方程：equation of state
+图像复原：image restoration
+量子点：Quantum dots
+固体力学：solid mechanics
+嵌入式操作系统：embedded operating system
+分子识别：molecular recognition
+吸收光谱：Absorption spectrum
+微弧氧化：micro-arc oxidation
+海藻酸钠：sodium alginate
+生产管理：production management
+制备方法：preparation method
+固体酸：solid acid
+回归模型：Regression model
+多孔硅：Porous silicon
+信号分析：signal analysis
+Lyapunov指数：Lyapunov exponent
+红外辐射：infrared radiation
+高职：higher vocational education
+有限差分：finite difference
+毫米波：millimeter wave
+罗丹明B：rhodamine B
+氢氧化镁：magnesium hydroxide
+矩阵方程：Matrix Equation
+抗肿瘤活性：antitumor activity
+光纤光学：fiber optics
+混沌同步：Chaos synchronization
+草酸：oxalic acid
+嵌段共聚物：block copolymer
+乳酸脱氢酶：lactate dehydrogenase
+混合遗传算法：Hybrid Genetic Algorithm
+固相萃取：solid-phase extraction
+流动注射分析：flow injection analysis
+燃烧合成：combustion synthesis
+界面张力：interfacial tension
+亚甲基蓝：methylene blue
+数值解：numerical solution
+Hopf分支：Hopf bifurcation
+科学精神：scientific spirit
+棉纤维：cotton fiber
+激波：shock wave
+污染控制：pollution control
+计算机技术：computer technology
+教学研究：teaching research
+离散小波变换：Discrete wavelet transform
+坐标变换：coordinate transformation
+Schiff碱：Schiff base
+光子晶体：Photonic Crystals
+学习算法：learning algorithm
+乙二醇：ethylene glycol
+速度场：Velocity Field
+比表面积：Specific surface area
+倒立摆：inverted pendulum
+离子色谱法：ion chromatography
+新形势：new situation
+临界点：critical point
+有机污染物：organic pollutants
+振动分析：vibration analysis
+电子束：Electron beam
+模糊数：fuzzy number
+衍射效率：diffraction efficiency
+实践能力：practical ability
+氮化硅：silicon nitride
+细胞色素C：cytochrome C
+鲁棒稳定性：robust stability
+本构方程：constitutive equation
+理论创新：theoretical innovation
+相结构：phase structure
+醋酸：Acetic acid
+迭代学习控制：iterative learning control
+飞秒激光：femtosecond laser
+励磁系统：Excitation system
+磷酸：phosphoric acid
+催化合成：catalytic synthesis
+物理模拟：physical simulation
+相分离：phase separation
+自适应光学：adaptive optics
+场发射：field emission
+奇摄动：singular perturbation
+线性模型：linear model
+AR模型：AR model
+输出反馈：output feedback
+自适应算法：Adaptive algorithm
+原子吸收光谱法：atomic absorption spectrometry
+响应时间：response time
+积分方程：integral equation
+原子力显微镜：atomic force microscope
+微波加热：microwave heating
+偏微分方程：partial differential equation
+接触应力：contact stress
+爆炸力学：explosion mechanics
+太阳电池：Solar cell
+教学过程：teaching process
+湍流模型：turbulence model
+彩色图像：color image
+环氧丙烷：propylene oxide
+催化燃烧：catalytic combustion
+信息光学：information optics
+不对称合成：asymmetric synthesis
+决策表：Decision Table
+指数分布：exponential distribution
+固定化酶：immobilized enzyme
+拉曼光谱：Raman spectrum
+动力学分析：dynamic analysis
+Weibull分布：Weibull distribution
+双酚A：bisphenol A
+溶胶凝胶法：sol-gel method
+疲劳试验：fatigue test
+催化光度法：catalytic spectrophotometry
+金属间化合物：Intermetallic Compound
+自由振动：free vibration
+凸函数：convex function
+乙酸乙酯：ethyl acetate
+寿命预测：life prediction
+光散射：light scattering
+金属材料：metallic materials
+成组技术：Group Technology
+排队论：queuing theory
+光催化活性：photocatalytic activity
+禁忌搜索：Tabu Search
+高强度：high strength
+热效应：thermal effect
+硅烷偶联剂：silane coupling agent
+杀虫活性：insecticidal activity
+大涡模拟：large eddy simulation
+有限域：finite field
+磁性能：magnetic property
+区间数：interval number
+高等数学：advanced Mathematics
+氢化物发生：hydride generation
+电流密度：current density
+配位聚合物：Coordination polymer
+粗集：rough set
+整数规划：integer programming
+农药残留：pesticide residues
+腐植酸：humic acid
+整体解：global solution
+化学改性：chemical modification
+路径依赖：path dependence
+模糊系统：fuzzy system
+断裂韧度：fracture toughness
+网络模型：network model
+随机共振：Stochastic resonance
+光波导：optical waveguide
+关联维数：correlation dimension
+植酸：phytic acid
+有限群：finite group
+相位差：phase difference
+化学修饰电极：Chemically modified electrode
+反馈线性化：Feedback Linearization
+环氧乙烷：ethylene oxide
+全局稳定性：Global stability
+谱半径：Spectral radius
+葡萄糖氧化酶：glucose oxidase
+色散补偿：Dispersion compensation
+屈服强度：yield strength
+设计参数：design parameter
+含水率：moisture content
+物理实验：physical experiment
+疲劳损伤：fatigue damage
+化学反应：Chemical reaction
+曲面重构：surface reconstruction
+蒙特卡罗：Monte Carlo
+生产调度：production scheduling
+扭转振动：torsional vibration
+过渡态：Transition state
+量子阱：Quantum well
+变分不等式：variational inequality
+贝叶斯网络：Bayesian networks
+失效概率：failure probability
+量子纠缠：quantum entanglement
+非晶态合金：amorphous alloy
+函数优化：function optimization
+固溶体：solid solution
+晚清：late Qing Dynasty
+同时测定：simultaneous determination
+状态观测器：State observer
+热膨胀：thermal expansion
+结构表征：structure characterization
+钛酸钡：Barium titanate
+T-S模糊模型：T-S fuzzy model
+虚拟实验室：virtual laboratory
+平衡点：equilibrium point
+大气腐蚀：atmospheric corrosion
+季铵盐：quaternary ammonium salt
+分布函数：distribution function
+信息论：information theory
+Kalman滤波：Kalman filtering
+随机模拟：stochastic simulation
+分光光度法：spectrophotometric method
+原子荧光光谱法：atomic fluorescence spectrometry
+电磁屏蔽：electromagnetic shielding
+样条函数：spline function
+二级结构：secondary structure
+二次规划：Quadratic programming
+仿真平台：simulation platform
+抗氧化性：oxidation resistance
+有机溶剂：organic solvent
+除草活性：herbicidal activity
+最优解：optimal solution
+渗流场：seepage field
+量子力学：quantum mechanics
+渐近性：Asymptotic Behavior
+高精度：High accuracy
+ARMA模型：ARMA model
+逐步回归：stepwise regression
+太阳能电池：solar cell
+模糊模式识别：fuzzy pattern recognition
+重合度：Coincidence degree
+渐近公式：asymptotic formula
+辣根过氧化物酶：horseradish peroxidase
+药物分析：pharmaceutical analysis
+逆问题：inverse problem
+成核剂：Nucleating agent
+手性固定相：chiral stationary phase
+统计学习理论：statistical learning theory
+基础研究：basic research
+单纯形法：Simplex Method
+行波：traveling wave
+甲酸：formic acid
+拓扑指数：topological index
+烧结温度：Sintering Temperature
+设备驱动：device driver
+数理统计：mathematical statistics
+摩擦学性能：tribological properties
+微流控芯片：Microfluidic chip
+羟自由基：hydroxyl radical
+全局收敛：global convergence
+原子转移自由基聚合：atom transfer radical polymerization
+随机过程：stochastic process
+大气湍流：atmospheric turbulence
+威布尔分布：Weibull distribution
+传递矩阵：transfer matrix
+弹性波：elastic wave
+光束质量：beam quality
+线性系统：linear system
+结合能：binding energy
+吸收系数：absorption coefficient
+马氏体相变：martensitic transformation
+羟基自由基：hydroxyl radical
+结构参数：Structural parameter
+电化学行为：Electrochemical Behavior
+解析解：analytic solution
+Hilbert空间：Hilbert space
+固体电解质：solid electrolyte
+非线性模型：nonlinear model
+硅胶：silica gel
+氯化钠：sodium chloride
+晶界：grain boundary
+主元分析：principal component analysis
+能量函数：energy function
+渐近正态性：asymptotic normality
+整函数：entire function
+表面活性：surface activity
+实时监测：real-time monitoring
+雷达散射截面：radar cross section
+活性炭纤维：activated carbon fiber
+毛细管气相色谱：capillary gas chromatography
+包合物：inclusion complex
+过渡金属：Transition metal
+模拟实验：simulation experiment
+轧机：rolling mill
+表面裂纹：surface crack
+性能指标：performance index
+热传导：Heat conduction
+分子量分布：molecular weight distribution
+辛烷值：octane number
+印染废水：dyeing wastewater
+供应链协调：supply chain coordination
+新方法：new method
+本科教育：undergraduate education
+分子设计：Molecular design
+支持向量回归：support vector regression
+电流效率：current efficiency
+模糊可靠性：fuzzy reliability
+超临界水：supercritical water
+还原糖：reducing sugar
+内耗：internal friction
+击穿电压：breakdown voltage
+通解：general solution
+化学结构：chemical structure
+选择氧化：selective oxidation
+人血清白蛋白：Human serum albumin
+损伤力学：damage mechanics
+权函数：weight function
+光开关：Optical switch
+品质因数：quality factor
+传输线：Transmission line
+极大似然估计：maximum likelihood estimation
+对苯二甲酸：terephthalic acid
+理论计算：theoretical calculation
+热膨胀系数：Thermal expansion coefficient
+交通噪声：traffic noise
+实验室管理：laboratory management
+悬浮聚合：Suspension polymerization
+多智能体系统：multi-agent system
+概周期解：almost periodic solution
+转动惯量：Moment of inertia
+有关物质：related substance
+改进遗传算法：Improved genetic algorithm
+多普勒效应：Doppler effect
+综合能力：Comprehensive ability
+水下爆炸：underwater explosion
+晶粒度：grain size
+硝酸：nitric acid
+金刚石薄膜：diamond film
+分形几何：fractal geometry
+阴离子表面活性剂：anionic surfactant
+金属基复合材料：metal matrix composites
+运筹学：operational research
+控制理论：control theory
+DNA计算：DNA computing
+直接甲醇燃料电池：direct methanol fuel cell
+HOPF分岔：HOPF bifurcation
+谱分析：spectrum analysis
+驱动电路：drive circuit
+悬臂梁：cantilever beam
+测量误差：measurement error
+动态调度：dynamic scheduling
+有效应力：effective stress
+数值积分：Numerical integration
+仿射变换：affine transformation
+总磷：total phosphorus
+固相反应：solid state reaction
+表面能：surface energy
+活度系数：activity coefficient
+光学性能：optical properties
+尼龙6：nylon 6
+低周疲劳：low cycle fatigue
+有机废水：organic wastewater
+波函数：wave function
+冠醚：crown ether
+物流中心：logistics center
+特征方程：characteristic equation
+能力培养：ability cultivation
+教学实验：teaching experiment
+置信区间：confidence interval
+破坏模式：failure mode
+中空纤维膜：hollow fiber membrane
+表面结构：Surface structure
+决策分析：decision analysis
+毛细管区带电泳：capillary zone electrophoresis
+静电场：electrostatic field
+小波分析：wavelet transform
+相关函数：correlation function
+结构可靠性：structural reliability
+手性分离：chiral separation
+电晕放电：corona discharge
+高效：High efficiency
+应变速率：Strain Rate
+混沌理论：chaos theory
+射频：radio frequency
+最小二乘法：Least squares method
+有向图：Directed Graph
+相空间：phase space
+雷诺数：Reynolds number
+德育教育：moral education
+模糊熵：fuzzy entropy
+奇异摄动：singular perturbation
+钢纤维混凝土：steel fiber reinforced concrete
+数学分析：mathematical analysis
+教育质量：education quality
+溶剂效应：solvent effect
+超临界二氧化碳：supercritical carbon dioxide
+水煤浆：coal water slurry
+广义逆：generalized inverse
+沉积速率：deposition rate
+电化学腐蚀：electrochemical corrosion
+减阻：drag reduction
+流型：flow pattern
+离子电导率：ionic conductivity
+偏振光：polarized light
+大学物理：college physics
+催化裂解：catalytic cracking
+分散聚合：dispersion polymerization
+高温高压：high temperature and high pressure
+阻抗匹配：impedance matching
+泛函微分方程：functional differential equation
+相转移催化剂：phase transfer catalyst
+电磁感应：electromagnetic induction
+本构关系：constitutive relationship
+应用光学：applied optics
+MATLAB语言：MATLAB language
+无机化学：inorganic chemistry
+跟踪控制：tracking control
+量子信息：quantum information
+失效机理：failure mechanism
+混沌时间序列：chaotic time series
+Cauchy问题：Cauchy Problem
+Navier-Stokes方程：Navier-Stokes equations
+白噪声：white noise
+计算公式：calculation formula
+教学手段：teaching means
+分维数：fractal dimension
+现代教育技术：modern education technology
+密度泛函：density functional theory
+抑菌活性：antimicrobial activity
+L-乳酸：L-lactic acid
+综合评判：comprehensive evaluation
+Markov链：markov chain
+全局渐近稳定性：global asymptotic stability
+气液两相流：gas-liquid two-phase flow
+游离脂肪酸：free fatty acid
+有限理性：bounded rationality
+解析函数：analytic function
+手性拆分：Chiral separation
+多孔材料：porous material
+振动主动控制：active vibration control
+极限环：Limit cycles
+大豆油：Soybean oil
+摄动法：perturbation method
+分析力学：analytical mechanics
+教学评估：Teaching evaluation
+部分氧化：partial oxidation
+金属氧化物：metal oxide
+概率密度函数：probability density function
+极限分析：limit analysis
+时间复杂度：time complexity
+稳定常数：Stability constant
+氢键：Hydrogen bonding
+时空分布：temporal and spatial distribution
+Monte Carlo方法：Monte Carlo method
+速率常数：rate constant
+阈值电压：threshold voltage
+认知结构：cognitive structure
+曲面拟合：surface fitting
+剪切变形：shear deformation
+优化方法：Optimization method
+模型修正：model updating
+模糊积分：fuzzy integral
+氧化膜：oxide film
+非牛顿流体：non-Newtonian fluid
+次氯酸钠：sodium hypochlorite
+高压：high voltage
+黄原胶：xanthan gum
+MonteCarlo模拟：Monte Carlo simulation
+开环聚合：ring-opening polymerization
+RBF网络：RBF network
+玻璃化转变温度：glass transition temperature
+弱解：weak solution
+指数稳定性：exponential stability
+正电子湮没：Positron annihilation
+损伤识别：damage detection
+群体智能：swarm intelligence
+下界：Lower bound
+流量：flow rate
+玻碳电极：Glassy carbon electrode
+作战效能：operational effectiveness
+不动点指数：fixed point index
+膨胀石墨：expanded graphite
+化学分析：chemical analysis
+电荷转移：Charge transfer
+图像传感器：image sensor
+无约束优化：unconstrained optimization
+风险模型：risk model
+结晶紫：crystal violet
+汽液平衡：vapor-liquid equilibrium
+流动显示：flow visualization
+己二酸：adipic acid
+膜结构：membrane structure
+软件平台：software platform
+假设检验：Hypothesis test
+复杂适应系统：complex adaptive system
+军事物流：military logistics
+重金属离子：heavy metal ion
+动力学光度法：kinetic spectrophotometry
+单晶：single crystal
+香菇：lentinus edodes
+多分辨分析：multiresolution analysis
+退火温度：annealing temperature
+嗜酸乳杆菌：lactobacillus acidophilus
+台湾海峡：Taiwan Strait
+原子吸收：atomic absorption
+磷钨酸：phosphotungstic acid
+非定常流：unsteady flow
+固定相：Stationary phase
+多体动力学：multi-body dynamics
+教学能力：Teaching ability
+图像置乱：image scrambling
+溶液聚合：solution polymerization
+课程标准：curriculum standard
+极点配置：pole placement
+存在唯一性：existence and uniqueness
+低密度聚乙烯：Low density polyethylene
+热降解：thermal degradation
+点焊：spot welding
+大气光学：atmospheric optics
+贪婪算法：greedy algorithm
+羧甲基壳聚糖：carboxymethyl chitosan
+圆柱壳：cylindrical shell
+重力异常：gravity anomaly
+铜离子：copper ion
+电化学检测：electrochemical detection
+压力损失：pressure loss
+公共不动点：common fixed point
+正周期解：positive periodic solution
+阳离子表面活性剂：cationic surfactant
+磁流体：magnetic fluid
+蓖麻油：castor oil
+CO2：carbon dioxide
+概率模型：probability model
+晶粒长大：Grain growth
+动态补偿：dynamic compensation
+新材料：new material
+流变行为：rheological behavior
+空间分辨率：Spatial resolution
+上界：upper bound
+应用化学：applied chemistry
+数学规划：mathematical programming
+二氧化锰：manganese dioxide
+山梨酸：Sorbic acid
+显色反应：color reaction
+压电性能：piezoelectric properties
+受激布里渊散射：Stimulated Brillouin scattering
+自然科学：Natural science
+耐热性：heat tolerance
+测量不确定度：uncertainty of measurement
+Nash均衡：Nash equilibrium
+网络平台：network platform
+吸附机理：adsorption mechanism
+电路仿真：circuit simulation
+描述逻辑：description logic
+一致收敛：uniform convergence
+涡流：eddy current
+不对称催化：asymmetric catalysis
+罚函数：penalty function
+边界元：boundary element
+数字全息：digital holography
+工业废水：industrial wastewater
+局部搜索：local search
+隶属度函数：membership function
+数值试验：numerical experiment
+消光比：extinction ratio
+定积分：definite integral
+充分条件：sufficient condition
+双语教育：bilingual education
+双光子吸收：two-photon absorption
+无铅钎料：Lead-free Solder
+复合污染：combined pollution
+电磁力：electromagnetic force
+NO：nitric oxide
+激光烧蚀：laser ablation
+电子转移：electron transfer
+拉普拉斯变换：Laplace transform
+Galerkin方法：Galerkin method
+电子密度：Electron density
+辉光放电：glow discharge
+阴离子聚合：anionic polymerization
+荧光检测：Fluorescence detection
+电磁脉冲：electromagnetic pulse
+激光物理：laser physics
+能级：energy level
+碳酸二苯酯：Diphenyl carbonate
+生产实践：production practice
+模糊聚类分析：fuzzy clustering analysis
+化学动力学：chemical kinetics
+分子对接：molecular docking
+驻波：standing wave
+线性变换：linear transformation
+残余应力：residual stresses
+流固耦合：fluid-solid coupling
+速度分布：Velocity distribution
+控制释放：controlled release
+全合成：total synthesis
+接触问题：contact problem
+有限变形：finite deformation
+自相关函数：autocorrelation function
+标准差：standard deviation
+生物医学工程：biomedical engineering
+背包问题：knapsack problem
+启发式搜索：heuristic search
+激光二极管：Laser diode
+空间索引：spatial index
+微波合成：microwave synthesis
+大气环境：atmospheric environment
+氧含量：oxygen content
+不饱和聚酯：unsaturated polyester
+化学位移：chemical shift
+古希腊：Ancient Greece
+守恒量：conserved quantity
+自由能：free energy
+氧化亚氮：Nitrous oxide
+非完整系统：nonholonomic system
+薄板坯：Thin slab
+变形机制：deformation mechanism
+课程教学：course teaching
+海水：sea water
+光学性质：optical property
+神经网络控制：neural network control
+腐蚀行为：corrosion behavior
+流体流动：fluid flow
+激发态：Excited state
+拉曼散射：Raman scattering
+函数逼近：Function approximation
+相对误差：relative error
+丢番图方程：Diophantine equation
+力学性质：Mechanical Properties
+随机微分方程：stochastic differential equation
+刚体：rigid body
+指数稳定：exponential stability
+比较定理：comparison theorem
+全局吸引性：Global attractivity
+沉淀法：Precipitation Method
+微波烧结：microwave sintering
+介孔分子筛：Mesoporous molecular sieve
+顺丁烯二酸酐：maleic anhydride
+布朗运动：Brownian Motion
+特征值：characteristic value
+有限时间热力学：finite time thermodynamics
+价电子结构：valence electron structure
+疲劳分析：fatigue analysis
+群决策：group decision making
+溴酸钾：Potassium bromate
+咖啡酸：caffeic acid
+量子计算：Quantum computation
+滑动窗口：sliding window
+碳糊电极：carbon paste electrode
+三角模糊数：triangular fuzzy number
+随机规划：stochastic programming
+公共交通：Public traffic
+磁共振：magnetic resonance
+客户细分：customer segmentation
+硫酸软骨素：chondroitin sulfate
+不饱和聚酯树脂：unsaturated polyester resin
+硫酸亚铁：ferrous sulfate
+超支化聚合物：hyperbranched polymer
+黑液：black liquor
+同步控制：synchronous control
+激光晶体：laser crystal
+光学特性：optical properties
+常微分方程：ordinary differential equation
+时间常数：Time constant
+孔雀石绿：malachite green
+偶氮染料：azo dye
+粒径分布：size distribution
+碘化钾：potassium iodide
+共振光散射：resonance light scattering
+Matlab软件：Matlab software
+转换效率：conversion efficiency
+海杂波：sea clutter
+不确定系统：Uncertain systems
+高能球磨：high energy ball milling
+表面分析：surface analysis
+压力梯度：Pressure Gradient
+施工监测：construction monitoring
+临界载荷：critical load
+Hardy空间：Hardy space
+硫酸：sulphuric acid
+双氯芬酸钠：diclofenac sodium
+振动测试：vibration test
+模型分析：model analysis
+边际成本：marginal cost
+条件数：Condition number
+气相色谱：gas chromatograph
+苹果汁：apple juice
+残留分析：residue analysis
+机械活化：mechanical activation
+岩爆：rock burst
+关键路径：critical path
+自同构群：automorphism group
+弹性地基：elastic foundation
+电子封装：electronic packaging
+T-S模型：T-S model
+扩散方程：diffusion equation
+选择性氧化：selective oxidation
+导电聚合物：conducting polymer
+微动磨损：fretting wear
+势能函数：potential energy function
+血清白蛋白：Serum albumin
+共振瑞利散射：Resonance Rayleigh Scattering
+钢铁工业：iron and steel industry
+储氢：hydrogen storage
+三维模型：three-dimensional model
+振动测量：vibration measurement
+能源结构：energy structure
+Rogowski线圈：Rogowski coil
+波浪力：wave force
+特性阻抗：characteristic impedance
+最大似然估计：Maximum likelihood estimation
+拓扑度：topological degree
+黄酒：yellow rice wine
+内标法：internal standard method
+燃烧效率：combustion efficiency
+被动控制：passive control
+随机场：random field
+计算机安全：computer security
+TiO2：titanium dioxide
+复合树脂：composite resin
+色散关系：dispersion relation
+目标探测：Target detection
+幂级数：power series
+泊松比：Poisson's ratio
+氢氧化钠：sodium hydroxide
+质量监控：quality control
+薄板：thin plate
+统计方法：statistical method
+流程图：flow chart
+马尔可夫过程：markov process
+空间电荷：space charge
+表面波：Surface wave
+演化算法：evolutionary algorithm
+相位调制：phase modulation
+流变特性：rheological property
+经验公式：empirical formula
+密度函数：density function
+效能评估：efficiency evaluation
+边界元方法：boundary element method
+影子价格：shadow price
+临界荷载：critical load
+神经网络集成：Neural network ensemble
+无约束最优化：unconstrained optimization
+载波相位：carrier phase
+功能反应：functional response
+优美图：graceful graph
+初等变换：Elementary transformation
+储氢合金：hydrogen storage alloy
+无机盐：inorganic salt
+血液相容性：blood compatibility
+模糊集合：fuzzy set
+相干态：Coherent state
+Hausdorff测度：Hausdorff measure
+选择加氢：selective hydrogenation
+有机磷农药：Organophosphorus pesticides
+坐标系：Coordinate System
+茂金属催化剂：metallocene catalyst
+粒子群：particle swarm
+隶属函数：subordinate function
+近似解：approximate solution
+非线性方程组：nonlinear equations
+连锁不平衡：linkage disequilibrium
+量子涨落：Quantum fluctuation
+液膜：Liquid membrane
+Mannich反应：Mannich reaction
+共混改性：blending modification
+希夫碱：Schiff base
+氧化铜：copper oxide
+毛细管柱：Capillary column
+开放系统：open system
+差示扫描量热法：differential scanning calorimetry
+无机膜：inorganic membrane
+梯度洗脱：gradient elution
+人体健康：Human health
+驱动程序：Driver Program
+铝酸钠溶液：sodium aluminate solution
+顺酐：maleic anhydride
+模型选择：model selection
+教学原则：teaching principle
+区间分析：interval analysis
+物理性质：Physical properties
+膜反应器：membrane reactor
+多因素分析：multivariate analysis
+小波去噪：wavelet denoising
+振动监测：vibration monitoring
+奇点：singular point
+量纲分析：dimensional analysis
+动态过程：dynamic process
+偶联反应：Coupling reaction
+蒙特卡洛法：Monte Carlo method
+药物释放：Drug release
+机械强度：Mechanical strength
+教育实习：teaching practice
+激光推进：Laser propulsion
+核方法：kernel method
+指派问题：assignment problem
+奇异边值问题：singular boundary value problem
+工艺条件：technological condition
+微波等离子体：microwave plasma
+判断矩阵：judgement matrix
+气体放电：gas discharge
+能谱：Energy Spectrum
+脆性断裂：brittle fracture
+流动控制：flow control
+色多项式：chromatic polynomial
+单位根检验：unit root test
+荧光寿命：fluorescence lifetime
+碳化钨：tungsten carbide
+低温烧结：low temperature sintering
+光限幅：optical limiting
+结晶行为：crystallization behavior
+生长机制：growth mechanism
+平面应变：plane strain
+荧光探针：Fluorescent probe
+生理活性：physiological activity
+氧传感器：oxygen sensor
+速度测量：velocity measurement
+塑性区：plastic zone
+打靶法：shooting method
+石英晶体：quartz crystal
+阶段结构：stage structure
+积分不等式：integral inequality
+光子带隙：photonic band gap
+教学环境：teaching environment
+择优取向：Preferred Orientation
+不对称还原：asymmetric reduction
+反应温度：reaction temperature
+遗传规划：genetic programming
+均方误差：mean square error
+碳酸钠：Sodium carbonate
+势函数：potential function
+KdV方程：KdV equation
+传染病模型：Epidemic model
+蒙特卡洛模拟：Monte Carlo simulation
+离心压缩机：centrifugal compressor
+透射系数：Transmission coefficient
+权系数：weight coefficient
+再生核：reproducing kernel
+迭代函数系统：iterated function system
+全局稳定：global stability
+高效毛细管电泳：high performance capillary electrophoresis
+屈服应力：yield stress
+概率密度：probability density
+正定矩阵：positive definite matrix
+菲涅耳衍射：Fresnel diffraction
+比热：specific heat
+锂电池：lithium battery
+信息交换：information exchange
+控制软件：control software
+电子温度：Electron temperature
+可靠性指标：reliability index
+耦合效率：Coupling efficiency
+集成学习：ensemble learning
+线性微分方程：linear differential equation
+催化化学：catalytic chemistry
+预测方法：prediction method
+耦合模型：coupling model
+催化还原：catalytic reduction
+接口技术：interface technology
+应变能：strain energy
+网络资源：network resource
+风洞实验：wind tunnel test
+热辐射：thermal radiation
+水平集方法：level set method
+西方哲学：western philosophy
+Keggin结构：Keggin structure
+二硫化碳：carbon disulfide
+真空度：vacuum degree
+最小二乘支持向量机：least squares support vector machine
+固体酸催化剂：solid acid catalyst
+缓冲层：Buffer layer
+几何非线性：geometrical nonlinearity
+均匀分布：uniform distribution
+马尔科夫链：markov chain
+水资源承载力：Water resources carrying capacity
+CCD相机：CCD camera
+尺度函数：scaling function
+膜蛋白：membrane protein
+理论研究：theory research
+扩散连接：diffusion bonding
+X-射线衍射：X-ray diffraction
+电子光谱：Electronic spectra
+动力系统：dynamical system
+缺失数据：missing data
+微分几何：Differential geometry
+线性矩阵不等式(LMI)：linear matrix inequality(LMI)
+布尔函数：Boolean function
+竞争比：competitive ratio
+形式概念分析：formal concept analysis
+金属配合物：metal complex
+氯化氢：hydrogen chloride
+应变测量：strain measurement
+反应时间：reaction time
+一体化设计：integrated design
+带通滤波器：bandpass filter
+平均曲率：mean curvature
+螺旋藻：Spirulina platensis
+多环芳烃：polycyclic aromatic hydrocarbons(PAHs)
+金属元素：metal element
+室内空气污染：indoor air pollution
+介电损耗：dielectric loss
+两相流动：Two-phase flow
+流变模型：rheological model
+顶空气相色谱法：headspace gas chromatography
+稀土配合物：rare earth complexes
+紊流：Turbulent flow
+MonteCarlo方法：Monte Carlo method
+Logistic映射：logistic map
+运输问题：transportation problem
+建立模型：Model building
+线性方程组：linear equations
+Duffing方程：Duffing equation
+整数解：integer solution
+可解群：solvable group
+极大子群：maximal subgroup
+传输矩阵：transfer matrix
+混杂系统：hybrid system
+货架期：shelf life
+相移：phase shift
+数据流：data flow
+光存储：Optical storage
+奇异积分方程：singular integral equation
+全局渐近稳定：global asymptotic stability
+露点：dew point
+材料设计：material design
+植物乳杆菌：Lactobacillus plantarum
+阳离子交换树脂：cation exchange resin
+光折变效应：photorefractive effect
+低通滤波器：Low-pass filter
+计算智能：computational intelligence
+振动响应：vibration response
+失效率：failure rate
+非结构网格：unstructured grid
+区间估计：Interval estimation
+二项分布：binomial distribution
+面元法：panel method
+反应条件：reaction condition
+丙烯酸甲酯：methyl acrylate
+喷气燃料：jet fuel
+加氢催化剂：hydrogenation catalyst
+CO氧化：CO oxidation
+热冲击：thermal shock
+基体改进剂：Matrix modifier
+解析法：analytic method
+噪声源：noise source
+食品分析：food analysis
+起落架：landing gear
+多尺度分析：multi-scale analysis
+相对效率：relative efficiency
+表面温度：surface temperature
+波速：wave velocity
+结构工程：structural engineering
+含油量：oil content
+科学方法：scientific method
+稀疏矩阵：Sparse Matrix
+学前教育：preschool education
+完全图：complete graph
+最终正解：eventually positive solution
+甲酸甲酯：methyl formate
+多元统计分析：multivariate statistical analysis
+固定化细胞：immobilized cell
+相机标定：camera calibration
+状态空间模型：state space model
+光孤子：Optical soliton
+法拉第效应：Faraday effect
+历史发展：historical development
+ZnO薄膜：ZnO films
+痕量分析：trace analysis
+疲劳极限：fatigue limit
+能量密度：energy density
+共振频率：resonance frequency
+转移概率：transition probability
+Fourier级数：Fourier series
+磁路：magnetic circuit
+逆矩阵：inverse matrix
+碳含量：carbon content
+H2O2：hydrogen peroxide
+截断误差：truncation error
+混合溶剂：mixed solvent
+比电容：specific capacitance
+功能梯度材料：functionally graded materials
+钙钛矿结构：perovskite structure
+电弧离子镀：arc ion plating
+结构力学：structural mechanics
+系统识别：system identification
+短串联重复序列：short tandem repeats
+先验分布：Prior distribution
+直接数值模拟：direct numerical simulation
+磁流变液：magnetorheological fluid
+渗透压：osmotic pressure
+模糊可靠度：Fuzzy reliability
+随机数：random number
+琼斯矩阵：Jones matrix
+统一强度理论：unified strength theory
+学习理论：learning theory
+离散系统：discrete system
+长余辉：long afterglow
+紫外辐射：ultraviolet radiation
+转移矩阵：transfer matrix
+中性红：Neutral Red
+矿泉水：mineral water
+模糊规划：fuzzy programming
+凸包：convex hull
+正规族：normal family
+教学平台：Teaching platform
+介孔材料：mesoporous material
+变异系数：variation coefficient
+催化动力学光度法：catalytic kinetic spectrophotometry
+光化学反应：photochemical reaction
+过氧乙酸：peracetic acid
+中子活化分析：Neutron activation analysis
+酶电极：enzyme electrode
+对策论：Game theory
+软X射线：soft X-ray
+波长转换：wavelength conversion
+氧化铝：aluminum oxide
+微乳液聚合：microemulsion polymerization
+白光LED：White LED
+sol-gel法：sol-gel method
+四波混频：four-wave mixing
+压力场：pressure field
+饱和磁化强度：saturation magnetization
+能量释放率：energy release rate
+牛顿法：Newton method
+磁矩：Magnetic Moment
+沸点：Boiling point
+最佳逼近：Best approximation
+电化学沉积：electrochemical deposition
+酸值：acid value
+环境意识：environmental awareness
+非球面：aspheric surface
+声表面波：surface acoustic wave
+结构稳定性：structural stability
+演化计算：Evolutionary computation
+切应力：shear stress
+湍流边界层：turbulent boundary layer
+霍尔效应：Hall effect
+教学效率：teaching efficiency
+度分布：degree distribution
+力学特性：Mechanical properties
+非线性优化：nonlinear optimization
+分子力学：molecular mechanics
+Heck反应：Heck reaction
+氧化镍：nickel oxide
+精细结构：fine structure
+角动量：angular momentum
+关联分析：correlation analysis
+医用光学与生物技术：medical optics and biotechnology
+微分不等式：differential inequality
+磁悬浮：magnetic levitation
+条件概率：conditional probability
+应变软化：strain softening
+氨合成：ammonia synthesis
+非线性规划：non-linear programming
+动态光散射：Dynamic light scattering
+减振：vibration reduction
+成像系统：imaging system
+大挠度：Large deflection
+蛋白质纯化：protein purification
+心肌肌钙蛋白I：Cardiac troponin I
+线性空间：linear space
+向量空间：vector space
+本体聚合：Bulk Polymerization
+紧算子：compact operator
+钼酸铵：ammonium molybdate
+激光光学：laser optics
+室温：room temperature
+模型实验：model experiment
+横向振动：transverse vibration
+振动试验：vibration test
+Diels-Alder反应：Diels-Alder reaction
+基态：ground state
+学习方法：Learning method
+压电材料：piezoelectric materials
+角速度：Angular velocity
+简化模型：simplified model
+可靠性模型：reliability model
+模糊建模：fuzzy modeling
+波前像差：wavefront aberration
+远程教学：distance education
+线性算子：linear operator
+贪心算法：greedy algorithm
+制备技术：preparation technology
+解析模型：analytical model
+矩形板：rectangular plate
+压力脉动：pressure fluctuation
+贵金属：noble metal
+应力应变：stress and strain
+食品安全：food security
+相对运动：relative motion
+复合形法：Complex method
+损失函数：loss function
+辅助函数：auxiliary function
+周期边值问题：periodic boundary value problem
+粒子模拟：particle simulation
+不定方程：diophantine equation
+标准模型：standard model
+复合算子：composition operator
+粒计算：granular computing
+孤立波：solitary wave
+链接分析：link analysis
+化学氧化：chemical oxidation
+氧化铁：Ferric oxide
+强磁场：high magnetic field
+磁热效应：magnetocaloric effect
+损伤演化：damage evolution
+非线性效应：nonlinear effect
+分形插值：Fractal interpolation
+线性回归模型：linear regression model
+保成本控制：guaranteed cost control
+边界积分方程：Boundary integral equation
+肿瘤标记物：Tumor marker
+概念图：concept map
+数学教育：mathematical education
+孤波解：solitary wave solution
+集值映射：set-valued mapping
+Ramsey数：Ramsey number
+带隙：band gap
+溶剂热合成：solvothermal synthesis
+差分法：difference method
+基本原理：basic principle
+动态力学性能：dynamic mechanical properties
+缺陷模：defect mode
+红外传感器：infrared sensor
+微扰理论：perturbation theory
+模糊关系：fuzzy relation
+电路模型：Circuit model
+加速寿命试验：accelerated life test
+非线性电路：nonlinear circuit
+随机控制：stochastic control
+催化性能：catalytic performance
+电化学合成：electrochemical synthesis
+离子选择性电极：ion-selective electrode
+高碘酸钾：Potassium periodate
+临界指数：critical exponent
+氧指数：oxygen index
+干涉条纹：interference fringe
+B样条曲线：B-spline curve
+截面：cross section
+混沌吸引子：chaotic attractor
+凸集：convex set
+平面图：Planar graph
+无标度网络：scale-free network
+椭圆型方程：elliptic equation
+态密度：density of states
+趋肤效应：skin effect
+铜配合物：copper complex
+过氧化苯甲酰：benzoyl peroxide
+方位角：azimuth angle
+聚磷酸铵：ammonium polyphosphate
+甲基丙烯酸缩水甘油酯：glycidyl methacrylate
+VOF方法：VOF method
+乙烯聚合：ethylene polymerization
+系统控制：system control
+模拟试验：simulation experiment
+投资组合：investment portfolio
+马氏距离：Mahalanobis Distance
+小样本：small sample
+压电效应：piezoelectric effect
+时空混沌：spatiotemporal chaos
+概率分析：Probability analysis
+概率论：probability theory
+电势：electric potential
+价值体系：value system
+Boussinesq方程：Boussinesq equation
+有效解：efficient solution
+硅酸钠：sodium silicate
+硝酸银：silver nitrate
+流动应力：Flow Stress
+激光辐照：laser irradiation
+离子强度：ionic strength
+土壤腐蚀：soil corrosion
+化学势：chemical potential
+提拉法：Czochralski method
+维纳滤波：Wiener filter
+中值定理：mean value theorem
+Toeplitz算子：toeplitz operator
+超临界流体：supercritical fluids
+原位反应：in-situ reaction
+聚合物溶液：polymer solution
+煤层气：coal bed methane
+曲率半径：curvature radius
+高应变率：high strain rate
+石墨电极：Graphite electrode
+化学稳定性：chemical stability
+等电点：isoelectric point
+粗糙表面：rough surface
+多体系统：Multi-body System
+实践教学体系：practice teaching system
+教学软件：teaching software
+理想气体：ideal gas
+仿真研究：simulation study
+Bayes估计：Bayes estimation
+李代数：Lie algebra
+广义解：generalized solution
+HIV感染：HIV infection
+单光子：single photon
+随机系统：stochastic system
+强收敛：strong convergence
+双基地雷达：bistatic radar
+乙醛酸：Glyoxylic acid
+电化学聚合：Electrochemical polymerization
+杂化材料：hybrid material
+实验教学体系：experimental teaching system
+气体水合物：gas hydrate
+水热处理：hydrothermal treatment
+组合化学：combinatorial chemistry
+衰减系数：attenuation coefficient
+界面裂纹：interface crack
+自回归模型：autoregressive model
+布里渊散射：Brillouin scattering
+激光等离子体：Laser plasma
+弱收敛：Weak convergence
+层次聚类：hierarchical clustering
+屈曲分析：buckling analysis
+Poisson过程：Poisson process
+频响函数：frequency response function
+支持向量机(SVM)：support vector machine(SVM)
+对数正态分布：lognormal distribution
+热电材料：thermoelectric material
+声辐射：sound radiation
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+文化素质：cultural quality
+双线性插值：bilinear interpolation
+时间窗：time window
+生物组织：Biological tissue
+非线性微分方程：nonlinear differential equation
+绿色合成：green synthesis
+天然沸石：natural zeolite
+博弈理论：game theory
+相行为：phase behavior
+激波管：shock tube
+柱前衍生：Pre-column derivatization
+加成反应：addition reaction
+磁性材料：magnetic materials
+振子强度：oscillator strength
+Timoshenko梁：Timoshenko beam
+相位展开：phase unwrapping
+增长极：growth pole
+聚能装药：shaped charge
+母函数：Generating function
+Lorenz系统：Lorenz system
+渐近展开：asymptotic expansion
+量子密码：quantum cryptography
+仿生合成：biomimetic synthesis
+动力学参数：kinetic parameter
+群速度：group velocity
+可靠度指标：Reliability index
+酒石酸：tartaric acid
+光学器件：optical devices
+接触压力：contact pressure
+非线性光学晶体：nonlinear optical crystal
+损伤变量：damage variable
+智能结构：intelligent structure
+Green函数：Green's function
+压力测量：Pressure measurement
+人工免疫算法：artificial immune algorithm
+预解算子：resolvent operator
+最优性条件：optimality condition
+Lie对称性：Lie symmetry
+射流泵：jet pump
+停留时间分布：residence time distribution
+氯化镁：magnesium chloride
+能量分布：Energy distribution
+表面吸附：Surface adsorption
+剪切模量：Shear modulus
+光学常数：optical constants
+混合模型：hybrid model
+电子辐照：electron irradiation
+线性代数：linear algebra
+分数布朗运动：fractional Brownian motion
+混沌映射：chaotic map
+强大数定律：strong law of large numbers
+数据库加密：database encryption
+经验似然：empirical likelihood
+量子密钥分配：quantum key distribution
+伴随多项式：adjoint polynomial
+相对分子质量：relative molecular mass
+催化机理：catalytic mechanism
+复介电常数：complex permittivity
+三元体系：ternary system
+竞聚率：reactivity ratio
+超分子化学：supramolecular chemistry
+反相悬浮聚合：Inverse suspension polymerization
+诱导期：induction period
+Mie散射：Mie scattering
+抛物方程：parabolic equation
+内点法：Interior point method
+更新过程：renewal process
+浊点萃取：cloud point extraction
+数值稳定性：numerical stability
+热障涂层：thermal barrier coating
+离子选择电极：ion-selective electrode
+损耗因子：loss factor
+随机变量：random variables
+棉织物：cotton fabrics
+有效质量：Effective mass
+茜素红：Alizarin red
+硼氢化钠：sodium borohydride
+超细粉末：ultrafine powder
+衬底温度：substrate temperature
+磁熵变：magnetic entropy change
+品质因子：quality factor
+正交变换：orthogonal transformation
+应急物流：emergency logistics
+纠缠态：entangled state
+频率稳定度：frequency stability
+Viterbi算法：Viterbi algorithm
+锥形量热仪：CONE calorimeter
+双子表面活性剂：gemini surfactant
+聚酰胺6：polyamide 6
+压力波动：pressure fluctuation
+吸收剂量：absorbed dose
+氯离子：chlorine ion
+J积分：J integral
+浓度场：concentration field
+表面等离子体共振：surface plasmon resonance
+自由表面：free surface
+氢氧化镍：nickel hydroxide
+石油工业：petroleum industry
+SIMPLE算法：SIMPLE algorithm
+模糊变量：fuzzy variable
+性比：sex ratio
+点扩散函数：point spread function
+全局指数稳定性：global exponential stability
+完全收敛性：complete convergence
+中立型差分方程：neutral difference equation
+结构学习：Structure learning
+Hopf代数：Hopf algebra
+结构与性能：structure and property
+富马酸：Fumaric acid
+三元配合物：Ternary complex
+实验设计：experimental design
+热释放速率：heat release rate
+特征向量：Characteristic vector
+声波：Sound wave
+TVD格式：TVD scheme
+表面合金化：Surface alloying
+傅里叶级数：fourier series
+受迫振动：Forced Vibration
+电力负荷：power load
+广义系统：singular systems
+天线阵列：antenna array
+对称矩阵：symmetric matrix
+Dirichlet级数：Dirichlet series
+流场：fluid field
+能源管理：energy management
+含能材料：energetic materials
+模板法：template method
+湿法磷酸：wet-process phosphoric acid
+蒙特卡洛：monte carlo
+原子吸收分光光度法：atomic absorption spectrophotometry
+六价铬：hexavalent chromium
+吖啶橙：acridine orange
+有机高分子材料：organic polymer materials
+温度特性：temperature characteristic
+电化学性质：electrochemical property
+外延生长：epitaxial growth
+序参量：order parameter
+弯曲应力：bending stress
+电化学传感器：electrochemical sensor
+数据建模：data modeling
+实时测量：real-time measurement
+网络控制系统：network control system
+谱方法：spectral method
+区域气候模式：Regional climate model
+模糊辨识：fuzzy identification
+Stackelberg博弈：Stackelberg game
+张量积：tensor product
+氮化硼：boron nitride
+断裂机理：fracture mechanism
+发散思维：divergent thinking
+金刚石膜：diamond films
+CO_2：carbon dioxide
+电场强度：electric field strength
+玻璃化转变：glass transition
+电子束蒸发：electron beam evaporation
+氧化脱硫：oxidative desulfurization
+焙烧温度：calcination temperature
+分配系数：distribution coefficient
+紊流模型：turbulence model
+电解质溶液：electrolyte solution
+软启动：soft start
+氧化偶联：oxidative coupling
+光折变晶体：photorefractive crystal
+电泳沉积：electrophoretic deposition
+声场：sound field
+温度控制系统：temperature control system
+辐射效应：Radiation effect
+相速度：phase velocity
+收敛速度：convergence speed
+调频：Frequency modulation
+度量空间：metric space
+线搜索：line search
+非完整约束：nonholonomic constraint
+商空间：quotient space
+硫酸钡：barium sulfate
+大港油田：Dagang Oilfield
+多孔陶瓷：porous ceramic
+动力学方程：dynamic equation
+干酪乳杆菌：lactobacillus casei
+油膜：oil film
+演示实验：demonstration experiment
+应力比：stress ratio
+功率谱密度：power spectrum density
+关联矩阵：incidence matrix
+新体系：new system
+人工智能：artificial intelligent
+数学实验：mathematical experiment
+N-S方程：N-S equations
+Kronecker积：Kronecker product
+拓扑熵：topological entropy
+微分多项式：differential polynomial
+非紧性测度：measure of noncompactness
+进程代数：process algebra
+选择性加氢：selective hydrogenation
+接枝聚合：graft polymerization
+化学处理：chemical treatment
+亚硫酸钠：sodium sulfite
+食物链：food chain
+量子化学计算：Quantum chemical calculation
+精密铸造：investment casting
+撞击感度：impact sensitivity
+热力学参数：thermodynamic parameters
+矩阵范数：matrix norm
+硝酸钾：potassium nitrate
+电化学电容器：electrochemical capacitor
+耦合效应：coupling effect
+量子尺寸效应：quantum size effect
+空间光调制器：Spatial light modulator
+光镊：optical tweezers
+样条插值：spline interpolation
+可修系统：repairable system
+画法几何：descriptive geometry
+不适定问题：ill-posed problem
+三角网格：triangular mesh
+Markov过程：Markov process
+理论力学：theoretical mechanics
+分数傅里叶变换：fractional fourier transform
+网络入侵检测：network intrusion detection
+共轭聚合物：conjugated polymer
+安全性分析：security analysis
+产氢：hydrogen production
+创新人才：innovative talent
+马氏链：markov chain
+防腐：corrosion protection
+表面缺陷：Surface defects
+传输矩阵法：transfer matrix method
+直流磁控溅射：DC magnetron sputtering
+钛酸锶钡：barium strontium titanate
+物态方程：equation of state
+碳酸锂：Lithium carbonate
+Melnikov函数：melnikov function
+空间频率：spatial frequency
+离散模型：discrete model
+胆汁酸：Bile acid
+泊松分布：poisson distribution
+连通图：connected graph
+模型降阶：model reduction
+Duffing振子：Duffing oscillator
+随机环境：random environment
+戴震：Dai Zhen
+金属粉末：metal powder
+声子晶体：phononic crystal
+火焰原子吸收法：flame atomic absorption spectrometry
+薄膜光学：Thin film optics
+生态风险评价：ecological risk assessment
+氧化淀粉：oxidized starch
+层状结构：layered structure
+X射线荧光光谱法：X-ray fluorescence spectrometry
+巨磁电阻：giant magnetoresistance
+氧化钨：tungsten oxide
+动能：kinetic energy
+Monte-Carlo模拟：Monte-Carlo simulation
+离子源：ion source
+中心极限定理：central limit theorem
+相关检测：Correlation detection
+单摆：Simple pendulum
+高等工程教育：higher engineering education
+渐近解：Asymptotic solution
+Dirac方程：Dirac equation
+Lyapunov稳定性：Lyapunov stability
+Ricci曲率：Ricci curvature
+创造教育：creative education
+微波吸收：microwave absorption
+特性粘数：intrinsic viscosity
+电化学还原：Electrochemical reduction
+氧还原：oxygen reduction
+玻璃化温度：glass transition temperature
+界面结构：interface structure
+模块设计：Module Design
+聚丙烯酸：polyacrylic acid
+抗癌活性：anticancer activity
+注气：gas injection
+几何光学：geometrical optics
+主成分：Principal component
+聚合动力学：Polymerization kinetics
+烯烃聚合：Olefin polymerization
+生物质气化：biomass gasification
+决策规则：Decision Rules
+离散变量：discrete variable
+基态能量：ground state energy
+联系数：connection number
+联合变换相关器：joint transform correlator
+对立统一：unity of opposites
+Burgers方程：burgers equation
+狭义相对论：special relativity
+基础矩阵：fundamental matrix
+空气净化：Air purification
+孔雀绿：malachite green
+原子吸收光谱：Atomic Absorption Spectrometry
+疲劳裂纹扩展：fatigue crack propagation
+弹性模量：Young's modulus
+自发辐射：spontaneous emission
+吸收边界条件：absorbing boundary condition
+损伤阈值：damage threshold
+从头算：ab initio calculation
+电化学方法：electrochemical method
+非晶硅：Amorphous silicon
+散射系数：scattering coefficient
+拓扑关系：topological relation
+STS教育：STS education
+内阻：internal resistance
+热容：heat capacity
+毛细管电色谱：capillary electrochromatography
+近似推理：approximate reasoning
+度序列：degree sequence
+活性聚合：living polymerization
+非等温结晶：non-isothermal crystallization
+硫酸铝：aluminum sulfate
+多元线性回归：multivariate linear regression
+高分子材料：polymer material
+教学目标：teaching objective
+瑞利散射：Rayleigh scattering
+示范中心：demonstration center
+镍催化剂：nickel catalyst
+爆轰波：detonation wave
+欧拉方程：Euler equation
+排队系统：queuing system
+动力屈曲：dynamic buckling
+穿透曲线：breakthrough curve
+正交投影：Orthogonal projection
+Hopf分叉：Hopf bifurcation
+角分布：Angular distribution
+手足口病：Hand-foot-mouth disease
+民国时期：the period of the Republic of China
+半参数回归模型：semiparametric regression model
+中立型方程：neutral equation
+检测方法：detecting method
+氧化铈：Cerium oxide
+超声空化：ultrasonic cavitation
+发光二极管：light emitting diode
+停留时间：residence time
+纯铜：pure copper
+剪切速率：shear rate
+脉冲激光：pulse laser
+负热膨胀：negative thermal expansion
+光吸收：optical absorption
+甲基紫：methyl violet
+岭回归：ridge regression
+应变局部化：strain localization
+Raman光谱：Raman spectra
+统计能量分析：Statistical energy analysis
+水热稳定性：hydrothermal stability
+统计分布：statistical distribution
+Euler方程：Euler equation
+基于案例推理：Case-based reasoning
+泊松过程：poisson process
+能量分辨率：energy resolution
+离散数学：Discrete Mathematics
+Moore-Penrose逆：Moore-Penrose inverse
+布局优化：layout optimization
+工程训练：Engineering training
+值分布：value distribution
+空间聚类：spatial clustering
+阳极溶出伏安法：anodic stripping voltammetry
+铅离子：lead ion
+阳离子聚合：cationic polymerization
+阴离子识别：anion recognition
+流体动力学：fluid dynamics
+粒径：particle diameter
+碳热还原：Carbothermal reduction
+螯合树脂：chelating resin
+胶原纤维：collagen fiber
+富马酸二甲酯：dimethyl fumarate
+敏度分析：sensitivity analysis
+氯化锌：zinc chloride
+镍电极：nickel electrode
+转移因子：Transfer factor
+综合性实验：Comprehensive experiment
+光动力治疗：photodynamic therapy
+简支梁：simply supported beam
+科学素质：scientific quality
+同源模建：Homology modeling
+周期运动：periodic motion
+定向耦合器：directional coupler
+Bézier曲线：Bézier curve
+任务分配：task assignment
+Shapley值：Shapley value
+算子方程：operator equation
+网络化控制系统：networked control system
+最短路：shortest path
+国际物流：international logistics
+近似计算：approximate calculation
+模糊线性规划：fuzzy linear programming
+Wittig反应：Wittig reaction
+硫磺回收：sulfur recovery
+石墨炉原子吸收法：Graphite furnace atomic absorption spectrometry
+金纳米粒子：Gold nanoparticles
+吸附热力学：adsorption thermodynamics
+递推算法：recursive algorithm
+原位合成：in situ synthesis
+刚果红：congo red
+凝胶电泳：Gel electrophoresis
+时间尺度：time scale
+模糊概率：fuzzy probability
+知识体系：knowledge system
+原儿茶醛：Protocatechuic aldehyde
+傅立叶级数：Fourier series
+配分函数：partition function
+内能：internal energy
+形式语言：formal language
+混沌系统：chaos system
+认知过程：cognitive process
+蛋白质结构：Protein structure
+自由基聚合：Radical polymerization
+阳离子聚丙烯酰胺：cationic polyacrylamide
+表面酸性：surface acidity
+尺度效应：size effect
+吸声系数：sound absorption coefficient
+模糊推理系统：fuzzy inference system
+酸水解：acid hydrolysis
+药物合成：drug synthesis
+热扩散率：thermal diffusivity
+煤气：coal gas
+田口方法：Taguchi Method
+动态断裂：dynamic fracture
+倍频：frequency doubling
+响应函数：response function
+空间关系：spatial relationship
+协调控制：coordination control
+横观各向同性：transversely isotropic
+频率分析：Frequency Analysis
+定性仿真：qualitative simulation
+分数阶微积分：fractional calculus
+分布参数系统：distributed parameter system
+密度矩阵：Density matrix
+谱估计：spectrum estimation
+空间站：space station
+迈克尔逊干涉仪：Michelson interferometer
+完美匹配：perfect matching
+整体吸引子：global attractor
+正弦波：sine wave
+中立型微分方程：neutral differential equation
+广义相对论：general relativity
+捕食者-食饵系统：predator-prey system
+脂肪酸甲酯：fatty acid methyl ester
+傅里叶变换红外光谱：Fourier Transform Infrared Spectroscopy
+自蔓延高温合成：self-propagating high-temperature synthesis
+电位滴定法：Potentiometric titration
+聚丙烯酸钠：sodium polyacrylate
+高分辨：high resolution
+体积分数：volume fraction
+等离子弧：plasma arc
+竞争吸附：competitive adsorption
+案例教学：Case study
+创新型人才：innovative talents
+碳黑：carbon black
+内共振：internal resonance
+实验平台：experiment platform
+稳健估计：robust estimation
+细胞分离：cell separation
+低雷诺数：low Reynolds number
+数学归纳法：mathematical induction
+暗电流：Dark current
+腔QED：cavity QED
+稀土催化剂：rare earth catalyst
+微相分离：Microphase separation
+零价铁：zero-valent iron
+不确定度分析：uncertainty analysis
+统计学习：statistical learning
+中性载体：neutral carrier
+SiC晶须：SiC whisker
+微孔膜：microporous membrane
+SO2：sulfur dioxide
+速率方程：Rate equations
+计算机模拟：Computerized simulation
+溶解度参数：solubility parameter
+保留指数：Retention index
+损伤容限：damage tolerance
+物相分析：phase analysis
+智能材料：intelligent material
+磁偶极子：magnetic dipole
+乙醇脱氢酶：Alcohol dehydrogenase
+全息存储：Holographic storage
+混沌序列：chaos sequence
+负折射：negative refraction
+分形结构：fractal structure
+液力变矩器：hydraulic torque converter
+光电效应：photoelectric effect
+自组织临界性：self-organized criticality
+冲突消解：Conflict resolution
+最大值原理：Maximum Principle
+降维：dimension reduction
+等待时间：waiting time
+线性组合：Linear combination
+小波函数：Wavelet function
+能量沉积：Energy deposition
+Hopfield网络：Hopfield network
+技术预见：technology foresight
+城市快速路：urban expressway
+强极限定理：strong limit theorem
+激光通信：laser communication
+公交优先：Bus Priority
+循环码：cyclic code
+全局吸引子：global attractor
+齐次平衡法：homogeneous balance method
+暗能量：dark energy
+酸处理：acid treatment
+转速：rotating speed
+痕量元素：trace element
+聚对苯二甲酸乙二醇酯：Poly(ethylene terephthalate)
+丁二酸：succinic acid
+优化算法：optimal algorithm
+超临界干燥：Supercritical drying
+共轭梯度：conjugate gradient
+铂电极：platinum electrode
+γ-亚麻酸：γ-linolenic acid
+考试改革：examination reform
+乙烯基酯树脂：vinyl ester resin
+燃烧催化剂：combustion catalyst
+串联谐振：series resonance
+金相分析：metallographic analysis
+表面电荷：surface charge
+色散方程：dispersion equation
+交通网络：traffic network
+幺正变换：unitary transformation
+油液监测：oil monitoring
+水头损失：head loss
+惩罚函数：penalty function
+相干结构：coherent structure
+混合单调算子：Mixed monotone operator
+电流源：Current source
+似然比：Likelihood ratio
+捕食系统：predator-prey system
+特征值问题：eigenvalue problem
+不定积分：indefinite integral
+合成孔径：synthetic aperture
+无穷时滞：infinite delay
+荷移反应：Charge Transfer Reaction
+固定化脂肪酶：immobilized lipase
+熔融接枝：Melt grafting
+Maillard反应：maillard reaction
+压力管道：pressure pipeline
+石墨炉：graphite furnace
+原位：in situ
+聚醚多元醇：Polyether polyol
+反应级数：reaction order
+重复博弈：repeated game
+时空：time and space
+矩阵分析：matrix analysis
+厚度测量：thickness measurement
+反应溅射：Reactive sputtering
+径向分布函数：Radial distribution function
+等效模型：equivalent model
+符号计算：symbolic computation
+等价关系：Equivalence relation
+保角变换：conformal transformation
+量子干涉：Quantum interference
+碳酸丙烯酯：propylene carbonate
+变分方法：variational method
+Delaunay三角化：Delaunay Triangulation
+超线性收敛：superlinear convergence
+光谱性质：Spectroscopic properties
+背景噪声：background noise
+纳米金：gold nanoparticles
+柔性结构：flexible structure
+比热容：specific heat capacity
+超细粉：ultrafine powder
+原子荧光法：atomic fluorescence spectrometry
+KTP晶体：KTP crystal
+应力函数：stress function
+时变系统：time-varying system
+衍射光栅：Diffraction grating
+运动方程：motion equation
+取代基效应：substituent effect
+肖特基势垒：Schottky barrier
+典型相关：Canonical correlation
+分离流：separated flow
+拟牛顿法：Quasi-Newton method
+有理插值：rational interpolation
+FPGA：field programmable gate array
+数学文化：mathematics culture
+数值流形方法：numerical manifold method
+无失效数据：zero-failure data
+Herz空间：Herz space
+超可解群：supersolvable group
+间规聚苯乙烯：syndiotactic polystyrene
+氧化锡：tin oxide
+剪切带：shear zone
+吸附容量：adsorption capacity
+多目标优化：multi-object optimization
+能隙：Energy gap
+晶体形貌：crystal morphology
+均匀化方法：homogenization method
+误差控制：error control
+数值研究：numerical study
+气泡：air bubble
+蜂花粉：bee pollen
+双流体模型：two-fluid model
+轴流泵：axial flow pump
+湍流燃烧：turbulent combustion
+误差函数：error function
+全息光栅：holographic grating
+极坐标：Polar coordinates
+极限载荷：limit load
+粉尘爆炸：dust explosion
+桁架结构：truss structure
+空间相关性：spatial correlation
+噪声分析：noise analysis
+区间矩阵：interval matrix
+态势评估：situation assessment
+Bergman空间：Bergman space
+光滑模：modulus of smoothness
+量子通信：quantum communication
+有机化学实验：organic chemistry experiment
+材料力学：material mechanics
+能量分析：energy analysis
+实验教学改革：experimental teaching reform
+分形模型：fractal model
+煤矿开采：coal mining
+低浓度：low concentration
+玄武岩纤维：basalt fiber
+辐射交联：radiation crosslinking
+保加利亚乳杆菌：Lactobacillus bulgaricus
+连接性指数：connectivity index
+串联质谱：tandem mass spectrometry
+分子模拟：molecular modeling
+X射线荧光光谱：X-ray fluorescence spectrometry
+氧空位：Oxygen vacancy
+位错密度：Dislocation density
+核估计：Kernel estimation
+超声换能器：Ultrasonic transducer
+模型参数：model parameters
+网络教学平台：network teaching platform
+马赫数：Mach number
+haar小波：Haar wavelet
+全反射：Total reflection
+精细积分：precise integration
+与时俱进：Keeping Pace with the Times
+二部图：bipartite graph
+完备格：complete lattice
+暗物质：dark matter
+Sobolev空间：Sobolev space
+量子密钥分发：quantum key distribution
+ZSM-5分子筛：ZSM-5 zeolite
+银离子：Silver ion
+在线分析：on-line analysis
+茶皂素：tea saponin
+普鲁士蓝：Prussian blue
+催化分解：catalytic decomposition
+溶致液晶：lyotropic liquid crystal
+非平衡磁控溅射：unbalanced magnetron sputtering
+水安全：water security
+小牛胸腺DNA：calf thymus DNA
+载荷识别：load identification
+Michael加成：Michael addition
+大学教育：College Education
+影响系数：influence coefficient
+谐振腔：resonant cavity
+离散傅里叶变换：discrete Fourier transform
+近场：near field
+可拓集合：extension set
+电喷雾电离：Electrospray ionization
+几何约束：geometric constraint
+二能级原子：two-level atom
+上下解：Upper and Lower Solution
+基因表达数据：Gene expression data
+ARCH模型：ARCH model
+半定规划：semidefinite programming
+Kerr介质：Kerr medium
+Drazin逆：Drazin inverse
+调和函数：harmonic function
+原根：primitive root
+真空蒸馏：vacuum distillation
+培养目标：training goal
+热氧化：thermal oxidation
+氧化钴：cobalt oxide
+增长率：growth rate
+锌粉：zinc powder
+单晶高温合金：single crystal superalloy
+互穿聚合物网络：interpenetrating polymer network
+氧化亚铜：cuprous oxide
+醋酸甲酯：methyl acetate
+电位分布：potential distribution
+磁畴：magnetic domain
+介电特性：dielectric properties
+从头计算：ab initio calculation
+结构修饰：structure modification
+临界速度：critical velocity
+电光效应：Electro-optic effect
+钡铁氧体：barium ferrite
+群体感应：Quorum sensing
+最大流：maximum flow
+诺贝尔奖：Nobel Prize
+混沌优化：Chaotic optimization
+布尔代数：boolean algebra
+黄金分割：golden section
+定向进化：directed evolution
+影响函数：influence function
+成像光谱仪：Imaging spectrometer
+合成与表征：synthesis and characterization
+MIMO系统：MIMO system
+贝叶斯分析：Bayesian analysis
+直觉模糊集：intuitionistic fuzzy sets
+效能分析：effectiveness analysis
+时变时滞：time-varying delay
+柔性体：flexible body
+传递闭包：transitive closure
+信赖域方法：trust region method
+Helmholtz方程：Helmholtz equation
+布尔矩阵：Boolean matrix
+乙酸苄酯：benzyl acetate
+光学材料：optical material
+氰酸酯：cyanate ester
+硫化钠：sodium sulfide
+延时：time delay
+压电传感器：piezoelectric sensor
+羧酸：carboxylic acid
+共振散射：Resonance scattering
+非线性有限元法：nonlinear finite element method
+浊点：cloud point
+交换耦合：exchange coupling
+天然水：natural water
+精密测量：precision measurement
+等温结晶：isothermal crystallization
+数值实验：numerical experiment
+教育理念：educational idea
+对流扩散方程：convection-diffusion equation
+过程能力指数：process capability index
+0-1规划：0-1 programming
+Dirichlet问题：Dirichlet problem
+嗜麦芽寡养单胞菌：Stenotrophomonas maltophilia
+球差：spherical aberration
+Hadamard积：Hadamard product
+隐式曲面：implicit surface
+全局最优化：global optimization
+水蒸气重整：steam reforming
+Judd-Ofelt理论：Judd-Ofelt theory
+标准物质：reference material
+物理力学性能：physical and mechanical properties
+磁化水：magnetized water
+富集因子：enrichment factor
+氯化铁：ferric chloride
+费托合成：Fischer-Tropsch synthesis
+隧道效应：tunneling effect
+糠醇：furfuryl alcohol
+材料科学基础学科：foundational discipline in materials science
+遗传模拟退火算法：genetic simulated annealing algorithm
+激光烧结：laser sintering
+Delphi法：Delphi method
+电流变液：electrorheological fluids
+长周期光纤光栅：long period fiber grating
+协同萃取：synergistic extraction
+两性表面活性剂：amphoteric surfactant
+二甘醇：diethylene glycol
+氧化锰：manganese oxide
+直接电化学：Direct electrochemistry
+概率统计：probability statistics
+酚酸：phenolic acid
+有色噪声：colored noise
+色心：color center
+石油磺酸盐：petroleum sulfonate
+实验室建设：lab construction
+渐近性态：asymptotic behavior
+碳酸酐酶：Carbonic anhydrase
+环境激励：ambient excitation
+事故再现：Accident reconstruction
+递归神经网络：recurrent neural network
+单位根：unit root
+压缩效应：squeezing effect
+单圈图：unicyclic graph
+T-S模糊系统：T-S fuzzy system
+生存概率：survival probability
+两点边值问题：two-point boundary value problem
+介观电路：Mesoscopic circuit
+光束整形：beam shaping
+蠕变损伤：creep damage
+山路引理：mountain pass lemma
+整体存在性：global existence
+条件期望：conditional expectation
+模板合成：template synthesis
+晶格常数：lattice constant
+甲烷水合物：methane hydrate
+离散元法：discrete element method
+反胶束：Reverse micelle
+惯性力：inertia force
+无皂乳液聚合：soap-free emulsion polymerization
+启动压力梯度：threshold pressure gradient
+换热网络：heat exchanger network
+熔体流动速率：melt flow rate
+量子理论：quantum theory
+微波化学：microwave chemistry
+内波：internal wave
+随机有限元：stochastic finite element method
+力控制：force control
+自相位调制：self-phase modulation
+光程差：Optical path difference
+科学文化：scientific culture
+周期轨道：Periodic orbit
+船舶运动：ship motion
+激光防护：laser protection
+二次型：quadratic form
+截止频率：Cut-off frequency
+多值逻辑：multiple-valued logic
+格蕴涵代数：lattice implication algebra
+风险度量：risk measure
+二分图：Bipartite graph
+不可约矩阵：irreducible matrix
+弛豫时间：relaxation time
+周期点：Periodic point
+模态逻辑：modal logic
+素理想：prime ideal
+断裂行为：fracture behavior
+导电率：electrical conductivity
+周期结构：periodic structure
+多晶硅：polycrystalline silicon
+非晶形成能力：glass forming ability
+硅树脂：silicone resin
+MC尼龙：MC nylon
+高分子化学：polymer chemistry
+特性粘度：intrinsic viscosity
+空气分离：air separation
+半解析法：semi-analytical method
+解析几何：analytic geometry
+石英晶体微天平：quartz crystal microbalance
+单轴晶体：uniaxial crystal
+嵌入式微处理器：embedded microprocessor
+Ziegler-Natta催化剂：Ziegler-Natta catalyst
+裂纹扩展速率：Crack growth rate
+超导磁体：Superconducting magnet
+单线态氧：Singlet oxygen
+教材建设：textbook construction
+泰勒级数：Taylor series
+应急通信：emergency communication
+波传播：wave propagation
+三次样条插值：cubic Spline interpolation
+乘性噪声：multiplicative noise
+本征动力学：intrinsic kinetics
+初始条件：initial condition
+变质量：variable mass
+生成函数：generating function
+教与学：teaching and learning
+反聚束效应：antibunching effect
+自行火炮：self-propelled gun
+子空间跟踪：Subspace tracking
+小函数：small function
+半直积：semidirect product
+反应磁控溅射：reactive magnetron sputtering
+紫外光谱：UV spectrum
+非离子表面活性剂：non-ionic surfactant
+合成工艺：synthetic process
+记忆效应：memory effect
+临界电流密度：critical current density
+二甲酚橙：xylenol orange
+吸附平衡：Adsorption equilibrium
+晶格畸变：lattice distortion
+分子连接性指数：molecular connectivity index
+ZnO：zinc oxide
+荧光强度：Fluorescence Intensity
+格氏试剂：Grignard reagent
+分支比：branching ratio
+模糊C-均值聚类：fuzzy C-means clustering
+正交多项式：orthogonal polynomials
+泊松方程：Poisson equation
+积分算子：integral operator
+李雅普诺夫指数：Lyapunov exponent
+偏导数：Partial derivative
+复杂产品：complex product
+收敛阶：convergence order
+模糊自适应控制：fuzzy adaptive control
+精细积分法：precise integration method
+Hamming距离：Hamming distance
+Hermite插值：Hermite interpolation
+局部对称：locally symmetric
+特解：particular solution
+Delta算子：Delta operator
+信赖域：trust region
+色数：chromatic number
+最大亏格：maximum genus
+超细粉体：superfine powder
+重铬酸钾：potassium dichromate
+面粉：wheat flour
+质子转移：proton transfer
+复合粒子：composite particle
+相互作用能：interaction energy
+声阻抗：acoustic impedance
+形状因子：shape factor
+相对熵：Relative entropy
+随机游动：random walk
+组合模型：combined model
+氧化钼：molybdenum oxide
+分子间相互作用：intermolecular interaction
+高速摄影：high-speed photography
+群论：Group theory
+压电驱动器：piezoelectric actuator
+蓝光：blue light
+安培检测：Amperometric detection
+平面应力：plane stress
+高师：normal university
+滤波器设计：filter design
+固结度：degree of consolidation
+电磁耦合：electromagnetic coupling
+网络流：network flow
+氧化羰基化：Oxidative carbonylation
+死亡时间：Postmortem interval
+COX模型：Cox model
+渐近稳定：asymptotically stable
+随机分解：stochastic decomposition
+位移法：displacement method
+幻方：magic square
+正则图：regular graph
+利玛窦：Matteo Ricci
+催化湿式氧化：Catalytic wet air oxidation
+烷基化反应：Alkylation reaction
+最优化方法：optimization method
+测定方法：measuring method
+化学性质：Chemical properties
+光学带隙：optical band gap
+可膨胀石墨：expandable graphite
+降滤失剂：filtrate reducer
+一步法：one-step method
+Pd/C催化剂：Pd/C catalyst
+表面改性：surface treatment
+碳酸钡：barium carbonate
+烧结工艺：sintering process
+金属氢化物：metal hydride
+细乳液聚合：Miniemulsion polymerization
+搅拌摩擦焊接：friction stir welding
+甲烷氧化偶联：oxidative coupling of methane
+表面性质：surface property
+煤液化：coal liquefaction
+过渡层：Transition layer
+Fenton反应：Fenton reaction
+物元：matter element
+锌电极：zinc electrode
+矩阵分解：Matrix Decomposition
+奇异点：singular point
+相位共轭：Phase conjugation
+微通道板：Microchannel plate
+动力稳定：dynamic stability
+双层规划：bilevel programming
+群逆：group inverse
+交通流模型：traffic flow model
+渐近行为：asymptotic behavior
+互连网络：interconnection network
+时滞差分方程：Delay difference equation
+Hadamard乘积：Hadamard product
+微晶纤维素：Microcrystalline cellulose
+腐蚀性能：corrosion resistance
+旋转磁场：Rotating Magnetic Field
+醋酸纤维素：cellulose acetate
+石油库：oil depot
+双极膜：bipolar membrane
+耦合系统：coupling system
+十六烷基三甲基溴化铵：cetyltrimethylammonium bromide
+多相流：multi-phase flow
+析氢：hydrogen evolution
+加载速率：loading rate
+杂醇油：fusel oil
+研究与应用：research and application
+中西文化：Chinese and Western cultures
+密度分布：density distribution
+硝化抑制剂：nitrification inhibitor
+磁分离：magnetic separation
+浓度猝灭：concentration quenching
+绿脓杆菌：Pseudomonas aeruginosa
+基频：fundamental frequency
+燃烧诊断：combustion diagnosis
+残余应变：residual strain
+Monte-Carlo法：Monte-Carlo method
+比较原理：comparison principle
+耦合动力学：coupling dynamics
+三次系统：cubic system
+蒸发波导：evaporation duct
+一致凸Banach空间：uniformly convex Banach space
+广义同步：generalized synchronization
+全纯函数：holomorphic function
+鞅方法：martingale method
+指数Diophantine方程：exponential diophantine equation
+完全收敛：complete convergence
+二阶：second order
+量子计算机：quantum computer
+伴随矩阵：adjoint matrix
+芳香醛：aromatic aldehyde
+稀土离子：Rare earth ion
+时域有限差分法：finite-difference time-Domain
+农药废水：pesticide wastewater
+平面波展开法：Plane wave expansion method
+精细化工中间体：fine chemical intermediates
+纤维混凝土：fiber concrete
+甲醇氧化：methanol oxidation
+激光诱导荧光：laser-induced fluorescence
+振动力场：vibration force field
+H_2O_2：hydrogen peroxide
+尼龙66：nylon 66
+手性药物：chiral drug
+弹塑性分析：elastoplastic analysis
+元数据管理：metadata management
+生长规律：Growth Law
+贝塞尔函数：Bessel function
+卷烟烟气：cigarette smoke
+回归系数：regression coefficient
+数理统计学：mathematical statistics
+生长习性：growth habit
+随机最优控制：stochastic optimal control
+复变函数：complex function
+能量方程：Energy equation
+白光：white light
+磁场测量：magnetic field measurement
+成本函数：cost function
+认证码：authentication code
+距离函数：distance function
+锥与半序：cone and partial ordering
+变分包含：variational inclusion
+Arnold变换：Arnold transform
+中心流形：center manifold
+能带结构：energy band structure
+样品前处理：sample pretreatment
+石油烃：petroleum hydrocarbon
+非等温动力学：non-isothermal kinetics
+敏感度分析：sensitivity analysis
+二氧化氮：nitrogen dioxide
+官能团：functional group
+振动模型：vibration model
+药物载体：drug carriers
+氧化降解：Oxidative degradation
+水润滑：water lubrication
+丙酮酸乙酯：ethyl pyruvate
+半衰期：half life
+气象要素：meteorological element
+光学相干层析成像：Optical Coherence Tomography
+有机化合物：organic compound
+瓜尔胶：guar gum
+静磁场：static magnetic field
+损伤机理：Damage Mechanism
+平面波：plane wave
+表面态：Surface state
+三角函数：Trigonometric function
+随机抽样：random sampling
+应力计算：Stress calculation
+冲击射流：impinging jet
+夫琅和费衍射：Fraunhofer diffraction
+级数解：series solution
+发展方程：evolution equation
+李群：Lie group
+应变模态：strain mode
+数学思维：mathematical thinking
+随机响应：random response
+默会知识：tacit knowledge
+教学技能：Teaching skill
+重尾分布：heavy-tailed distribution
+宽带信号：Wideband signal
+互感：Mutual inductance
+机会约束规划：chance-constrained programming
+人工边界：artificial boundary
+效用理论：utility theory
+分配格：distributive lattice
+心理声学模型：Psychoacoustic model
+后验分布：posterior distribution
+Lipschitz条件：Lipschitz condition
+介电弛豫：dielectric relaxation
+分子印迹技术：molecular imprinting technique
+气压：air pressure
+不对称环氧化：asymmetric epoxidation
+邻苯二甲酸酯：phthalate esters
+主应力：principal stress
+溶出伏安法：stripping voltammetry
+水热反应：hydrothermal reaction
+荧光淬灭：fluorescence quenching
+过碳酸钠：sodium percarbonate
+网格剖分：mesh generation
+混合智能算法：hybrid intelligent algorithm
+共沸蒸馏：azeotropic distillation
+电子衍射：electron diffraction
+自组织理论：self-organization theory
+熔融纺丝：melt spinning
+阴极极化：Cathodic polarization
+建设与管理：construction and management
+化学抛光：chemical polishing
+质量传递：mass transfer
+电磁波：electromagnetic waves
+热蒸发：thermal evaporation
+生长过程：Growth process
+甲基红：methyl red
+教学理念：teaching concept
+引线键合：wire bonding
+光通量：luminous flux
+学习适应性：learning adaptability
+Chirp信号：Chirp signal
+干扰抑制：disturbance attenuation
+收敛性分析：convergence analysis
+奇怪吸引子：strange attractor
+Melnikov方法：Melnikov method
+真度：truth degree
+容错性：fault tolerance
+单亲遗传算法：partheno-genetic algorithm
+模糊PID控制器：Fuzzy PID controller
+不动点集：fixed point set
+Wiener过程：wiener process
+非振动解：nonoscillatory solution
+垂直形变：vertical deformation
+线性流形：linear manifold
+强解：strong solution
+信息理论：information theory
+Clifford分析：Clifford analysis
+脂肪醇：fatty alcohol
+乳液共聚：emulsion copolymerization
+格氏反应：Grignard reaction
+质量浓度：Mass concentration
+切削参数：cutting parameters
+有机改性：organic modification
+水分含量：water content
+近场光学：near-field optics
+光学玻璃：optical glass
+表面性能：surface properties
+乙基纤维素：ethyl cellulose
+铁粉：iron powder
+量化计算：quantum chemistry calculation
+扫描隧道显微镜：scanning tunneling microscopy
+稀土掺杂：rare earth doping
+光谱干扰：spectral interference
+反应烧结：reaction sintering
+接触模型：contact model
+辛算法：symplectic algorithm
+氮化碳：carbon nitride
+超快光学：ultrafast optics
+比较法：comparative law
+偶极矩：Dipole moment
+功函数：work function
+络合滴定：complexometric titration
+中子衍射：neutron diffraction
+迭代算法：iteration algorithm
+AHP方法：AHP method
+科研能力：scientific research ability
+线性码：linear code
+动应力集中：dynamic stress concentration
+种群生态学：population ecology
+弹性力学：Elastic mechanics
+结构预测：structure prediction
+批判精神：critical spirit
+自由边界：free boundary
+超线性收敛性：superlinear convergence
+粘性解：viscosity solution
+辩证逻辑：Dialectical logic
+正算子：positive operator
+玻色-爱因斯坦凝聚：Bose-Einstein condensate
+增韧改性：toughening modification
+环境样品：Environmental samples
+k-ε模型：k-ε model
+Lewis酸：Lewis acid
+整体柱：monolithic column
+C/C复合材料：carbon/carbon composites
+挥发性有机化合物：volatile organic compounds
+变分原理：variation principle
+生长动力学：growth kinetics
+SiC：silicon carbide
+主成分回归：principal component regression
+状态空间法：state space method
+红移：red shift
+乙酰丙酸：levulinic acid
+修正系数：correction coefficient
+等效刚度：equivalent stiffness
+低碳烯烃：light olefins
+韧性断裂：ductile fracture
+重要值：Importance value
+磁性纳米粒子：Magnetic nanoparticles
+振动系统：vibration system
+Bootstrap方法：Bootstrap method
+电荷密度：charge density
+拐点：inflection point
+电力线：power line
+量子效应：quantum effect
+小波基：wavelet base
+最优估计：optimal estimation
+疲劳寿命预测：Fatigue life prediction
+屈服面：yield surface
+地球自转：earth rotation
+科学理论：scientific theory
+光学传递函数：Optical transfer function
+亚砷酸钠：sodium arsenite
+摄动方法：perturbation method
+成像质量：imaging quality
+衍射光学：diffractive optics
+不变测度：Invariant measure
+可能度：possibility degree
+全染色：total coloring
+p-Laplacian算子：p-Laplacian operator
+解的存在性：existence of solution
+不变集：invariant set
+全测地：totally geodesic
+交叉数：crossing number
+功能性反应：functional response
+保角映射：conformal mapping
+磺基水杨酸：sulfosalicylic acid
+酶催化：enzyme catalysis
+磁通量：magnetic flux
+复合薄膜：composite film
+热塑性聚氨酯：thermoplastic polyurethane
+圆二色谱：Circular Dichroism
+膜萃取：membrane extraction
+评定方法：evaluation method
+光学活性：optical activity
+脱乙酰度：degree of deacetylation
+碳化钛：Titanium carbide
+热行为：thermal behavior
+偏最小二乘回归：partial least square regression
+层状硅酸盐：layered silicate
+非线性吸收：nonlinear absorption
+脲酶抑制剂：urease inhibitor
+三次样条函数：Cubic Spline Function
+闪烁晶体：scintillation crystal
+体全息存储：volume holographic storage
+柔性梁：flexible beam
+红外光学系统：Infrared optical system
+系统发生树：phylogenetic tree
+教学观念：Teaching concept
+模型误差：model error
+似然比检验：likelihood ratio test
+变系数：variable coefficient
+极大值原理：Maximum Principle
+形式背景：formal context
+数量折扣：quantity discount
+调制不稳定性：Modulation instability
+简单图：simple graph
+整体存在：global existence
+拟共形映射：quasiconformal mapping
+单机：single machine
+Orlicz空间：Orlicz spaces
+偏序：partial order
+计算机科学：computer science
+交叉相位调制：cross-phase modulation
+剪切破坏：Shear failure
+化学还原：chemical reduction
+低合金钢：low-alloy steel
+电子顺磁共振：electron paramagnetic resonance
+火焰温度：flame temperature
+含气量：gas content
+生态经济学：ecological economics
+反射波：reflection wave
+接枝共聚合：graft copolymerization
+离子交换纤维：ion exchange fiber
+三聚氯氰：cyanuric chloride
+钛白粉：titanium dioxide
+集合论：set theory
+减压蒸馏：vacuum distillation
+炼厂气：Refinery gas
+四氯化钛：titanium tetrachloride
+三江平原：the Sanjiang Plain
+电极电位：electrode potential
+氧分压：oxygen partial pressure
+低表面能：low surface energy
+透射电子显微镜：Transmission electron microscope
+邻接矩阵：adjacent matrix
+ζ电位：ζ potential
+表面积：surface area
+自旋极化：spin polarization
+物流工程：logistics engineering
+结构振动：structure vibration
+静电力：Electrostatic force
+Ising模型：Ising model
+MnZn铁氧体：MnZn ferrite
+散射矩阵：Scattering matrix
+色噪声：Colored noise
+声压级：sound pressure level
+共振隧穿：resonant tunneling
+模态应变能：modal strain energy
+初值：Initial value
+相平面：phase plane
+寿命试验：Life test
+深梁：deep beam
+制冷循环：refrigeration cycle
+单元刚度矩阵：element stiffness matrix
+正交解调：quadrature demodulation
+符号动力学：symbolic dynamics
+互信息量：mutual information
+完备度量空间：complete metric space
+课件制作：courseware making
+渐近分布：asymptotic distribution
+哈密顿系统：hamiltonian system
+纵向数据：longitudinal data
+电阻层析成像：electrical resistance tomography
+宇宙线：cosmic ray
+无限元：infinite element
+绝对稳定：absolute stability
+中子星：neutron star
+偏差变元：deviating argument
+HJB方程：HJB equation
+单调算子：monotone operator
+卡诺循环：Carnot cycle
+紫外光：UV light
+多壁碳纳米管：multi-walled carbon nanotube
+应用领域：application field
+聚合度：degree of polymerization
+分子结构：molecule structure
+正交试验法：orthogonal experiment
+结构函数：structure function
+模拟体液：simulated body fluid
+氢化物发生-原子荧光光谱法：hydride generation-atomic fluorescence spectrometry
+膜厚：film thickness
+安全距离：safe distance
+表观密度：apparent density
+二次谐波：second harmonic
+谷氨酸脱氢酶：glutamate dehydrogenase
+隐身技术：stealth technique
+真空蒸发：vacuum evaporation
+过渡区：transition region
+弯曲振动：flexural vibration
+疏水缔合：Hydrophobic association
+探索与实践：exploration and practice
+传输特性：transmission characteristics
+泰勒公式：Taylor formula
+三氯氧磷：phosphorus oxychloride
+启发式方法：heuristic method
+电磁感应透明：electromagnetically induced transparency
+Laplace变换：Laplace transformation
+反应扩散：reaction diffusion
+Preisach模型：Preisach model
+光伏效应：photovoltaic effect
+标度律：Scaling law
+古典解：classical solution
+积分球：integrating sphere
+最优策略：optimal strategy
+拉格朗日插值：lagrange interpolation
+破坏概率：failure probability
+传输效率：Transmission efficiency
+射影几何：Projective geometry
+逆散射：Inverse scattering
+形函数：shape function
+有理函数：rational function
+凸多边形：convex polygon
+幂等矩阵：Idempotent matrix
+分位数回归：quantile regression
+积分表示：integral representation
+鲁棒优化：Robust optimization
+幂零群：nilpotent group
+资产价格：asset price
+数学教师：mathematics teacher
+增长曲线模型：growth curve model
+二元关系：binary relation
+同伦方法：homotopy method
+积分因子：integrating factor
+回归函数：regression function
+极大算子：maximal operator
+储氢材料：hydrogen storage material
+水杨酸甲酯：Methyl Salicylate
+结晶结构：crystal structure
+相场法：phase-field method
+月桂酸：lauric acid
+退火工艺：annealing process
+有限差分法：finite-difference method
+群体决策：group decision-making
+碳酸二乙酯：diethyl carbonate
+特征映射：feature mapping
+离子掺杂：ion doping
+电弧放电：arc discharge
+三氧化钨：Tungsten trioxide
+聚合物熔体：Polymer melt
+谱分解：spectral decomposition
+熵理论：entropy theory
+TiNi合金：TiNi alloy
+流函数：stream function
+丙烯酸酯乳液：acrylate emulsion
+Mie理论：Mie theory
+磁记忆：magnetic memory
+表面化学：surface chemistry
+辐射固化：radiation curing
+环境雌激素：environmental estrogens
+激光多普勒：laser Doppler
+机械能：Mechanical energy
+断裂准则：fracture criterion
+投影法：projection method
+组合预测：combination forecast
+FDTD方法：FDTD method
+磁各向异性：magnetic anisotropy
+设计与开发：Design and development
+化学振荡：chemical oscillation
+稳定分布：stable distribution
+问题意识：question consciousness
+开关函数：switching function
+飞秒脉冲：femtosecond pulse
+梯度法：gradient method
+磁制冷：magnetic refrigeration
+Hessian矩阵：Hessian matrix
+推理机制：reasoning mechanism
+再励学习：reinforcement learning
+频率控制：frequency control
+脉冲微分方程：impulsive differential equations
+模糊支持向量机：Fuzzy support vector machine
+物理教育：physics education
+降雨侵蚀力：Rainfall Erosivity
+辐射定标：radiometric calibration
+齐次平衡原则：homogeneous balance principle
+动力可靠度：dynamic reliability
+毁伤概率：damage probability
+矩阵的秩：rank of matrix
+可测函数：measurable function
+临界电流：critical current
+正定：positive definite
+可逆矩阵：invertible matrix
+ISO9000：ISO 9000
+教育人类学：educational anthropology
+颗粒尺寸：Particle Size
+水性聚氨酯：water-borne polyurethane
+气动噪声：aerodynamic noise
+合成机理：synthesis mechanism
+脉冲放电：pulse discharge
+直纹面：Ruled surface
+双螺杆挤出机：twin screw extruder
+指数函数：exponential function
+实验模拟：experimental simulation
+氧化钒：vanadium oxide
+固相合成：solid state synthesis
+光催化反应器：photocatalytic reactor
+氯化钡：barium chloride
+高级醇：higher alcohols
+HZSM-5分子筛：HZSM-5 zeolite
+电流变效应：electrorheological effect
+乙酸丁酯：butyl acetate
+开放实验室：opening laboratory
+乙酰乙酸乙酯：ethyl acetoacetate
+沉淀聚合：precipitation polymerization
+分子电子学：molecular electronics
+特征矩阵：characteristic matrix
+响应面方法：response surface methodology
+云纹干涉法：moire interferometry
+晶化温度：crystallization temperature
+稀土金属：rare earth metal
+传热学：heat transfer
+基本概念：basic concept
+峰值：peak value
+X射线光学：X-ray optics
+超高速撞击：Hypervelocity impact
+高灵敏度：high sensitivity
+场分布：field distribution
+矩阵法：matrix method
+周期函数：periodic function
+辐射场：Radiation Field
+肿瘤治疗：Cancer therapy
+结构响应：structural response
+Laplace方程：Laplace equation
+液体晃动：Liquid sloshing
+行波解：travelling wave solution
+Frobenius范数：Frobenius norm
+等效电阻：equivalent resistance
+命中概率：hit probability
+社团结构：community structure
+全变差：total variation
+线性函数：linear function
+概率测度：probability measure
+洛仑兹变换：Lorentz transformation
+Schur补：Schur complement
+第二基本形式：second fundamental form
+加权复合算子：weighted composition operator
+对甲苯磺酸：p-toluene sulphonic acid
+磁性微球：magnetic microspheres
+杂散光：Stray light
+泡沫铝：foamed aluminum
+机理研究：mechanism research
+疲劳裂纹扩展速率：fatigue crack growth rate
+柱前衍生化：pre-column derivatization
+微波介电性能：microwave dielectric properties
+氨基磺酸：sulfamic acid
+生物样品：Biological sample
+乙酸正丁酯：n-Butyl acetate
+晶体缺陷：crystal defect
+导电性能：electrical conductivity
+聚烯烃弹性体：polyolefin elastomer
+多孔结构：porous structure
+标准溶液：standard solution
+耐热钢：heat-resistant steel
+稻壳：rice hull
+多项式插值：polynomial interpolation
+柠檬酸钠：sodium citrate
+检出限：Detection limit
+河水：river water
+房地产：The real estate
+点缺陷：point defect
+环境污染物：Environmental Pollutants
+SPSS软件：SPSS software
+最优设计：optimal design
+虚功原理：Principle of virtual work
+Tikhonov正则化：Tikhonov regularization
+预混火焰：premixed flame
+需求函数：demand function
+点接触：point contact
+裂纹闭合：crack closure
+载波：Carrier wave
+非线性映射：nonlinear mapping
+参数振动：Parametric vibration
+激光脉冲：laser pulse
+混凝土板：concrete slab
+电子线路：electronic circuit
+血小板源生长因子：platelet-derived growth factor
+渐近稳定性：Asymptotical stability
+局部解：local solution
+Schauder不动点定理：Schauder fixed point theorem
+奇异系统：singular systems
+Heisenberg群：Heisenberg group
+积分-微分方程：integro-differential equation
+电路实验：circuit experiment
+编队控制：formation control
+非线性波动方程：nonlinear wave equation
+局部稳定性：local stability
+Klein-Gordon方程：Klein-Gordon equation
+非线性系统辨识：nonlinear system identification
+无穷级数：infinite series
+Bang-Bang控制：Bang-Bang control
+逆极限：inverse limit
+Clifford代数：Clifford algebra
+拉丁方：Latin square
+多孔膜：porous membrane
+牛血清蛋白：bovine serum albumin
+涤纶织物：polyester fabric
+硫氰酸铵：ammonium thiocyanate
+升力系数：lift coefficient
+玻璃微珠：glass bead
+水滑石：layered double hydroxides
+硼硅酸盐玻璃：borosilicate glass
+湿法刻蚀：wet etching
+热致相分离：thermally induced phase separation
+隶属度：membership grade
+反相微乳液：inverse microemulsion
+极谱催化波：polarographic catalytic wave
+超声处理：ultrasonic treatment
+聚酰亚胺薄膜：polyimide film
+试验设计：experiment design
+配位化学：coordination chemistry
+晶型：crystal form
+还原染料：vat dyes
+Fourier变换：Fourier transformation
+虚拟激励法：pseudo excitation method
+数值微分：numerical differentiation
+LBO晶体：LBO crystal
+X射线粉末衍射：X-ray powder diffraction
+铕配合物：Europium complex
+反应速率常数：reaction rate constant
+分层流：stratified flow
+Boltzmann方程：Boltzmann equation
+数值解法：numerical solution
+球壳：spherical shell
+循环性能：Cycle performance
+混合规则：mixing rule
+环境水：Environmental water
+网格优化：mesh optimization
+闭环：closed loop
+多重分形谱：multifractal spectrum
+雷诺应力：Reynolds stress
+空间滤波：spatial filtering
+基本要求：basic requirement
+光强分布：light intensity distribution
+空间推理：spatial reasoning
+参数共振：parametric resonance
+复磁导率：complex permeability
+漫反射：diffuse reflection
+数字全息术：digital holography
+风压分布：wind pressure distribution
+智能算法：intelligent algorithm
+光学信息处理：optical information processing
+价值函数：value function
+随机稳定性：Stochastic stability
+主共振：Primary resonance
+电子装备：electronic equipment
+分层抽样：stratified sampling
+三点边值问题：three-point boundary value problem
+次序统计量：order statistics
+Marcinkiewicz积分：Marcinkiewicz integral
+本质谱：essential spectrum
+扰动分析：perturbation analysis
+时态逻辑：temporal logic
+美式期权：American option
+全固态激光器：all-solid-state laser
+Chebyshev多项式：Chebyshev polynomials
+样本量：Sample size
+对角占优矩阵：diagonally dominant matrix
+加权Bergman空间：weighted Bergman space
+硅钨酸：silicotungstic acid
+叔胺：tertiary amine
+流动电位：streaming potential
+高温气冷堆：high temperature gas-cooled reactor
+磷酸二氢钾：potassium dihydrogen phosphate
+种子乳液聚合：Seeded emulsion polymerization
+热力学分析：thermodynamics analysis
+微分脉冲伏安法：Differential pulse voltammetry
+选择性还原：selective reduction
+降粘剂：viscosity reducer
+粘结磁体：bonded magnet
+投影显示：projection display
+有限元强度折减法：strength reduction FEM
+标准生成焓：standard enthalpy of formation
+瑞利分布：Rayleigh distribution
+贮存可靠性：storage reliability
+聚合物光纤：Polymer Optical Fiber
+导波：guided wave
+Lamb波：Lamb wave
+网络化管理：network management
+需求弹性：demand elasticity
+Galerkin法：Galerkin method
+变量选择：variable selection
+激光干涉：Laser interference
+有效边界：efficient frontier
+协同工作：collaborative work
+边际分析：marginal analysis
+Hankel变换：Hankel transform
+Kolmogorov熵：Kolmogorov entropy
+感应电压：induced voltage
+嵌入维数：embedding dimension
+通径系数：path coefficient
+教法：teaching methods
+插值函数：Interpolation function
+SH波散射：scattering of SH-wave
+程序性知识：Procedural knowledge
+似然函数：likelihood function
+上升时间：Rise time
+多体系统动力学：multi-body system dynamics
+特征值分析：eigenvalue analysis
+激光制导：laser guidance
+电压凹陷：voltage sag
+柯西问题：Cauchy problem
+生长曲线模型：growth curve model
+压缩映射：contraction mapping
+结温：junction temperature
+全色数：total chromatic number
+随机早期检测：random early detection
+Hamilton系统：Hamilton system
+正规矩阵：normal matrix
+有限自动机：finite automata
+正规子群：normal subgroup
+收敛定理：convergence theorem
+焦移：focal shift
+局部凸空间：locally convex spaces
+有机染料：organic dye
+相转化：phase inversion
+晶格振动：Lattice vibration
+液-液萃取：Liquid-Liquid Extraction
+无机离子：inorganic ions
+磁场强度：magnetic field strength
+碳酸锶：strontium carbonate
+镉离子：cadmium ion
+气固两相流：Gas-Solid Two Phase Flow
+热稳定性能：Thermal stability
+研究现状：research actuality
+电子受体：electron acceptor
+键长：bond length
+最大熵原理：maximum entropy principle
+液液萃取：Liquid-liquid extraction
+直流反应磁控溅射：DC reactive magnetron sputtering
+莫尔条纹：moiré fringe
+乙基紫：ethyl violet
+质子导体：proton conductor
+聚合机理：Polymerization mechanism
+分离机理：separation mechanism
+钛酸铝：aluminium titanate
+Friedel-Crafts反应：Friedel-Crafts reaction
+主流烟气：mainstream smoke
+氧电极：oxygen electrode
+功能高分子：functional polymer
+碱金属：alkali metals
+熔融共混：melt blending
+化学热力学：chemical thermodynamics
+弹性分析：Elastic analysis
+动态参数：dynamic parameter
+拓扑分析：Topological analysis
+成核机理：nucleation mechanism
+动边界：moving boundary
+幂函数：power function
+散射截面：scattering cross section
+冷等离子体：cold plasma
+压电变压器：piezoelectric transformer
+热屈曲：thermal buckling
+Excel软件：Excel software
+离子阱：ion trap
+受激喇曼散射：Stimulated Raman scattering
+浓度测量：concentration measurement
+球面波：spherical wave
+配位聚合：coordination polymerization
+随机激励：random excitation
+模糊信息：fuzzy information
+投影算子：projection operator
+现代科技：Modern science and technology
+引力场：gravitational field
+有理逼近：rational approximation
+本原指数：primitive exponent
+分块矩阵：partitioned matrix
+二重积分：double integral
+Level Set方法：Level Set method
+大气波导：atmospheric duct
+多项式算法：polynomial algorithm
+VaR：value at risk
+满意优化：satisfactory optimization
+非负矩阵：nonnegative matrix
+AES算法：AES algorithm
+中间点：intermediate point
+可积系统：integrable system
+数论：number theory
+Borel方向：Borel direction
+凸体：convex body
+裂纹萌生：crack initiation
+氯化镧：lanthanum chloride
+反相乳液：inverse emulsion
+大型蚤：Daphnia magna
+形态结构：morphology and structure
+应急系统：emergency system
+X射线衍射分析：X-ray diffraction analysis
+吉布斯自由能：Gibbs free energy
+高固含量：high solid content
+水溶性聚合物：water-soluble polymer
+Biginelli反应：Biginelli reaction
+二氧化锆：zirconium dioxide
+恶臭假单胞菌：pseudomonas putida
+磁电效应：magnetoelectric effect
+亚甲基兰：methylene blue
+接触力：contact force
+钛酸酯偶联剂：titanate coupling agent
+铁氰化钾：potassium ferricyanide
+约束满足：Constraint satisfaction
+热处理炉：heat treatment furnace
+改进方法：improved method
+高纯度：high purity
+碲酸盐玻璃：tellurite glass
+传播特性：propagation characteristics
+偶氮胂Ⅲ：arsenazo Ⅲ
+稀磁半导体：diluted magnetic semiconductors
+渐近分析：asymptotic analysis
+微分截面：differential cross section
+电子信息：electronic information
+Murrell-Sorbie函数：Murrell-Sorbie function
+输运性质：transport properties
+补偿效应：compensation effect
+双水相萃取：Aqueous two-phase extraction
+光学相干层析：optical coherence tomography
+单模光纤：single-mode fiber
+等离子体诊断：plasma diagnosis
+薄膜厚度：film thickness
+结构性能关系：structure-property relationship
+思维方法：thinking method
+线性相关：linear correlation
+Poisson分布：Poisson distribution
+Floyd算法：Floyd Algorithm
+孤立波解：solitary wave solutions
+离散时间系统：discrete-time system
+比例导引：Proportional navigation
+弹性散射：elastic scattering
+采样定理：sampling theorem
+Fredholm算子：fredholm operator
+网络可靠性：network reliability
+发生函数：generating function
+库仑阻塞：Coulomb blockade
+Lyapunov方程：Lyapunov equation
+数理逻辑：mathematical logic
+Darboux变换：Darboux transformation
+同宿轨：homoclinic orbit
+等价鞅测度：equivalent martingale measure
+谐响应：harmonic response
+固有频率：nature frequency
+氧浓度：oxygen concentration
+标准不确定度：standard uncertainty
+乙酸甲酯：methyl acetate
+科学思维：scientific thinking
+重金属元素：heavy metal elements
+分析检测：analysis and determination
+甲烷部分氧化：Partial oxidation of methane
+颜色测量：color measurement
+有机硒：Organic selenium
+泡沫稳定性：foam stability
+冲击损伤：impact damage
+幂律流体：power-law fluid
+景深：depth of field
+热固性树脂：thermosetting resin
+特征温度：characteristic temperature
+低介电常数：Low dielectric constant
+介电谱：dielectric spectroscopy
+防火分区：fire compartment
+无向图：undirected graph
+正电子寿命：positron lifetime
+光轴：optical axis
+仪器分析：instrument analysis
+流动分离：flow separation
+细磨：Fine grinding
+积分变换：integral transformation
+分子筛膜：zeolite membrane
+色谱分离：chromatographic separation
+穿透深度：penetration depth
+诊断系统：Diagnosis system
+酶固定化：enzyme immobilization
+晶格动力学：lattice dynamics
+解理断裂：cleavage fracture
+光学厚度：optical depth
+细胞毒活性：Cytotoxic activity
+理论依据：theoretical foundation
+非线性折射率：nonlinear refractive index
+空间模型：spatial model
+荧光偏振：Fluorescence polarization
+人血清：Human Serum
+光学双稳态：optical bistability
+核结构：nuclear structure
+模糊随机变量：fuzzy random variable
+科学革命：scientific revolution
+形象思维：image thinking
+期望效用：expected utility
+Pareto分布：pareto distribution
+正交分解：orthogonal decomposition
+衰落信道：fading channels
+旋转矢量：rotation vector
+量子群：quantum group
+单面约束：unilateral constraint
+黎卡提方程：Riccati equation
+矩阵不等式：matrix inequality
+主方程：master equation
+薄膜润滑：thin film lubrication
+极大单调算子：maximal monotone operator
+非线性稳定性：nonlinear stability
+非线性扩散：nonlinear diffusion
+数量曲率：scalar curvature
+Smarandache函数：Smarandache function
+同时逼近：simultaneous approximation
+高等代数：higher algebra
+显式差分格式：explicit difference scheme
+傅里叶变换轮廓术：Fourier transform profilometry
+地质样品：Geological samples
+耐热性能：heat resistance
+交流阻抗：electrochemical impedance spectroscopy
+阻抗谱：impedance spectroscopy
+催化剂制备：catalyst preparation
+介孔二氧化硅：mesoporous silica
+气相色谱仪：gas chromatography
+Monte Carlo法：Monte Carlo method
+丙二醇：propylene glycol
+数值算法：numerical algorithm
+固溶度：solid solubility
+气体扩散电极：gas diffusion electrode
+铬天青S：chrome azurol S
+溴甲酚绿：bromocresol green
+置信水平：confidence level
+氢转移：hydrogen transfer
+高周疲劳：high cycle fatigue
+配位数：coordination number
+高分子溶液：polymer solution
+静电自组装：electrostatic self-assembly
+火灾风险：Fire risk
+负折射率：Negative refractive index
+反应过程：reaction process
+流场模拟：flow field simulation
+多孔炭：porous carbon
+Shannon熵：Shannon entropy
+苯加氢：benzene hydrogenation
+表面模型：surface model
+高硬度：high hardness
+酸性红B：acid red B
+破坏形态：Failure mode
+庞磁电阻：colossal magnetoresistance
+伊辛模型：Ising model
+蛋白质二级结构：protein secondary structure
+创新素质：innovation quality
+磁通：Magnetic flux
+无机砷：Inorganic arsenic
+灵敏性分析：sensitivity analysis
+Daubechies小波：Daubechies wavelet
+斜入射：oblique incidence
+挤压油膜阻尼器：squeeze film damper
+师范生：normal students
+辐射传输：radiative transfer
+矢势：vector potential
+半线性椭圆方程：Semilinear elliptic equation
+酉矩阵：unitary matrix
+负二项分布：Negative binomial distribution
+教学案例：teaching case
+奇异积分算子：singular integral operator
+不动点定理：fixed-point theorem
+偶图：bipartite graph
+教学团队：teaching team
+未建模动态：unmodeled dynamics
+填充函数：filled function
+调度问题：scheduling problem
+非扩张映射：nonexpansive mapping
+几何过程：geometric process
+Lagrange插值：Lagrange interpolation
+Poisson方程：poisson equation
+自适应同步：adaptive synchronization
+截面曲率：sectional curvature
+Besov空间：Besov space
+紧集：compact set
+非线性常微分方程：nonlinear ordinary differential equation
+loop代数：loop algebra
+夸克模型：Quark model
+Carleson测度：Carleson measure
+极大元：maximal element
+三阶色散：Third-order dispersion
+全连续算子：completely continuous operator
+氢氧化钾：potassium hydroxide
+液相外延：liquid phase epitaxy
+管式反应器：tubular reactor
+时间约束：time constraint
+化探：geochemical exploration
+吸附行为：adsorption behavior
+乙酰水杨酸：acetylsalicylic acid
+神经元网络：neural networks
+层层自组装：layer-by-layer self-assembly
+慢光：slow light
+多元统计：multivariate statistics
+钇铝石榴石：yttrium aluminum garnet
+磷酸锌：zinc phosphate
+天冬氨酸：aspartic acid
+库仑爆炸：Coulomb explosion
+红外光谱法：Infrared spectrometry
+裂纹尖端：crack tip
+二甲基二烯丙基氯化铵：dimethyldiallylammonium chloride
+甲乙酮：Methyl ethyl ketone
+癸二酸：sebacic acid
+摩擦模型：friction model
+向列相液晶：nematic liquid crystal
+应变分布：strain distribution
+离子交换色谱：ion exchange chromatography
+室温离子液体：room temperature ionic liquids
+重整催化剂：reforming catalyst
+图解法：graphical method
+基团贡献：group contribution
+设计性实验：designed experiment
+临界条件：critical condition
+多孔支架：porous scaffold
+热点：hot spot
+冲击载荷：impact loading
+黄金分割法：golden section method
+电渗流：electroosmotic flow
+聚焦离子束：focused ion beam
+计算机图像处理：computer image processing
+离散傅立叶变换：Discrete fourier transform
+自由边界问题：free boundary problem
+S-粗集：S-rough sets
+有限差分格式：finite difference scheme
+对偶问题：dual problem
+辛几何：symplectic geometry
+吸积盘：accretion disk
+矢量场：vector field
+经济数学：Economic mathematics
+贝叶斯估计：bayes estimation
+图像隐藏：image hiding
+模型论：model theory
+非线性反馈：Nonlinear Feedback
+混响室：reverberation chamber
+动态网络：dynamic network
+正则变换：canonical transformation
+序贯抽样：sequential sampling
+Hardy不等式：Hardy inequality
+Krylov子空间：Krylov subspace
+解空间：solution space
+Gray映射：Gray map
+下近似：lower approximation
+洛伦兹变换：Lorentz transformation
+NP完全问题：NP-complete problem
+数学机械化：mathematics mechanization
+几何不等式：geometric inequality
+超临界CO_2：supercritical carbon dioxide
+局域结构：local structure
+磁性流体：magnetic fluid
+制备条件：preparation condition
+Fokker-Planck方程：Fokker-Planck equation
+铁电薄膜：ferroelectric film
+吸附等温线：adsorption isotherms
+过渡金属配合物：transition metal complexes
+声品质：Sound quality
+最小二乘拟合：least square fitting
+量子产率：quantum yield
+三氧化钼：molybdenum trioxide
+振动频率：vibrational frequency
+蓄热：heat storage
+活性中心：active site
+叔丁醇：tert-butyl alcohol
+判别函数：discriminant function
+聚芳醚酮：Poly(aryl ether ketone)
+杂环化合物：heterocyclic compound
+芳香胺：aromatic amine
+抗菌作用：antibacterial activity
+电子发射：electron emission
+抽样方法：Sampling method
+光声光谱：Photoacoustic spectroscopy
+偏振态：polarization state
+地方院校：local college
+马来酸：maleic acid
+Mannich碱：Mannich base
+氧化羰化：oxidative carbonylation
+氯化钴：cobalt chloride
+原子结构：Atomic structure
+发光效率：luminous efficiency
+电容式传感器：capacitive sensor
+超声清洗：ultrasonic cleaning
+位移函数：displacement function
+半导体材料：semiconductor material
+Matlab程序：matlab program
+教学水平：teaching level
+窄脉冲：narrow pulse
+相对论效应：relativistic effect
+泛函分析：Functional analysis
+最速下降法：steepest descent method
+空气阻力：air resistance
+哈密顿体系：Hamiltonian system
+2DNMR：2D NMR
+逻辑结构：Logic structure
+几何规划：geometric programming
+复模态：Complex mode
+相关矩阵：correlation matrix
+数值逼近：Numerical Approximation
+随机效应：Random effect
+有界线性算子：bounded linear operator
+统计推断：statistical inference
+Lagrange乘子：Lagrange multiplier
+航班延误：flight delay
+相似变换：Similarity Transformation
+无尺度网络：scale-free network
+核聚变：nuclear fusion
+超混沌系统：hyperchaotic system
+Minkowski空间：Minkowski space
+上近似：upper approximation
+最优误差估计：optimal error estimate
+对称函数：symmetric function
+原子分解：atomic decomposition
+大偏差：large deviation
+控制数：domination number
+达布变换：Darboux transformation
+双相钢：dual-phase steel
+晶格氧：Lattice oxygen
+变截面：variable cross-section
+邻苯二甲酸二甲酯：dimethyl phthalate
+非线性回归：non-linear regression
+不确定度评定：evaluation of uncertainty
+晶体塑性：crystal plasticity
+均匀沉淀法：homogeneous precipitation
+熔融指数：melt index
+功率超声：power ultrasound
+精细化学品：fine chemicals
+负熵：negative entropy
+大气压：atmospheric pressure
+盐酸左氧氟沙星：Levofloxacin hydrochloride
+幅频特性：amplitude-frequency characteristic
+有机-无机杂化：organic-inorganic hybrid
+海绵钛：titanium sponge
+空间群：space group
+频率方程：frequency equation
+相转移：phase transfer
+电子输运：electron transport
+热扩散：thermal diffusion
+扩散火焰：diffusion flame
+L-M算法：L-M algorithm
+教学课件：teaching courseware
+电子传递：electron transfer
+晶格能：lattice energy
+轴向应力：axial stress
+镁离子：magnesium ion
+代谢途径：metabolic pathway
+粒子图像测速：Particle image velocimetry
+相位恢复：phase retrieval
+最小二乘估计：least square estimate
+小波阈值：wavelet threshold
+分子构象：molecular conformation
+蒙特卡洛仿真：Monte Carlo simulation
+时变可靠度：time-dependent reliability
+微分求积法：differential quadrature method
+平面问题：plane problem
+NND格式：NND scheme
+充分必要条件：necessary and sufficient condition
+数学软件：mathematical software
+变异链球菌：Streptococcus mutans
+教学质量评价：teaching quality evaluation
+粗糙熵：rough entropy
+库存成本：inventory cost
+通信安全：communication security
+模糊粗糙集：fuzzy rough sets
+重力模型：gravity model
+置换群：permutation group
+代数Riccati方程：algebraic Riccati equation
+中立型泛函微分方程：neutral functional differential equation
+Fibonacci数：Fibonacci numbers
+点电荷：point charge
+密钥分发：key distribution
+激光直写：laser direct writing
+守恒律：conservation laws
+函数空间：function space
+X射线激光：X-ray laser
+Taylor级数：Taylor series
+smash积：smash product
+证券投资：security investment
+增生算子：accretive operator
+给药系统：drug delivery system
+次甲基蓝：methylene blue
+介稳区：metastable zone
+加速遗传算法：accelerating genetic algorithm
+活性自由基聚合：Living radical polymerization
+动态特征：dynamic characteristics
+铁电液晶：ferroelectric liquid crystal
+煅烧温度：calcination temperature
+荧光增强：Fluorescence enhancement
+三维电极：Three-dimensional Electrode
+TiO_2薄膜：TiO_2 film
+亚氨基二乙酸：Iminodiacetic acid
+三氧化二锑：antimony trioxide
+电子性质：electronic properties
+应变梯度：strain gradient
+高温超导：high temperature superconductor
+Box-Behnken设计：Box-behnken design
+表面电阻：Surface Resistance
+Jacobi矩阵：Jacobi matrix
+差压：differential pressure
+化学教育：Chemistry education
+有机胺：organic amine
+AAO模板：AAO template
+倏逝波：evanescent wave
+控释：controlled release
+纤维取向：fiber orientation
+康普顿散射：Compton scattering
+p-n结：p-n junction
+改革与实践：Reform and practice
+氟化钾：potassium fluoride
+氯化银：silver chloride
+超高速碰撞：hypervelocity impact
+主分量分析：Principal Component Analysis(PCA)
+参数方程：parameter equation
+双醛淀粉：dialdehyde starch
+氧化石墨：Graphite oxide
+远红外：far infrared
+Zernike多项式：Zernike polynomial
+专业课：specialized course
+概念教学：concept teaching
+布里奇曼法：Bridgman method
+量子态：quantum state
+平均法：averaging method
+激振力：exciting force
+配点法：collocation method
+离解常数：Dissociation constant
+时间域：time domain
+重整化群：renormalization group
+等电聚焦：Isoelectric focusing
+飞秒激光脉冲：Femtosecond laser pulse
+混沌动力学：chaotic dynamics
+水动力性能：hydrodynamic performance
+CO加氢：CO hydrogenation
+磁晶各向异性：Magnetocrystalline anisotropy
+光子晶体波导：photonic crystal waveguide
+教学思想：teaching thought
+载人航天器：manned spacecraft
+定量关系：quantitative relationship
+幂律分布：power-law distribution
+NP问题：NP problem
+思维品质：thinking quality
+有限体积方法：finite volume method
+计算机代数：computer algebra
+医学物理学：Medical physics
+射影变换：projective transformation
+近代科学：modern science
+Fourier分析：Fourier analysis
+ATS：ATS(Acoustic Telemetry System)
+微分对策：Differential Games
+模拟电荷法：charge simulation method
+空间目标：space object
+联合估计：joint estimation
+蕴涵算子：implication operator
+半无限规划：semi-infinite programming
+波浪破碎：wave breaking
+模糊映射：fuzzy mapping
+直和：direct sum
+粒子鉴别：particle identification
+矩阵函数：matrix function
+磁开关：magnetic switch
+图设计：graph design
+网络容量：network capacity
+逆特征值问题：inverse eigenvalue problem
+连续映射：continuous mapping
+最大度：maximum degree
+矩阵测度：matrix measure
+平台建设：platform construction
+量子算法：Quantum algorithm
+初始值：initial value
+浸渍法：impregnation method
+聚氧化乙烯：poly(ethylene oxide)
+纳米二氧化钛：nanometer titanium dioxide
+中试：pilot test
+计算流体力学(CFD)：Computational fluid dynamics(CFD)
+组织工程支架：tissue engineering scaffold
+真空冶金：Vacuum metallurgy
+钝化膜：passivation film
+混合对流：mixed convection
+羰基化合物：carbonyl compound
+负载催化剂：supported catalyst
+山梨酸钾：potassium sorbate
+声屏障：sound barrier
+光栅衍射：grating diffraction
+复合电镀：composite electroplating
+XRD：X-ray diffraction
+玻璃转变：Glass Transition
+矢量分析：vector analysis
+频率选择表面：frequency selective surface
+红外隐身：infrared stealth
+正交分析：orthogonal analysis
+电离势：ionization potential
+顺序注射：sequential injection
+自由液面：free surface
+化学模式识别：Chemical pattern recognition
+超支化聚酯：hyperbranched polyester
+结合位点：Binding site
+水土资源：water and soil resources
+牛顿迭代法：Newton iteration method
+阳极溶解：anodic dissolution
+高温变形：high temperature deformation
+德州市：Dezhou City
+相关系数：coefficient of correlation
+杨氏模量：young modulus
+Fibonacci数列：Fibonacci sequence
+无偏估计：unbiased estimation
+压电免疫传感器：Piezoelectric immunosensor
+感应电流：induced current
+高功率激光：high power laser
+内弹道学：interior ballistics
+序列二次规划：sequential quadratic programming
+氢还原：hydrogen reduction
+优化理论：optimization theory
+环状流：annular flow
+激光光谱：Laser spectroscopy
+对称群：symmetry group
+信赖域算法：trust region algorithm
+表面接枝：Surface grafting
+非线性演化方程：nonlinear evolution equation
+权向量：weight vector
+学习率：learning rate
+X射线成像：X-ray imaging
+局部稳定：local stability
+活动理论：activity theory
+复数：complex number
+单叶函数：Univalent functions
+交通诱导：traffic guidance
+能力谱方法：capacity spectrum method
+加权函数：weighting function
+规范形：normal form
+动力试验：dynamic test
+相对论平均场：relativistic mean field
+输电阻塞：transmission congestion
+定理证明：theorem proving
+广义奇异值分解：generalized singular value decomposition
+随机序列：random sequence
+渐近性质：asymptotic behavior
+采样率：Sampling rate
+教学情境：teaching situation
+Noether对称性：Noether symmetry
+凸二次规划：convex quadratic programming
+量子统计：quantum statistics
+纠缠交换：entanglement swapping
+随机数发生器：random number generator
+L-拓扑空间：L-topological space
+闭集：closed set
+迭代序列：iterative sequence
+巴拿赫空间：banach space
+物理学史：history of physics
+匹配多项式：matching polynomial
+Seebeck系数：Seebeck coefficient
+粗糙核：rough kernel
+可见光谱：visible spectrum
+碳酸乙烯酯：ethylene carbonate
+质量流量：mass flow rate
+酸催化：acid catalysis
+氯丙烯：allyl chloride
+火焰原子吸收：flame atomic absorption
+枝晶生长：dendrite growth
+复合乳液：composite emulsion
+折光指数：Refractive Index
+二硅化钼：molybdenum disilicide
+物理吸附：physical adsorption
+缓冲溶液：buffer solution
+非等温结晶动力学：non-isothermal crystallization kinetics
+蒸气压：vapor pressure
+油田水：oilfield water
+费米能级：Fermi level
+高速逆流色谱：High-speed counter-current chromatography
+XRD分析：XRD analysis
+掺杂改性：Doping modification
+夹层结构：sandwich structure
+荧光共振能量转移：fluorescence resonance energy transfer
+脆性材料：Brittle materials
+固体颗粒：solid particle
+Monte Carlo仿真：Monte Carlo simulation
+水力空化：hydrodynamic cavitation
+统计力学：statistical mechanics
+热流：Heat flow
+分子内电荷转移：intramolecular charge transfer
+液晶高分子：liquid crystalline polymer
+酸性铬蓝K：acid chrome blue K
+硝酸镧：lanthanum nitrate
+固液平衡：solid-liquid equilibrium
+二氧化钒：vanadium dioxide
+共形映射：conformal mapping
+可燃气体：combustible gas
+模糊C-均值：fuzzy C-means
+Dawson结构：Dawson structure
+频移：Frequency Shift
+空心阴极：hollow cathode
+铁电材料：ferroelectric material
+空间光学：space optics
+阳极材料：anode material
+临界厚度：Critical thickness
+目标体系：target system
+第一性原理计算：first-principles calculation
+运输成本：transportation cost
+不可约表示：irreducible representation
+逻辑模型：logical model
+调幅：amplitude modulation
+可展曲面：developable surface
+伽辽金法：Galerkin method
+岭估计：ridge estimation
+平衡态：equilibrium state
+散粒噪声：shot noise
+变分方程：variational equation
+样条小波：Spline wavelet
+区域分解法：Domain decomposition method
+矩阵变换：matrix transformation
+波长调谐：Wavelength tuning
+风险态度：Risk attitude
+科学哲学：Scientific Philosophy
+光学模型：Optical model
+积极作用：positive role
+数学概念：Mathematics concept
+并行系统：parallel system
+动力有限元：dynamic finite element
+大学数学：college mathematics
+非线性动力分析：nonlinear dynamic analysis
+强收敛性：strong convergence
+强偏差定理：strong deviation theorem
+理想点：ideal point
+四元数矩阵：quaternion matrix
+FCM算法：FCM algorithm
+Poincaré映射：Poincaré map
+分组交换：Packet Switching
+钢筋混凝土板：reinforced concrete slab
+反函数：inverse function
+参数曲面：parametric surface
+傅里叶光学：Fourier optics
+束缚能：binding energy
+正则半群：regular semigroup
+存储模型：storage model
+支撑树：Spanning tree
+圆法：circle method
+大气化学：Atmospheric chemistry
+分形分析：fractal analysis
+PS版：PS plate
+Bass模型：Bass model
+绿色教育：green education
+水盐体系：salt-water system
+高氯酸：perchloric acid
+形成过程：formation process
+二元体系：binary system
+导热性能：thermal conductivity
+抗菌活性：antibiotic activity
+农业院校：agricultural university
+光度分析：photometric analysis
+频域分析：frequency-domain analysis
+快速分析：rapid analysis
+柳州市：Liuzhou City
+乙酸环己酯：Cyclohexyl acetate
+流变性质：rheological properties
+溶剂法：solvent method
+定量模型：Quantitative model
+沸石膜：zeolite membrane
+磁性质：magnetic properties
+酸碱滴定：Acid-base titration
+随机信号：random signal
+染料敏化太阳能电池：dye-sensitized solar cell
+吸附波：adsorptive wave
+约束最优化：constrained optimization
+载流子浓度：Carrier concentration
+线性关系：linear relationship
+包结物：Inclusion complex
+荧光染料：fluorescent dyes
+天然石墨：natural graphite
+基因载体：Gene carrier
+三元相图：ternary phase diagram
+光谱测量：Spectral Measurement
+介电性质：dielectric properties
+基片温度：substrate temperature
+非线性科学：nonlinear science
+随机优化：stochastic optimization
+中子辐照：neutron irradiation
+光杠杆：optical lever
+生态模型：ecological model
+动力方程：dynamic equation
+火工品：initiating explosive device
+分子马达：molecular motor
+弹性梁：elastic beam
+红外激光：infrared laser
+Mach-Zehnder干涉仪：Mach-Zehnder interferometer
+离散事件动态系统：discrete event dynamic system
+抽样调查：sampling investigation
+银耳：Tremella fuciformis
+盐酸异丙嗪：promethazine hydrochloride
+铁电相变：ferroelectric phase transition
+相位控制：Phase control
+极小曲面：minimal surface
+核反应：nuclear reaction
+波片：wave plate
+低通滤波：low-pass filter
+接触刚度：contact stiffness
+并行计算机：Parallel computer
+LU分解：LU decomposition
+粗糙面：rough surface
+强激光：high power laser
+脑机制：brain mechanism
+迎风格式：upwind scheme
+花样滑冰：figure skating
+非线性观测器：Nonlinear Observer
+Liapunov泛函：Liapunov functional
+距离测度：distance measure
+复杂电磁环境：complex electromagnetic environment
+选址问题：location problem
+金融时间序列：financial time series
+Lyapunov-Krasovskii泛函：Lyapunov-Krasovskii functional
+风险厌恶：risk aversion
+边界控制：boundary control
+无穷小生成元：infinitesimal generator
+频谱校正：spectrum correction
+最优投资组合：optimal portfolio
+风险函数：risk function
+谐波平衡法：harmonic balance method
+势流：potential flow
+密度估计：density estimation
+局部环：local ring
+商用车：commercial vehicle
+Sagnac干涉仪：Sagnac interferometer
+互补问题：complementarity problem
+交比：cross ratio
+掺铒光纤：Erbium-doped fiber
+极小多项式：minimal polynomial
+最小度：minimum degree
+数值域：numerical range
+Jaynes-Cummings模型：Jaynes-Cummings model
+完整系统：holonomic system
+热晕：thermal blooming
+二甲醚：dimethyl ether(DME)
+吐温80：Tween 80
+金催化剂：gold catalyst
+在线监控：on-line monitoring
+整体式催化剂：monolithic catalyst
+枸杞：chinese wolfberry
+多属性决策：multi-attribute decision
+晶体形态：crystal morphology
+加载路径：loading path
+乙苯脱氢：ethylbenzene dehydrogenation
+相形态：Phase morphology
+反应性乳化剂：reactive emulsifier
+动态断裂韧度：dynamic fracture toughness
+超分子结构：Supramolecular structure
+电子束辐照：electron beam irradiation
+流动模拟：Flow simulation
+甲烷氧化：methane oxidation
+水性环氧树脂：waterborne epoxy resin
+化学实验室：chemical laboratory
+脉冲电场：pulsed electric field
+对氨基苯甲酸：p-aminobenzoic acid
+相对有效性：Relative efficiency
+射频溅射：RF sputtering
+模型识别：Model Identification
+方波伏安法：Square wave voltammetry
+控温：temperature control
+负载钛催化剂：supported titanium catalyst
+动力学拆分：kinetic resolution
+对羟基苯甲酸：p-hydroxybenzoic acid
+羟醛缩合：aldol condensation
+寿命分布：life distribution
+混合策略：mixed strategy
+自发极化：spontaneous polarization
+临界浓度：Critical concentration
+液氧：liquid oxygen
+递推公式：Recurrence formula
+ZSM-5沸石：ZSM-5 zeolite
+高比表面积：high specific surface area
+蛋白质吸附：protein adsorption

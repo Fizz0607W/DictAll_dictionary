@@ -1,0 +1,5000 @@
+和谐社会：harmonious society
+质量控制：Quality Control
+专家系统：expert system
+控制系统：control system
+经济增长：Economic growth
+指标体系：index system
+信息系统：information system
+遥感：remote sensing
+聚类分析：cluster analysis
+风险管理：risk management
+项目管理：project management
+虚拟现实：virtual reality
+市场经济：market economy
+数据仓库：data warehouse
+模式识别：pattern recognition
+知识管理：knowledge management
+高校：colleges and universities
+环境保护：environmental protection
+知识经济：knowledge economy
+发展战略：Development Strategy
+粗糙集：Rough set
+因子分析：factor analysis
+信息服务：information service
+公司治理：corporate governance
+主成分分析：principal component analysis
+自适应控制：adaptive control
+管理信息系统：management information system
+经济发展：economic development
+毛泽东：Mao Zedong
+计算机仿真：computer simulation
+发展趋势：development trend
+传统文化：Traditional culture
+网络环境：network environment
+Web服务：Web Service
+博弈论：game theory
+循环经济：circular economy
+区域经济：Regional economy
+上市公司：listed company
+质量管理：quality management
+风景园林：Landscape Architecture
+人力资源：human resource
+气候变化：climate change
+经济效益：economic benefit
+统计分析：statistical analysis
+地理信息系统：Geographic Information System
+管理系统：management system
+时间序列：time series
+社会保障：social security
+综合利用：comprehensive utilization
+影响因素：influence factors
+金融危机：financial crisis
+风险分析：risk analysis
+钢结构：steel structure
+货币政策：monetary policy
+高等职业教育：higher vocational education
+电力市场：electricity market
+参数估计：parameter estimation
+蚁群算法：ant colony algorithm
+Petri网：Petri net
+竞争优势：competitive advantage
+资本结构：capital structure
+非线性系统：nonlinear system
+价值链：value chain
+城市规划：urban planning
+线性规划：linear programming
+安全管理：safety management
+绩效管理：performance management
+SWOT分析：SWOT analysis
+信息管理：information management
+企业文化：Enterprise culture
+产业集群：Industrial Cluster
+知识产权：intellectual property
+河南省：Henan Province
+水资源：water resource
+思想政治工作：ideological and political work
+企业管理：enterprise management
+节能：energy conservation
+土壤侵蚀：soil erosion
+绩效评价：performance evaluation
+营销策略：marketing strategy
+系统集成：system integration
+水土保持：Soil and water conservation
+成本控制：Cost Control
+动态规划：dynamic programming
+模糊综合评价：fuzzy comprehensive evaluation
+风险评估：risk assessment
+环保：environmental protection
+模糊聚类：fuzzy clustering
+资本市场：capital market
+水环境：water environment
+内蒙古：Inner Mongolia
+国际贸易：international trade
+产品设计：product design
+实证研究：Empirical Study
+评价指标：evaluation index
+因素分析：factor analysis
+能耗：energy consumption
+成本管理：Cost Management
+系统仿真：system simulation
+地方政府：local government
+比较优势：Comparative Advantage
+功率因数：Power factor
+煤矿：coal mine
+河北省：Hebei Province
+山东省：Shandong Province
+催化裂化：catalytic cracking
+虚拟企业：virtual enterprise
+风险控制：risk control
+信息熵：information entropy
+制度创新：system innovation
+人权：human rights
+信用风险：credit risk
+交通工程：traffic engineering
+移动Agent：mobile agent
+服务质量：service quality
+生态足迹：ecological footprint
+景观格局：Landscape pattern
+技术创新：technical innovation
+模糊综合评判：Fuzzy comprehensive evaluation
+山西省：Shanxi Province
+信息集成：Information Integration
+吉林省：Jilin province
+经济分析：economic analysis
+系统动力学：system dynamics
+数字信号处理：Digital signal processing
+数据模型：data model
+福建省：Fujian province
+景观设计：Landscape design
+自主创新：independent innovation
+模拟退火：simulated annealing
+法治：rule of law
+江苏省：Jiangsu Province
+邓小平：DENG Xiao-ping
+移动代理：Mobile Agent
+浙江省：Zhejiang province
+开发利用：development and utilization
+公众参与：public participation
+文化差异：cultural difference
+空间分析：spatial analysis
+RBF神经网络：RBF Neural Network
+数据集成：Data integration
+法律保护：legal protection
+杂交水稻：Hybrid rice
+数据分析：data analysis
+人力资源管理：human resources management
+可持续利用：Sustainable utilization
+中小企业：small and medium-sized enterprises
+信息共享：information sharing
+自主学习：autonomous learning
+法律制度：legal system
+模拟退火算法：simulated annealing algorithm
+对外贸易：Foreign trade
+江泽民：Jiang Zemin
+宋代：Song Dynasty
+空间结构：spatial structure
+民营企业：private enterprise
+图像分析：image analysis
+结构分析：structure analysis
+评价指标体系：evaluation index system
+知识表示：knowledge representation
+自然保护区：nature reserve
+国有企业：State-owned Enterprises
+信息资源：information resource
+质量评价：quality evaluation
+工业设计：industrial design
+危机管理：crisis management
+黑龙江省：Heilongjiang province
+交易成本：transaction cost
+建设项目：construction project
+道德风险：moral hazard
+汶川地震：Wenchuan earthquake
+并行工程：concurrent engineering
+义务教育：Compulsory education
+博弈：Game Theory
+持续发展：sustainable development
+卡尔曼滤波：Kalman Filtering
+信息披露：Information disclosure
+动态分析：dynamic analysis
+金矿：gold deposit
+创新能力：innovation ability
+城市轨道交通：urban rail transit
+BP网络：BP network
+交际能力：Communicative competence
+甘肃省：Gansu province
+奇异值分解：Singular value decomposition
+污水处理：sewage treatment
+社会责任：social responsibility
+公共财政：public finance
+管理模式：Management Model
+战略联盟：strategic alliance
+医院管理：hospital management
+正态分布：normal distribution
+操作系统：operating system
+时滞：time delay
+模糊评价：fuzzy evaluation
+核心竞争力：core competitiveness
+产权：property rights
+文化内涵：cultural connotation
+先进文化：Advanced Culture
+水电站：hydropower station
+湖南省：Hunan Province
+管理创新：management innovation
+实物期权：real option
+多媒体技术：multimedia technology
+信息管理系统：information management system
+逆向物流：reverse logistics
+广东省：Guangdong Province
+动态变化：dynamic change
+发展策略：development strategy
+社会发展：social development
+建筑设计：architectural design
+国际竞争力：international competitiveness
+创造性思维：creative thinking
+网络技术：network technology
+乡村旅游：rural tourism
+经济评价：economic evaluation
+价值工程：value engineering
+结构优化：structural optimization
+功率控制：power control
+傅里叶变换：Fourier transform
+大规模定制：mass customization
+图论：graph theory
+反馈控制：feedback control
+动态模型：dynamic model
+安徽省：Anhui Province
+动态响应：dynamic response
+多Agent系统：multi-agent system
+知识发现：knowledge discovery
+清洁生产：clean production
+新技术：new technology
+复杂系统：complex system
+工程设计：engineering design
+金融创新：financial innovation
+层次分析法：analytical hierarchy process
+火电厂：thermal power plant
+湖北省：Hubei Province
+公共服务：public service
+开放教育：open education
+现代物流：modern logistics
+香港：Hong Kong
+教学改革：teaching reformation
+通径分析：Path analysis
+敏感性分析：sensitivity analysis
+收入分配：income distribution
+产品开发：product development
+环境影响评价：environmental impact assessment
+教学设计：instructional design
+竞争情报：competitive intelligence
+语义Web：semantic web
+原因分析：cause analysis
+粒子群算法：particle swarm optimization
+智能建筑：intelligent building
+大气污染：air pollution
+竞争战略：competitive strategy
+设备管理：equipment management
+资源管理：resource management
+灰色理论：Grey Theory
+模糊集：fuzzy set
+管理体系：management system
+盈余管理：earnings management
+市场机制：market mechanism
+施工企业：construction enterprise
+汇率：exchange rate
+经济法：economic law
+破产概率：ruin probability
+公允价值：fair value
+绩效评估：performance evaluation
+社区卫生服务：Community Health Service
+现代农业：modern agriculture
+科学发展：scientific development
+复杂网络：complex network
+新农村建设：new rural construction
+数据通信：data communication
+新时期：new period
+Web挖掘：web mining
+森林资源：forest resources
+分形理论：fractal theory
+土地利用变化：land use change
+流动人口：floating population
+发展模式：development model
+顾客满意：customer satisfaction
+纳什均衡：Nash equilibrium
+辽宁省：Liaoning province
+面板数据：panel data
+信息不对称：asymmetric information
+综合素质：comprehensive quality
+小康社会：Well-off society
+县域经济：County Economy
+移动IP：Mobile IP
+Lyapunov函数：Lyapunov function
+科学发展观：scientific outlook on development
+信息处理：information processing
+独立董事：independent director
+定性分析：qualitative analysis
+动态模拟：dynamic simulation
+黄河：Yellow River
+产业结构：industry structure
+粒子滤波：particle filter
+体制改革：System reform
+政府职能：government function
+logistic回归：Logistic regression
+知识获取：knowledge acquisition
+生态农业：ecological agriculture
+产品质量：product quality
+IC卡：IC card
+马尔可夫链：Markov chain
+金融监管：financial supervision
+金融风险：financial risk
+知识创新：knowledge innovation
+心理契约：psychological contract
+农村金融：Rural Finance
+系统工程：System engineering
+润滑油：lubricating oil
+空间格局：spatial pattern
+模糊推理：fuzzy inference
+农村经济：rural economy
+教学体系：teaching system
+服务业：service industry
+企业集团：enterprise group
+医疗保险：Medical insurance
+蒙特卡罗模拟：Monte Carlo Simulation
+人才培养：talent cultivation
+动态监测：dynamic monitoring
+实时控制：real-time control
+绿色设计：green design
+四川省：Sichuan province
+青藏高原：Qinghai-Tibet Plateau
+证据理论：evidence theory
+数字城市：digital city
+青藏铁路：Qinghai-Tibet Railway
+Apriori算法：Apriori algorithm
+博弈分析：game analysis
+施工质量：construction quality
+风险防范：risk prevention
+信息产业：information industry
+中国特色社会主义：socialism with Chinese characteristics
+景观生态学：landscape ecology
+风险评价：risk evaluation
+自然资源：natural resources
+时间序列分析：time series analysis
+科学研究：scientific research
+隧道工程：tunnel engineering
+科学管理：scientific management
+营销战略：marketing strategy
+可靠性设计：Reliability design
+第三方物流：third party logistics
+逆向选择：adverse selection
+课程改革：course reform
+终身教育：Lifelong education
+新经济：New economy
+地表水：surface water
+驱动力：Driving force
+土木工程：civil engineering
+汉代：Han Dynasty
+概率分布：probability distribution
+优化模型：optimization model
+市场分析：market analysis
+品牌战略：brand strategy
+网络结构：network structure
+现代企业制度：modern enterprise system
+市民社会：Civil society
+目标函数：objective function
+库存管理：Inventory management
+贵州省：Guizhou province
+合同管理：contract management
+呼叫中心：call center
+治理结构：Governance structure
+环境质量：environmental quality
+效用函数：utility function
+轨道交通：rail transit
+蒙特卡罗方法：Monte Carlo method
+工程造价：engineering cost
+战略管理：strategy management
+生态安全：ecological security
+太湖：Taihu Lake
+耕地：Cultivated land
+知识结构：knowledge structure
+小流域：small watershed
+敏捷制造：Agile Manufacturing
+方差分析：variance analysis
+平衡计分卡：balanced scorecard
+理论模型：theoretical model
+安全评价：Safety assessment
+生活方式：life style
+预防措施：preventive measures
+系统结构：system structure
+信息提取：information extraction
+强化学习：reinforcement learning
+生产管理：production management
+医疗设备：medical equipment
+制备方法：preparation method
+发展对策：development countermeasure
+期权定价：option pricing
+大众文化：Popular Culture
+环境污染：Environment pollution
+绿色食品：green food
+回归模型：Regression model
+中国特色：Chinese characteristics
+资源共享：resources sharing
+新世纪：New century
+资源配置：Resource allocation
+高职：higher vocational education
+政府采购：Government procurement
+物业管理：property management
+网络优化：network optimization
+业务流程：business process
+公共产品：public goods
+消费结构：consumption structure
+认知无线电：cognitive radio
+组织学习：organizational learning
+控制措施：control measure
+矩阵方程：Matrix Equation
+产品创新：product innovation
+虚拟制造：virtual manufacturing
+培养模式：training mode
+效益分析：Benefit analysis
+知识转移：knowledge transfer
+热轧：hot rolling
+计算机软件：computer software
+混合遗传算法：Hybrid Genetic Algorithm
+语篇分析：Discourse analysis
+建模与仿真：modeling and simulation
+服务创新：service innovation
+投资环境：Investment environment
+证券市场：Stock market
+股票期权：Stock option
+结构调整：structure adjustment
+回归方程：regression equation
+数值解：numerical solution
+虚拟环境：virtual environment
+性能试验：performance test
+中国共产党：Communist Party of China
+精度分析：accuracy analysis
+城市发展：urban development
+民营经济：Private Economy
+生态补偿：ecological compensation
+配送中心：distribution center
+投资决策：investment decision
+计算机技术：computer technology
+教学研究：teaching research
+国际合作：international cooperation
+生产技术：production technology
+预算管理：budget management
+灰色系统理论：grey system theory
+组织承诺：organizational commitment
+区域发展：Regional development
+系统模型：system model
+公共物品：public goods
+Logistic模型：Logistic model
+评价研究：Evaluation studies
+风力发电：wind power
+过程管理：Process management
+基尼系数：Gini coefficient
+营销渠道：marketing channel
+青海省：Qinghai Province
+近代中国：modern China
+课程设计：course design
+城市道路：urban road
+交易费用：Transaction Cost
+组件技术：component technology
+新形势：new situation
+临界点：critical point
+有机污染物：organic pollutants
+应急管理：emergency management
+经济结构：economic structure
+水路运输：waterway transportation
+网络化制造：Networked manufacturing
+模糊数：fuzzy number
+发展方向：development direction
+实践能力：practical ability
+和谐文化：harmonious culture
+管理机制：management mechanism
+模块化设计：modular design
+粮食安全：food security
+理论创新：theoretical innovation
+产业链：industry chain
+自然环境：natural environment
+信任模型：trust model
+信息素质：Information literacy
+网络拓扑：network topology
+绿色营销：Green Marketing
+房地产市场：real estate market
+信息平台：Information Platform
+欧盟：European Union
+中国传统文化：Chinese traditional culture
+服务型政府：service-oriented government
+线性模型：linear model
+AR模型：AR model
+响应时间：response time
+积分方程：integral equation
+作业成本法：Activity-Based Costing
+电网：Power grid
+土壤质量：soil quality
+工艺设计：process design
+精益生产：lean production
+森林公园：forest park
+生产函数：production function
+生命表：life table
+网络经济：network economy
+城市污水：municipal wastewater
+风险识别：risk identification
+食品工业：food industry
+社会和谐：social harmony
+东亚：East Asia
+指数分布：exponential distribution
+加工贸易：processing trade
+集对分析：set pair analysis
+综合评价：synthetic evaluation
+进化算法：evolutionary algorithm
+市场失灵：market failure
+Weibull分布：Weibull distribution
+产业政策：industrial policy
+生态效应：ecological effect
+形成机制：formation mechanism
+小城镇：small towns
+二叉树：binary tree
+社会网络：social network
+金融市场：financial market
+模拟模型：simulation model
+服务贸易：service trade
+农村教育：rural education
+寿命预测：life prediction
+农业经济：agricultural economy
+排队论：queuing theory
+社会转型：social transition
+煤气化：coal gasification
+系统论：system theory
+北京奥运会：Beijing Olympic Games
+抗日战争：Anti-Japanese War
+理论基础：theoretical basis
+土壤有机碳：soil organic carbon
+社会结构：social structure
+禁忌搜索：Tabu Search
+运行机制：operation mechanism
+财务分析：financial analysis
+艺术设计：art design
+社会福利：Social welfare
+可行性分析：feasibility analysis
+国有商业银行：state-owned commercial bank
+美国：United States
+免疫系统：Immune system
+区间数：interval number
+顾客忠诚：customer loyalty
+档案管理：archives management
+生活质量：Life quality
+应用效果：application effect
+系统开发：system development
+产业组织：industrial organization
+粗集：rough set
+整数规划：integer programming
+VAR模型：VAR Model
+农药残留：pesticide residues
+自然垄断：natural monopoly
+政治发展：political development
+规模经济：scale economy
+研究方法：research methods
+清代：the Qing Dynasty
+路径依赖：path dependence
+公司绩效：corporate performance
+跨国公司：transnational corporation
+珠江三角洲：Pearl River Delta
+动态管理：dynamic management
+网络模型：network model
+金融控股公司：financial holding company
+法制：legal system
+动态联盟：dynamic alliance
+政策建议：policy suggestion
+国家标准：national standard
+管理制度：management system
+3S技术：3S technology
+主导产业：leading industry
+绿茶：green tea
+造价控制：cost control
+鄱阳湖：Poyang Lake
+冷却水：cooling water
+能源消费：energy consumption
+历史唯物主义：historical materialism
+激励机制：motivation mechanism
+环氧乙烷：ethylene oxide
+金融支持：financial support
+东北地区：Northeast China
+领域本体：Domain Ontology
+劳动力市场：labor market
+蒙特卡罗：Monte Carlo
+铁矿石：iron ore
+技术效率：technical efficiency
+生产调度：production scheduling
+生产线：production line
+性别差异：gender difference
+绿色制造：green manufacturing
+长江：Yangtze River
+接入网：access network
+过程模型：process model
+变分不等式：variational inequality
+业绩评价：performance evaluation
+贝叶斯网络：Bayesian networks
+信息流：information flow
+经济价值：economic value
+城市土地：urban land
+晚清：late Qing Dynasty
+系统优化：system optimization
+工程质量：engineering quality
+东南亚：Southeast Asia
+生存分析：survival analysis
+库存控制：inventory control
+旅行社：travel agency
+现代企业：modern enterprise
+视频监控：video monitoring
+物流系统：logistics system
+企业战略：enterprise strategy
+货车：freight car
+活塞环：Piston ring
+Logistic回归分析：Logistic regression analysis
+绩效考核：performance evaluation
+行政法：Administrative law
+机理分析：mechanism analysis
+应用研究：applied research
+分布函数：distribution function
+信息论：information theory
+随机模拟：stochastic simulation
+现金流量：cash flow
+认知语境：cognitive context
+样条函数：spline function
+武汉市：Wuhan city
+信贷风险：credit risk
+西部大开发：western development
+市场细分：market segmentation
+二次规划：Quadratic programming
+出口贸易：export trade
+最优解：optimal solution
+国民经济：national economy
+客运专线：passenger dedicated line
+网络系统：network system
+体育旅游：sports tourism
+生态城市：ecological city
+土地利用规划：land use planning
+服务营销：Service marketing
+食用菌：Edible fungi
+森林生态系统：forest ecosystem
+国家安全：National security
+外汇储备：foreign exchange reserve
+高速列车：high-speed train
+公路建设：highway construction
+市场需求：market demand
+施工方案：Construction scheme
+项目融资：Project Financing
+全面质量管理：total quality management
+农业保险：Agricultural insurance
+公共行政：public administration
+ARMA模型：ARMA model
+逐步回归：stepwise regression
+群签名：group signature
+课程建设：curriculum construction
+广州市：Guangzhou City
+模糊模式识别：fuzzy pattern recognition
+D-S证据理论：D-S evidence theory
+股指期货：stock index futures
+基础研究：basic research
+景观生态：landscape ecology
+会计制度：accounting system
+产业内贸易：intra-industry trade
+信用卡：credit card
+优化控制：optimal control
+数理统计：mathematical statistics
+重庆市：Chongqing City
+社会环境：social environment
+公立医院：public hospital
+熵权：entropy weight
+随机过程：stochastic process
+人际关系：interpersonal relationship
+工作倦怠：job burnout
+协同过滤：collaborative filtering
+养老保险：endowment insurance
+技术措施：technical measure
+工程管理：engineering management
+行为金融：behavioral finance
+服务体系：service system
+新工艺：new technology
+并行设计：concurrent design
+动力机制：dynamic mechanism
+国有资产：state-owned assets
+物流成本：logistics cost
+建设工程：Construction project
+通信网络：communication network
+电力：electric power
+文化遗产：cultural heritage
+牛鞭效应：bullwhip effect
+基础油：base oil
+投资风险：investment risk
+模糊决策：fuzzy decision
+高等教育：high education
+生态伦理：ecological ethics
+道德建设：Moral Construction
+渤海：Bohai Sea
+华北：North China
+畜牧业：Animal husbandry
+技术转移：technology transfer
+生态保护：ecological protection
+生态承载力：ecological carrying capacity
+标准体系：standard system
+社会保险：social insurance
+方案设计：scheme design
+区域合作：Regional cooperation
+质量体系：quality system
+自适应遗传算法：adaptive genetic algorithm
+生态经济：ecological economy
+定量评价：quantitative evaluation
+非线性模型：nonlinear model
+空间数据挖掘：spatial data mining
+设计方案：design scheme
+技术标准：technical standard
+健康促进：Health promotion
+土地复垦：Land reclamation
+信用体系：Credit system
+回收率：recovery rate
+安全文化：safety culture
+实时监测：real-time monitoring
+模拟实验：simulation experiment
+交通管理：traffic management
+湖南：Hunan Province
+企业信息化：enterprise informatization
+数据质量：data quality
+中等职业教育：Secondary vocational education
+文化产业：culture industry
+供应链协调：supply chain coordination
+公司治理结构：corporate governance structure
+本科教育：undergraduate education
+原料：raw material
+产业发展：industrial development
+绿色壁垒：Green barrier
+免疫遗传算法：immune genetic algorithm
+旅游规划：tourism planning
+东北亚：Northeast Asia
+法律体系：Legal system
+动态控制：dynamic control
+新媒体：new media
+政府规制：government regulation
+价值分析：value analysis
+物流园区：logistics park
+内耗：internal friction
+承载能力：bearing capacity
+胜利油田：Shengli Oilfield
+理论与实践：theory and practice
+体验经济：experience economy
+社会公正：Social Justice
+稠油油藏：heavy oil reservoir
+主体：main body
+Voronoi图：voronoi diagram
+现代教育：modern education
+极大似然估计：maximum likelihood estimation
+综合治理：comprehensive treatment
+营销管理：marketing management
+股利政策：dividend policy
+环境容量：environmental capacity
+核电站：Nuclear power station
+研究生：graduate student
+突变理论：catastrophe theory
+油田开发：oilfield development
+效果分析：effect analysis
+新型工业化：new industrialization
+经济学分析：economic analysis
+河西走廊：Hexi Corridor
+景观规划：landscape planning
+价值创造：value creation
+房地产业：real estate industry
+中医学：Traditional Chinese Medicine
+内容分析：Content analysis
+改进遗传算法：Improved genetic algorithm
+水价：water price
+食品添加剂：food additive
+综合能力：Comprehensive ability
+网络营销：Network Marketing
+计算机系统：Computer system
+海南省：Hainan Province
+资本运营：capital operation
+新公共管理：new public management
+农业机械：agricultural machinery
+通信技术：communication technology
+协整检验：cointegration test
+运筹学：operational research
+融资结构：financing structure
+灰色模型：gray model
+旅游产业：tourism industry
+图像分类：image classification
+油井：oil well
+环境效应：environmental effect
+土壤环境：soil environment
+动态调度：dynamic scheduling
+海水淡化：seawater desalination
+西方文化：western culture
+21世纪：21st century
+产品族：product family
+城市环境：urban environment
+财政政策：financial policy
+评估体系：evaluation system
+空间环境：space environment
+供电系统：power supply system
+故障树分析：fault tree analysis
+物流中心：logistics center
+机制设计：mechanism design
+管理会计：Management Accounting
+供水：Water supply
+均衡发展：balanced development
+个人所得税：individual income tax
+长江三角洲：Yangtze River Delta
+决策分析：decision analysis
+投影寻踪：projection pursuit
+生态位宽度：niche breadth
+自然灾害：natural disasters
+税收筹划：Tax Planning
+市场绩效：market performance
+山东：Shandong province
+规划设计：planning design
+中亚：Central Asia
+系统可靠性：system reliability
+外资：foreign capital
+城市群：urban agglomeration
+公务员：Civil servants
+所得税：income tax
+产品结构：product structure
+电磁环境：Electromagnetic Environment
+高效：High efficiency
+Oracle数据库：Oracle database
+职业生涯规划：career planning
+智力资本：intellectual capital
+混沌理论：chaos theory
+发电：power generation
+相空间：phase space
+政策分析：policy analysis
+宪政：constitutional government
+动态优化：dynamic optimization
+期货市场：futures market
+安全性评价：safety evaluation
+长白山：Changbai Mountain
+奇异摄动：singular perturbation
+汽车产业：automobile industry
+ARIMA模型：ARIMA model
+市场风险：market risk
+logit模型：logit model
+企业价值：enterprise value
+内部审计：internal auditing
+医疗服务：medical service
+生产成本：production cost
+公共管理：public administration
+虚拟组织：Virtual organization
+高新技术产业：high-tech industry
+精准农业：precision agriculture
+烟叶：Tobacco leaf
+经济一体化：economic integration
+严复：YAN Fu
+绿色GDP：green GDP
+全球变暖：global warming
+成就动机：Achievement motivation
+劳动关系：labor relations
+伙伴选择：partner selection
+地下水资源：groundwater resources
+社会分层：social stratification
+董事会：board of directors
+元胞自动机：cellular automaton
+工程项目：construction project
+网络设计：Network design
+审计风险：audit risk
+经济性分析：economic analysis
+频谱分析：spectral analysis
+温室气体：greenhouse gas
+矿产资源：Mineral resource
+科技创新：science and technology innovation
+控制模型：control model
+区域物流：regional logistics
+工作流：work flow
+国民待遇：national treatment
+混沌时间序列：chaotic time series
+发展中国家：developing country
+供应商管理：supplier management
+福建：Fujian Province
+粮食生产：grain production
+创业投资：venture capital
+Cauchy问题：Cauchy Problem
+WebServices：Web Services
+土地管理：land management
+药学服务：Pharmaceutical care
+信息社会：information society
+白噪声：white noise
+计算公式：calculation formula
+教学手段：teaching means
+分维数：fractal dimension
+现代教育技术：modern education technology
+文化认同：cultural identity
+软实力：soft power
+仿真技术：simulation technology
+网络分析：network analysis
+瓦斯爆炸：gas explosion
+综合评判：comprehensive evaluation
+工程塑料：engineering plastics
+绿色物流：green logistics
+社会价值：social value
+信息结构：Information Structure
+西部开发：western development
+Markov链：markov chain
+经济危机：economic crisis
+江西：Jiangxi Province
+社区参与：Community participation
+非营利组织：non-profit organization
+有限理性：bounded rationality
+产品配置：Product configuration
+就业结构：employment structure
+产业集聚：industrial agglomeration
+创新体系：Innovation system
+专业建设：specialty construction
+大批量定制：mass customization
+人与自然：man and nature
+供应商选择：supplier selection
+网络控制：network control
+状态空间：State space
+钢板：steel plate
+直接投资：direct investment
+稳定性评价：stability evaluation
+对等网络：peer-to-peer network
+博弈模型：game model
+软件产业：software industry
+时空分布：temporal and spatial distribution
+Monte Carlo方法：Monte Carlo method
+人事管理：Personnel management
+认知结构：cognitive structure
+财务评价：financial evaluation
+学校管理：School management
+可转换债券：convertible bond
+中央银行：central bank
+稻田：paddy field
+长三角：Yangtze River Delta
+案例推理：case-based reasoning
+施工项目：construction project
+优化方法：Optimization method
+江苏：Jiangsu Province
+模糊积分：fuzzy integral
+城镇体系：urban system
+信任管理：trust management
+Web使用挖掘：Web usage mining
+MonteCarlo模拟：Monte Carlo simulation
+RBF网络：RBF network
+企业发展：enterprise development
+施工过程：construction process
+民族文化：ethnic culture
+生态位重叠：niche overlap
+教育功能：educational function
+智能网：intelligent network
+城市文化：urban culture
+创意产业：creative industry
+智能控制器：intelligent controller
+资源整合：resources integration
+品牌形象：brand image
+海岸带：coastal zone
+集装箱码头：container terminal
+下界：Lower bound
+R/S分析：R/S analysis
+安全生产：safe production
+烧碱：caustic soda
+稳健设计：robust design
+数据中心：data center
+儒家文化：Confucian culture
+农业发展：agricultural development
+人口老龄化：population aging
+生态赤字：ecological deficit
+供电：power supply
+系统分析：systematic analysis
+Rough集：rough set
+动态博弈：dynamic game
+政府责任：government responsibility
+新制度经济学：new Institutional economics
+城市旅游：Urban tourism
+下一代网络：next generation network
+股票价格：stock price
+城市形象：city image
+风险模型：risk model
+时间管理：Time management
+文化传统：cultural tradition
+条形码：bar code
+能源安全：energy security
+经济损失：economic loss
+环境分析：Environmental analysis
+过程模拟：process simulation
+农业生产：Agricultural Production
+先进制造技术：Advanced manufacturing technology
+网络规划：network planning
+战略成本管理：strategic cost management
+天然林：natural forest
+案例分析：case study
+假设检验：Hypothesis test
+土地制度：land system
+旅游管理：Tourism management
+复杂适应系统：complex adaptive system
+军事物流：military logistics
+物流产业：logistics industry
+气候变暖：climate warming
+多分辨分析：multiresolution analysis
+龙滩水电站：Longtan Hydropower Station
+设计管理：design management
+环境成本：environmental cost
+冰淇淋：ice cream
+非对称信息：asymmetric information
+中国企业：Chinese Enterprises
+消费者行为：consumer behavior
+培训体系：training system
+业务流程再造：Business Process Reengineering
+兰州市：Lanzhou city
+体制创新：system innovation
+方差分解：variance decomposition
+网络数据库：network database
+代理成本：Agency cost
+定价模型：pricing model
+Web日志挖掘：Web log mining
+反思性教学：Reflective teaching
+机会成本：opportunity cost
+贪婪算法：greedy algorithm
+流动性风险：liquidity risk
+南京市：Nanjing City
+品牌延伸：brand extension
+系统功能：system function
+政府管制：government regulation
+终身学习：Lifelong learning
+质量改进：quality improvement
+生态因子：ecological factor
+社会经济：social economy
+模糊模型：Fuzzy model
+国际关系：international relations
+视觉文化：visual culture
+概率模型：probability model
+动态补偿：dynamic compensation
+结构模型：structural model
+公共领域：Public sphere
+新材料：new material
+全球价值链：global value chain
+质量监督：quality supervision
+马尔可夫模型：Markov model
+多目标规划：multi-objective programming
+上界：upper bound
+再生水：reclaimed water
+数学规划：mathematical programming
+生态文化：ecological culture
+环境问题：environmental problems
+保险公司：insurance company
+服务水平：service level
+风能：wind energy
+自然科学：Natural science
+信用评级：credit rating
+可持续发展：continuable development
+Nash均衡：Nash equilibrium
+价值管理：value management
+民国：the Republic of China
+生态系统健康：ecosystem health
+能值分析：emergy analysis
+ERP系统：ERP system
+罚函数：penalty function
+量化分析：quantitative analysis
+学习能力：learning ability
+20世纪：the 20th Century
+港口物流：port logistics
+化学工业：chemical industry
+选址：site selection
+核电：Nuclear Power
+经济政策：economic policy
+民主管理：democratic management
+商品经济：commodity economy
+定积分：definite integral
+充分条件：sufficient condition
+钢铁：iron and steel
+菜籽油：rapeseed oil
+远程教育：long-distance education
+拉普拉斯变换：Laplace transform
+专利战略：patent strategy
+新产品：new product
+关键技术：key techniques
+空间自相关：Spatial Autocorrelation
+社会因素：social factors
+财政分权：fiscal decentralization
+基坑支护：foundation pit support
+城市更新：Urban renewal
+外资银行：foreign banks
+财务困境：financial distress
+生产实践：production practice
+人参：Panax ginseng
+模糊聚类分析：fuzzy clustering analysis
+黄河三角洲：The Yellow River Delta
+城市建设：city construction
+工作过程：working process
+数据字典：data dictionary
+治理机制：Governance mechanism
+外部环境：External environment
+物流外包：logistics outsourcing
+股市：stock market
+森林景观：forest landscape
+生态风险：Ecological risk
+指导思想：guiding ideology
+经济体制：economic system
+物流业：logistics industry
+脉冲响应函数：impulse response function
+有限责任：limited liability
+浮法玻璃：float glass
+城市交通：urban transportation
+原材料：raw material
+自相关函数：autocorrelation function
+标准差：standard deviation
+背包问题：knapsack problem
+供电企业：power supply enterprise
+会话含义：Conversational implicature
+影像融合：image fusion
+西方经济学：western economics
+信息化建设：information construction
+不饱和聚酯：unsaturated polyester
+张謇：Zhang Jian
+公有制：public ownership
+周恩来：Zhou Enlai
+人才流失：brain drain
+守恒量：conserved quantity
+存款保险：deposit insurance
+农民工：peasant worker
+外交政策：Foreign policy
+显性知识：explicit knowledge
+水电厂：hydropower plant
+不对称信息：asymmetric information
+课程教学：course teaching
+区域经济发展：regional economic development
+战略规划：strategic planning
+需求预测：demand forecast
+道路交通：road traffic
+会计监督：accounting supervision
+柔性管理：Flexible management
+合理用药：Rational use of drug
+建筑工程：construction engineering
+空间插值：spatial interpolation
+国际经验：international experience
+随机微分方程：stochastic differential equation
+主题公园：theme park
+农村公共产品：rural public goods
+政府失灵：government failure
+布朗运动：Brownian Motion
+生态平衡：ecological balance
+知识模型：knowledge model
+制造系统：manufacturing system
+改革与发展：reform and development
+身体素质：Physical fitness
+居住建筑：residential building
+SCADA系统：SCADA system
+知识产权保护：intellectual property protection
+群决策：group decision making
+认知风格：Cognitive style
+城市空间结构：Urban Spatial Structure
+加油站：gas station
+生命科学：life science
+核心价值：core value
+房地产开发：real estate development
+实践性教学：Practical teaching
+合作博弈：cooperative game
+误差修正：error correction
+法律监督：legal supervision
+明朝：Ming Dynasty
+量子计算：Quantum computation
+仿真建模：simulation modeling
+教育创新：educational innovation
+网络组织：network organization
+滑动窗口：sliding window
+生活世界：life world
+改进措施：improvement measure
+回归分析：regressive analysis
+运行管理：Operation management
+三角模糊数：triangular fuzzy number
+广东：Guangdong Province
+国家利益：National interests
+随机规划：stochastic programming
+公共交通：Public traffic
+内部会计控制：internal accounting control
+投入产出分析：input-output analysis
+品牌营销：Brand Marketing
+高考：College Entrance Examination
+客户细分：customer segmentation
+物权法：property law
+Granger因果检验：Granger causality test
+金融结构：financial structure
+大型空分设备：Large scale air separation unit
+系统管理：system management
+经济全球化：Economy Globalization
+分配制度：distribution system
+时间常数：Time constant
+知情权：right to know
+经济人：economic man
+教育研究：educational research
+组织绩效：organizational performance
+服务功能：service function
+基础理论：basic theory
+权益：rights and interests
+评价标准：evaluation criteria
+建筑材料：building materials
+子午线轮胎：radial tire
+建模方法：modeling method
+电子设备：electronic equipment
+区域经济合作：regional economic cooperation
+农业产业化：agriculture industrialization
+高新技术企业：high-tech enterprise
+森林旅游：forest tourism
+计划经济：Planned economy
+生活满意度：Life satisfaction
+体裁分析：genre analysis
+善治：Good Governance
+经济管理：economic management
+模型分析：model analysis
+边际成本：marginal cost
+智能设计：intelligent design
+苹果汁：apple juice
+生态工程：ecological engineering
+温室效应：greenhouse effect
+信用管理：credit management
+经济合作：economic cooperation
+关键路径：critical path
+Access数据库：access database
+人力资源开发：Human resources development
+水权：water rights
+财务控制：financial control
+陈云：CHEN Yun
+区域旅游：regional tourism
+贸易结构：trade structure
+山区：mountain area
+郑州市：Zhengzhou City
+松嫩平原：Songnen Plain
+绿色消费：green consumption
+生产系统：production system
+业务流程重组：Business process reengineering
+脉冲响应：impulse response
+能源消耗：energy consumption
+贸易自由化：trade liberalization
+财产权：property right
+职业紧张：Occupational stress
+劳动力：labor force
+创业教育：Enterprise education
+会计信息系统：Accounting information system
+建设用地：Construction land
+经济资本：economic capital
+液化石油气：liquefied petroleum gas
+直接还原：direct reduction
+安徽：Anhui Province
+模糊数学：fuzzy math
+环境政策：environmental policy
+决策模型：Decision-making Model
+江汉平原：Jianghan Plain
+功能分析：functional analysis
+农村社区：rural community
+农村人口：Rural population
+制度分析：institutional analysis
+Vague集：Vague sets
+不完备信息系统：incomplete information system
+增量学习：incremental learning
+烟气脱硫：flue gas desulphurization
+钢铁工业：iron and steel industry
+施工组织：construction organization
+水产品：aquatic product
+物元模型：matter-element model
+三维模型：three-dimensional model
+利益集团：interest group
+区域规划：Regional Planning
+责任保险：liability insurance
+能源结构：energy structure
+投资策略：investment strategy
+品牌管理：brand management
+健康管理：health management
+短路电流：short circuit current
+虚拟社区：Virtual Community
+信用制度：Credit system
+模糊层次分析法：Fuzzy analytic hierarchy process
+肉制品：Meat products
+催化重整：catalytic reforming
+综合分析：comprehensive analysis
+历史经验：historical experience
+农业结构：agricultural structure
+三峡库区：Three Gorges Reservoir
+私营企业：Private enterprise
+市场调查：market research
+对策建议：countermeasures and suggestions
+排放控制：emission control
+旅游发展：tourism development
+配置管理：configuration management
+转移支付：transfer payment
+信息需求：information demand
+情绪智力：emotional intelligence
+新会计准则：new accounting standards
+经济增加值：economic value added
+质量监控：quality control
+驱动机制：driving mechanism
+多元回归：multiple regression
+统计方法：statistical method
+流程图：flow chart
+马尔可夫过程：markov process
+旅游开发：tourism exploitation
+流程管理：process management
+文化整合：Cultural integration
+投资者保护：investor protection
+资源利用：resource utilization
+密度函数：density function
+风险社会：risk society
+效能评估：efficiency evaluation
+工程监理：engineering supervision
+职业卫生：occupational health
+钻石模型：Diamond model
+影子价格：shadow price
+世界遗产：world heritage
+案例教学法：Case teaching method
+医疗器械：medical device
+频繁项集：frequent itemsets
+本科教学：undergraduate teaching
+产业竞争力：industrial competitiveness
+绩效考评：performance appraisal
+模糊集合：fuzzy set
+私法：private law
+地形图：topographic map
+人事制度：Personnel system
+敏捷供应链：Agile supply chain
+家庭网关：home gateway
+共同富裕：Common Prosperity
+金融改革：financial reform
+特征分析：characteristic analysis
+响应曲面法：response surface methodology
+生态效益：ecological benefits
+长沙市：Changsha City
+济南市：Jinan city
+进出口：import and export
+环保产业：environmental protection industry
+蒙特卡罗法：Monte-Carlo method
+粒子群：particle swarm
+GIS技术：GIS technology
+有机农业：organic agriculture
+企业绩效：enterprise performance
+社会政策：social policy
+房地产投资：real estate investment
+机构投资者：institutional investor
+土地市场：land market
+贸易政策：trade policy
+辽河油田：Liaohe Oilfield
+马铃薯淀粉：potato starch
+加工技术：processing technology
+绿色贸易壁垒：green trade barrier
+体育产业：sport industry
+项目经理：project manager
+利弊：advantages and disadvantages
+开放系统：open system
+参考模型：Reference model
+市场力：market power
+市场前景：market prospect
+地下管线：underground pipeline
+顺酐：maleic anhydride
+效益评价：Benefit evaluation
+模型选择：model selection
+概率神经网络：probabilistic neural network
+土地利用结构：Land use structure
+信息增益：information gain
+公法：public law
+装备制造业：equipment manufacturing industry
+银行业：banking industry
+行政改革：administrative reform
+测量系统：measuring system
+财富效应：wealth effect
+保障体系：Guarantee System
+投资价值：investment value
+行政合同：administrative contract
+行政权：administrative power
+二次开发：further development
+动态过程：dynamic process
+燃煤电厂：coal-fired power plant
+蒙特卡洛法：Monte Carlo method
+不确定性分析：uncertainty analysis
+铁路建设：railway construction
+系统科学：system science
+网络通讯：Network Communication
+演化博弈：evolutionary game
+环境设计：environmental design
+贸易保护：trade protection
+文化生态：cultural ecology
+房地产企业：real estate enterprise
+媒介素养：Media literacy
+Web数据挖掘：web data mining
+旅游经济：tourism economy
+税法：Tax law
+评价方法：evaluating method
+Logistic方程：Logistic equation
+心理分析：psychological analysis
+判断矩阵：judgement matrix
+双孢蘑菇：Agaricus bisporus
+流动控制：flow control
+汇率制度：exchange rate regime
+机组组合：unit commitment
+投资基金：investment fund
+单位根检验：unit root test
+信贷配给：credit rationing
+煤炭资源：coal resources
+六西格玛：six sigma
+模糊矩阵：fuzzy matrix
+水电工程：hydropower project
+职业经理人：professional manager
+黄河流域：Yellow River Basin
+创新精神：innovative spirit
+施工阶段：construction stage
+按劳分配：distribution according to work
+临床药学：Clinical pharmacy
+设计策略：design strategy
+外国直接投资：foreign direct investment
+环境管理：environment management
+安全控制：safety control
+教学环境：teaching environment
+地理信息系统(GIS)：Geographic information system(GIS)
+三峡：Three Gorges
+均方误差：mean square error
+离心力：Centrifugal force
+经济周期：business cycle
+势函数：potential function
+监督机制：supervision mechanism
+债务融资：debt financing
+熔融还原：smelting reduction
+工程建设：project construction
+生态系统服务：ecosystem services
+青海湖：Qinghai lake
+蒙特卡洛模拟：Monte Carlo simulation
+贸易摩擦：trade friction
+竞争策略：competitive strategy
+人民币升值：RMB appreciation
+结构体系：structure system
+客户满意度：customer satisfaction
+法律意识：legal consciousness
+教育投资：Education investment
+社区文化：community culture
+西部地区：western area
+煤炭企业：coal enterprises
+情景分析：scenario analysis
+煤炭工业：coal industry
+功能设计：function design
+生态建筑：ecological architecture
+薪酬体系：salary system
+人本管理：Humanistic management
+行政指导：administrative guidance
+民俗文化：folk culture
+苏联：Soviet Union
+服务模式：service model
+冲突管理：conflict management
+体育市场：sports market
+政治制度：political system
+社会排斥：Social Exclusion
+Markov模型：Markov model
+茶文化：tea culture
+露天矿：Open-pit mine
+现代社会：modern society
+锂电池：lithium battery
+制度环境：institutional environment
+客户服务：customer service
+智能决策支持系统：intelligent decision support system
+宽带接入：Broadband access
+线损：line loss
+网络管理系统：network management system
+集成学习：ensemble learning
+区域创新系统：regional innovation system
+债券市场：bond market
+金融深化：financial deepening
+预测方法：prediction method
+绿色供应链：green supply chain
+土地覆盖：land cover
+消费行为：consumption behavior
+抽水蓄能电站：pumped storage power station
+网络资源：network resource
+旅游市场：tourism market
+地理环境：geographical environment
+能源效率：energy efficiency
+商业贿赂：commercial bribery
+社会生活：social life
+财务报告：Financial report
+反洗钱：anti-money laundering
+耕地保护：cultivated land protection
+服务外包：service outsourcing
+配煤：coal blending
+马尔科夫链：markov chain
+水资源承载力：Water resources carrying capacity
+公路桥梁：highway bridge
+阻塞管理：congestion management
+刘少奇：Liu Shaoqi
+控制技术：Control technique
+复合肥：compound fertilizer
+防范措施：preventive measures
+土地退化：land degradation
+高新技术：high technology
+动力系统：dynamical system
+都市农业：urban agriculture
+信息反馈：information feedback
+动态环境：Dynamic environment
+质的研究：qualitative research
+竞争比：competitive ratio
+云计算：cloud computing
+对策研究：countermeasure study
+Elman神经网络：Elman neural network
+服务管理：service management
+现实意义：realistic significance
+造山带：orogenic belt
+产业结构调整：industrial structure adjustment
+混凝土施工：concrete construction
+技能训练：Skill training
+质性研究：qualitative research
+文化资本：cultural capital
+网络外部性：network externality
+加工番茄：processing tomato
+有限政府：limited government
+喷气织机：air-jet loom
+乙烯装置：ethylene plant
+铁道车辆：rolling stock
+市场需求分析：market demand analysis
+生态价值：ecological value
+风险因素：risk factor
+社会变迁：social changes
+纳税筹划：Tax planning
+管理模型：management model
+运输问题：transportation problem
+清末：late Qing Dynasty
+税收制度：tax system
+农村劳动力：rural labor force
+有机食品：organic food
+混杂系统：hybrid system
+货架期：shelf life
+电站：power station
+雅可比矩阵：Jacobian matrix
+旅游资源：tourist resource
+市场环境：Market environment
+物流信息系统：logistics information system
+社区发展：Community development
+节水型社会：water-saving society
+数字鸿沟：Digital Divide
+法律效力：Legal effect
+社会救助：Social assistance
+区域创新：regional innovation
+国际政治：international politics
+事故预防：Accident prevention
+政策选择：Policy Choice
+环境变化：Environmental change
+计算智能：computational intelligence
+交通量：traffic volume
+路径分析：path analysis
+滨海新区：Binhai New Area
+二项分布：binomial distribution
+现金流：Cash flow
+陈独秀：CHEN Du-xiu
+行为金融学：behavioral finance
+中间业务：Intermediary business
+欧洲一体化：European integration
+农村土地：rural land
+金融自由化：Financial liberalization
+品牌价值：brand value
+喷气燃料：jet fuel
+面源污染：non-point source pollution
+食品分析：food analysis
+相对效率：relative efficiency
+投资项目：investment project
+投资结构：investment structure
+科学方法：scientific method
+数字化图书馆：digital library
+产业转移：industrial transfer
+经济转型：economic transformation
+小波网络：wavelet network
+可持续性发展：sustainable development
+多元统计分析：multivariate statistical analysis
+状态空间模型：state space model
+原型系统：prototype system
+欧氏距离：Euclidean distance
+历史发展：historical development
+财务战略：Financial strategy
+地价：Land price
+人的发展：human development
+中华文化：Chinese culture
+市场效率：market efficiency
+农村信用社：rural credit cooperative
+推荐系统：recommendation system
+软件包：software package
+可行性研究：feasibility research
+理论体系：theory system
+备件：spare parts
+国际竞争：international competition
+转移概率：transition probability
+保障措施：safeguard measures
+网络社会：network society
+土壤改良：soil improvement
+环境风险：environmental risk
+变频：variable frequency
+偏最小二乘法：Partial least squares
+海洋经济：marine economy
+比较研究：comparison study
+经济安全：economic security
+制约因素：restrictive factor
+森林经营：forest management
+电动车：electric vehicle
+发达国家：Developed country
+主成份分析：principal component analysis
+管理科学：management science
+经济效率：economic efficiency
+品牌忠诚：brand loyalty
+角色定位：role orientation
+系统识别：system identification
+基础工程：foundation engineering
+胜任力模型：Competency Model
+公共选择：public choice
+先验分布：Prior distribution
+软件项目：Software project
+文化旅游：Cultural tourism
+节能降耗：energy saving
+灰色预测：gray prediction
+研究方向：research direction
+山东半岛：Shandong peninsula
+社会角色：social role
+价格发现：price discovery
+禁忌搜索算法：Tabu search algorithm
+正当程序：due process
+分销渠道：Distribution channel
+学习理论：learning theory
+模糊语言：Fuzzy Language
+物流企业：logistics enterprises
+离散系统：discrete system
+技术溢出：technology spillover
+面板数据模型：panel data model
+农村职业教育：rural vocational education
+碘盐：Iodized salt
+转移矩阵：transfer matrix
+制度经济学：institutional economics
+矿泉水：mineral water
+运行模式：operation mode
+模糊规划：fuzzy programming
+果树：Fruit trees
+消费文化：consumption culture
+宗教文化：religious culture
+社会网络分析：Social network analysis
+工作流技术：workflow technology
+最优路径：optimal path
+职业生涯管理：career management
+商务智能：Business Intelligence
+知识地图：knowledge map
+经济波动：economic fluctuation
+质量问题：quality problem
+污水处理厂：sewage treatment plant
+服务平台：service platform
+矿业城市：mining city
+变异系数：variation coefficient
+供需：Supply and demand
+果蔬：fruit and vegetable
+废纸：waste paper
+分形维：fractal dimension
+地方经济：local economy
+对策论：Game theory
+金融机构：financial institution
+基本理论：basic theory
+薪酬管理：salary management
+注意义务：duty of care
+城市体系：urban system
+政治经济学：Political Economics
+西方马克思主义：Western Marxism
+会计计量：accounting measurement
+多元回归分析：multiple regression analysis
+粉末涂料：powder coatings
+建筑企业：construction enterprises
+设计理念：design idea
+价格竞争：price competition
+自来水：Tap water
+logistic回归模型：logistic regression model
+农村市场：rural market
+功能模型：function model
+人格特征：personality characteristics
+会计信息披露：Accounting Information Disclosure
+保险合同：insurance contract
+企业建模：enterprise modeling
+审美心理：aesthetic psychology
+个性化推荐：personalized recommendation
+顺应论：adaptation theory
+有效需求：effective demand
+语用分析：pragmatic analysis
+离职倾向：turnover intention
+传统知识：traditional knowledge
+BP人工神经网络：BP artificial neural network
+环境意识：environmental awareness
+虚拟水：virtual water
+水质污染：water pollution
+演化计算：Evolutionary computation
+政策体系：policy system
+中国西部：Western China
+税收优惠：Tax Preference
+纵向一体化：vertical integration
+建设监理：construction supervision
+集装箱运输：container transportation
+税率：Tax rate
+农村城镇化：rural urbanization
+社会服务：Social service
+度分布：degree distribution
+土地征收：land expropriation
+政治体制：political system
+劳动合同法：Labor Contract Law
+技术改造：technological transformation
+铁路运输：railway transport
+密云水库：Miyun reservoir
+快速设计：rapid design
+经济运行：Economical operation
+决策树：decision trees
+自由贸易：free trade
+现状分析：present situation analysis
+技术管理：Technical management
+关联分析：correlation analysis
+数据整合：data integration
+开放空间：Open Space
+发展研究：development research
+二元结构：dual structure
+Web日志：Web log
+会计政策：accounting policy
+监事会：board of supervisors
+自由贸易区：free trade area
+政府绩效：government performance
+BP神经网络：back propagation neural network
+化工：chemical industry
+生活垃圾：municipal solid waste
+条件概率：conditional probability
+监督分类：supervised Classification
+食品污染：Food Contamination
+非线性规划：non-linear programming
+发展现状：Development situation
+生产物流：production logistics
+模糊分析：Fuzzy analysis
+集成管理：integrated management
+财务会计：Financial Accounting
+研究与开发：research and development
+体系构建：system construction
+会计信息失真：accounting information distortion
+社会秩序：social order
+农村发展：rural development
+新组合：New combination
+金融全球化：financial globalization
+市场导向：market orientation
+电力企业：Electric power enterprise
+出路：way out
+简化模型：simplified model
+可靠性模型：reliability model
+配电网：power distribution network
+最小生成树：minimum spanning tree
+会计电算化：computerized accounting
+网络重构：network reconfiguration
+政府信息：government information
+用户体验：user experience
+银行监管：banking supervision
+社会流动：social mobility
+金融服务：financial service
+控制模式：control mode
+燃料油：fuel oil
+纺织工业：textile industry
+食品安全：food security
+渔业资源：Fishery resources
+区域文化：regional culture
+进度控制：Schedule control
+损失函数：loss function
+渠道冲突：Channel Conflict
+绒山羊：cashmere goat
+链接分析：link analysis
+剩余寿命：residual life
+研发：research and development
+文献综述：literature review
+全球气候变化：global climate change
+投资管理：investment management
+自动生成：automatic generation
+城市绿化：urban greening
+质量检验：quality inspection
+非线性效应：nonlinear effect
+质量安全：quality safety
+可持续农业：Sustainable Agriculture
+分形插值：Fractal interpolation
+实施策略：implementation strategy
+生态工业园：eco-industrial park
+线性回归模型：linear regression model
+历史背景：Historical background
+工程结构：engineering structure
+内部控制制度：internal control system
+面向服务架构：service-oriented architecture
+城市经济：urban economy
+消费社会：Consumer Society
+移动GIS：mobile GIS
+无线接入：Wireless access
+有限合伙：limited partnership
+差分法：difference method
+基本原理：basic principle
+长输管道：long distance pipeline
+软计算：soft computing
+危害分析：hazard analysis
+品牌文化：Brand culture
+心理压力：psychological pressure
+安全体系：security system
+正反馈：positive feedback
+信息时代：information times
+动物福利：animal welfare
+知识集成：knowledge integration
+城市边缘区：urban fringe
+青岛市：Qingdao City
+投资效益：Investment benefit
+劳动争议：labor dispute
+洗钱：money laundering
+房地产价格：real estate price
+土地政策：Land Policy
+随机控制：stochastic control
+独立董事制度：independent director system
+国家创新体系：national innovation system
+文化哲学：cultural philosophy
+协调发展：coordinative development
+沈阳市：Shenyang city
+外商投资：foreign investment
+农业可持续发展：agricultural sustainable development
+法制建设：legal construction
+资产管理：assets management
+表面工程：surface engineering
+社会正义：social justice
+资本成本：capital cost
+软环境：soft environment
+无标度网络：scale-free network
+早熟收敛：premature convergence
+协商民主：deliberative democracy
+功能语法：Functional grammar
+余热：waste heat
+关键控制点：critical control point
+施工期：construction period
+数据集市：data mart
+公共部门：public sector
+投资组合：investment portfolio
+马氏距离：Mahalanobis Distance
+概率分析：Probability analysis
+项目评价：project evaluation
+概率论：probability theory
+施工监理：construction supervision
+羊群行为：herd behavior
+失业保险：unemployment insurance
+价值体系：value system
+有效解：efficient solution
+国家形象：national image
+区域创新体系：regional innovation system
+灰色关联分析：grey relation analysis
+生产效率：production efficiency
+洁净煤技术：clean coal technology
+营销创新：Marketing innovation
+持续利用：Sustainable utilization
+流程再造：business process reengineering
+经济绩效：economic performance
+趋势预测：trend prediction
+改进算法：improved algorithm
+中国经济：Chinese economy
+系统评价：system evaluation
+创新绩效：innovation performance
+内部营销：internal marketing
+知识资本：Knowledge capital
+信息经济：information economy
+入境旅游：inbound tourism
+焉耆盆地：Yanqi basin
+煤层气：coal bed methane
+营销环境：Marketing environment
+零排放：zero discharge
+石墨电极：Graphite electrode
+水电开发：hydropower development
+农用地：Agricultural land
+全面预算管理：comprehensive budget management
+实践教学体系：practice teaching system
+公共治理：Public governance
+RS485总线：RS485 bus
+教学软件：teaching software
+市场开发：market development
+仿真研究：simulation study
+市场定位：market orientation
+Bayes估计：Bayes estimation
+教学资源：teaching resource
+团队精神：Team spirit
+个人信用：personal credit
+客户关系：customer relationship
+保险市场：insurance market
+实际汇率：real exchange rate
+消费信贷：consumer credit
+物流服务：logistics service
+建筑施工：building construction
+焊接质量：welding quality
+利用率：utilization rate
+扩散模型：diffusion model
+海洋工程：ocean engineering
+开发模式：development model
+工会：trade unions
+Malmquist指数：Malmquist index
+古诺模型：Cournot model
+连锁经营：chain operation
+自回归模型：autoregressive model
+混合系统：hybrid system
+社会保障体系：social security system
+信息环境：information environment
+村民自治：villagers autonomy
+弱收敛：Weak convergence
+Black-Scholes模型：Black-Scholes model
+层次聚类：hierarchical clustering
+自由现金流量：free cash flow
+农业信息：agricultural information
+制造技术：manufacturing technology
+Poisson过程：Poisson process
+气象灾害：meteorological disaster
+委托代理理论：principal-agent theory
+对数正态分布：lognormal distribution
+投入产出模型：input-output model
+成都市：Chengdu City
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+空间分布：space distribution
+整合营销：integrated marketing
+创新系统：innovation system
+文化素质：cultural quality
+发展阶段：development stage
+内在价值：intrinsic value
+信息资源管理：information resource management
+时间窗：time window
+对外开放：opening to the outside world
+就业歧视：employment discrimination
+公共支出：public expenditure
+真空泵：vacuum pump
+内部人控制：insider control
+移动互联网：mobile internet
+和平崛起：Peaceful Rise
+区域经济增长：regional economic growth
+公路工程：highway project
+化学法：chemical method
+博弈理论：game theory
+污染治理：pollution treatment
+主要问题：Main problems
+社会心理学：social psychology
+磁性材料：magnetic materials
+管理体制：administration system
+规则提取：rule extraction
+增长极：growth pole
+法律价值：legal value
+会计处理：accounting treatment
+信息经济学：information economics
+数字农业：digital agriculture
+人口分布：Population Distribution
+瞿秋白：Qu Qiubai
+金融业：financial industry
+货币市场：money market
+法律监管：legal supervision
+全球治理：global governance
+遥感技术：remote sensing technique
+高强钢：High strength steel
+苗族：Miao nationality
+功能模块：Functional Module
+定价策略：pricing strategy
+燃油经济性：fuel economy
+矢量数据：vector data
+Web2.0：Web 2.0
+物业税：property tax
+政党：Political Party
+区域金融：regional finance
+醋酸乙烯：vinyl acetate
+理论框架：theoretical framework
+技术发展：technology development
+城市公园：Urban park
+组织文化：organization culture
+试验机：testing machine
+高等级公路：high-grade highway
+混合模型：hybrid model
+绿色管理：green management
+政府：the government
+规模效率：Scale efficiency
+优化分析：optimization analysis
+故障率：failure rate
+市场秩序：market order
+精神文化：spiritual culture
+投资体制：investment system
+智能交通：intelligent transportation
+钻井工程：drilling engineering
+分数布朗运动：fractional Brownian motion
+组织创新：Organization innovation
+明清时期：Ming and Qing Dynasties
+经验似然：empirical likelihood
+XML加密：XML encryption
+争端解决机制：dispute settlement mechanism
+管理措施：Management measures
+催化机理：catalytic mechanism
+安全措施：safety measure
+预警系统：warning system
+石化企业：Petrochemical Enterprise
+弱势群体：disadvantaged groups
+TOPSIS法：TOPSIS method
+开发策略：development strategy
+新西兰：New Zealand
+TM影像：TM image
+植物资源：plant resource
+贝叶斯方法：Bayesian method
+数据组织：data organization
+时空数据模型：spatio-temporal data model
+南京国民政府：Nanjing National Government
+物流网络：logistics network
+更新过程：renewal process
+知识整合：knowledge integration
+知识网络：knowledge network
+移动支付：mobile payment
+森林认证：forest certification
+发展历程：development process
+化学工程：chemical engineering
+实证分析：demonstration analysis
+随机变量：random variables
+社会影响：social influence
+西部：the west
+变化趋势：change trend
+集体行动：Collective Action
+正交变换：orthogonal transformation
+素质结构：quality structure
+应急物流：emergency logistics
+教育发展：educational development
+《孙子兵法》：Military Science of Sun Tzu
+企业年金：occupational pension
+调节系数：adjustment coefficient
+外贸：foreign trade
+住宅小区：Residential district
+储能：energy storage
+珠三角：Pearl River Delta
+工程项目管理：Engineering project management
+石油工业：petroleum industry
+区域竞争力：regional competitiveness
+层次结构：hierarchical structure
+教育培训：education and training
+劳动价值论：labor value theory
+市场份额：market share
+西欧：Western Europe
+模糊变量：fuzzy variable
+社会问题：social problem
+宋朝：Song Dynasty
+支柱产业：pillar industry
+农村能源：rural energy
+技术扩散：Technology diffusion
+管理控制：management control
+合作机制：cooperation mechanism
+结构学习：Structure learning
+商标权：trademark right
+国际保理：international factoring
+消费函数：Consumption function
+私营经济：private economy
+功能食品：functional food
+处理措施：Treatment Measures
+设备选型：equipment selection
+投资分析：investment analysis
+设计原理：design principle
+新模式：new mode
+人口增长：population growth
+信息整合：Information Integration
+系统性能：system performance
+信息分析：information analysis
+电力负荷：power load
+人际信任：interpersonal trust
+会计环境：accounting environment
+物质文明：material civilization
+风险资本：venture capital
+自由意志：free will
+政府信用：government credit
+生态系统管理：ecosystem management
+能源管理：energy management
+蒙特卡洛：monte carlo
+矿业权：Mining right
+工业旅游：industrial tourism
+石羊河流域：Shiyang River basin
+废塑料：waste plastics
+录井：mud logging
+序参量：order parameter
+市场体系：market system
+开封市：Kaifeng City
+管理软件：management software
+创新管理：innovation management
+经济效应：economic effects
+人员素质：personnel quality
+内部控制：inner control
+城市基础设施：urban infrastructure
+信息质量：information quality
+开源软件：open source software
+绩效审计：Performance audit
+北宋：The Northern Song Dynasty
+经济思想：economic thought
+金融工程：financial engineering
+机顶盒：set-top box
+Stackelberg博弈：Stackelberg game
+司法救济：judicial remedy
+工业遗产：Industrial Heritage
+前景理论：prospect theory
+泡沫经济：Bubble economy
+高科技企业：high-tech enterprise
+信任机制：trust mechanism
+公司社会责任：corporate social responsibility
+工艺过程：Technological process
+发散思维：divergent thinking
+历史文化：History and Culture
+环境影响：environmental influence
+定量研究：quantitative research
+CO_2：carbon dioxide
+教育模式：education model
+水资源保护：water resources protection
+生态系统服务功能：ecosystem services
+软启动：soft start
+基地建设：base construction
+柴油发动机：diesel engine
+应收账款：account receivable
+专利保护：patent protection
+品牌定位：brand positioning
+经营战略：management strategy
+依法行政：administration according to law
+辐射效应：Radiation effect
+民间文化：folk culture
+制度变迁：system change
+清洁能源：clean energy
+国民政府：National Government
+南非：South Africa
+收敛速度：convergence speed
+古村落：ancient village
+服务补救：service recovery
+核心价值体系：core value system
+旁观者效应：Bystander effect
+虚拟经济：virtual economy
+人寿保险：life insurance
+政府改革：government reform
+技术要求：technical requirement
+科学内涵：scientific connotation
+关联矩阵：incidence matrix
+驱动系统：driving system
+天麻：Gastrodia elata
+分类体系：classification system
+社会评价：social evaluation
+战略分析：strategic analysis
+新体系：new system
+保障机制：guarantee mechanism
+人工智能：artificial intelligent
+入世：entry into WTO
+照明设计：lighting design
+无形资产：intangible asset
+劳动法：labor law
+法律控制：Legal Control
+公共投资：public investment
+有效竞争：effective competition
+信息加工：information processing
+KMV模型：KMV model
+煤炭产业：coal industry
+专利分析：patent analysis
+油气田：oil and gas field
+精密铸造：investment casting
+气田：gas field
+矩阵范数：matrix norm
+硝酸钾：potassium nitrate
+能源政策：energy policy
+进化博弈：evolutionary game
+有效途径：effective way
+中世纪：Middle Ages
+传统产业：Traditional industry
+教学创新：teaching innovation
+Markov过程：Markov process
+财务绩效：financial performance
+作业调度：job scheduling
+网络媒体：network media
+旅游目的地：tourism destination
+农机化：agricultural mechanization
+时间管理倾向：Time management disposition
+硬质合金：hard alloy
+供应链：Supply Chain Management
+电气设备：electric equipment
+纺织业：textile industry
+合成橡胶：synthetic rubber
+资源保护：resource protection
+控制方法：control methods
+创新人才：innovative talent
+清洁燃料：clean fuel
+孤东油田：Gudong Oilfield
+马氏链：markov chain
+节能技术：energy-saving technology
+工艺规划：process planning
+产权制度：property rights system
+能源战略：energy strategy
+不正当竞争：Unfair competition
+世界经济：world economy
+实事求是：seek truth from facts
+离散模型：discrete model
+燃气管道：gas pipeline
+泊松分布：poisson distribution
+中日关系：Sino-Japanese relations
+电动汽车：electric vehicles
+小波理论：wavelet theory
+家庭结构：family structure
+现代意义：modern significance
+行为经济学：behavioral economics
+供应商管理库存：vendor managed inventory
+电动自行车：electric bicycle
+界面管理：interface management
+文体分析：stylistic analysis
+随机环境：random environment
+SIP协议：SIP protocol
+会计信息质量：quality of accounting information
+户籍制度：household registration system
+商法：commercial law
+科技查新：Sci-tech Novelty Retrieval
+新农村：new rural
+立法建议：legislative suggestion
+粗糙集理论：Rough Sets Theory
+生产控制：production control
+产品平台：product platform
+Monte-Carlo模拟：Monte-Carlo simulation
+质量文化：quality culture
+跟踪误差：tracking error
+系统理论：system theory
+中心极限定理：central limit theorem
+城市林业：urban forestry
+旅客列车：passenger train
+品牌策略：brand strategy
+融资模式：financing mode
+临界状态：critical state
+藏药：Tibetan medicine
+研究设计：research design
+社会管理：social management
+智能优化：intelligent optimization
+覆盖网络：overlay network
+空间设计：space design
+违约风险：default risk
+会计理论：accounting theory
+南水北调：south-to-north water transfer project
+有色金属：nonferrous metals
+模块设计：Module Design
+主成分：Principal component
+成本估算：cost estimation
+管理方法：management method
+产业升级：industry upgrading
+城市客车：city bus
+消费水平：consumption level
+WTO规则：WTO rules
+价值创新：Value Innovation
+股权融资：equity financing
+序列比对：sequence alignment
+软件项目管理：Software Project Management
+行为干预：Behavior intervention
+联系数：connection number
+对立统一：unity of opposites
+经济改革：Economic reform
+高校管理：university management
+核密度估计：Kernel density estimation
+大学城：university town
+旅游教育：tourism education
+控制权：control right
+种子生产：seed production
+线材：wire rod
+大同市：Datong City
+徐州市：Xuzhou City
+生物质能源：biomass energy
+可持续发展战略：sustainable development strategy
+石化工业：petrochemical industry
+内阻：internal resistance
+烟台市：Yantai City
+相关因素：relevant factors
+推进系统：propulsion system
+行政处罚：administrative punishment
+发展观：development view
+特色农业：Characteristic agriculture
+预防性养护：preventive maintenance
+商业地产：commercial real estate
+转移定价：transfer pricing
+房地产泡沫：real estate bubble
+事故树：fault tree
+实训基地：training base
+国际投资：International investment
+棕榈油：palm oil
+多元线性回归：multivariate linear regression
+雷州半岛：Leizhou Peninsula
+合理利用：Rational utilization
+高分子材料：polymer material
+灰色聚类：grey clustering
+示范中心：demonstration center
+欧拉方程：Euler equation
+负荷控制：load control
+排队系统：queuing system
+创造能力：creative ability
+商务谈判：business negotiation
+公平竞争：fair competition
+应用框架：application framework
+地热资源：geothermal resources
+战略实施：strategy implementation
+铁路工程：railway engineering
+残疾人：the disabled
+存储系统：storage system
+民国时期：the period of the Republic of China
+个性化信息服务：personalized information service
+诚信教育：honesty education
+Copula函数：copula function
+半参数回归模型：semiparametric regression model
+汇率风险：exchange rate risk
+市场价值：market value
+社会保障税：social security tax
+二元经济结构：dual economic structure
+会计教育：accounting education
+汤显祖：Tang Xianzu
+社区治理：community governance
+目标管理：target management
+畜牧学：animal husbandry
+合肥市：Hefei City
+北部湾：Beibu Gulf
+监督管理：supervision and management
+层次分析法(AHP)：analytic hierarchy process(AHP)
+岭回归：ridge regression
+体育彩票：sports lottery
+医疗：medical treatment
+安全设计：safety design
+组织管理：organization and management
+技术性能：technical performance
+天津港：Tianjin port
+法律问题：legal problems
+草地资源：grassland resources
+遗传程序设计：genetic programming
+统计分布：statistical distribution
+基于案例推理：Case-based reasoning
+泊松过程：poisson process
+管理理论：Management Theory
+过程改进：Process improvement
+随机Petri网：stochastic Petri net
+文化教育：cultural education
+布局优化：layout optimization
+词法分析：lexical analysis
+封闭式基金：closed-end fund
+民办高校：private college
+财产保险：property insurance
+实体经济：real economy
+公司法：Corporation Law
+人口迁移：population migration
+逻辑起点：logical starting point
+民航：Civil Aviation
+天津市：Tianjin City
+生产过程：production process
+管理平台：management platform
+服务系统：service system
+验证性因素分析：confirmatory factor analysis
+定性研究：qualitative study
+公共关系：public relation
+区域开发：regional development
+工业经济：industrial economy
+递归算法：recursive algorithm
+施工合同：Construction contract
+社会行为：social behavior
+企业成长：enterprise growth
+交通拥挤：traffic congestion
+模糊Petri网：fuzzy Petri net
+Shapley值：Shapley value
+最短路：shortest path
+国际物流：international logistics
+市场反应：market reaction
+近似计算：approximate calculation
+公共品：public goods
+盈余质量：Earnings Quality
+绩效管理体系：performance management system
+模糊线性规划：fuzzy linear programming
+互动发展：interactive development
+硫磺回收：sulfur recovery
+城市垃圾：municipal solid waste
+时间尺度：time scale
+文化环境：cultural environment
+印刷电路板：printed circuit board
+模糊概率：fuzzy probability
+知识体系：knowledge system
+风险决策：risk decision
+茶树：Camellia sinensis
+价格指数：price index
+合成树脂：Synthetic resin
+配分函数：partition function
+面向对象程序设计：object-oriented programming
+市场势力：market power
+仿真试验：Simulation Test
+辩证统一：dialectical unity
+信息失真：Information distortion
+中央空调：central air conditioning
+政策调整：policy adjustment
+知识链：knowledge chain
+权力结构：power structure
+认知过程：cognitive process
+代建制：agent construction system
+竞价策略：bidding strategy
+投资行为：investment behavior
+资产配置：asset allocation
+文化人类学：Cultural Anthropology
+行政许可：administrative license
+知识创造：knowledge creation
+性别歧视：gender discrimination
+企业信用：enterprise credit
+投资效率：investment efficiency
+物元分析：matter element analysis
+桐油：Tung oil
+环境信息：environmental information
+价值链管理：value chain management
+模糊推理系统：fuzzy inference system
+过程集成：process integration
+资金管理：fund management
+青海：Qinghai Province
+煤气：coal gas
+职业病：Occupational disease
+田口方法：Taguchi Method
+地区差异：regional difference
+教育体系：educational system
+空间关系：spatial relationship
+决策系统：decision-making system
+重心：center of gravity
+工业革命：industrial revolution
+薪酬制度：salary system
+支撑体系：support system
+元朝：Yuan Dynasty
+制度改革：system reform
+国际收支：balance of payments
+中央政府：central government
+语用价值：pragmatic value
+直接融资：Direct financing
+就业政策：employment policy
+改革发展：reform and development
+城市经营：city management
+ERP：Enterprise Resource Planning
+互动关系：interactive relationship
+碳黑：carbon black
+公路运输：highway transportation
+传统农业：traditional agriculture
+可持续消费：sustainable consumption
+稳健估计：robust estimation
+社会成本：social cost
+节水农业：water saving agriculture
+城乡居民：urban and rural residents
+认知机制：cognitive mechanism
+城市居民：Urban residents
+财政支出：financial expenditure
+信用风险管理：credit risk management
+合作金融：cooperative finance
+资本外逃：Capital Flight
+非正规就业：informal employment
+资本流动：capital flow
+保险法：insurance law
+稀土催化剂：rare earth catalyst
+网络计划：network plan
+勘探开发：exploration and development
+综合开发：comprehensive development
+综合管理：integrated management
+程序控制：program control
+计算机模拟：Computerized simulation
+自然景观：natural landscape
+机械产品：mechanical product
+分形结构：fractal structure
+实习基地：Practice base
+设计结构矩阵：design structure matrix
+最大值原理：Maximum Principle
+经济林：economic forest
+跨文化管理：cross-cultural management
+等待时间：waiting time
+线性组合：Linear combination
+有效供给：effective supply
+网络服务：network service
+人口素质：population quality
+数据窗口：data window
+技术预见：technology foresight
+历史街区：historic district
+公交优先：Bus Priority
+飞机设计：aircraft design
+有效前沿：efficient frontier
+作用机理：function mechanism
+设备维护：equipment maintenance
+动态演化：dynamic evolution
+质量屋：house of quality
+绿色施工：green construction
+设备维修：equipment maintenance
+优化策略：optimization strategy
+机遇与挑战：opportunity and challenge
+不良资产：bad assets
+交通网络：traffic network
+惩罚函数：penalty function
+城市化水平：urbanization level
+农村居民：rural resident
+土地评价：land evaluation
+会计控制：accounting control
+林业产业：Forestry industry
+学习过程：learning process
+团队绩效：team performance
+风险偏好：risk preference
+项目风险：project risk
+随机利率：stochastic interest rate
+税务筹划：tax planning
+中东：Middle East
+国际营销：international marketing
+吐哈油田：Tuha oilfield
+湿地资源：wetland resources
+建设模式：construction mode
+聚醚多元醇：Polyether polyol
+绿色技术：green technology
+核安全：nuclear safety
+环境规制：environmental regulation
+杭州市：Hangzhou city
+安全系统：safety system
+重复博弈：repeated game
+矩阵分析：matrix analysis
+企业改革：enterprise reform
+塔里木河流域：Tarim River Basin
+自然生态：natural ecology
+国家公园：national park
+历史演进：Historical Evolution
+虚拟团队：Virtual team
+政策支持：Policy support
+人口结构：Population structure
+寿命周期费用：Life Cycle Cost
+认知能力：cognitive ability
+工程量清单：bill of quantity
+模糊逻辑系统：fuzzy logic system
+移动网络：mobile network
+动态能力：dynamic capabilities
+包装工程：packaging engineering
+手机电视：mobile TV
+剩余价值：Surplus Value
+软件配置管理：software configuration management
+洋务运动：Westernization Movement
+社会建设：Social Construction
+美国文化：American culture
+汶川大地震：Wenchuan Earthquake
+国际金融危机：international financial crisis
+注塑：injection molding
+应急响应：emergency response
+节能设计：energy-saving design
+风险投资：venture capital investment
+设计模型：design model
+制造企业：manufacturing enterprises
+效应分析：effect analysis
+西安市：Xi'an city
+能源合作：Energy Cooperation
+明清：the Ming and Qing Dynasties
+价格机制：Price Mechanism
+目标成本：target cost
+药品不良反应：adverse drug reactions
+典型相关：Canonical correlation
+公益性：public welfare
+心理效应：psychological effect
+社会组织：social organization
+开放式基金：open-ended fund
+海上保险：marine insurance
+农业税：agricultural tax
+均衡汇率：equilibrium exchange rate
+市场分割：market segmentation
+指标权重：index weight
+多目标优化：multi-object optimization
+和谐管理：harmonious management
+绿色供应链管理：green supply chain management
+能效：energy efficiency
+生物多样性保护：biodiversity conservation
+评标：bid evaluation
+质量功能配置：quality function deployment
+湿地公园：wetland park
+进口贸易：import trade
+政策环境：policy environment
+竹产业：bamboo industry
+城市空间：city space
+绿色经济：green economy
+空间相关性：spatial correlation
+Granger因果关系：granger causality
+区间矩阵：interval matrix
+态势评估：situation assessment
+间接融资：indirect financing
+交易效率：transaction efficiency
+国有资本：state-owned capital
+胜任特征模型：competency model
+需求分析：requirements analysis
+排污权交易：Emission trading
+农业非点源污染：agricultural non-point source pollution
+环境管理体系：environmental management system
+随机分析：stochastic analysis
+IP电话：IP telephone
+BOT项目：BOT project
+运作机制：operation mechanism
+提前期：lead time
+黄山市：Huangshan City
+核估计：Kernel estimation
+价值链分析：value chain analysis
+系统模拟：system simulation
+发展水平：development level
+法经济学：law and economics
+信息资源共享：information resource sharing
+行为分析：behavior analysis
+创新战略：innovation strategy
+唯物辩证法：materialist dialectics
+与时俱进：Keeping Pace with the Times
+委托-代理理论：principal-agent theory
+贷款定价：loan pricing
+人民币汇率：exchange rate of RMB
+市场微观结构：market microstructure
+货币需求：money demand
+污染源：pollution sources
+在线分析：on-line analysis
+人造板：Wood-based panel
+故障模式：Failure mode
+战略环境评价：strategic environmental assessment
+喀斯特地区：karst area
+分析模型：analytical model
+性别平等：gender equality
+系统稳定性：system stability
+反馈机制：feedback mechanism
+大学教育：College Education
+影响系数：influence coefficient
+南昌市：Nanchang city
+抗战时期：anti-Japanese war
+物质文化：material culture
+工人阶级：working class
+现代管理：modern management
+培训模式：Training model
+内隐自尊：Implicit self-esteem
+ARCH模型：ARCH model
+体系优化：system optimization
+水市场：water market
+湖湘文化：HuXiang culture
+行政区划：Administrative Division
+内生增长：endogenous growth
+艺术美：artistic beauty
+价格歧视：price discrimination
+避税：tax avoidance
+契约理论：contract theory
+听证制度：Hearing system
+有限合伙制：limited partnership
+社会契约：social contract
+汇率政策：exchange rate policy
+非传统安全：non-traditional security
+黄浦江：Huangpu River
+增长率：growth rate
+汽车发动机：Automobile engine
+可拓方法：extension method
+财务信息：financial information
+贵阳市：Guiyang city
+电压质量：Voltage Quality
+政府政策：government policy
+实例推理：Case-based reasoning
+集中管理：centralized management
+营销模式：marketing mode
+临沂市：Linyi City
+绿色农业：Green agriculture
+最大流：maximum flow
+诺贝尔奖：Nobel Prize
+资源优化：resource optimization
+医疗风险：Medical risk
+布尔代数：boolean algebra
+影响函数：influence function
+森林可持续经营：sustainable forest management
+协同商务：collaborative commerce
+风电：wind power
+科学体系：Scientific system
+卫生资源：health resource
+绩效技术：performance technology
+情绪调节：Emotion regulation
+感知风险：perceived risk
+儒家伦理：Confucian ethics
+归因理论：Attribution Theory
+科技政策：science and technology policy
+西汉：Western Han dynasty
+公路养护：highway maintenance
+贝叶斯分析：Bayesian analysis
+直觉模糊集：intuitionistic fuzzy sets
+房价：housing price
+效能分析：effectiveness analysis
+地震烈度：seismic intensity
+可中断负荷：interruptible load
+价格折扣：price discount
+金融效率：financial efficiency
+客户忠诚：customer loyalty
+数字林业：digital forestry
+非正规金融：Informal finance
+乡村社会：rural society
+司法制度：judicial system
+城市扩展：urban expansion
+木材工业：wood industry
+土地整理：Land arrangement
+路径优化：path optimization
+PDCA循环：PDCA cycle
+食品包装：food packaging
+生产现状：production status
+奥运：olympic games
+监管体系：supervision system
+教育理念：educational idea
+龙头企业：leading enterprise
+随机游走：random walk
+温泉：Hot spring
+差异化战略：differentiation strategy
+过程能力指数：process capability index
+0-1规划：0-1 programming
+分析系统：analysis system
+电力电子技术：power electronics
+变革型领导：transformational leadership
+旅游产品：tourist product
+关键链：Critical Chain
+交通需求：traffic demand
+服务匹配：service matching
+家族企业：family enterprises
+区域旅游合作：regional tourism cooperation
+土地改革：Land Reform
+唐山市：Tangshan city
+法律救济：legal relief
+弹性理论：elastic theory
+参考点：Reference Point
+生态经济系统：Eco-economic system
+民事赔偿：civil compensation
+金沙江：Jinsha River
+隧道效应：tunneling effect
+遗传模拟退火算法：genetic simulated annealing algorithm
+Delphi法：Delphi method
+DEA方法：DEA method
+经济责任：economic responsibility
+二甘醇：diethylene glycol
+成本效益分析：Cost-benefit analysis
+驱动因子：driving factors
+城市土地利用：urban land use
+经济环境：economic environment
+流程优化：process optimization
+市场行为：market conduct
+感性工学：Kansei engineering
+生产潜力：potential productivity
+VB语言：VB language
+法律对策：legal countermeasures
+道德素质：moral quality
+实验室建设：lab construction
+未来发展：future development
+企业物流：Enterprise Logistics
+环境激励：ambient excitation
+区域品牌：regional brand
+卫生政策：Health policy
+质量保证体系：quality assurance system
+递归神经网络：recurrent neural network
+水塔：water tower
+医学期刊：Medical journal
+单位根：unit root
+生存概率：survival probability
+历史价值：Historical value
+变精度粗糙集：variable precision rough set
+剩余劳动力：surplus labor force
+土地流转：land transfer
+条件期望：conditional expectation
+实际有效汇率：Real effective exchange rate
+地下储气库：underground gas storage
+碱回收：alkali recovery
+有机肥料：organic fertilizer
+新趋势：new trend
+换热网络：heat exchanger network
+公共安全：public safety
+熵权法：Entropy method
+绿色包装：Green Packaging
+共享平台：sharing platform
+改革措施：reform measures
+量子理论：quantum theory
+群集智能：swarm intelligence
+环境因素：environment factor
+贸易壁垒：trade barriers
+探索性因素分析：exploratory factor analysis
+负荷预测：load prediction
+新理念：New concept
+战略措施：strategic measures
+先进生产力：advanced productivity
+设计质量：design quality
+解放思想：emancipate the mind
+现代林业：modern forestry
+泰尔指数：theil index
+配置设计：configuration design
+区位商：location quotient
+交通信息：traffic information
+集约利用：intensive utilization
+风险度量：risk measure
+城市品牌：City Brand
+物流需求：logistics demand
+公用事业：public utility
+大众媒介：Mass media
+语义标注：semantic annotation
+CGE模型：CGE Model
+财务治理：Financial governance
+知识员工：knowledge worker
+政治权力：political power
+语用策略：pragmatic strategy
+行政监督：administrative supervision
+全运会：National Games
+资源环境：resources and environment
+水泥工业：cement industry
+管理水平：management level
+多晶硅：polycrystalline silicon
+崇明岛：Chongming Island
+硅树脂：silicone resin
+海外投资：overseas investment
+趋势面分析：trend surface analysis
+成都平原：Chengdu plain
+健康发展：healthy development
+空间差异：spatial difference
+经营模式：management model
+生产管理系统：production management system
+嵌入式微处理器：embedded microprocessor
+教材建设：textbook construction
+公路网规划：highway network planning
+知识挖掘：knowledge mining
+模型验证：model verification
+三次样条插值：cubic Spline interpolation
+即插即用：plug and play
+时序：time sequence
+初始条件：initial condition
+区域一体化：regional integration
+网络传播：network communication
+延边地区：Yanbian area
+社会法：social law
+职业发展：career development
+XML签名：XML signature
+信息能力：Information ability
+空间认知：spatial cognition
+土地价格：land price
+产业创新：industrial innovation
+丹霞地貌：Danxia landform
+农业标准化：agricultural standardization
+会计师事务所：accounting firm
+企业培训：enterprise training
+理论价值：theoretical value
+权责发生制：accrual basis
+会计法：accounting law
+信息含量：Information content
+战略管理会计：strategic management accounting
+FDI：foreign direct investment
+行政效率：administrative efficiency
+供求：supply and demand
+非离子表面活性剂：non-ionic surfactant
+项目风险管理：project risk management
+煤焦：coal char
+生态景观：ecological landscape
+遗传神经网络：genetic neural network
+物流管理：logistic management
+策略研究：strategy research
+耗散结构：dissipation structure
+石家庄市：Shijiazhuang City
+核心能力：core capability
+跨国经营：transnational management
+评估模型：assessment model
+道路照明：road lighting
+国际战略：international strategy
+社会系统：social system
+同轴电缆：coaxial cable
+商品混凝土：commercial concrete
+模糊C-均值聚类：fuzzy C-means clustering
+税收负担：Tax Burden
+战略决策：strategic decision
+水文化：Water culture
+负荷管理：Load management
+法律地位：legal position
+楼宇自动化：building automation
+南阳市：Nanyang city
+层次模型：Hierarchical model
+专利制度：Patent system
+选择性注意：Selective attention
+网络时代：network age
+热计量：heat metering
+动态稳定：dynamic stability
+发展分析：development analysis
+集装箱船：container ship
+复杂产品：complex product
+车辆导航：vehicle navigation
+所有制结构：ownership structure
+资产证券化：assets securitization
+关联规则挖掘：association rule mining
+模糊评估：fuzzy evaluation
+分布式数据挖掘：distributed data mining
+土地征用：Land requisition
+中国移动：China Mobile
+中国政府：Chinese government
+京都议定书：Kyoto Protocol
+能源强度：energy intensity
+相对熵：Relative entropy
+光稳定剂：light stabilizer
+组合模型：combined model
+钱塘江：Qiantang River
+组合优化：combinational optimization
+组织形式：organization form
+地方性知识：local knowledge
+小水电：small hydropower
+城市管理：city management
+地震灾害：Seismic disaster
+网络会计：network accounting
+卫星影像：Satellite image
+生态哲学：ecological philosophy
+规模效应：scale effect
+后验概率：posterior probability
+业务素质：Professional quality
+COX模型：Cox model
+商业保险：Commercial insurance
+新公共服务：new public service
+金代：Jin Dynasty
+知识生产：knowledge production
+婚姻家庭：marriage and family
+酒店管理：hotel management
+逆向供应链：reverse supply chain
+商业建筑：Commercial building
+历史成本：historical cost
+网管系统：Network management system
+知识流：knowledge flow
+移动电子商务：mobile E-commerce
+数字媒体：digital media
+高技术企业：high-tech enterprise
+控股股东：controlling shareholder
+学习评价：learning evaluation
+测定方法：measuring method
+余热利用：waste heat utilization
+环境安全：environmental safety
+有机颜料：organic pigment
+汽车工业：auto industry
+墙体材料：wall material
+成本核算：cost calculation
+地理标志：geographical indications
+企业集群：enterprise clusters
+使用价值：use value
+土地利用/覆被变化：land use/cover change
+石油工程：petroleum engineering
+物元：matter element
+社会风险：social risk
+营养保健品：Dietary Supplements
+问题与对策：problems and solutions
+法律机制：legal mechanism
+高尔夫球场：Golf course
+费用控制：cost control
+企业形象：enterprise image
+资源开发：resource exploitation
+麻疯树：Jatropha curcas L
+土地经济：land economy
+城市供水：Urban water supply
+现代文明：modern civilization
+奇异点：singular point
+绿色会计：green accounting
+洗衣机：washing machine
+方案评价：scheme evaluation
+贸易保护主义：trade protectionism
+景观多样性：landscape diversity
+土地开发：land development
+粮食产量：Grain yield
+服务意识：Service consciousness
+监控体系：monitoring system
+文化因素：cultural factor
+专利法：patent law
+双层规划：bilevel programming
+路网：road network
+农村工业化：rural industrialization
+东北老工业基地：Northeast old industrial base
+战略转型：strategic transformation
+P2P技术：P2P technology
+客户满意：customer satisfaction
+产品市场竞争：product market competition
+金融体制：financial system
+文化意象：cultural image
+竞争政策：Competition policy
+经济哲学：economic philosophy
+农业政策：Agricultural policy
+演化经济学：evolutionary economics
+体育法：sports law
+激励相容：incentive compatibility
+综合控制：integrated control
+控制体系：control system
+煤炭开采：coal mining
+发展建议：development suggestion
+油气勘探：oil-gas exploration
+耦合系统：coupling system
+立法模式：legislative mode
+资源潜力：resource potential
+成矿系统：metallogenic system
+工业生态学：Industrial ecology
+Hurst指数：Hurst index
+移动通信：mobile telecommunication
+研究与应用：research and application
+中西文化：Chinese and Western cultures
+前馈控制：feed-forward control
+民族地区：minority regions
+专利申请：patent application
+夹点技术：pinch technology
+预警机制：early warning mechanism
+社会主义新农村：socialism new countryside
+技术学习：technological learning
+产业融合：industrial convergence
+电力工业：electric power industry
+产值：output value
+能源需求：energy demand
+关键词：key words
+城市滨水区：urban waterfront
+小生境遗传算法：niche genetic algorithm
+应用服务提供商：application service provider
+尿碘：Urine iodine
+政府管理：government administration
+学习曲线：learning curve
+地理要素：geographical elements
+服务品牌：service brand
+车辆调度：vehicle scheduling
+协同优化：collaborative optimization
+潜力分析：potential analysis
+社会制度：social system
+鞅方法：martingale method
+技术创新能力：technological innovation capability
+代理问题：agency problem
+软件企业：software enterprise
+社会冲突：social conflict
+家族文化：family culture
+软件外包：software outsourcing
+控制方式：control mode
+特殊钢：special steel
+技术方案：technical scheme
+压敏胶：pressure sensitive adhesive
+信息扩散：Information diffusion
+径向基神经网络：RBF neural network
+空间尺度：Spatial scale
+数据约简：data reduction
+工程技术：engineering technology
+元数据管理：metadata management
+服务理念：service concept
+融资效率：financing efficiency
+控制环境：control environment
+质量信息：quality information
+过度竞争：excessive competition
+缙云山：Jinyun Mountain
+时间价值：Time Value
+环境税：environmental tax
+生长习性：growth habit
+系统风险：systematic risk
+比较分析：Comparison analysis
+随机最优控制：stochastic optimal control
+企业集成：enterprise integration
+人口密度：population density
+战略地位：strategic position
+培训系统：training system
+成本函数：cost function
+文化冲突：culture conflict
+价格弹性：Price elasticity
+组织支持感：perceived organizational support
+学习心理：learning psychology
+距离函数：distance function
+K-均值聚类：k-means clustering
+实验经济学：experimental economics
+精益思想：lean thinking
+非合作博弈：non-cooperative game
+奥运经济：Olympic Economy
+寿险：life insurance
+网络银行：network bank
+私有制：private ownership
+投资者情绪：investor sentiment
+顾客感知价值：customer perceived value
+私有财产：private property
+马克思哲学：Marxist philosophy
+金融制度：financial system
+回收利用：recovery and utilization
+动态：dynamic state
+自有品牌：private brand
+敏感度分析：sensitivity analysis
+铝型材：Aluminum profile
+江苏油田：Jiangsu oilfield
+西秦岭：West Qinling
+煤炭行业：coal industry
+南水北调工程：South-to-north Water Transfer Project
+评估系统：Evaluation system
+哈尔滨市：Harbin City
+运行维护：operation and maintenance
+有效管理：effective management
+HSE管理：HSE management
+绿色产业：green industry
+虚拟技术：virtual technique
+集成创新：integrated innovation
+项目调度：project scheduling
+蓄冷：cool storage
+政策取向：policy orientation
+系统规划：system planning
+成功率：success rate
+虚拟加工：virtual machining
+贸易逆差：trade deficit
+网络效应：network effect
+第三产业：the third industry
+竞争环境：competitive environment
+合资企业：joint venture
+全局最优：global optimization
+心理特点：Psychological characteristics
+默会知识：tacit knowledge
+政府角色：government role
+思想工作：Ideological work
+提升方案：Lifting scheme
+信息用户：information user
+重尾分布：heavy-tailed distribution
+施工设备：construction equipment
+机会约束规划：chance-constrained programming
+电力供需：power supply and demand
+效用理论：utility theory
+企业模型：enterprise model
+政府投资项目：government investment project
+后验分布：posterior distribution
+集体土地：collective land
+ATM网络：ATM networks
+信用评估：credit evaluation
+新变化：new changes
+金融政策：financial policy
+绩效分析：performance analysis
+绿色开采：green mining
+灰色关联度：grey relational grade
+退耕还林：returning farmland to forest
+研究与实践：research and practice
+混合智能算法：hybrid intelligent algorithm
+公理设计：axiomatic design
+多项式回归：polynomial regression
+产权改革：property right reform
+自组织理论：self-organization theory
+战略人力资源管理：strategic human resource management
+镜像：mirror image
+建设与管理：construction and management
+直接液化：direct liquefaction
+模型优化：Model optimization
+防控：prevention and control
+制动力：braking force
+经济增长方式：economic growth mode
+强制保险：compulsory insurance
+生态控制：ecological control
+时间序列模型：time series model
+区域分布：regional distribution
+序贯疗法：Sequential therapy
+科技论文：sci-tech paper
+行为控制：Behavior control
+服务经济：service economy
+收敛性分析：convergence analysis
+指数平滑：exponential smoothing
+云理论：cloud theory
+投标策略：bidding strategy
+连锁超市：chain supermarket
+朝鲜半岛：Korean Peninsula
+现金流量表：cash flow statement
+R&D投资：R&D investment
+Wiener过程：wiener process
+一般均衡：general equilibrium
+社会信用：social credit
+地方财政：local finance
+信息理论：information theory
+福利国家：welfare state
+经济因素：economic factors
+人类健康：human health
+白色污染：white pollution
+焊接技术：welding technology
+环境控制：environment control
+HACCP体系：HACCP system
+生态评价：ecological evaluation
+定价机制：pricing mechanism
+比较法：comparative law
+继续教育：continual education
+烟草行业：tobacco industry
+方案选择：scheme selection
+防灾减灾：disaster prevention and reduction
+员工培训：employee training
+海上平台：offshore platform
+形象设计：Image design
+管理工程：management engineering
+海洋资源：marine resources
+时序分析：time series analysis
+欠发达地区：underdeveloped area
+AHP方法：AHP method
+科技成果：scientific and technological achievements
+完全信息：complete information
+资产专用性：asset specificity
+IT产业：IT industry
+人文素质教育：humanistic quality education
+开发与管理：development and management
+种群生态学：population ecology
+结构预测：structure prediction
+创新发展：innovation and development
+人格特质：personality trait
+自由边界：free boundary
+行政体制：administrative system
+中国近代：Modern China
+违约：Breach of contract
+动态定价：dynamic pricing
+出版业：publishing industry
+利率期限结构：term structure of interest rates
+中介组织：Intermediary organization
+教育产业：Education industry
+粘性解：viscosity solution
+外汇市场：foreign exchange market
+内部治理：internal governance
+内部资本市场：internal capital market
+就业形势：employment situation
+社会保障基金：social security fund
+农业推广：Agricultural extension
+感知价值：perceived value
+政府审计：government audit
+石油企业：petroleum enterprises
+主成分回归：principal component regression
+状态空间法：state space method
+对比分析：comparison and analysis
+人居环境：human settlement environment
+Bootstrap方法：Bootstrap method
+补偿标准：compensation standard
+拐点：inflection point
+企业组织：enterprise organization
+基本建设：capital construction
+品牌传播：brand communication
+基础设施建设：infrastructure construction
+TM图像：TM image
+空间规划：spatial planning
+动态调整：dynamic adjustment
+突发公共事件：public emergency
+网上购物：Online shopping
+宪法：the constitution
+空间相关：spatial correlation
+竞争情报系统：competitive intelligence system
+适度规模：moderate scale
+学术交流：Academic Exchange
+限额设计：quota design
+统计数据：statistical data
+Panel Data模型：Panel Data Model
+农村公路：rural road
+系统效能：system effectiveness
+规划方法：planning method
+可能度：possibility degree
+出口信用保险：export credit insurance
+作业车间调度：Job Shop scheduling
+业务过程：Business Process
+历史意义：Historical significance
+电信业：telecommunication industry
+管理咨询：management consulting
+金融资产：financial assets
+发展经济学：development economics
+先进技术：advanced technology
+经常项目：current account
+区域政策：regional policy
+体育保险：sports insurance
+贸易效应：Trade Effect
+SQL注入：SQL injection
+地方治理：local governance
+新民主主义：new democracy
+国际体系：international system
+商业文化：commercial culture
+资料同化：data assimilation
+工作效率：work efficiency
+机理模型：mechanism model
+苏州河：Suzhou Creek
+运作模式：operation model
+非监督分类：unsupervised Classification
+生存环境：living environment
+地下工程：underground project
+火电机组：thermal power unit
+陕西省：Shanxi Province
+生产模式：production mode
+杠杆效应：Leverage effect
+三次样条函数：Cubic Spline Function
+折现率：Discount rate
+投资需求：investment demand
+控制论：control theory
+保护利用：protection and utilization
+黄金矿山：gold mine
+人才资源：talent resource
+煤耗：coal consumption
+设计风格：design style
+信息资源整合：information resource integration
+六西格玛管理：six sigma management
+森林健康：Forest health
+学习机制：learning mechanism
+企业信息门户：enterprise information portal
+贝叶斯理论：Bayesian theory
+管理理念：management concept
+公民意识：citizen consciousness
+公平与效率：fairness and efficiency
+广域网：wide area network
+多项目管理：Multi-project management
+心理训练：Mental training
+太平天国：the Taiping Heavenly Kingdom
+似然比检验：likelihood ratio test
+饭店业：hotel industry
+极大值原理：Maximum Principle
+系统实现：system implementation
+数量折扣：quantity discount
+数据业务：data service
+内容分析法：content analysis
+偏序：partial order
+物流联盟：logistics alliance
+会计教学：accounting teaching
+新文化运动：New Culture Movement
+森林类型：Forest type
+旅游文化：tourist culture
+地方文献：local documents
+中产阶层：Middle Class
+两型社会：two-oriented society
+经济地理学：economic geography
+示范工程：demonstration project
+生态经济学：ecological economics
+判别分析：discrimination analysis
+道路网络：road network
+钛白粉：titanium dioxide
+因子分析法：factor analysis method
+无锡市：Wuxi City
+集合论：set theory
+三江平原：the Sanjiang Plain
+工程分析：engineering analysis
+精度控制：Precision control
+变权：variable weight
+水系：water system
+森林生态：forest ecology
+社会公平：Social equality
+政治风险：political risk
+金融衍生品：financial derivatives
+物流工程：logistics engineering
+河北平原：Hebei plain
+评估指标体系：evaluation index system
+素质培养：quality training
+品牌个性：brand personality
+经济制度：economic system
+关系营销：relation marketing
+发展环境：Development environment
+管理信息：management information
+制度文化：system culture
+保险制度：insurance system
+知识共享：Knowledge Share
+电子政府：electronic government
+学术思想：Academic thoughts
+压力管理：Stress management
+都市旅游：urban tourism
+二阶效应：second-order effect
+经济调度：economic dispatch
+Elman网络：Elman network
+水库移民：reservoir resettlement
+独立审计：Independent audit
+非言语交际：nonverbal communication
+选址模型：location model
+知识检索：knowledge retrieval
+市场营销策略：marketing strategy
+体育营销：sports marketing
+搜索策略：search strategy
+信用机制：credit mechanism
+信用危机：credit crisis
+特种设备：Special equipment
+事件研究：event study
+HJB方程：HJB equation
+花卉产业：flower industry
+林则徐：Lin Zexu
+小麦产量：wheat yield
+李觏：LI Gou
+价值相关性：value relevance
+速度模型：Velocity model
+应用领域：application field
+变频控制：frequency conversion control
+结构函数：structure function
+节水：water conservation
+残差：residual error
+生物资源：biological resources
+计量模型：econometric model
+探索与实践：exploration and practice
+开发与应用：development and application
+南通市：Nantong city
+发展状况：development status
+启发式方法：heuristic method
+傅立叶分析：Fourier analysis
+经济开发：Economic Development
+生态产业：Ecological industry
+人类社会：human society
+任务绩效：task performance
+实践探索：practical exploration
+Laplace变换：Laplace transformation
+名牌战略：famous brand strategy
+城市生态：urban ecology
+行政补偿：administrative compensation
+利益平衡：interest balance
+远程维护：remote maintenance
+系统建设：system construction
+资本运作：capital operation
+国际环境：International environment
+最优策略：optimal strategy
+汽油发动机：gasoline engine
+石油化学工业：petrochemical industry
+竞争机制：competitive mechanism
+情报服务：information service
+钱学森：Qian Xuesen
+消极影响：negative influence
+轻钢结构：light steel structure
+服务选择：service selection
+分位数回归：quantile regression
+鲁棒优化：Robust optimization
+成熟度模型：maturity model
+资产价格：asset price
+模糊模拟：Fuzzy simulation
+农村金融体系：rural financial system
+项目团队：project team
+人口城市化：Population Urbanization
+不完全契约：incomplete contract
+购买法：purchase method
+结构性失业：structural unemployment
+传媒产业：media industry
+信息沟通：information communication
+旅游企业：tourism enterprises
+农村信息化：Rural informatization
+马克思主义中国化：Marxism in China
+公共选择理论：public choice theory
+东道国：host country
+人力资本：Human resource
+产业经济：industrial economy
+矿区：mine area
+地质调查：geological survey
+冲突分析：conflict analysis
+电解铝：Electrolytic aluminum
+青年：young people
+群体决策：group decision-making
+钢铁行业：steel industry
+熵理论：entropy theory
+哲学基础：philosophical foundation
+安全疏散：safety evacuation
+防灾：disaster prevention
+海河流域：Haihe River basin
+文化管理：cultural management
+中山市：Zhongshan city
+能力建设：capacity building
+农业旅游：agricultural tourism
+氰化钠：sodium cyanide
+假阳性：false positive
+组合预测：combination forecast
+总承包：general contract
+稳定分布：stable distribution
+生态伦理学：ecological ethics
+基本结构：basic structure
+梯度法：gradient method
+宝鸡市：Baoji City
+办公楼：Office building
+城市现代化：Urban modernization
+离散事件仿真：discrete event simulation
+社会医疗保险：Social medical insurance
+在职培训：Inservice Training
+内隐联想测验：Implicit association Test
+科研工作：Scientific research
+核能：nuclear energy
+监理工程师：supervision engineer
+现值：present value
+期权博弈：option game
+正常价值：normal value
+供应链风险：supply chain risk
+智能楼宇：intelligent building
+农村改革：rural reform
+B-S模型：B-S model
+价格战：price war
+梯度分析：Gradient analysis
+历史渊源：historical origin
+充分就业：full employment
+经理股票期权：executive stock option
+业务创新：business innovation
+产品内分工：intra-product specialization
+国际保护：international protection
+融资策略：financing strategy
+知识产权战略：intellectual property strategy
+水稻生产：Rice production
+ISO9000：ISO 9000
+法律分析：legal analysis
+影响评价：impact assessment
+指数函数：exponential function
+实验模拟：experimental simulation
+环境建设：environment construction
+危险化学品：dangerous chemicals
+农业环境：agricultural environment
+统计工作：statistical work
+维修管理：maintenance management
+大庆市：Daqing City
+合格率：qualified rate
+寻租：rent seeking
+物料管理：material management
+地方保护主义：local protectionism
+参数模型：Parameter model
+盲数：blind number
+服务区：service area
+林业发展：forestry development
+基本概念：basic concept
+股权结构：stock right structure
+克隆选择：clone selection
+公理化设计：Axiomatic design
+安全库存：safety stock
+农业结构调整：agricultural structure adjustment
+用益物权：usufructuary right
+经济补偿：economic compensation
+合作伙伴选择：partner selection
+林业企业：forestry enterprise
+股份制：shareholding system
+系统构建：system construction
+市场经济体制：Market economy system
+观光农业：Sightseeing agriculture
+社区卫生：community health
+领导行为：leadership behavior
+人的本质：human essence
+OA系统：OA system
+船舶工程：ship engineering
+围护结构：enclosure structure
+合作经济：Cooperative Economy
+线性函数：linear function
+概率测度：probability measure
+区位选择：location selection
+信息成本：information cost
+房地产金融：real estate finance
+社会信用体系：social credit system
+新经济政策：New Economic Policy
+股权集中度：ownership concentration
+供应链联盟：supply chain alliance
+信息服务业：information service industry
+网络治理：network governance
+证券法：securities law
+商会：chamber of commerce
+茶园：tea plantation
+环境立法：environmental legislation
+收入结构：income structure
+专利信息：patent information
+贡献率：contribution ratio
+博斯腾湖：Bosten Lake
+资源税：Resource tax
+抑制作用：inhibition effect
+价值评价：value evaluation
+多项式插值：polynomial interpolation
+房地产：The real estate
+SPSS软件：SPSS software
+银行信贷：bank credit
+最优设计：optimal design
+海南：Hainan province
+民勤绿洲：Minqin Oasis
+模拟软件：Simulation software
+佛山市：Foshan city
+环境资源：environmental resources
+业务模型：business model
+技术集成：technology integration
+需求函数：demand function
+顾客让渡价值：customer delivered value
+可持续旅游：sustainable tourism
+数据保护：Data protection
+航运市场：Shipping market
+市场监管：market supervision
+封建社会：Feudal Society
+基本医疗保险：basic medical insurance
+社会互动：Social interaction
+经济后果：economic consequences
+高等教育质量：quality of higher education
+需求管理：Demand management
+影像分类：image classification
+乡土建筑：Vernacular architecture
+休闲旅游：leisure tourism
+积分-微分方程：integro-differential equation
+农村居民点：rural residential area
+市场均衡：market equilibrium
+灌溉管理：irrigation management
+网络财务：network finance
+局部稳定性：local stability
+事业单位：public institution
+智能检索：intelligent retrieval
+低碳经济：low carbon economy
+非线性系统辨识：nonlinear system identification
+金融发展：Finance development
+参数学习：Parameter learning
+国际金融：international finance
+国际组织：International organization
+国际货币体系：International monetary system
+油价：oil price
+红葡萄酒：red wine
+隶属度：membership grade
+试验设计：experiment design
+关中地区：Guanzhong region
+绿色度：Green Degree
+干旱地区：arid area
+Fourier变换：Fourier transformation
+液体燃料：liquid fuel
+网箱养殖：cage culture
+社会关系：social relation
+嘉陵江：Jialing River
+未确知测度：unascertained measure
+并购：merger & acquisition
+HSE管理体系：HSE management system
+人才培养模式：talent training mode
+经济比较：economic comparison
+责任制：responsibility system
+红茶：black tea
+数据包络分析(DEA)：data envelopment analysis(DEA)
+电力设备：electric power equipment
+闭环：closed loop
+多重分形谱：multifractal spectrum
+模糊方法：fuzzy method
+项目教学法：project teaching method
+基本要求：basic requirement
+公共利益：Public benefits
+包头市：Baotou City
+冗余设计：redundancy design
+发展机制：Development Mechanism
+一体化管理：integrated management
+虚拟网络：virtual network
+程序分析：program analysis
+支撑系统：supporting system
+市场占有率：market share
+实现机制：Realization mechanism
+消费率：consumption rate
+软科学：soft science
+贫困地区：poor area
+人性化管理：humanized management
+财务监督：financial supervision
+智能算法：intelligent algorithm
+中间件技术：middleware technology
+离职意向：Turnover intention
+Granger因果关系检验：Granger causality test
+证据制度：Evidence system
+信息源：Information source
+交通运输系统工程：engineering of communications and transportation system
+价值函数：value function
+分层抽样：stratified sampling
+企业生命周期：enterprise life cycle
+数据更新：data updating
+配网自动化：distribution automation
+地籍管理：cadastral management
+客户流失：customer churn
+购买力平价：purchasing power parity
+美式期权：American option
+土地定级：land grading
+住房政策：housing policy
+工业用地：industrial land
+经济理论：economic theory
+政府会计：government accounting
+经济职能：economic function
+信贷市场：credit market
+高素质：high quality
+性别控制：Sex control
+县级政府：county government
+开放式创新：open innovation
+寿险公司：life insurance company
+天津滨海新区：Tianjin Binhai New Area
+SWOT矩阵：SWOT matrix
+水资源管理：water resource management
+红薯：sweet potato
+酸化压裂：acid fracturing
+平板显示：flat panel display
+安全管理工程：safety management engineering
+方案优选：scheme optimization
+经济寿命：economic life
+饮食文化：diet culture
+有效控制：effective control
+装机容量：installed capacity
+流程设计：process design
+经济形势：economic situation
+效率优化：efficiency optimization
+安全风险：security risk
+工作方法：working method
+碳循环：carbon cycling
+丝绸之路：Silk Road
+人文关怀：humanistic solicitude
+电子标签：Electronic tag
+标准成本：standard cost
+澜沧江：Lancang River
+投资规模：investment scale
+网络化管理：network management
+需求弹性：demand elasticity
+政策效应：policy effect
+变量选择：variable selection
+宜居城市：livable city
+和谐企业：harmonious enterprise
+工程勘察：engineering investigation
+耦合度：coupling degree
+有效边界：efficient frontier
+系统动力学模型：system dynamics model
+边际分析：marginal analysis
+城中村：village in city
+基本内容：basic content
+乡村景观：Rural landscape
+嵌入维数：embedding dimension
+通径系数：path coefficient
+教法：teaching methods
+初级阶段：primary stage
+价值理论：value theory
+病案：Medical records
+声誉机制：reputation mechanism
+征地：land expropriation
+政治工作：political work
+跨文化意识：Intercultural awareness
+似然函数：likelihood function
+新机制：New mechanism
+电力通信：electric power communication
+灾后重建：post-disaster reconstruction
+广州地铁：Guangzhou Metro
+旅游英语：tourism English
+布局设计：layout design
+文化变迁：cultural changes
+R&D项目：R&D project
+国际工程：international engineering
+视觉形象：visual image
+计算机实验室：Computer Laboratory
+物流能力：logistics capability
+融资环境：financing environment
+成本会计：cost accounting
+顾客忠诚度：customer loyalty
+农村贫困：rural poverty
+远程学习：distance learning
+保险监管：insurance regulation
+信息市场：information market
+中国电信：China telecom
+晚明：the late Ming Dynasty
+资本管制：capital control
+农村基础设施：rural infrastructure
+创新型国家：innovative country
+第三条道路：the third way
+马克思主义经济学：Marxist economics
+实习教学：practice teaching
+生产方式：Production mode
+水生生物：aquatic organisms
+最大熵原理：maximum entropy principle
+东莞市：Dongguan city
+模型集成：model integration
+保护措施：protection measure
+风景名胜区：scenic area
+弹性分析：Elastic analysis
+海洋生态系统：marine ecosystem
+种植制度：Cropping system
+临汾市：Linfen city
+生态工业：ecological industry
+市场价格：market price
+行政执法：Administrative enforcement
+幂函数：power function
+林木：forest tree
+聊城市：Liaocheng city
+检验检疫：inspection and quarantine
+Excel软件：Excel software
+覆盖算法：covering algorithm
+可持续增长：Sustainable growth
+应用模型：Application model
+问题及对策：Problems and countermeasures
+国家责任：state responsibility
+寿命周期：life cycle
+资本经营：capital management
+千岛湖：qiandao lake
+洪泽湖：Hongze Lake
+数据场：Data Field
+资本资产定价模型：capital asset pricing model
+主动服务：Active service
+内因：internal cause
+投影算子：projection operator
+医疗救助：medical assistance
+转化效率：transformation efficiency
+利益相关者理论：Stakeholder Theory
+现代科技：Modern science and technology
+时间间隔：time interval
+人类文明：Human civilization
+松材线虫病：Pine wilt disease
+国家经济安全：National Economic Security
+提升方法：lifting scheme
+多项式算法：polynomial algorithm
+商业空间：commercial space
+VaR：value at risk
+本土文化：local culture
+跨国并购：cross-border mergers and acquisitions
+满意优化：satisfactory optimization
+动态配置：dynamic configuration
+EGARCH模型：EGARCH model
+晋商：shanxi merchants
+产品差异化：product differentiation
+国家战略：national strategy
+审计监督：audit supervision
+信息政策：information policy
+六朝：the Six Dynasties
+乡村治理：rural governance
+流通产业：circulation industry
+传统社会：Traditional society
+税收竞争：tax competition
+结构特征：structure characteristic
+旅游环境：tourism environment
+产品标准：product standard
+非线性预测：nonlinear prediction
+应急系统：emergency system
+BP神经网络模型：BP neural network model
+物质流分析：material flow analysis
+质量管理体系：quality control system
+应用软件：applied software
+农产品：farm product
+城市绿地：urban greenland
+现货市场：spot market
+饮水安全：drinking water safety
+规划体系：planning system
+实训教学：practical teaching
+进入模式：Entry Mode
+工作压力：working pressure
+信息查询：Information query
+金属成形：metal forming
+隐患：hidden danger
+对策与建议：countermeasures and suggestions
+改进方法：improved method
+模糊一致矩阵：fuzzy consistent matrix
+组织体系：organization system
+政策评估：Policy evaluation
+文冠果：Xanthoceras sorbifolia Bunge
+保护与开发：protection and development
+江汉油田：Jianghan Oilfield
+儒家思想：Confucian thought
+成功经验：successful experience
+实效：actual effect
+锂离子蓄电池：lithium-ion battery
+企业规模：enterprise scale
+应用与发展：application and development
+体育赞助：sports sponsorship
+电子信息：electronic information
+人才管理：talent management
+蓝海战略：Blue Ocean Strategy
+基本功能：basic function
+知识重用：knowledge reuse
+半干旱区：Semi-arid area
+运输组织：transportation organization
+激光打标：laser marking
+体育经济：sports economy
+商业价值：commercial value
+现代文化：modern culture
+丹顶鹤：Red-crowned crane
+线性相关：linear correlation
+洪水保险：flood insurance
+保护机制：protection mechanism
+平衡记分卡：balanced score card
+知识服务：Knowledge services
+中介效应：Mediating effect
+内在动机：intrinsic motivation
+离职意愿：turnover intention
+家庭因素：Family factors
+Poisson分布：Poisson distribution
+大学毕业生：University graduates
+社会史：social history
+系统整合：system integration
+Floyd算法：Floyd Algorithm
+施工成本：construction cost
+品牌竞争力：brand competitiveness
+优惠政策：preferential policy
+用户建模：user modeling
+生态公益林：ecological forest
+流动性过剩：liquidity surplus
+物流信息平台：logistics information platform
+工作流系统：workflow system
+文化发展：cultural development
+薪酬设计：salary design
+虚拟物流：virtual logistics
+有效市场：efficient market
+数字家庭：Digital Home
+都市文化：Urban Culture
+文化价值观：cultural values
+假日经济：holiday economy
+股票指数：stock index
+融资偏好：financing preference
+理论贡献：theoretical contribution
+住房金融：Housing finance
+边境贸易：border trade
+休闲教育：leisure education
+辛亥革命：the 1911 Revolution
+巨灾保险：Catastrophe insurance
+人口政策：population policy
+新经济地理学：new economic geography
+媒介生态：media ecology
+等价鞅测度：equivalent martingale measure
+石油安全：petroleum security
+专业市场：specialized market
+遥感监测：remote sensing
+地勘单位：geological exploration unit
+SOM神经网络：SOM neural network
+能量优化：energy optimization
+进度管理：progress management
+农业综合开发：agricultural comprehensive development
+纺织行业：textile industry
+价格波动：price fluctuation
+矿山企业：mine enterprise
+决策支持：decision support system
+证据推理：evidence reasoning
+移动电话：Mobile phone
+知识流动：knowledge flow
+诊断方法：diagnosis method
+中日：China and Japan
+农村地区：Rural areas
+就业能力：employment ability
+C-D生产函数：C-D production function
+外部成本：External cost
+国际标准：international standards
+设计阶段：design phase
+改革与创新：reform and innovation
+负面影响：negative impact
+少数民族地区：minority area
+交通环境：traffic environment
+装配线：assembly line
+组织模式：organization pattern
+气候因子：Climatic factor
+投资战略：investment strategy
+理论依据：theoretical foundation
+空间模型：spatial model
+批发市场：wholesale market
+工商管理：business administration
+水田：paddy field
+信息交流：Information Exchange
+政治功能：political function
+分布式结构：distributed architecture
+燃料电池汽车：fuel cell vehicle
+重要作用：Important role
+发展理论：development theory
+信息工程：information engineering
+财政体制：fiscal system
+视觉设计：Visual design
+隐性知识：implicit knowledge
+传统经济：traditional economy
+脑科学：brain science
+信息价值：information value
+模糊随机变量：fuzzy random variable
+证券组合投资：portfolio investment
+文化取向：Cultural orientation
+概念结构：Conceptual structure
+柳杉：Cryptomeria fortunei
+矩阵模型：Matrix model
+辽代：Liao Dynasty
+Probit模型：Probit model
+期望效用：expected utility
+Pareto分布：pareto distribution
+增值业务：value-added services
+住宅市场：housing market
+期限结构：term structure
+税负：tax burden
+物流规划：Logistics Planning
+审计质量：auditing quality
+成本效率：cost efficiency
+所有权结构：ownership structure
+向量误差修正模型：vector error correction model
+虚拟世界：Virtual world
+道德哲学：moral philosophy
+政治改革：Political Reform
+文化经济：cultural economy
+生涯发展：career development
+油砂：oil sand
+电石：calcium carbide
+环境评价：Environment assessment
+水利工程：hydraulic project
+治理措施：treatment measure
+丙二醇：propylene glycol
+数值算法：numerical algorithm
+非正式制度：informal system
+置信水平：confidence level
+能力验证：proficiency testing
+西峰油田：Xifeng Oilfield
+效率分析：efficiency analysis
+多媒体教学：multimedia-aided teaching
+科学方法论：scientific methodology
+场景图：scene graph
+化工行业：Chemical industry
+工程施工：project construction
+合成革：synthetic leather
+Shannon熵：Shannon entropy
+制度建设：system building
+设计系统：design system
+农村环境：rural environment
+有色Petri网：colored Petri net
+执政能力：Governing ability
+马尔柯夫链：Markov chain
+仓储管理：warehouse management
+古建筑：ancient building
+太行山：Taihang mountain
+混合优化：hybrid optimization
+战略目标：Strategic target
+人为因素：human factors
+水力劈裂：hydraulic fracturing
+创新素质：innovation quality
+自然恢复：Natural restoration
+标准值：standard value
+垄断竞争：monopolistic competition
+固定成本：fixed cost
+Daubechies小波：Daubechies wavelet
+能源外交：Energy diplomacy
+经验教训：experiences and lessons
+土壤性状：soil properties
+Hotelling模型：hotelling model
+数量分析：Quantitative analysis
+债权：creditor's rights
+保护与利用：protection and utilization
+总体布局：General Layout
+建设与发展：construction and development
+知识库系统：knowledge base system
+信息革命：information revolution
+负二项分布：Negative binomial distribution
+教学案例：teaching case
+印象管理：impression management
+历史考察：historical investigation
+全球战略：Global Strategy
+价值定位：value orientation
+人力资源会计：human resources accounting
+体系设计：system design
+住宅产业：housing industry
+帕累托改进：Pareto improvement
+体验设计：Experience Design
+价值网络：value network
+收益分配：income distribution
+上市银行：listed bank
+治理理论：governance theory
+继承与发展：inheritance and development
+负债融资：debt financing
+银行效率：bank efficiency
+通货膨胀率：inflation rate
+做市商：Market maker
+证券公司：security company
+支付系统：payment system
+新媒介：new media
+海洋产业：marine industry
+实证检验：empirical test
+集体林：collective forest
+批评性话语分析：Critical discourse analysis
+利率政策：interest rate policy
+高频数据：High frequency data
+信贷渠道：credit channel
+关系质量：relationship quality
+民族关系：national relationship
+要约收购：tender offer
+生态修复：ecological remediation
+层次分析：hierarchical analysis
+环境承载力：environmental carrying capacity
+天然气管道：gas pipeline
+时间约束：time constraint
+铜矿：copper ore
+工序：Working procedure
+磨床：Grinding Machine
+规则推理：rule-based reasoning
+神经元网络：neural networks
+市场研究：market research
+公路建设项目：highway construction project
+多元统计：multivariate statistics
+二甲基二烯丙基氯化铵：dimethyldiallylammonium chloride
+项目建设：project construction
+资产评估：asset evaluation
+企业并购：mergers and acquisitions
+工业过程：industrial process
+环境经济学：environmental economics
+过程方法：process method
+图解法：graphical method
+优缺点：advantages and disadvantages
+相关分析：related analysis
+分析评价：analysis and evaluation
+分级效率：classification efficiency
+热点：hot spot
+生产规模：production scale
+社会调查：social investigation
+环境责任保险：environmental liability insurance
+诊断模型：diagnosis model
+开放型经济：open economy
+河西地区：Hexi region
+政策创新：policy innovation
+道路设计：road design
+企业精神：enterprise spirit
+社会资源：Social resources
+重现期：Return period
+羊栖菜：Sargassum fusiforme
+政策研究：policy study
+溢出效应：Spillover effects
+工期：Construction period
+自由边界问题：free boundary problem
+产权结构：Property right structure
+内需：domestic demand
+技术引进：technology import
+对偶问题：dual problem
+经济数学：Economic mathematics
+贝叶斯估计：bayes estimation
+药学教育：Pharmaceutical education
+准公共产品：quasi-public goods
+华侨华人：overseas Chinese
+新城：new town
+金融功能：financial function
+违约概率：default probability
+利益协调：interest coordination
+定价方法：pricing method
+动态网络：dynamic network
+精明增长：smart growth
+分离均衡：separating equilibrium
+财产税：property tax
+ERP实施：ERP implementation
+物流模式：logistics mode
+IT治理：IT governance
+网络广告：network advertisement
+自动协商：automated negotiation
+NP完全问题：NP-complete problem
+高新区：high-tech zone
+数学机械化：mathematics mechanization
+理性预期：rational expectation
+资本配置：capital allocation
+行政组织：administrative organization
+利率风险管理：interest rate risk management
+价值规律：law of value
+系统性风险：systematic risk
+农业合作：Agricultural cooperation
+议程设置：agenda setting
+风险监管：risk supervision
+通货膨胀目标制：inflation targeting
+性别意识：gender consciousness
+复混肥料：compound fertilizer
+评价模型：appraisal model
+消费者剩余：consumer surplus
+低度白酒：low-alcohol liquor
+精品课程：top-quality course
+均衡价格：Equilibrium price
+市场信息：market information
+战略定位：strategic positioning
+抽样方法：Sampling method
+焊接设备：welding equipment
+环境条件：environment condition
+网络视频：network video
+地方院校：local college
+创新型城市：innovative city
+质控：Quality control
+改制：system reform
+实证：empirical study
+要素禀赋：factor endowment
+风险矩阵：risk matrix
+黄金市场：gold market
+Matlab程序：matlab program
+环境会计：environment accounting
+宁夏枸杞：Lycium barbarum L
+马尔科夫模型：Markov model
+最速下降法：steepest descent method
+人口控制：Population control
+行政性垄断：Administrative Monopoly
+国民收入：national income
+工程量：engineering quantity
+逻辑结构：Logic structure
+国情：national conditions
+伊斯兰文化：Islamic Culture
+庐山：Lushan Mountain
+不良事件：Adverse Event
+收入不平等：Income inequality
+风险转移：risk transfer
+随机效应：Random effect
+价格管制：price regulation
+着色Petri网：colored Petri net
+电力需求：power demand
+航班延误：flight delay
+频繁模式树：frequent pattern tree
+弹性需求：elastic demand
+华东电网：East China Power Grid
+web文本挖掘：web text mining
+客户忠诚度：customer loyalty
+国际航运中心：international shipping center
+语言技能：language skills
+IT项目：IT project
+案例检索：case retrieval
+东方百合：Oriental lily
+民营资本：private capital
+冷链：cold chain
+国有银行：state-owned bank
+现代传媒：modern media
+公共信息：public information
+金融环境：Financial environment
+土地产权：Land Property Rights
+IT企业：IT enterprise
+社会主义现代化：socialist modernization
+大偏差：large deviation
+社会救济：social relief
+土地所有权：land ownership
+民权：civil rights
+朱德：ZHU De
+文化融合：cultural integration
+标记理论：markedness theory
+金融合作：financial cooperation
+概念隐喻理论：conceptual metaphor theory
+人民币国际化：RMB internationalization
+上海港：Shanghai port
+危险品：dangerous goods
+接地：ground connection
+邯郸市：Handan city
+燃煤：coal combustion
+非线性回归：non-linear regression
+采煤工作面：coal face
+高含水：high water cut
+综合指数：comprehensive index
+塔里木油田：Tarim Oilfield
+居住空间：Living space
+精细化学品：fine chemicals
+负熵：negative entropy
+WTO：World Trade Organization
+环境负荷：environmental load
+海绵钛：titanium sponge
+地质工作：geological work
+炼焦煤：coking coal
+虚拟经营：virtual management
+间接法：indirect method
+水足迹：water footprint
+可持续开发：Sustainable development
+模式匹配：mode matching
+生产关系：production relations
+回归分析法：regression analysis
+毕业实习：graduation practice
+行业分析：industry analysis
+冷链物流：cold chain logistics
+盐业：salt industry
+小浪底工程：Xiaolangdi project
+负效应：negative effects
+二次流动：secondary flow
+交通规划：transport planning
+蒙特卡洛仿真：Monte Carlo simulation
+操作风险：operation risk
+粮食物流：grain logistics
+胶东半岛：Jiaodong peninsula
+生产要素：Production factor
+保护与发展：Protection and development
+可靠性管理：reliability management
+历史数据：historical data
+电子产品：electronic products
+模型预测：model prediction
+负面效应：negative effects
+动态竞争：Dynamic competition
+动力模型：dynamic model
+布局规划：layout planning
+制度完善：System perfection
+校企合作：cooperation between school and enterprise
+农业现代化：modernization of agriculture
+饭店管理：hotel management
+外因：external cause
+历史地理：historical geography
+高职学院：Higher vocational college
+专业知识：professional knowledge
+纽约：New York
+管理审计：Management audit
+粗糙熵：rough entropy
+软件模拟：software simulation
+库存成本：inventory cost
+电子拍卖：electronic auction
+心理距离：Psychological Distance
+模糊综合评估：fuzzy comprehensive evaluation
+经济功能：economic function
+城市蔓延：Urban sprawl
+重力模型：gravity model
+供应链网络：supply chain network
+文化价值：Culture value
+造价工程师：cost engineer
+企业门户：enterprise portal
+民族体育：national sports
+城市物流：city logistics
+网格体系结构：grid architecture
+全面收益：comprehensive income
+客流：passenger flow
+李亚普诺夫函数：Lyapunov function
+Taylor级数：Taylor series
+证券投资：security investment
+人工鱼礁：artificial reef
+非市场经济：non-market economy
+为人民服务：Serve the people
+浮动抵押：Floating Charge
+成本补偿：cost compensation
+蔬菜产业：Vegetable industry
+土地集约利用：intensive land use
+农村土地制度：rural land system
+旅游营销：tourism marketing
+土地质量：Land quality
+政治秩序：Political Order
+内隐社会认知：Implicit social cognition
+全生命周期：life cycle
+故障处理：fault treatment
+灰色关联：gray correlation
+吉林油田：Jilin oilfield
+铝工业：aluminum industry
+技术开发：technology development
+刀具管理：Tool Management
+加速遗传算法：accelerating genetic algorithm
+适用范围：application scope
+动态特征：dynamic characteristics
+区域差异：regional disparity
+亚氨基二乙酸：Iminodiacetic acid
+开发建设：development and construction
+数据挖掘技术：data mining technology
+环境绩效：environmental performance
+茶饮料：tea beverage
+岷江上游：upper reaches of Minjiang River
+电力行业：electric power industry
+快速城市化：rapid urbanization
+方案比选：scheme comparison
+机械压力机：Mechanical Press
+运营模式：operation model
+计算机模型：computer model
+常德市：Changde city
+价值工程(VE)：value engineering(VE)
+环境价值：environmental value
+专利技术：patent technology
+市场竞争力：market competitiveness
+质量评定：quality evaluation
+专业课：specialized course
+工程机械：engineering machine
+热量平衡：heat balance
+营销组合：marketing combination
+渔船：fishing vessel
+医疗费用：medical expense
+沙漠公路：desert highway
+Logistic曲线：Logistic curve
+相似系数：similarity coefficient
+功能结构：functional structure
+混沌动力学：chaotic dynamics
+感知质量：Perceived quality
+公共卫生管理：Public health administration
+经济外交：Economic diplomacy
+Kohonen网络：Kohonen network
+农业经济学：agricultural economics
+幂律分布：power-law distribution
+第二课堂：second classroom
+军队院校：military academy
+认知神经科学：cognitive neuroscience
+计量分析：econometric analysis
+教育哲学：philosophy of education
+个人账户：Individual account
+C4.5算法：C4.5 algorithm
+助学贷款：Student loans
+后发优势：advantage of backwardness
+交通拥堵：traffic jam
+实时电价：spot price
+微分对策：Differential Games
+推荐算法：recommendation algorithm
+信息资源规划：information resource planning
+国家干预：State intervention
+利用效率：utilization efficiency
+经济发展水平：Economic development level
+福利效应：welfare effect
+价格规制：price regulation
+精神世界：spiritual world
+经济型酒店：economy hotel
+政策性银行：policy bank
+IPO抑价：IPO underpricing
+关联交易：related transaction
+利润操纵：profit manipulation
+会计软件：Accounting software
+资本管理：capital management
+顾客资产：customer equity
+森林经理：forest management
+平台建设：platform construction
+土地调查：land survey
+风险溢价：risk premium
+网上拍卖：Online Auction
+对冲基金：hedge fund
+OD矩阵：OD matrix
+质量平衡：mass balance
+运输系统：transportation system
+自主创新能力：Independent innovation ability
+矿产勘查：mineral exploration
+战略研究：strategic study
+大位移井：extended reach well
+研究应用：research and application
+逻辑关系：logical relation
+化工设备：chemical equipment
+采煤：coal mining
+土地覆被：Land cover
+成品油管道：products pipeline
+产品策略：product strategy
+资源优势：resource advantage
+企业行为：enterprise behavior
+矢量分析：vector analysis
+农业灌溉：agricultural irrigation
+林产品：Forest products
+生态敏感性：ecological sensitivity
+生产组织：Production organization
+生态管理：ecological management
+联合分析：conjoint analysis
+物资供应：material supply
+市场调研：market research
+自控：automatic control
+生态学马克思主义：ecological Marxism
+客户管理：Customer management
+贸易与环境：trade and environment
+漓江：Lijiang river
+化学模式识别：Chemical pattern recognition
+乡镇：Villages and towns
+水土资源：water and soil resources
+产业价值链：industrial value chain
+分形特征：Fractal characteristics
+德州市：Dezhou City
+核算体系：accounting system
+反馈系统：feedback system
+视觉系统：Visual system
+计算机管理系统：computer management system
+密度效应：density effect
+联系度：connection degree
+人机系统：man-machine system
+冶金工业：metallurgical industry
+相关系数：coefficient of correlation
+沼气发酵：biogas fermentation
+荷兰：the Netherlands
+关键绩效指标：Key performance indicators
+北京奥运：Beijing Olympics
+价值流：value flow
+会计准则：accounting principle
+长城：the Great Wall
+无偏估计：unbiased estimation
+非线性建模：nonlinear modeling
+吉林市：Jilin City
+政府支持：government support
+制造过程：manufacturing process
+系统分析与设计：system analysis and design
+分类规则：classification rules
+泉州市：Quanzhou City
+优化理论：optimization theory
+创新与发展：innovation and development
+权向量：weight vector
+医疗责任保险：medical liability insurance
+伦理原则：Ethical principles
+区域农业：Regional agriculture
+社会比较：social comparison
+跨文化交流：intercultural communication
+传统教学法：traditional teaching method
+权变理论：Contingency theory
+财政支持：financial support
+共享机制：sharing mechanism
+哲学社会科学：Philosophy and social sciences
+盲区：Blind area
+电力通信网：power communication network
+深基础：deep foundation
+纺织产业：textile industry
+网络购物：online shopping
+输电阻塞：transmission congestion
+马尔可夫决策过程：Markov decision process
+安全域：security domain
+民营上市公司：private listed companies
+值约简：value reduction
+股份回购：share repurchase
+内生经济增长：endogenous economic growth
+新型农民：new farmers
+特征价格模型：hedonic price model
+税务会计：tax accounting
+服务职能：service function
+共青团：Communist Youth League
+社会主义本质：Socialist essence
+住房市场：housing market
+著作权保护：copyright protection
+高等教育研究：higher education research
+信贷管理：credit management
+农村社会养老保险：Rural social endowment insurance
+经济民主：economic democracy
+农村公共物品：Rural public goods
+种群生态：population ecology
+农村合作金融：rural cooperative finance
+新闻传播：news communication
+IT外包：IT outsourcing
+旅游研究：tourism research
+货币替代：Currency Substitution
+遗产税：inheritance tax
+出口结构：Export structure
+原型批评：archetypal criticism
+海上油田：offshore oilfield
+水泥生产：cement production
+飞行安全：flight safety
+开发前景：development prospect
+安全培训：safety training
+燃料酒精：fuel alcohol
+费用效益分析：cost-benefit analysis
+页岩气：shale gas
+石漠化：rock desertification
+国标：national standard
+复合生态系统：complex ecosystem
+Monte Carlo仿真：Monte Carlo simulation
+预防性维护：preventive maintenance
+林纸一体化：forestry-paper integration
+综合处理：comprehensive treatment
+Boosting算法：boosting algorithm
+绿色能源：Green energy
+灾害管理：disaster management
+平顶山市：Pingdingshan city
+热带雨林：tropical rainforest
+信用经济：credit economy
+仓库管理：warehouse management
+扎根理论：grounded theory
+海洋渔业：marine fishery
+发展过程：development process
+成本优化：cost optimization
+中国制造：Made in China
+支持系统：supporting system
+跨越式发展：leap-forward development
+数据信息：data information
+蒙药：Mongolian Medicine
+目标体系：target system
+缓冲区分析：buffer analysis
+运输成本：transportation cost
+技术壁垒：technical barrier
+开发方法：development method
+长三角地区：Yangtze River Delta
+质量检查：quality inspection
+公司价值：company value
+价值投资：value investment
+牧区：pastoral area
+现代生物技术：modern biotechnology
+逻辑模型：logical model
+建设规模：construction scale
+增值服务：value-added service
+设计知识：Design knowledge
+国内支持：domestic support
+模型不确定性：model uncertainty
+森林文化：Forest Culture
+维修策略：maintenance strategy
+分析预测：analysis and forecast
+马尔柯夫模型：Markov model
+购物中心：shopping mall
+心理测验：psychological test
+高校毕业生：University graduates
+知识型员工：Knowledge employee
+功能定位：functional orientation
+认知偏差：cognitive bias
+用户研究：user study
+风险态度：Risk attitude
+科学哲学：Scientific Philosophy
+健康保险：Health Insurance
+积极作用：positive role
+文化创新：culture innovation
+经济体制改革：economic system reform
+重载列车：heavy haul train
+配网：distribution network
+车间调度：job-shop scheduling
+大学科技园：university science park
+服务机器人：service robot
+传统聚落：Traditional settlement
+供电公司：power supply company
+精算现值：actuarial present value
+聚类方法：clustering method
+建模工具：modeling tool
+项目成本管理：project cost management
+信用信息：credit information
+社会主义社会：socialist society
+物质资本：material capital
+商业广告：commercial advertisement
+数据标准：data standard
+良性互动：positive interaction
+企业危机：enterprise crisis
+沟通管理：communication management
+存储模型：storage model
+财政监督：financial supervision
+客户知识：customer knowledge
+陆九渊：Lu Jiuyuan
+张之洞：Zhang Zhi-dong
+中国银行：Bank of China
+资本形成：capital formation
+新闻价值：news value
+资本账户：capital account
+社会文明：social civilization
+双边贸易：bilateral trade
+能源危机：energy crisis
+行政自由裁量权：administrative discretion
+Bass模型：Bass model
+绿色教育：green education
+财务管理：financial control
+保健酒：health wine
+监管：supervision and management
+社会工程：social engineering
+形成过程：formation process
+二元体系：binary system
+实例分析：example analysis
+精细化工：fine chemicals
+工程车辆：engineering vehicle
+储气库：gas storage
+安阳市：Anyang City
+柳州市：Liuzhou City
+广义回归神经网络：generalized regression neural network
+再生资源：renewable resources
+低品位：low grade
+定量模型：Quantitative model
+安全度：safety degree
+含油率：oil content
+贴现率：Discount rate
+产品缺陷：Product Defect
+化纤：chemical fiber
+毕节地区：Bijie prefecture
+小波分解：wavelet transform
+内循环：internal circulation
+过程能力：Process capability
+工艺管理：process management
+温州市：Wenzhou City
+道路运输：Road transport
+土地利用格局：land use pattern
+战略选择：strategic selection
+分类管理：classified management
+总体布置：general layout
+喷油器：fuel injector
+红光：red light
+生态模型：ecological model
+《管子》：Guan Zi
+VEC模型：VEC model
+竞争与合作：Competition and cooperation
+库区：reservoir area
+社会效应：social effect
+欧洲联盟：European Union
+存储过程：storage process
+MIS：Management Information System
+天水市：Tianshui City
+行业发展：industry development
+抽样调查：sampling investigation
+燃油消耗：fuel consumption
+产业生态学：industrial ecology
+最小方差：minimum variance
+科学决策：scientific decision
+模糊遗传算法：fuzzy genetic algorithm
+社会生态：social ecology
+目标选择：Target selection
+组织公平：Organizational justice
+积极影响：Positive influence
+服务文化：service culture
+基金管理：fund management
+分销系统：distribution system
+选址问题：location problem
+企业应用：enterprise application
+技术联盟：technology alliance
+金融时间序列：financial time series
+物流信息：logistics information
+相似关系：similarity relation
+预算会计：budget accounting
+党组织：party organization
+港口经济：port economy
+风险厌恶：risk aversion
+边界控制：boundary control
+最优投资组合：optimal portfolio
+海洋文化：marine culture
+风险函数：risk function
+知识资源：knowledge resource
+密度估计：density estimation
+创新政策：innovation policy
+商用车：commercial vehicle
+农村物流：rural logistics
+渠道权力：Channel power
+经济特区：special economic zone
+创新文化：innovative culture
+信息服务系统：Information service system
+知识分享：knowledge sharing
+投资率：investment rate
+实践价值：practical value
+信用增级：credit enhancement
+支持体系：Support system
+零售企业：retail enterprises
+保险资金：insurance fund
+金融衍生工具：financial derivatives
+晏阳初：Yan Yangchu
+信息消费：information consumption
+经济发展战略：economic development strategy
+培训管理：training management
+控制对策：Control countermeasure
+中密度纤维板：medium density fiberboard
+责任成本：responsibility cost
+农业开发：agricultural development
+多属性决策：multi-attribute decision
+灰色系统：grey systems
+技术经济分析：techno-economic analysis
+煤质管理：coal quality management
+企业品牌：enterprise brand
+形成条件：Formation conditions
+茶产业：tea industry
+执行力：executive power
+优化配置：optimal placement
+甲基异丁基酮：Methyl Isobutyl Ketone
+油品：oil product
+相对有效性：Relative efficiency
+监测体系：monitoring system
+工作满意感：job satisfaction
+政策过程：Policy Process
+混合策略：mixed strategy
+技术革新：technical innovation
+逐步判别分析：stepwise discriminant analysis
+递推公式：Recurrence formula
+就业质量：employment quality
+SCS模型：SCS model
+监督控制：Supervisory Control
+电能计量：electric energy metering
+模拟技术：simulation technology
+监管体制：supervision system
+全球定位系统(GPS)：global positioning system (GPS)
+用户接口：user interface
+国际化经营：international operation
+咨询服务：consulting service
+模糊预测：fuzzy prediction
+农村现代化：rural modernization
+竞争力评价：competitiveness evaluation
+决策矩阵：decision matrix
+社会危机：social crisis
+风险规避：risk avoidance
+城市人口：urban population
+MAS：multi-agent system
+茶业：Tea industry
+理论与方法：theory and method
+市场营销战略：marketing strategy
+冷库：Cold store
+城市雕塑：City Sculpture
+设计文化：Design Culture
+元数据标准：metadata standard
+竹文化：Bamboo Culture
+弱信号：weak signal
+影响图：influence diagram
+干预措施：intervention measure
+决策论：decision theory
+职业道德：Occupational ethics
+竞争分析：competitive analysis
+工作家庭冲突：Work-family conflict
+法人治理：corporate governance
+二级市场：secondary market
+柳宗元：LIU Zong-yuan
+开放式教学：open teaching
+福利经济学：welfare economics
+身势语：body language
+所得税会计：income tax accounting
+基本矛盾：basic contradiction
+双层规划模型：bi-level programming model
+空间组织：space organization
+核心员工：core staff
+数字社区：Digital Community
+质量观：quality view
+履带起重机：crawler crane
+因果图：causality diagram
+抗战：Anti-Japanese war
+输电定价：transmission pricing
+业务逻辑：business logic
+微分包含：differential inclusion
+PageRank算法：pageRank algorithm
+财务预算：financial budget
+传统企业：traditional enterprise
+港口建设：port construction
+古诺竞争：Cournot competition
+开放的复杂巨系统：open complex giant system
+文化市场：cultural market
+自由现金流：free cash flow
+包含度：Inclusion degree
+民族性格：national character
+债务风险：debt risk
+随机波动率：stochastic volatility
+银行卡：bank card
+贸易战略：trade strategy
+资本充足率：capital adequacy
+树型结构：tree structure
+科学发现：scientific discovery
+转移价格：Transfer price
+持续竞争优势：sustainable competitive advantage
+经济现代化：economic modernization
+绩效反馈：performance feedback
+左宗棠：Zuo Zongtang
+社保基金：Social Security fund
+市场管理：market management
+政府创新：government innovation
+文化民族主义：cultural nationalism
+创业型大学：Entrepreneurial University
+动态法：dynamic method
+文化分析：cultural analysis
+中国联通：China Unicom
+财产性收入：property income
+均衡分析：equilibrium analysis
+保险投资：insurance investment
+法律原则：legal principle
+新思路：new thinking
+工程材料：Engineering materials
+碳汇：carbon sequestration
+原油管道：crude oil pipeline
+野生动物：wild animals
+创新网络：innovation networks
+技术进步：technology improvement
+纺织机械：textile machinery
+网络计划技术：network planning technique
+资源诅咒：resource curse
+空冷：air cooling
+额济纳绿洲：Ejina Oasis
+安全科学：safety science
+硫酸厂：sulphuric acid plant
+偏相关分析：partial correlation analysis
+信阳市：Xinyang city
+衡阳市：Hengyang city
+生态问题：ecological problems
+SAS软件：SAS software
+逻辑分析：logic analysis
+人力资源价值：human resource value
+物联网：internet of things
+基层：basic level
+运行费用：operation cost
+技能培训：Skill Training
+差异分析：difference analysis
+自主品牌：independent brand
+抽样检验：sampling inspection
+评估标准：Evaluation criteria
+新标准：new standard
+管道工程：pipeline engineering
+生态社会主义：ecological socialism
+筛选模型：Screening model
+资源分布：resource distribution
+油茶：Camellia oleifera Abel
+小企业：Small enterprises
+模拟方法：simulation method
+集成模型：integrated model
+土地生产力：land productivity
+国际协调：international harmonization
+绵阳市：mianyang city
+农业教育：agricultural education
+水权制度：water right system
+成本分摊：cost allocation
+系统耦合：system coupling
+自学能力：self-study ability
+信用政策：credit policy
+可持续：sustainable development
+土建工程：civil engineering
+绿色贸易：Green Trade
+晋城市：Jincheng City
+供应链系统：supply chain system
+扶贫：poverty alleviation
+中国社会：Chinese Society
+重点实验室：Key laboratory
+风险认知：Risk Perception
+规模经营：scale operation
+价值标准：value standard
+数据质量控制：data quality control
+集成化管理：integrated management
+经济增长率：economic growth rate
+农业水资源：Agricultural water resources
+社会效果：Social effect
+全局最优解：global optimal solution
+畲族：She nationality
+科学数据：scientific data
+相关维数：Correlation dimension
+创意经济：creative economy
+组织认同：organizational identification
+无线技术：Wireless technology
+调节效应：Moderating effect
+分类树：Classification tree
+公平理论：equity theory
+风险分担：risk sharing
+财务软件：financial software
+信息产品：information products
+养护管理：maintenance and management
+谱密度：spectral density
+计量属性：measurement attribute
+Jensen不等式：Jensen inequality
+信用担保体系：credit guarantee system
+外向型经济：export-oriented economy
+大数定律：law of large numbers
+体育设施：sports facilities
+技术理性：technical rationality
+公共项目：public project
+施工项目管理：construction project management
+条件极值：conditional extremum
+伦理价值：ethical value
+供需链：supply chain
+技术保障：technical support
+客户知识管理：customer knowledge management
+社会养老保险：social endowment insurance
+协同产品开发：collaborative product development
+国际旅游：international tourism
+总部经济：headquarters economy
+旅游合作：tourism cooperation
+Lundberg不等式：Lundberg inequality
+就业问题：Employment problem
+社会技术：social technology
+分销网络：distribution network
+中国股市：Chinese stock market
+地区经济：regional economy
+商业信用：commercial credit
+人的全面发展：all-round development of human being
+个体价值：individual value
+国家审计：national audit
+管理效率：management efficiency
+法律程序：legal procedure
+战略柔性：strategic flexibility
+会计盈余：accounting earnings
+用户行为：user behavior
+资本存量：Capital stock
+战略思维：strategic thinking
+注册会计师：certified public accountants
+集聚效应：agglomeration effect
+国际避税：international tax avoidance
+导游：tour guide
+军事思想：military thought
+渔场：fishing ground
+休闲经济：leisure economy
+创业导向：entrepreneurial orientation
+信息生态：information ecology
+青年文化：youth culture
+创业绩效：entrepreneurial performance
+质化研究：qualitative research
+遗产旅游：Heritage Tourism
+处置效应：Disposition Effect
+集体土地所有权：collective land ownership
+平等保护：equal protection
+政局：political situation
+识别方法：identification method
+经济可行性：Economic Feasibility
+集装箱港口：Container Port
+GIS：geographic information system(GIS)
+石油市场：oil market
+应急指挥：emergency command
+关键点：key point
+苦荞麦：tartary buckwheat
+洛阳市：Luoyang City
+流量控制：flux control
+氯化石蜡：chlorinated paraffin
+技术方法：technical method
+玻纤：glass fiber
+海洋生物：marine biology
+社会营销：Social marketing
+开发区：development area
+农村公共服务：rural public service
+规范管理：Standard management
+工作分解结构：work breakdown structure
+土地适宜性：land suitability
+动态系统：dynamic systems
+消费税：consumption tax
+利益分配：profit allocation
+马克思恩格斯：Marx and Engels
+责任会计：responsibility accounting
+管理信息系统(MIS)：management information system(MIS)
+自然资本：natural capital
+全球变化：global changes
+造价分析：cost analysis
+实践技能：practical skill
+法治化：rule of law
+自组织神经网络：self-organizing neural network
+优势分析：advantage analysis
+AHP：analytic hierarchy process
+公共服务体系：public service system
+民用飞机：civil aircraft
+随机前沿分析：stochastic frontier analysis
+客运：passenger transport
+质量损失函数：quality loss function
+企业资源规划：Enterprise resource planning
+地方特色：local characteristics
+高质量：high quality
+城市功能：city function
+代数方法：algebraic method
+科技管理：science and technology management
+社会机制：social mechanism
+战略创新：strategic innovation
+子波分析：wavelet analysis
+路径选择：route selection
+约束机制：constraint mechanism
+可能性理论：possibility theory
+分段函数：piecewise function
+心理授权：psychological empowerment
+信息行为：information behavior
+工作价值观：Work values
+个性化教学：individualized teaching
+美国大学：American universities
+财务报表：financial statements
+市场调节：Market regulation
+价值分配：value distribution
+输电网：transmission network
+报童模型：newsboy model
+状态转换：state transition
+改革开放：reform and open policy
+城市化进程：Urbanization process
+模糊需求：fuzzy demand
+区域电力市场：regional electricity market
+发电企业：power plant
+燃料管理：fuel management
+运输经济：transport economics
+控制结构：Control Structure
+部门预算：department budget
+复杂性理论：complexity theory
+IS-LM模型：IS-LM model
+供应商关系管理：supplier relationship management
+网络建模：network modeling
+Fuzzy集：fuzzy sets
+冲突解决：Conflict resolution
+情感化设计：Emotional Design
+SECI模型：SECI model
+原语：source language
+体育产业化：Sports industrialization
+下一代互联网：next generation internet
+中小股东：minority shareholders
+物流市场：logistics market
+市场操纵：market manipulation
+信息优势：information superiority
+政府支出：government expenditure
+城市商业银行：city commercial banks
+地震保险：earthquake insurance
+出境旅游：outbound tourism
+边际效用：marginal utility
+吴起县：Wuqi County
+道家文化：Taoist culture
+战略性调整：strategic adjustment
+旅游需求：Tourism demand
+职业生涯发展：Career development
+贸易收支：Trade Balance
+金融衍生产品：financial derivatives
+选举制度：electoral system
+政策网络：policy network
+当代资本主义：contemporary capitalism
+中国经济学：Chinese economics
+任务难度：task difficulty
+市场社会主义：Market Socialism
+地方社会：Local society
+废水处理：treatment of waste water
+开发潜力：development potential
+质量损失：mass loss
+采矿权：Mining right
+超高压：ultrahigh pressure
+氯碱工业：Chlor-alkali Industry
+高阶统计量：high-order statistics
+保健食品：health foods
+价格策略：price strategy
+冶金质量：metallurgical quality
+技术经济：technology and economy
+教学计划：teaching program
+企业资源计划(ERP)：enterprise resource planning(ERP)
+定量方法：Quantitative method
+Gompertz模型：Gompertz model
+市场预测：Market forecasting
+战略价值：strategic value
+多元线性回归分析：multiple linear regression analysis
+评价模式：evaluation model
+拉格朗日松弛：Lagrangian relaxation
+智能决策：intelligent decision-making
+土地利用/覆盖：land use/cover
+组织模型：organization model
+保留时间：retention time
+艾比湖：Ebinur Lake
+中心城市：central cities
+时间变化：temporal variation
+风景区：scenic spot
+工伤保险：industrial injury insurance
+生态移民：ecological migration
+数值求解：numerical solution
+综合竞争力：comprehensive competitiveness
+宁波港：NingBo port
+排队网络：queuing network
+杨凌示范区：Yangling demonstration zone
+卫生经济学：Health economics
+系统方法：system method
+绿色革命：green revolution
+依法治国：ruling the country by law
+消费者保护：consumer protection
+工作环境：working environment
+工序能力指数：process capability index
+型式试验：type test
+世界市场：world market
+科学态度：scientific attitude
+动态结构：Dynamic structure
+学科发展：discipline development
+电力建设：electric power construction
+预防维修：preventive maintenance
+政府部门：government department
+太白山：Taibai mountain
+生活环境：living environment
+世界银行：World bank
+生铁：Pig iron
+留学生：Overseas students
+城乡一体化：integration of urban and rural areas

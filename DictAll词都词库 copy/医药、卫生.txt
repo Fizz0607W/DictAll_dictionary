@@ -1,0 +1,5000 @@
+数据挖掘：data mining
+大学生：college students
+基因表达：gene expression
+质量控制：Quality Control
+X线计算机：X-ray computed
+专家系统：expert system
+磁共振成像：magnetic resonance imaging
+有限元分析：finite element analysis
+一氧化氮：nitric oxide
+指标体系：index system
+素质教育：quality education
+信息系统：information system
+遗传多样性：genetic diversity
+组织培养：Tissue culture
+乳腺癌：Breast cancer
+动物模型：animal model
+聚类分析：cluster analysis
+项目管理：project management
+虚拟现实：virtual reality
+健康教育：Health education
+模式识别：pattern recognition
+心理健康：mental health
+冠心病：coronary heart disease
+细胞培养：cell culture
+细胞周期：cell cycle
+重金属：Heavy metal
+胰岛素抵抗：insulin resistance
+序列分析：sequence analysis
+教学方法：teaching method
+基因治疗：gene therapy
+肺癌：lung cancer
+脑梗死：cerebral infarction
+心力衰竭：heart failure
+发展战略：Development Strategy
+因子分析：factor analysis
+信息服务：information service
+思想政治教育：ideological and political education
+原核表达：prokaryotic expression
+实验研究：experimental study
+主成分分析：principal component analysis
+信号处理：signal processing
+组织工程：Tissue engineering
+肝移植：Liver transplantation
+糖尿病肾病：diabetic nephropathy
+危险因素：risk factor
+发展趋势：development trend
+单克隆抗体：monoclonal antibody
+氨基酸：amino acid
+优化设计：optimum design
+乳腺肿瘤：breast neoplasms
+幽门螺杆菌：Helicobacter pylori
+肺肿瘤：Lung neoplasms
+质量管理：quality management
+人力资源：human resource
+RNA干扰：RNA interference
+正交试验：orthogonal test
+定量分析：Quantitative analysis
+统计分析：statistical analysis
+研究进展：research progress
+耐药性：drug resistance
+急性心肌梗死：acute myocardial infarction
+肝肿瘤：Liver neoplasms
+关联规则：association rules
+时间序列：time series
+课堂教学：classroom teaching
+影响因素：influence factors
+数值仿真：numerical simulation
+再灌注损伤：Reperfusion injury
+正交设计：orthogonal design
+原位杂交：in situ hybridization
+氧化应激：oxidative stress
+脊髓损伤：Spinal cord injury
+乙型肝炎病毒：Hepatitis B virus
+图像融合：image fusion
+自由基：free radical
+治疗结果：Treatment Outcome
+心房颤动：Atrial fibrillation
+信号转导：signal transduction
+药物疗法：Drug therapy
+一氧化氮合酶：nitric oxide synthase
+肿瘤坏死因子：Tumor necrosis factor
+溶胶-凝胶法：sol-gel method
+微量元素：trace elements
+高温：high temperature
+质量标准：quality standard
+大肠杆菌：escherichia coli
+安全管理：safety management
+有限元方法：finite element method
+社会支持：social support
+分子标记：molecular marker
+毛细管电泳：Capillary electrophoresis
+绩效管理：performance management
+SWOT分析：SWOT analysis
+软件工程：Software engineering
+心肌缺血：myocardial ischemia
+气相色谱法：Gas chromatography
+磁场：magnetic field
+血压：blood pressure
+2型糖尿病：type 2 diabetes
+临床应用：Clinical application
+思想政治工作：ideological and political work
+血糖：blood glucose
+绩效评价：performance evaluation
+免疫功能：immune function
+激光技术：laser technique
+肝细胞癌：Hepatocellular carcinoma
+肝纤维化：liver fibrosis
+均匀设计：uniform design
+pH值：pH value
+饮用水：drinking water
+代谢综合征：Metabolic syndrome
+水热合成：hydrothermal synthesis
+模糊聚类：fuzzy clustering
+机器学习：machine learning
+内蒙古：Inner Mongolia
+疗效：curative effect
+评价指标：evaluation index
+因素分析：factor analysis
+帕金森病：Parkinson's disease
+体外循环：Cardiopulmonary bypass
+骨密度：bone mineral density
+临床分析：clinical analysis
+脊髓：spinal cord
+脂质过氧化：lipid peroxidation
+成人教育：adult education
+河北省：Hebei Province
+山东省：Shandong Province
+表面处理：surface treatment
+树突状细胞：Dendritic cells
+计算机控制：Computer Control
+急性肺损伤：acute lung injury
+DNA损伤：DNA damage
+图像增强：image enhancement
+曲线拟合：curve fitting
+临床观察：Clinical observation
+机械通气：mechanical ventilation
+心肌梗塞：Myocardial infarction
+融合蛋白：fusion protein
+对比研究：comparative study
+微血管密度：microvessel density
+细胞分化：cell differentiation
+膝关节：knee joint
+金黄色葡萄球菌：staphylococcus aureus
+乙型肝炎：Hepatitis B
+流化床：fluidized bed
+介入治疗：interventional therapy
+经济分析：economic analysis
+溃疡性结肠炎：Ulcerative colitis
+PCI总线：PCI bus
+系统动力学：system dynamics
+数字信号处理：Digital signal processing
+图像配准：image registration
+肿瘤坏死因子-α：tumor necrosis factor-α
+慢性阻塞性肺疾病：Chronic obstructive pulmonary disease
+膀胱肿瘤：Bladder Neoplasms
+铜绿假单胞菌：pseudomonas aeruginosa
+急性毒性：acute toxicity
+微波辐射：microwave irradiation
+预测模型：prediction model
+光纤：optical fiber
+日本血吸虫：Schistosoma japonicum
+法治：rule of law
+急性胰腺炎：Acute pancreatitis
+基因转染：gene transfection
+三维重建：3D reconstruction
+分子动力学：molecular dynamics
+乳酸菌：Lactic acid bacteria
+维生素C：vitamin C
+空间分析：spatial analysis
+喉肿瘤：Laryngeal Neoplasms
+鉴别诊断：Differential diagnosis
+多药耐药：multidrug resistance
+压力容器：pressure vessel
+维生素E：vitamin E
+腰椎：Lumbar vertebrae
+X射线衍射：X-ray diffraction
+水污染：water pollution
+毕赤酵母：Pichia pastoris
+神经干细胞：neural stem cells
+增殖细胞核抗原：proliferating cell nuclear antigen
+微波消解：Microwave digestion
+内皮细胞：Endothelial cells
+学习记忆：Learning and memory
+属性约简：attribute reduction
+DNA疫苗：DNA Vaccine
+图像分析：image analysis
+结构分析：structure analysis
+cDNA文库：cDNA library
+教学效果：teaching effect
+红斑狼疮：lupus erythematosus
+神经生长因子：nerve growth factor
+空气污染：air pollution
+质量评价：quality evaluation
+胰腺肿瘤：Pancreatic Neoplasms
+心率：Heart rate
+血管性痴呆：Vascular dementia
+非线性分析：nonlinear analysis
+手术后并发症：postoperative complications
+冠状动脉疾病：coronary artery disease
+雌激素受体：estrogen receptor
+道德风险：moral hazard
+三氧化二砷：Arsenic trioxide
+电场：Electric field
+糖尿病视网膜病变：Diabetic retinopathy
+心功能：Cardiac function
+硫化氢：hydrogen sulfide
+碱性成纤维细胞生长因子：Basic fibroblast growth factor
+脑梗塞：Cerebral infarction
+蛋白激酶C：protein kinase C
+2型：type 2
+遗传多态性：Genetic polymorphism
+遗传变异：genetic variation
+动态分析：dynamic analysis
+鼻咽肿瘤：nasopharyngeal neoplasms
+金矿：gold deposit
+分子生物学：molecular biology
+基质金属蛋白酶：matrix metalloproteinase
+肠内营养：enteral nutrition
+肝癌：liver cancer
+甘肃省：Gansu province
+社会责任：social responsibility
+公共财政：public finance
+血管紧张素Ⅱ：angiotensin Ⅱ
+病例对照研究：Case-control study
+多发性骨髓瘤：multiple myeloma
+急性冠脉综合征：Acute coronary syndrome
+肾移植：renal transplantation
+先天性心脏病：congenital heart disease
+管理模式：Management Model
+急性脑梗死：Acute cerebral infarction
+宫颈癌：cervical carcinoma
+明代：Ming Dynasty
+医院管理：hospital management
+急性白血病：acute leukemia
+重症急性胰腺炎：Severe acute pancreatitis
+护理干预：Nursing intervention
+基因芯片：Gene Chip
+膜分离：Membrane separation
+细胞外基质：extracellular matrix
+大肠癌：Colorectal cancer
+相图：phase diagram
+管理创新：management innovation
+心率变异性：Heart rate variability
+快速繁殖：Rapid propagation
+创伤和损伤：Wounds and injuries
+DNA甲基化：DNA methylation
+肺纤维化：Pulmonary fibrosis
+发展策略：development strategy
+基因克隆：gene clone
+P物质：substance P
+碳酸钙：calcium carbonate
+阿魏酸：ferulic acid
+医院感染：hospital infection
+多克隆抗体：polyclonal antibody
+抗坏血酸：Ascorbic acid
+干细胞：stem cell
+物理化学：physical chemistry
+肺损伤：lung injury
+数据管理：data management
+消化性溃疡：peptic ulcer
+鳞状细胞：Squamous Cell
+傅里叶变换：Fourier transform
+生长激素：growth hormone
+应对方式：coping style
+聚乙烯醇：polyvinyl alcohol
+碱性磷酸酶：alkaline phosphatase
+呼吸衰竭：respiratory failure
+肺结核：Pulmonary tuberculosis
+放射性核素显像：Radionuclide Imaging
+充血性心力衰竭：congestive heart failure
+冠状动脉：Coronary artery
+提取工艺：extraction technology
+肿瘤细胞：tumor cells
+新技术：new technology
+工程设计：engineering design
+肝细胞生长因子：Hepatocyte growth factor
+乳酸：Lactic acid
+骨缺损：Bone defect
+数学模型：Mathematical models
+骨骼肌：skeletal muscle
+尿酸：uric acid
+传质：mass transfer
+反问题：inverse problem
+流动注射：flow injection
+表皮生长因子：epidermal growth factor
+类风湿性关节炎：rheumatoid arthritis
+丙型肝炎病毒：Hepatitis C virus
+原因分析：cause analysis
+基因疗法：gene therapy
+外科皮瓣：Surgical flaps
+螺旋CT：spiral CT
+环境因子：environmental factors
+大气污染：air pollution
+图像重建：image reconstruction
+接枝共聚：graft copolymerization
+科研：scientific research
+重症肌无力：Myasthenia gravis
+细胞系：Cell Line
+应用解剖：applied anatomy
+线粒体DNA：mitochondrial DNA
+疲劳强度：fatigue strength
+接触角：contact angle
+护理管理：Nursing management
+数据收集：Data Collection
+分离纯化：Isolation and purification
+结核分枝杆菌：Mycobacterium tuberculosis
+绩效评估：performance evaluation
+淋巴转移：lymphatic metastasis
+分子量：molecular weight
+成活率：survival rate
+社区卫生服务：Community Health Service
+防治：prevention and cure
+应力分布：Stress Distribution
+经皮冠状动脉：percutaneous coronary
+监测系统：monitoring system
+化学成分：chemical components
+颅内动脉瘤：intracranial aneurysm
+化学合成：chemical synthesis
+茶多酚：Tea Polyphenols
+心血管疾病：cardiovascular disease
+认知功能：cognitive function
+心理干预：psychological intervention
+互信息：mutual information
+透明质酸：hyaluronic acid
+高压氧：Hyperbaric oxygen
+DNA提取：DNA extraction
+流动人口：floating population
+肾功能：Renal function
+脑损伤：brain injury
+缺血预处理：Ischemic preconditioning
+冲击波：shock wave
+纳什均衡：Nash equilibrium
+扩散系数：diffusion coefficient
+肠易激综合征：irritable bowel syndrome
+高分辨率：high resolution
+老年人：the elderly
+红外光谱：Infrared Spectrum
+偶联剂：coupling agent
+颈椎：Cervical vertebrae
+荧光光谱：fluorescence spectrum
+同步辐射：synchrotron radiation
+离子色谱：ion chromatography
+肺功能：pulmonary function
+脂肪酸：fatty acids
+存活率：survival rate
+结缔组织生长因子：connective tissue growth factor
+心脏移植：heart transplantation
+剖宫产：Cesarean section
+多媒体课件：multimedia courseware
+使用寿命：service life
+腹膜透析：peritoneal dialysis
+工艺参数：process parameter
+产前诊断：prenatal diagnosis
+分子动力学模拟：molecular dynamics simulation
+免疫耐受：immune tolerance
+计算流体力学：computational fluid dynamics
+蛋白表达：protein expression
+生产工艺：production process
+定性分析：qualitative analysis
+体制改革：System reform
+有机合成：organic synthesis
+外科手术：Surgical operation
+logistic回归：Logistic regression
+多发性硬化：multiple sclerosis
+抗氧化活性：antioxidant activity
+医学生：medical students
+绿色荧光蛋白：green fluorescent protein
+转录因子：Transcription factor
+神经再生：nerve regeneration
+循环伏安：cyclic voltammetry
+直肠癌：Rectal cancer
+甲基丙烯酸甲酯：methyl methacrylate
+三维建模：3D modeling
+血小板聚集：platelet aggregation
+颈椎病：Cervical spondylosis
+能量代谢：energy metabolism
+遗传距离：genetic distance
+相转移催化：phase transfer catalysis
+新辅助化疗：neoadjuvant chemotherapy
+激光焊接：Laser welding
+教学体系：teaching system
+弓形虫：Toxoplasma gondii
+生物学特性：biological characteristic
+T淋巴细胞：T lymphocyte
+医疗保险：Medical insurance
+信号传导：signal transduction
+膳食纤维：dietary fiber
+动态监测：dynamic monitoring
+真核表达载体：eukaryotic expression vector
+量子化学：quantum chemistry
+社会工作：social work
+军队医院：military hospital
+硅橡胶：silicone rubber
+脑性瘫痪：cerebral palsy
+药物化学：medicinal chemistry
+综述文献：review literature
+p53基因：p53 gene
+防治效果：control effect
+造血干细胞移植：hematopoietic stem cell transplantation
+肿瘤标志物：tumor marker
+慢性心力衰竭：chronic heart failure
+青藏铁路：Qinghai-Tibet Railway
+转化生长因子β：transforming growth factor beta
+Apriori算法：Apriori algorithm
+内固定器：Internal fixators
+博弈分析：game analysis
+紫外分光光度法：UV spectrophotometry
+射频消融：Radiofrequency ablation
+电磁辐射：electromagnetic radiation
+鳞状细胞癌：Squamous cell carcinoma
+直肠肿瘤：rectal neoplasms
+时间序列分析：time series analysis
+并行计算：parallel computation
+科学研究：scientific research
+门静脉：Portal vein
+甲状腺肿瘤：Thyroid neoplasms
+骨髓基质细胞：Bone marrow stromal cells
+光学测量：optical measurement
+骨髓间充质干细胞：mesenchymal stem cells
+胰腺癌：Pancreatic Carcinoma
+腹腔镜胆囊切除术：Laparoscopic cholecystectomy
+化学修饰：chemical modification
+逆向选择：adverse selection
+体外：in vitro
+胸腔积液：Pleural effusion
+非线性动力学：nonlinear dynamics
+数据共享：data sharing
+高等院校：colleges and universities
+社会功能：social function
+中草药：Chinese herbal medicine
+基因工程：gene engineering
+植物生长调节剂：plant growth regulator
+医院信息系统：Hospital information system
+金属离子：Metal ions
+目标函数：objective function
+禽流感病毒：Avian influenza virus
+丹参：Salvia miltiorrhiza
+四氯化碳：carbon tetrachloride
+膀胱癌：bladder cancer
+治理结构：Governance structure
+淋巴结转移：lymph node metastasis
+表达载体：expression vector
+叶酸：folic acid
+熊果酸：ursolic acid
+P53蛋白：P53 protein
+荧光猝灭：fluorescence quenching
+信息抽取：Information Extraction
+肥大细胞：Mast cell
+蒙特卡罗方法：Monte Carlo method
+公共卫生：Public health
+脑脊液：Cerebrospinal fluid
+感应加热：induction heating
+慢性肾功能衰竭：Chronic renal failure
+混沌控制：chaos control
+图像复原：image restoration
+平衡计分卡：balanced scorecard
+血管平滑肌细胞：vascular smooth muscle cell
+理论模型：theoretical model
+量子点：Quantum dots
+产后出血：Postpartum hemorrhage
+生活方式：life style
+勃起功能障碍：Erectile Dysfunction
+吸收光谱：Absorption spectrum
+氧化损伤：oxidative damage
+齐墩果酸：oleanolic acid
+微弧氧化：micro-arc oxidation
+海藻酸钠：sodium alginate
+医疗设备：medical equipment
+制备方法：preparation method
+发展对策：development countermeasure
+免疫应答：immune response
+血药浓度：plasma concentration
+回归模型：Regression model
+中国特色：Chinese characteristics
+冷却塔：cooling tower
+生存率：survival rate
+肺疾病：Pulmonary disease
+Lyapunov指数：Lyapunov exponent
+资源配置：Resource allocation
+引文分析：citation analysis
+结肠癌：Colon cancer
+外周血：Peripheral blood
+原代培养：primary culture
+获得性免疫缺陷综合征：Acquired immunodeficiency syndrome
+法医病理学：forensic pathology
+应变率：strain rate
+海南岛：Hainan Island
+制备工艺：preparation technology
+变应性鼻炎：allergic rhinitis
+培养模式：training mode
+抗肿瘤活性：antitumor activity
+混沌同步：Chaos synchronization
+草酸：oxalic acid
+计算机软件：computer software
+乳酸脱氢酶：lactate dehydrogenase
+神经肽Y：neuropeptide Y
+固相萃取：solid-phase extraction
+流动注射分析：flow injection analysis
+建模与仿真：modeling and simulation
+腺病毒载体：adenovirus vector
+扩张型心肌病：Dilated cardiomyopathy
+慢性前列腺炎：Chronic prostatitis
+中药：Chinese traditional medicine
+膜片钳：Patch clamp
+拉伸强度：tensile strength
+人乳头瘤病毒：human papillomavirus
+淋巴结：Lymph node
+回归方程：regression equation
+尖锐湿疣：condyloma acuminatum
+胚胎移植：embryo transfer
+思想教育：ideological education
+人工晶状体：intraocular lens
+油酸：oleic acid
+体外受精：in vitro fertilization
+前列腺增生：prostatic hyperplasia
+功能性消化不良：Functional dyspepsia
+组织芯片：tissue microarray
+腭裂：Cleft palate
+计算机技术：computer technology
+机械性能：mechanical property
+病毒性心肌炎：viral myocarditis
+乙二醇：ethylene glycol
+公共物品：public goods
+Logistic模型：Logistic model
+评价研究：Evaluation studies
+病原菌：Pathogenic bacteria
+近代：Modern Times
+过程管理：Process management
+基尼系数：Gini coefficient
+脑血管意外：cerebrovascular accident
+离子色谱法：ion chromatography
+交易费用：Transaction Cost
+新形势：new situation
+肺动脉：Pulmonary artery
+通风系统：ventilation system
+硫酸镁：magnesium sulfate
+蛋白纯化：protein purification
+三叉神经痛：trigeminal neuralgia
+树突细胞：Dendritic Cells
+临床教学：clinical teaching
+应急管理：emergency management
+临床试验：clinical trial
+鼻息肉：Nasal polyps
+电子束：Electron beam
+糖尿病足：diabetic foot
+沙眼衣原体：Chlamydia trachomatis
+血管内皮细胞：Vascular endothelial cell
+融合表达：fusion expression
+白色念珠菌：Candida albicans
+护理教育：nursing education
+高锰酸钾：potassium permanganate
+细胞色素C：cytochrome C
+骨折愈合：Fracture healing
+理论创新：theoretical innovation
+大孔树脂：macroporous resin
+醋酸：Acetic acid
+自然环境：natural environment
+飞秒激光：femtosecond laser
+IgA肾病：IgA nephropathy
+全身麻醉：General Anesthesia
+男性不育：male infertility
+信息素质：Information literacy
+磷酸：phosphoric acid
+球磨机：Ball mill
+VisualBasic：Visual Basic
+良性前列腺增生：benign prostatic hyperplasia
+慢性病：chronic disease
+增生性瘢痕：Hypertrophic scar
+工作记忆：Working memory
+体液免疫：humoral immunity
+AR模型：AR model
+前交叉韧带：Anterior cruciate ligament
+垂体腺瘤：Pituitary adenoma
+内皮祖细胞：endothelial progenitor cells
+分析方法：analytical method
+原子吸收光谱法：atomic absorption spectrometry
+介入放射学：Interventional Radiology
+热休克蛋白：heat shock protein
+原子力显微镜：atomic force microscope
+亲和层析：Affinity chromatography
+微波加热：microwave heating
+学科建设：subject construction
+频率响应：Frequency response
+创面愈合：Wound healing
+针刺疗法：Acupuncture therapy
+心肌再灌注损伤：myocardial reperfusion injury
+接触应力：contact stress
+肺炎克雷伯菌：Klebsiella pneumoniae
+环氧丙烷：propylene oxide
+基因转移：gene transfer
+社会和谐：social harmony
+CAI课件：CAI courseware
+肿瘤转移：tumor metastasis
+导管消融术：Catheter ablation
+细胞色素P450：cytochrome P450
+纹理分析：texture analysis
+指数分布：exponential distribution
+结肠直肠肿瘤：Colorectal neoplasms
+计划生育：Family Planning
+热舒适：thermal comfort
+肠外营养：Parenteral nutrition
+固定化酶：immobilized enzyme
+移植物排斥：graft rejection
+拉曼光谱：Raman spectrum
+综合评价：synthetic evaluation
+消化系统：Digestive system
+妊娠结局：Pregnancy outcome
+双酚A：bisphenol A
+疲劳试验：fatigue test
+催化光度法：catalytic spectrophotometry
+颅脑损伤：Craniocerebral injury
+左室肥厚：left ventricular hypertrophy
+体外培养：culture in vitro
+病例报告：case report
+结构鉴定：structure identification
+乙酸乙酯：ethyl acetate
+剖宫产术：Cesarean section
+肠梗阻：Intestinal Obstruction
+间接ELISA：indirect ELISA
+金属材料：metallic materials
+汉族：Han nationality
+阳极氧化：anodic oxidation
+系统论：system theory
+准分子激光：Excimer laser
+单核苷酸：Single Nucleotide
+16SrDNA：16S rDNA
+高强度：high strength
+热效应：thermal effect
+血气分析：blood gas analysis
+慢性胃炎：chronic gastritis
+硅烷偶联剂：silane coupling agent
+免疫系统：Immune system
+草鱼：grass carp
+生活质量：Life quality
+融合基因：fusion gene
+应用效果：application effect
+氢化物发生：hydride generation
+医疗纠纷：medical dispute
+间充质干细胞：mesenchymal stem cell
+内源激素：endogenous hormones
+心室重构：ventricular remodeling
+农药残留：pesticide residues
+光合细菌：photosynthetic bacteria
+骨髓移植：Bone marrow transplantation
+豚鼠：Guinea Pigs
+心肺复苏：Cardiopulmonary resuscitation
+化学改性：chemical modification
+清代：the Qing Dynasty
+网络模型：network model
+随机共振：Stochastic resonance
+剪切强度：shear strength
+食物中毒：food poisoning
+卵巢癌：Ovarian carcinoma
+蛋白质含量：Protein content
+社会控制：social control
+梗阻性黄疸：obstructive jaundice
+管理制度：management system
+嗜水气单胞菌：Aeromonas hydrophila
+左心室肥厚：left ventricular hypertrophy
+绿茶：green tea
+禽流感：Avian influenza
+亚低温：mild hypothermia
+鄱阳湖：Poyang Lake
+关联维数：correlation dimension
+植酸：phytic acid
+冷却水：cooling water
+数值模型：numerical model
+化学修饰电极：Chemically modified electrode
+维生素A：vitamin A
+激励机制：motivation mechanism
+环氧乙烷：ethylene oxide
+全局稳定性：Global stability
+葡萄糖氧化酶：glucose oxidase
+房间隔缺损：atrial septal defect
+色散补偿：Dispersion compensation
+优势种：dominant species
+疲劳损伤：fatigue damage
+髋关节：hip joint
+蒙特卡罗：Monte Carlo
+没食子酸：gallic acid
+再生障碍性贫血：Aplastic anemia
+胚胎干细胞：embryonic stem cell
+性别差异：gender difference
+过渡态：Transition state
+原发性肝癌：primary liver cancer
+酶联免疫吸附测定：enzyme-linked immunosorbent assay
+同源重组：Homologous recombination
+心脏缺损：heart defects
+急性病：Acute Disease
+动作电位：action potential
+USB接口：USB interface
+肾细胞癌：renal cell carcinoma
+信息流：information flow
+P16基因：p16 gene
+丹酚酸B：salvianolic acid B
+冠状血管造影术：Coronary angiography
+同时测定：simultaneous determination
+线阵CCD：linear CCD
+多重PCR：multiplex PCR
+生存分析：survival analysis
+载体构建：Vector construction
+脊柱骨折：Spinal fractures
+术后镇痛：Postoperative analgesia
+结构表征：structure characterization
+脉压：Pulse pressure
+虚拟实验室：virtual laboratory
+病毒性肝炎：Viral hepatitis
+信息模型：information model
+Logistic回归分析：Logistic regression analysis
+医患关系：doctor-patient relationship
+绩效考核：performance evaluation
+输血：Blood transfusion
+季铵盐：quaternary ammonium salt
+应用研究：applied research
+肾综合征出血热：hemorrhagic fever with renal syndrome
+眼压：intraocular pressure
+高度近视：high myopia
+关节软骨：articular cartilage
+慢性阻塞性：chronic obstructive
+抑癌基因：Tumor suppressor gene
+诱导型一氧化氮合酶：Inducible nitric oxide synthase
+分光光度法：spectrophotometric method
+原子荧光光谱法：atomic fluorescence spectrometry
+核因子-κB：Nuclear factor-κB
+趋势分析：trend analysis
+二级结构：secondary structure
+肾功能衰竭：renal failure
+主动脉夹层：Aortic Dissection
+市场细分：market segmentation
+临床医学：Clinical medicine
+组织因子：tissue factor
+急性肾功能衰竭：Acute renal failure
+抗氧化性：oxidation resistance
+有机溶剂：organic solvent
+网络系统：network system
+胃排空：Gastric emptying
+运动训练：sports training
+服务营销：Service marketing
+应力松弛：stress relaxation
+睡眠呼吸暂停：Sleep Apnea
+临床疗效：clinical efficacy
+硬膜外麻醉：Epidural anesthesia
+骨代谢：Bone metabolism
+肺部感染：pulmonary infection
+转基因小鼠：transgenic mice
+包涵体：Inclusion body
+生长曲线：growth curve
+甘草酸：glycyrrhizic acid
+广州市：Guangzhou City
+分子流行病学：Molecular epidemiology
+铅中毒：Lead poisoning
+辣根过氧化物酶：horseradish peroxidase
+药物分析：pharmaceutical analysis
+逆问题：inverse problem
+下呼吸道感染：lower respiratory tract infection
+视神经：Optic nerve
+手性固定相：chiral stationary phase
+基础研究：basic research
+结直肠癌：colorectal carcinoma
+抗氧化酶：antioxidant enzymes
+单纯形法：Simplex Method
+数码相机：digital camera
+会计制度：accounting system
+彩色多普勒超声：Color Doppler ultrasound
+不稳定型心绞痛：Unstable angina pectoris
+甲酸：formic acid
+聚合酶链式反应：polymerase chain reaction
+Morris水迷宫：Morris water maze
+椎间盘移位：Intervertebral disk displacement
+烧结温度：Sintering Temperature
+重组质粒：recombinant plasmid
+QT离散度：QT dispersion
+腹股沟疝：Inguinal hernia
+经皮冠状动脉介入治疗：percutaneous coronary intervention
+数理统计：mathematical statistics
+微流控芯片：Microfluidic chip
+羟自由基：hydroxyl radical
+社会环境：social environment
+肝动脉：Hepatic artery
+公立医院：public hospital
+原子转移自由基聚合：atom transfer radical polymerization
+熵权：entropy weight
+工作倦怠：job burnout
+颈动脉狭窄：carotid stenosis
+流变性能：rheological property
+K562细胞：K562 cell
+慢性阻塞性肺病：chronic obstructive pulmonary disease
+带状疱疹：Herpes zoster
+吸收系数：absorption coefficient
+参麦注射液：Shenmai injection
+狼疮肾炎：lupus nephritis
+羟基自由基：hydroxyl radical
+肝再生：Liver regeneration
+数字减影：digital subtraction
+肝星状细胞：Hepatic stellate cells
+丝裂霉素C：mitomycin C
+道德建设：Moral Construction
+电化学行为：Electrochemical Behavior
+解析解：analytic solution
+标准体系：standard system
+轨迹规划：trajectory planning
+消化道：Digestive tract
+社会保险：social insurance
+质量体系：quality system
+手术室：operating room
+银杏叶提取物：Ginkgo Biloba Extract
+骨组织工程：Bone tissue engineering
+鲍曼不动杆菌：Acinetobacter baumannii
+定量评价：quantitative evaluation
+非线性模型：nonlinear model
+骨髓细胞：bone marrow cells
+生殖健康：Reproductive Health
+慢性肾衰竭：chronic renal failure
+转基因烟草：transgenic tobacco
+硅胶：silica gel
+氯化钠：sodium chloride
+健康促进：Health promotion
+连锁分析：Linkage analysis
+核移植：nuclear transfer
+表面活性：surface activity
+回收率：recovery rate
+安全文化：safety culture
+实时监测：real-time monitoring
+HeLa细胞：HeLa cell
+局灶性脑缺血：focal cerebral ischemia
+毛细管气相色谱：capillary gas chromatography
+包合物：inclusion complex
+过渡金属：Transition metal
+相对生物利用度：relative bioavailability
+伤口愈合：wound healing
+肝细胞肝癌：Hepatocellular carcinoma
+模拟实验：simulation experiment
+有限元法：finite element method(FEM)
+光动力疗法：photodynamic therapy
+湖南：Hunan Province
+超临界流体萃取：Supercritical fluid extraction
+有效教学：effective teaching
+微卫星标记：Microsatellite marker
+脂肪组织：Adipose tissue
+临床路径：clinical pathway
+根管治疗：Root canal therapy
+孕激素受体：progesterone receptor
+就业指导：Employment guidance
+粒度分布：particle size distribution
+新方法：new method
+胚胎发育：embryo development
+血脂：blood lipids
+本科教育：undergraduate education
+脑源性神经营养因子：Brain-Derived Neurotrophic Factor
+安全工程：safety engineering
+工艺改进：Process improvement
+分子设计：Molecular design
+考证：Textual research
+支持向量回归：support vector regression
+电刺激：Electrical stimulation
+气道炎症：airway inflammation
+室内空气：indoor air
+SD大鼠：SD rat
+小切口：small incision
+激光手术：Laser surgery
+大豆异黄酮：soybean isoflavone
+超声提取：Ultrasonic extraction
+频谱：frequency spectrum
+肌酸激酶：creatine kinase
+康复护理：rehabilitation nursing
+椎弓根螺钉：pedicle screw
+化学结构：chemical structure
+人血清白蛋白：Human serum albumin
+社会公正：Social Justice
+NK细胞：NK cell
+模式分类：pattern classification
+定点突变：site-directed mutagenesis
+现代教育：modern education
+Bcl-2蛋白：Bcl-2 protein
+对苯二甲酸：terephthalic acid
+理论计算：theoretical calculation
+急性排斥反应：acute rejection
+人巨细胞病毒：Human cytomegalovirus
+亚细胞定位：subcellular localization
+研究生：graduate student
+参附注射液：Shenfu injection
+有关物质：related substance
+中医学：Traditional Chinese Medicine
+佐剂性关节炎：adjuvant arthritis
+食品添加剂：food additive
+试验研究：experiment research
+综合能力：Comprehensive ability
+网络营销：Network Marketing
+计算机系统：Computer system
+ROC曲线：ROC curve
+分子机制：molecular mechanism
+海南省：Hainan Province
+载脂蛋白E：Apolipoprotein E
+T淋巴细胞亚群：T-lymphocyte subsets
+风湿性心脏病：rheumatic heart disease
+硝酸：nitric acid
+阴离子表面活性剂：anionic surfactant
+通心络胶囊：Tongxinluo Capsule
+拉伸性能：tensile properties
+协同作用：synergistic effect
+形状记忆效应：shape memory effect
+点突变：point mutation
+灰色模型：gray model
+脑肿瘤：Brain tumor
+护理质量：Nursing quality
+体外成熟：In vitro maturation
+电子阅览室：Electronic reading room
+谱分析：spectrum analysis
+心肌纤维化：myocardial fibrosis
+反流性食管炎：Reflux esophagitis
+黄芪：Astragalus Membranaceus
+肿瘤分期：Neoplasm Staging
+临床实习：Clinical practice
+慢性支气管炎：Chronic bronchitis
+牵张成骨：distraction osteogenesis
+表面能：surface energy
+钙离子：calcium ion
+评估体系：evaluation system
+空间环境：space environment
+旋毛虫：Trichinella spiralis
+螺旋计算机：spiral computed
+大孔吸附树脂：macroporous adsorption resin
+钢丝：steel wire
+医疗质量：medical quality
+白念珠菌：Candida albicans
+中耳炎：Otitis Media
+频率估计：frequency estimation
+虚拟现实技术：Virtual reality technology
+置信区间：confidence interval
+中空纤维膜：hollow fiber membrane
+特征识别：feature recognition
+表面结构：Surface structure
+决策分析：decision analysis
+胃肿瘤：stomach neoplasm
+微卫星DNA：Microsatellite DNA
+毛细管区带电泳：capillary zone electrophoresis
+山东：Shandong province
+脑钠肽：Brain natriuretic peptide
+早产儿：Premature Infant
+反义RNA：antisense RNA
+氯乙烯：vinyl chloride
+电子鼻：Electronic nose
+硬脂酸：stearic acid
+有氧运动：aerobic exercise
+炎症性肠病：Inflammatory bowel disease
+呼吸道合胞病毒：Respiratory syncytial virus
+睡眠剥夺：sleep deprivation
+酸性磷酸酶：acid phosphatase
+手性分离：chiral separation
+脑血管病：Cerebrovascular Disease
+临床特征：clinical characteristics
+伽玛刀：gamma knife
+桡动脉：Radial artery
+喉癌：Laryngeal carcinoma
+大脑皮质：cerebral cortex
+腐蚀疲劳：corrosion fatigue
+电磁环境：Electromagnetic Environment
+分子进化：molecular evolution
+脑水肿：cerebral edema
+医院图书馆：hospital library
+雄激素受体：Androgen receptor
+有机氯农药：Organochlorine pesticides
+物理性能：physical properties
+政策分析：policy analysis
+Graves病：Graves disease
+多囊卵巢综合征：Polycystic ovarian syndrome
+德育教育：moral education
+臂丛：brachial plexus
+气相色谱-质谱：gas chromatography-mass spectrometry
+分子蒸馏：molecular distillation
+安全性评价：safety evaluation
+中空纤维：Hollow Fiber
+长白山：Changbai Mountain
+种类组成：species composition
+器官移植：organ transplantation
+腺样囊性癌：Adenoid cystic carcinoma
+诊断显像：diagnostic imaging
+椎动脉：Vertebral artery
+总黄酮：total flavones
+美拉德反应：Maillard reaction
+ARIMA模型：ARIMA model
+消化酶：digestive enzyme
+米糠：rice bran
+心理应激：Psychological stress
+医疗服务：medical service
+花芽分化：flower bud differentiation
+γ-氨基丁酸：γ-aminobutyric acid
+公共管理：public administration
+电化学腐蚀：electrochemical corrosion
+离子通道：ion channel
+神经系统：nervous system
+心理问题：Psychological problems
+早期干预：early intervention
+现场应用：field application
+鱼油：fish oil
+偏振光：polarized light
+临床意义：Clinical significance
+剪应力：shear stress
+单纯疱疹病毒：herpes simplex virus
+临床特点：clinical features
+大学物理：college physics
+盐酸麻黄碱：Ephedrine hydrochloride
+回顾性分析：Retrospective Analysis
+心肺转流术：Cardiopulmonary bypass
+电磁感应：electromagnetic induction
+环孢素A：cyclosporine A
+抗肿瘤药：Antineoplastic agents
+高糖：High glucose
+知情同意：informed consent
+抗弯强度：bending strength
+频谱分析：spectral analysis
+应用光学：applied optics
+噬菌体展示：phage display
+无机化学：inorganic chemistry
+胶体金：colloidal gold
+酵母双杂交：Yeast two-hybrid
+生活史：life history
+手术治疗：operative treatment
+蛋白质p53：protein p53
+肺炎支原体：Mycoplasma pneumoniae
+逆转录病毒载体：retroviral vector
+心理因素：psychological factors
+混沌时间序列：chaotic time series
+肾间质纤维化：renal interstitial fibrosis
+食管鳞癌：Esophageal squamous cell carcinoma
+阿魏酸钠：sodium ferulate
+药学服务：Pharmaceutical care
+乙肝病毒：hepatitis B virus
+遗传易感性：genetic susceptibility
+白噪声：white noise
+计算公式：calculation formula
+悬浮培养：suspension culture
+教学手段：teaching means
+课程资源：curriculum resources
+栽培技术：cultivation technology
+社会心理：Social psychology
+解脲支原体：Ureaplasma urealyticum
+医务人员：Medical staff
+自杀基因：suicide gene
+差异表达：differential expression
+家庭环境：family environment
+密度泛函：density functional theory
+寿命：service life
+抑菌活性：antimicrobial activity
+米曲霉：Aspergillus oryzae
+综合评判：comprehensive evaluation
+社会价值：social value
+全局渐近稳定性：global asymptotic stability
+游离脂肪酸：free fatty acid
+社区参与：Community participation
+药物利用：drug utilization
+失重模拟：Weightlessness simulation
+手性拆分：Chiral separation
+多孔材料：porous material
+创新体系：Innovation system
+联合化疗：Combined chemotherapy
+状态空间：State space
+胃肠道：gastrointestinal tract
+糖皮质激素受体：glucocorticoid receptor
+肝性脑病：hepatic encephalopathy
+钢板：steel plate
+前列腺增生症：Benign prostatic hyperplasia
+股骨颈骨折：femoral neck fractures
+唇裂：Cleft lip
+稳定常数：Stability constant
+数学模拟：mathematical simulation
+生长速率：Growth rate
+Monte Carlo方法：Monte Carlo method
+bcl-2基因：bcl-2 gene
+认知结构：cognitive structure
+曲面拟合：surface fitting
+宫颈糜烂：Cervical erosion
+江苏：Jiangsu Province
+前哨淋巴结：Sentinel lymph node
+Tei指数：Tei index
+登革病毒：dengue virus
+恶性疟原虫：Plasmodium falciparum
+氧化膜：oxide film
+次氯酸钠：sodium hypochlorite
+Ames试验：Ames test
+PC12细胞：PC12 cell
+营养支持：nutritional support
+尿路感染：Urinary tract infection
+学习风格：learning style
+黄原胶：xanthan gum
+MonteCarlo模拟：Monte Carlo simulation
+脐血：umbilical cord blood
+十二指肠溃疡：duodenal ulcer
+课程开发：curriculum development
+彗星试验：Comet assay
+血管活性肠肽：Vasoactive Intestinal Peptide
+毛囊：Hair follicle
+背根神经节：dorsal root ganglion
+亚油酸：linoleic acid
+玻碳电极：Glassy carbon electrode
+酶水解：enzymatic hydrolysis
+反应体系：reaction system
+儒家文化：Confucian culture
+造血干细胞：hematopoietic stem cell
+胰岛素抗药性：Insulin resistance
+化学分析：chemical analysis
+政府责任：government responsibility
+新制度经济学：new Institutional economics
+图像传感器：image sensor
+羊膜：amniotic membrane
+法律性质：legal nature
+肺移植：Lung transplantation
+细胞壁：Cell wall
+结晶紫：crystal violet
+非接触测量：non-contact measurement
+条形码：bar code
+经济损失：economic loss
+细胞融合：cell fusion
+心血管系统：cardiovascular system
+胃黏膜：gastric mucosa
+藏传佛教：Tibetan Buddhism
+酶活：enzyme activity
+假设检验：Hypothesis test
+护理人员：Nursing staff
+复杂适应系统：complex adaptive system
+重金属离子：heavy metal ion
+动力学光度法：kinetic spectrophotometry
+超声波提取：ultrasonic extraction
+香菇：lentinus edodes
+嗜酸乳杆菌：lactobacillus acidophilus
+龋齿：dental caries
+平滑肌细胞：smooth muscle cells
+运动试验：Exercise test
+法医学：Forensic medicine
+虚拟人：Virtual human
+限制性片段长度：restriction fragment length
+原子吸收：atomic absorption
+柱层析：column chromatography
+低分子肝素：low molecular weight heparin
+股动脉：femoral artery
+胃食管反流：gastroesophageal reflux
+原发性高血压：Primary hypertension
+mRNA差异显示：mRNA differential display
+Y染色体：Y chromosome
+非小细胞肺：non-small-cell lung
+大脑中动脉：Middle cerebral artery
+胰岛素泵：insulin pump
+恶性胸腔积液：malignant pleural effusion
+批判性思维：critical thinking
+药物耐受性：Drug tolerance
+He-Ne激光：He-Ne laser
+肠道菌群：intestinal flora
+胆囊肿瘤：Gallbladder neoplasms
+运动处方：exercise prescription
+羧甲基壳聚糖：carboxymethyl chitosan
+圆柱壳：cylindrical shell
+急性心肌梗塞：acute myocardial infarction
+戊型肝炎病毒：Hepatitis E virus
+慢性萎缩性胃炎：chronic atrophic gastritis
+单核细胞趋化蛋白-1：Monocyte chemoattractant protein-1
+多层螺旋CT：multi-slice spiral CT
+心肌再灌注：Myocardial reperfusion
+晶状体上皮细胞：lens epithelial cells
+生态因子：ecological factor
+电化学检测：electrochemical detection
+计算机管理：computer management
+社会经济：social economy
+数据库管理系统：database management system
+职业暴露：Occupational exposure
+股骨头坏死：Femoral head necrosis
+脑缺血再灌注：Cerebral ischemia reperfusion
+胰岛素敏感性：insulin sensitivity
+DNA修复：DNA repair
+抑制性消减杂交：suppression subtractive hybridization
+磁流体：magnetic fluid
+蓖麻油：castor oil
+人脐静脉内皮细胞：human umbilical vein endothelial cells
+循证护理：evidence-based nursing
+尿道狭窄：Urethral stricture
+肺炎链球菌：Streptococcus pneumoniae
+营养价值：nutritional value
+新材料：new material
+硝普钠：sodium nitroprusside
+空间分辨率：Spatial resolution
+脊髓型颈椎病：Cervical spondylotic myelopathy
+鼻腔：Nasal cavity
+镁合金：Mg alloy
+二氧化锰：manganese dioxide
+山梨酸：Sorbic acid
+固体分散体：solid dispersion
+德国小蠊：Blattella germanica
+骨水泥：bone cement
+地理信息：geographic information
+遗传标记：genetic marker
+胃癌：Stomach cancer
+子宫肌瘤：Uterine Leiomyoma
+门静脉高压症：portal hypertension
+门脉高压：Portal hypertension
+整体护理：Holistic nursing
+可持续发展：continuable development
+网络平台：network platform
+细胞死亡：Cell death
+上皮细胞：epithelial cell
+吗啡依赖：morphine dependence
+细胞株：Cell line
+性行为：Sexual behavior
+转化生长因子：transforming growth factor
+肉桂酸：cinnamic acid
+自然循环：natural circulation
+回顾性研究：Retrospective study
+性教育：sex education
+计算机教学：Computer Teaching
+思维能力：thinking ability
+利钠肽：Natriuretic Peptide
+双光子吸收：two-photon absorption
+NO：nitric oxide
+亚甲蓝：methylene blue
+曲安奈德：Triamcinolone acetonide
+体格检查：Physical examination
+临床药师：clinical pharmacist
+子宫肿瘤：uterine neoplasms
+脉络膜新生血管：Choroidal neovascularization
+丹参酮ⅡA：Tanshinone ⅡA
+辉光放电：glow discharge
+荧光检测：Fluorescence detection
+空间自相关：Spatial Autocorrelation
+电磁脉冲：electromagnetic pulse
+社会因素：social factors
+HL-60细胞：HL-60 cell
+侧支循环：Collateral circulation
+静脉血栓形成：venous thrombosis
+保健：health care
+人参：Panax ginseng
+计算机程序：computer program
+数据字典：data dictionary
+裸鼠：Nude mouse
+诱导分化：induced differentiation
+背向散射积分：integrated backscatter
+化学动力学：chemical kinetics
+分子对接：molecular docking
+蛹虫草：Cordyceps militaris
+造影剂：contrast agent
+心肌肥厚：cardiac hypertrophy
+皮肤移植：skin transplantation
+慢性荨麻疹：chronic urticaria
+白内障摘除术：cataract extraction
+急性坏死性：acute necrotizing
+家庭暴力：Domestic violence
+质谱：mass spectrum
+细菌纤维素：bacterial cellulose
+残余应力：residual stresses
+控制释放：controlled release
+全合成：total synthesis
+营养液：nutrient solution
+标准差：standard deviation
+生物医学工程：biomedical engineering
+肺表面活性物质：pulmonary surfactant
+临床评价：Clinical evaluation
+创伤愈合：Wound healing
+干细胞移植：Stem cell transplantation
+酪氨酸羟化酶：tyrosine hydroxylase
+脑瘫：cerebral palsy
+转录调控：transcriptional regulation
+特殊教育：Special education
+影像融合：image fusion
+微波合成：microwave synthesis
+化学位移：chemical shift
+粘结强度：bond strength
+钉螺：Oncomelania hupensis
+生化指标：biochemical index
+反义寡核苷酸：antisense oligonucleotides
+多器官功能衰竭：Multiple organ failure
+妊娠率：Pregnancy rate
+保守治疗：conservative treatment
+自然流产：Spontaneous abortion
+自由能：free energy
+氧化亚氮：Nitrous oxide
+农民工：peasant worker
+单细胞凝胶电泳：single cell gel electrophoresis
+肿瘤疫苗：Tumor vaccine
+微生物多样性：microbial diversity
+课程教学：course teaching
+海水：sea water
+激发态：Excited state
+柔性管理：Flexible management
+基因诊断：gene diagnosis
+合理用药：Rational use of drug
+临床经验：clinical experience
+腹腔镜手术：laparoscopic surgery
+室内环境：Indoor Environment
+杜仲：Eucommia ulmoides
+国际经验：international experience
+溶栓治疗：Thrombolytic therapy
+多药耐药性：Multidrug resistance
+诱发电位：Evoked potential
+工程教育：engineering education
+微波烧结：microwave sintering
+固体脂质纳米粒：Solid lipid nanoparticles
+介孔分子筛：Mesoporous molecular sieve
+顺丁烯二酸酐：maleic anhydride
+生物学功能：biological function
+各向异性扩散：anisotropic diffusion
+MRI：Magnetic Resonance Imaging
+改革与发展：reform and development
+肺水肿：Pulmonary edema
+肿瘤坏死因子α：Tumor necrosis factor α
+流行病学调查：epidemiological survey
+晚期胃癌：Advanced gastric cancer
+左心室功能：Left ventricular function
+相对密度：relative density
+鲫鱼：Carassius auratus
+曲面重建：Surface reconstruction
+胃粘膜：gastric mucosa
+心肌梗死：Acute myocardial infarction
+小干扰RNA：Small interfering RNA
+胃食管反流病：gastroesophageal reflux disease
+缺血性脑血管病：ischemic cerebrovascular disease
+房颤：atrial fibrillation
+文化精神：cultural spirit
+溴酸钾：Potassium bromate
+咖啡酸：caffeic acid
+细胞间粘附分子-1：intercellular adhesion molecule-1
+口腔鳞状细胞癌：Oral Squamous Cell Carcinoma
+根管预备：Root canal preparation
+碳糊电极：carbon paste electrode
+白纹伊蚊：Aedes albopictus
+回归分析：regressive analysis
+三角模糊数：triangular fuzzy number
+广东：Guangdong Province
+随机规划：stochastic programming
+磁共振：magnetic resonance
+卫生教育：Health Education
+彩色多普勒血流显像：color Doppler flow imaging
+社会地位：social status
+被动吸烟：passive smoking
+硫酸软骨素：chondroitin sulfate
+硫酸亚铁：ferrous sulfate
+超支化聚合物：hyperbranched polymer
+响应面分析：response surface analysis
+分配制度：distribution system
+透明质酸钠：Sodium hyaluronate
+解脲脲原体：Ureaplasma urealyticum
+猝死：Sudden death
+细胞周期蛋白D1：cyclin D1
+组织绩效：organizational performance
+孔雀石绿：malachite green
+粒径分布：size distribution
+碘化钾：potassium iodide
+共振光散射：resonance light scattering
+基础理论：basic theory
+评价标准：evaluation criteria
+阴道毛滴虫：trichomonas vaginalis
+生理机制：physiological mechanism
+脂质过氧化作用：lipid peroxidation
+生脉注射液：Shengmai injection
+动态血压监测：ambulatory blood pressure monitoring
+肺炎衣原体：Chlamydia pneumoniae
+家蝇：Musca domestica
+建模方法：modeling method
+小细胞肺癌：Small cell lung cancer
+生活满意度：Life satisfaction
+血清药理学：serum pharmacology
+海绵窦：Cavernous sinus
+医院文化：hospital culture
+负压：Negative pressure
+双氯芬酸钠：diclofenac sodium
+经济管理：economic management
+模型分析：model analysis
+细胞生长：cell growth
+胎儿窘迫：Fetal distress
+瞬时表达：transient expression
+植骨：Bone graft
+比较教育：comparative education
+生态工程：ecological engineering
+防治措施：control measures
+分布规律：distribution law
+转基因植物：transgenic plants
+磷酸钙骨水泥：calcium phosphate cement
+巴斯德毕赤酵母：Pichia pastoris
+颈动脉：Carotid Arteries
+胃肠肿瘤：Gastrointestinal Neoplasms
+磁共振血管造影术：magnetic resonance angiography
+椎管狭窄：spinal stenosis
+山区：mountain area
+黄芪甲苷：Astragaloside Ⅳ
+绿色消费：green consumption
+业务流程重组：Business process reengineering
+护士长：head nurse
+粒细胞集落刺激因子：granulocyte colony-stimulating factor
+感染性休克：septic shock
+职业紧张：Occupational stress
+膜通量：Membrane flux
+导电聚合物：conducting polymer
+模糊数学：fuzzy math
+决策模型：Decision-making Model
+乙型肝炎疫苗：Hepatitis B Vaccine
+血清白蛋白：Serum albumin
+农村社区：rural community
+流式细胞仪：flow cytometer
+报告基因：reporter gene
+慢性肝炎：Chronic hepatitis
+全麻：General anesthesia
+动脉导管未闭：Patent ductus arteriosus
+骨转移：Bone metastasis
+应激性溃疡：stress ulcer
+农村人口：Rural population
+端粒酶活性：telomerase activity
+共振瑞利散射：Resonance Rayleigh Scattering
+水产品：aquatic product
+天然产物：natural products
+花生四烯酸：arachidonic acid
+利益集团：interest group
+基因扩增：gene amplification
+能源结构：energy structure
+幽门螺旋杆菌：helicobacter pylori
+健康管理：health management
+急腹症：Acute abdomen
+心脏起搏：Cardiac pacing
+流行病学分析：Epidemiological Analysis
+恶性淋巴瘤：malignant lymphoma
+头针：scalp acupuncture
+Toll样受体：Toll-like receptor
+内标法：internal standard method
+肉制品：Meat products
+综合分析：comprehensive analysis
+C反应蛋白：C reactive protein
+自发性气胸：Spontaneous pneumothorax
+血瘀证：blood stasis syndrome
+腮腺：parotid gland
+弥散张量成像：Diffusion tensor imaging
+口腔鳞癌：oral squamous cell carcinoma
+创伤性脑损伤：Traumatic brain injury
+中耳：Middle ear
+三峡库区：Three Gorges Reservoir
+TiO2：titanium dioxide
+快速测定：rapid determination
+复合树脂：composite resin
+对策建议：countermeasures and suggestions
+霍乱弧菌：Vibrio cholerae
+转移支付：transfer payment
+杀伤细胞：Killer cells
+大鼠模型：Rat model
+华支睾吸虫：Clonorchis sinensis
+宫内感染：Intrauterine infection
+丙型肝炎：Hepatitis C
+羊膜移植：amniotic membrane transplantation
+质量监控：quality control
+液氮：liquid nitrogen
+流程图：flow chart
+内生真菌：endophytic fungus
+壮族：Zhuang nationality
+流程管理：process management
+脑缺氧：Cerebral anoxia
+血管内皮生长因子类：Vascular endothelial growth factors
+胆囊癌：Gallbladder carcinoma
+流变特性：rheological property
+效能评估：efficiency evaluation
+职业卫生：occupational health
+极限强度：ultimate strength
+案例教学法：Case teaching method
+医疗器械：medical device
+宫颈上皮内瘤样病变：Cervical intraepithelial neoplasia
+微生物敏感性试验：microbial sensitivity tests
+综合医院：General hospital
+脑干：brain stem
+心率变异：heart rate variability
+核苷酸序列：Nucleotide sequence
+神经网络集成：Neural network ensemble
+本科教学：undergraduate teaching
+血液相容性：blood compatibility
+马兜铃酸：Aristolochic Acid
+绩效考评：performance appraisal
+教学方式：teaching method
+磁共振波谱学：Magnetic resonance spectroscopy
+脑钠素：brain natriuretic peptide
+人事制度：Personnel system
+逆转录聚合酶链反应：reverse transcription polymerase chain reaction
+缺血后处理：ischemic postconditioning
+颞骨：temporal bone
+角膜地形图：corneal topography
+肺静脉：Pulmonary vein
+压力性尿失禁：Stress urinary incontinence
+医学伦理学：medical ethics
+左室舒张功能：Left Ventricular Diastolic Function
+腺相关病毒：adeno-associated virus
+特征分析：characteristic analysis
+响应曲面法：response surface methodology
+凝结时间：Setting time
+济南市：Jinan city
+智能诊断：Intelligent diagnosis
+近似解：approximate solution
+知识表达：knowledge representation
+蛇毒：snake venom
+膜流动性：membrane fluidity
+粘附分子：adhesion molecule
+流行病学研究：Epidemiologic studies
+非小细胞肺癌：non-small cell lung cancer(NSCLC)
+连锁不平衡：linkage disequilibrium
+细菌性阴道病：Bacterial vaginosis
+Snake模型：Snake model
+社会政策：social policy
+液膜：Liquid membrane
+Mannich反应：Mannich reaction
+草酸钙：Calcium oxalate
+谷氨酰胺合成酶：glutamine synthetase
+毛细管柱：Capillary column
+酒精性肝病：Alcoholic liver disease
+股骨头：Femoral head
+早期康复：Early rehabilitation
+Survivin基因：Survivin gene
+登革热：dengue fever
+mRNA表达：mRNA expression
+病毒性脑炎：Viral encephalitis
+手术期间：Intraoperative period
+遗传相关：genetic correlation
+差示扫描量热法：differential scanning calorimetry
+316L不锈钢：316L stainless steel
+梯度洗脱：gradient elution
+人体健康：Human health
+药物评价：drug evaluation
+移行细胞癌：Transitional cell carcinoma
+缺铁性贫血：Iron deficiency anemia
+心钠素：atrial natriuretic peptide
+信息增益：information gain
+慢性牙周炎：Chronic periodontitis
+人际功能：Interpersonal function
+多因素分析：multivariate analysis
+自发性高血压大鼠：spontaneously hypertensive rats
+早期：early stage
+小波去噪：wavelet denoising
+奇点：singular point
+慢病毒载体：lentiviral vector
+扩散张量成像：Diffusion tensor imaging
+临床方案：clinical protocols
+多普勒组织成像：Doppler tissue imaging
+心肺转流：Cardiopulmonary bypass
+黄斑水肿：Macular edema
+固相微萃取：Solid-phase microextraction
+包封率：encapsulation efficiency
+剪切应力：shear stress
+偶联反应：Coupling reaction
+人工抗原：artificial antigen
+蒙特卡洛法：Monte Carlo method
+药物释放：Drug release
+机械强度：Mechanical strength
+火力发电厂：thermal power plant
+预防医学：Preventive Medicine
+肿瘤抑制：tumor suppressor
+黑质：substantia nigra
+中医证候：TCM syndrome
+修复外科手术：Reconstructive surgical procedures
+执行功能：executive function
+肾素-血管紧张素系统：renin-angiotensin system
+超临界CO2萃取：supercritical CO2 extraction
+评价方法：evaluating method
+Logistic方程：Logistic equation
+膜技术：membrane technology
+能谱：Energy Spectrum
+干扰试验：Interference test
+遗传载体：Genetic Vectors
+短暂性脑缺血发作：Transient ischemic attack
+p16蛋白：p16 protein
+钾通道：potassium channel
+睡眠呼吸暂停综合征：Sleep apnea syndrome
+波尔山羊：Boer goat
+过氧化值：peroxide value
+虎杖：Polygonum cuspidatum
+荧光探针：Fluorescent probe
+生理活性：physiological activity
+六西格玛：six sigma
+创新精神：innovative spirit
+雷公藤：Tripterygium wilfordii
+石英晶体：quartz crystal
+临床药学：Clinical pharmacy
+指损伤：Finger injuries
+氧化性应激：oxidative stress
+微波辅助提取：Microwave-assisted extraction
+深层发酵：submerged fermentation
+不对称还原：asymmetric reduction
+遗传规划：genetic programming
+离心力：Centrifugal force
+血液净化：blood purification
+急性胆囊炎：Acute cholecystitis
+手术入路：operative approach
+卫生服务：health service
+光学相干断层扫描：optical coherence tomography
+传染病模型：Epidemic model
+连作：continuous cropping
+延迟时间：Delay time
+电偶腐蚀：galvanic corrosion
+PCR扩增：PCR amplification
+蒙特卡洛模拟：Monte Carlo simulation
+地表温度：land surface temperature
+蛋白激酶：protein kinase
+心房纤颤：Atrial fibrillation
+骨髓基质干细胞：Bone marrow stromal cells
+长时程增强：Long-term potentiation
+预后因素：Prognostic factors
+功能磁共振成像：Functional magnetic resonance imaging
+叶表皮：Leaf epidermis
+周围神经：Peripheral nerves
+响应面：response surface
+情景分析：scenario analysis
+水质分析：water quality analysis
+高效毛细管电泳：high performance capillary electrophoresis
+生长抑制：growth inhibition
+血管紧张素转换酶：angiotensin converting enzyme
+系统软件：system software
+罗氏沼虾：Macrobrachium rosenbergii
+水曲柳：Fraxinus mandshurica
+DNA测序：DNA sequencing
+呼吸道感染：Respiratory tract infections
+相位补偿：phase compensation
+血流速度：Blood flow velocity
+肾囊肿：renal cyst
+内固定术：internal fixation
+服务模式：service model
+对比敏感度：contrast sensitivity
+Markov模型：Markov model
+比热：specific heat
+荧光定量PCR：Real-time PCR
+钝顶螺旋藻：Spirulina platensis
+信息交换：information exchange
+交叉感染：cross infection
+参考值：Reference value
+缺血/再灌注损伤：ischemia/reperfusion injury
+结核杆菌：Mycobacterium tuberculosis
+睾丸扭转：testicular torsion
+霉酚酸酯：Mycophenolate mofetil
+网络管理系统：network management system
+应变能：strain energy
+安全防护：safety protection
+抗真菌活性：antifungal activity
+脂蛋白脂酶：Lipoprotein lipase
+PTEN基因：PTEN gene
+灭活疫苗：Inactivated vaccine
+数字化医院：Digital hospital
+非酒精性脂肪性肝病：Nonalcoholic fatty liver disease
+术后并发症：postoperative complications
+恶性黑色素瘤：Malignant melanoma
+低温等离子体：low temperature plasma
+二硫化碳：carbon disulfide
+最小二乘支持向量机：least squares support vector machine
+曲面造型：surface modeling
+教学法：teaching methods
+相位测量：phase measurement
+药物筛选：drug screening
+膜蛋白：membrane protein
+头颈部肿瘤：Head and Neck Neoplasms
+深静脉血栓：Deep venous thrombosis
+断层解剖：sectional anatomy
+克罗恩病：Crohn's disease
+阻塞性黄疸：obstructive jaundice
+血管内超声：intravascular ultrasound
+理论研究：theory research
+冷冻干燥：freeze drying
+X-射线衍射：X-ray diffraction
+呼吸系统：respiratory system
+防范措施：preventive measures
+缺失数据：missing data
+副作用：Side effect
+信号肽：signal peptide
+农村妇女：Rural women
+调节性T细胞：Regulatory T cell
+狂犬病毒：Rabies virus
+细胞迁移：cell migration
+定量组织速度成像：Quantitative tissue velocity imaging
+缺血性卒中：ischemic stroke
+云计算：cloud computing
+对策研究：countermeasure study
+金属配合物：metal complex
+浅层地下水：shallow groundwater
+反应时间：reaction time
+接口设计：Interface design
+技能训练：Skill training
+骶髂关节：sacroiliac joint
+神经阻滞：Nerve block
+异物：Foreign body
+神经外科手术：Neurosurgical procedures
+牙龈卟啉单胞菌：porphyromonas gingivalis
+质性研究：qualitative research
+螺旋藻：Spirulina platensis
+多环芳烃：polycyclic aromatic hydrocarbons(PAHs)
+噪声污染：noise pollution
+金属元素：metal element
+顶空气相色谱法：headspace gas chromatography
+抗病毒活性：Antiviral activity
+风险因素：risk factor
+生理效应：Physiological effect
+MonteCarlo方法：Monte Carlo method
+Toll样受体4：Toll-like receptor 4
+注意缺陷多动障碍：Attention deficit hyperactivity disorder
+癌痛：Cancer pain
+新生儿窒息：Neonatal asphyxia
+慢性应激：Chronic stress
+抗肿瘤联合化疗方案：antineoplastic combined chemotherapy protocols
+慢性胰腺炎：Chronic Pancreatitis
+翻译方法：translation methods
+米根霉：Rhizopus oryzae
+膜分离技术：membrane separation technology
+维生素D：vitamin D
+电子显微镜：electron microscope
+白僵菌：Beauveria bassiana
+肝豆状核变性：Hepatolenticular degeneration
+健康知识：Health Knowledge
+运动疗法：exercise therapy
+系膜细胞：Mesangial cells
+基因打靶：Gene targeting
+人工授精：Artificial insemination
+Adaboost算法：Adaboost Algorithm
+辐射剂量：radiation dose
+植物乳杆菌：Lactobacillus plantarum
+阳离子交换树脂：cation exchange resin
+近似熵：approximate entropy
+木麻黄：Casuarina equisetifolia
+红粘土：red clay
+路径分析：path analysis
+外周血单个核细胞：peripheral blood mononuclear cells
+失效率：failure rate
+组织多普勒成像：Tissue Doppler imaging
+椎间盘：Intervertebral disk
+移植物抗宿主病：Graft versus host disease
+G蛋白：G protein
+缺血-再灌注损伤：Ischemia-reperfusion injury
+乙肝疫苗：Hepatitis B vaccine
+年龄因素：age factors
+基体改进剂：Matrix modifier
+生活饮用水：drinking water
+多尺度分析：multi-scale analysis
+气体交换：gas exchange
+波速：wave velocity
+药物设计：Drug design
+石杉碱甲：Huperzine A
+内质网：endoplasmic reticulum
+种群密度：population density
+细菌移位：bacterial translocation
+神经元特异性烯醇化酶：Neuron specific enolase
+T细胞：T cells
+鼻咽肿瘤/放射疗法：Nasopharyngeal neoplasms/radiotherapy
+基因重排：Gene rearrangement
+反相乳液聚合：inverse emulsion polymerization
+可持续性发展：sustainable development
+PCR检测：PCR detection
+代谢工程：metabolic engineering
+致病菌：pathogenic bacteria
+定位精度：Positioning accuracy
+肿瘤标记：Tumor Markers
+股骨骨折：femoral fracture
+VEGF：vascular endothelial growth factor
+中西医结合：integrated traditional Chinese and Western medicine
+癌前病变：precancerous lesions
+正骨手法：Bone setting manipulation
+甲状腺癌：thyroid cancer
+角膜新生血管：corneal neovascularization
+医疗保障：medical Security
+慢性咳嗽：chronic cough
+糖尿病性视网膜病变：diabetic retinopathy
+骨移植：bone graft
+食管鳞状细胞癌：esophageal squamous cell carcinoma
+缺血性心脏病：Ischemic heart disease
+濒危植物：endangered plant
+碱性蛋白酶：alkaline protease
+痕量分析：trace analysis
+吸水率：water absorption
+实时荧光定量PCR：real-time PCR
+中华鳖：Trionyx sinensis
+理论体系：theory system
+共振频率：resonance frequency
+锯缘青蟹：Scylla serrata
+转移概率：transition probability
+心衰：heart failure
+木荷：Schima superba
+孕妇：pregnant woman
+海马神经元：hippocampal neuron
+高血压脑出血：hypertensive intracerebral hemorrhage
+钙超载：Calcium overload
+护生：nursing students
+弥漫性轴索损伤：diffuse axonal injury
+肝功能衰竭：liver failure
+骨形态发生蛋白质类：Bone morphogenetic proteins
+网络信息资源：network information resource
+H2O2：hydrogen peroxide
+混合溶剂：mixed solvent
+偏最小二乘法：Partial least squares
+比较研究：comparison study
+危险性评估：Risk assessment
+制约因素：restrictive factor
+主成份分析：principal component analysis
+审美意识：Aesthetic Consciousness
+红细胞膜：erythrocyte membrane
+生长和发育：Growth and Development
+系统识别：system identification
+基础工程：foundation engineering
+靶控输注：target-controlled infusion
+短串联重复序列：short tandem repeats
+胜任力模型：Competency Model
+语言测试：language testing
+白细胞：White Blood Cell
+原位聚合：in situ polymerization
+降解机理：degradation mechanism
+生物相容性材料：Biocompatible materials
+生长因子：growth factors
+研究方向：research direction
+渗透压：osmotic pressure
+社会角色：social role
+血细胞：blood cell
+心肌酶：Myocardial enzyme
+炎症反应：inflammatory response
+法洛四联症：Tetralogy of Fallot
+髋假体：hip prosthesis
+子宫动脉：uterine artery
+急性心肌缺血：acute myocardial ischemia
+模糊语言：Fuzzy Language
+静脉麻醉：Intravenous anesthesia
+校园网络：campus network
+碘盐：Iodized salt
+氯乙酸：chloroacetic acid
+中性红：Neutral Red
+思维方式：way of thinking
+矿泉水：mineral water
+重组人生长激素：recombinant human growth hormone
+认知障碍：cognition disorders
+肝转移：liver metastasis
+腓肠神经：Sural nerve
+门脉高压症：Portal hypertension
+Bax蛋白：Bax protein
+狂犬病病毒：rabies virus
+骨巨细胞瘤：giant cell tumor of bone
+噬菌体抗体库：Phage antibody library
+基因功能：Gene function
+教学平台：Teaching platform
+挥发油：volatile oils
+电磁阀：electromagnetic valve
+过氧乙酸：peracetic acid
+多项式拟合：polynomial fitting
+微生物群落：microbial community
+膜电位：membrane potential
+酶电极：enzyme electrode
+力反馈：Force Feedback
+CT图像：CT image
+干细胞因子：stem cell factor
+外膜蛋白：outer membrane protein
+脑死亡：brain death
+C反应蛋白质：C-reactive protein
+龈沟液：Gingival crevicular fluid
+微卫星不稳定性：microsatellite instability
+革兰阴性杆菌：Gram-negative bacilli
+cDNA微阵列：cDNA microarray
+髋脱位：Hip dislocation
+多元回归分析：multiple regression analysis
+理化性质：physicochemical property
+自来水：Tap water
+水蒸气蒸馏：steam distillation
+logistic回归模型：logistic regression model
+空气消毒：air disinfection
+数据库管理：Database management
+麻疹病毒：measles virus
+人格特征：personality characteristics
+临床诊断：clinical diagnosis
+条斑紫菜：Porphyra Yezoensis
+淋巴细胞增殖：Lymphocyte proliferation
+血尿酸：Serum uric acid
+大脑皮层：cerebral cortex
+明胶酶B：Gelatinase B
+传统知识：traditional knowledge
+酸值：acid value
+总皂苷：Total saponins
+盐酸二甲双胍：Metformin hydrochloride
+非球面：aspheric surface
+结构稳定性：structural stability
+16S rRNA基因：16S rRNA gene
+板蓝根：Radix Isatidis
+中国西部：Western China
+两性霉素B：Amphotericin B
+切应力：shear stress
+HepG2细胞：HepG2 cell
+绞股蓝：Gynostemma pentaphyllum
+霍尔效应：Hall effect
+牙种植体：dental implant
+副溶血弧菌：Vibrio parahaemolyticus
+支气管动脉：bronchial artery
+肾透析：Renal dialysis
+肝炎病毒：Hepatitis virus
+上颌窦：maxillary sinus
+恒河猴：rhesus monkey
+慢性肾衰：Chronic renal failure
+教学效率：teaching efficiency
+Balb/c小鼠：Balb/c mice
+微创性：Minimally Invasive
+鲍氏不动杆菌：Acinetobacter baumannii
+铁路运输：railway transport
+脉冲电流：pulse current
+分子力学：molecular mechanics
+Heck反应：Heck reaction
+决策树：decision trees
+现状分析：present situation analysis
+关联分析：correlation analysis
+医用光学与生物技术：medical optics and biotechnology
+数据整合：data integration
+压缩空气：compressed air
+图像传输：image transmission
+交感神经：sympathetic nerve
+横断面研究：Cross-sectional studies
+刚地弓形虫：Toxoplasma gondii
+突触可塑性：synaptic plasticity
+应激反应：stress reaction
+后交叉韧带：posterior cruciate ligament
+体成分：Body composition
+糖耐量减低：Impaired glucose tolerance
+维持性血液透析：Maintenance hemodialysis
+精神障碍：Mental disorder
+下腔静脉：Inferior vena cava
+出生体重：Birth weight
+高原训练：altitude training
+原发性胆汁性肝硬化：primary biliary cirrhosis
+条件概率：conditional probability
+食品污染：Food Contamination
+发展现状：Development situation
+动态光散射：Dynamic light scattering
+成像系统：imaging system
+研究与开发：research and development
+会计信息失真：accounting information distortion
+蛋白质纯化：protein purification
+心肌肌钙蛋白I：Cardiac troponin I
+醛糖还原酶：Aldose Reductase
+葡萄胎：Hydatidiform mole
+寡核苷酸序列分析：Oligonucleotide array sequence analysis
+蛋白激酶B：Protein Kinase B
+慢性盆腔炎：Chronic pelvic inflammatory disease
+磁共振血管成像：Magnetic resonance angiography
+肾动脉狭窄：renal artery stenosis
+NADPH氧化酶：NADPH oxidase
+钙通道：Calcium channels
+冠状动脉硬化：Coronary arteriosclerosis
+胸膜肺炎放线杆菌：Actinobacillus pleuropneumoniae
+钼酸铵：ammonium molybdate
+市场导向：market orientation
+桑叶：mulberry leaves
+选煤：coal preparation
+室温：room temperature
+Diels-Alder反应：Diels-Alder reaction
+生长率：growth rate
+基态：ground state
+bax基因：bax gene
+限制性片段长度多态性：restriction fragment length polymorphism
+学习方法：Learning method
+基因定位：gene location
+血铅：blood lead
+呼吸功能试验：Respiratory function tests
+神经病理性疼痛：neuropathic pain
+信号通路：Signal pathway
+随访：Follow up
+缺氧缺血性脑病：Hypoxic ischemic encephalopathy
+波前像差：wavefront aberration
+身高：body height
+会计电算化：computerized accounting
+智能机器人：Intelligent robot
+用户体验：user experience
+控制模式：control mode
+维生素B12：vitamin B12
+唾液酸：Sialic acid
+贵金属：noble metal
+应力应变：stress and strain
+室内空气质量：indoor air quality
+甲状腺激素：thyroid hormones
+相对运动：relative motion
+血小板活化因子：Platelet activating factor
+干扰素Ⅱ型：Interferon Type Ⅱ
+条件性位置偏爱：conditioned place preference
+综合治疗：Combined therapy
+超前镇痛：preemptive analgesia
+性传播疾病：Sexually transmitted diseases
+感染控制：Infection control
+慢性疲劳综合征：chronic fatigue syndrome
+杂合性缺失：loss of heterozygosity
+心脏手术：Cardiac surgery
+激光干涉仪：laser interferometer
+鱼腥草：Houttuynia Cordata Thunb
+细胞免疫：cell immunity
+酶活性：enzymatic activity
+文献综述：literature review
+黄嘌呤氧化酶：xanthine oxidase
+系统生物学：systems biology
+实时定量PCR：real-time quantitative PCR
+脑组织：brain tissue
+人工关节：artificial joint
+历史背景：Historical background
+猪细小病毒：porcine parvovirus
+凝血酶原时间：prothrombin time
+颞叶癫痫：temporal lobe epilepsy
+肾疾病：kidney diseases
+肝功能：Hepatic function
+雪旺细胞：Schwann cell
+Pilon骨折：Pilon fracture
+肿瘤标记物：Tumor marker
+瘦素受体：Leptin receptor
+经皮椎体成形术：percutaneous vertebroplasty
+齿状回：dentate gyrus
+细胞模型：Cell model
+左室重构：left ventricular remodeling
+SRY基因：SRY gene
+全民健身：national fitness
+弯曲强度：bending strength
+结合强度：bond strength
+基本原理：basic principle
+危害分析：hazard analysis
+心理压力：psychological pressure
+动物福利：animal welfare
+职业素质：professional quality
+肺泡巨噬细胞：alveolar macrophage
+细菌培养：bacterial culture
+视觉诱发电位：Visual Evoked Potential
+出生缺陷：Birth defects
+牙髓：dental pulp
+食管静脉曲张：Esophageal Varices
+喉返神经：Recurrent laryngeal nerve
+垂体肿瘤：Pituitary neoplasms
+维生素D受体：vitamin D receptor
+青年教师：Young teacher
+萌发率：germination rate
+真空干燥：vacuum drying
+苦瓜：balsam pear
+流态：flow pattern
+离子选择性电极：ion-selective electrode
+高碘酸钾：Potassium periodate
+人体：human body
+表面工程：surface engineering
+骨吸收：bone resorption
+混沌吸引子：chaotic attractor
+基质金属蛋白酶类：Matrix metalloproteinases
+Cajal间质细胞：Interstitial Cells of Cajal
+全口义齿：complete denture
+个体差异：Individual differences
+内耳：Inner ear
+语言艺术：Language art
+肠黏膜：Intestinal mucosa
+无标度网络：scale-free network
+磷酸钙：calcium phosphate
+过氧化苯甲酰：benzoyl peroxide
+方位角：azimuth angle
+关键控制点：critical control point
+模拟试验：simulation experiment
+马氏距离：Mahalanobis Distance
+压电效应：piezoelectric effect
+书评：book review
+α-平滑肌肌动蛋白：α-smooth muscle actin
+乳头溢液：Nipple discharge
+碱烧伤：Alkali burn
+上消化道出血：Upper gastrointestinal hemorrhage
+干眼：dry eye
+诊断价值：diagnostic value
+视网膜色素变性：retinitis pigmentosa
+cDNA克隆：cDNA clone
+类风湿因子：rheumatoid factor
+海水浸泡：Seawater immersion
+价值体系：value system
+灰色关联分析：grey relation analysis
+硅酸钠：sodium silicate
+硝酸银：silver nitrate
+能量消耗：energy consumption
+离子强度：ionic strength
+水体污染：water pollution
+坛紫菜：Porphyra haitanensis
+流程再造：business process reengineering
+次生代谢产物：secondary metabolites
+氟比洛芬酯：Flurbiprofen Axetil
+系统评价：system evaluation
+TaqMan探针：TaqMan probe
+基因表达谱：Gene expression profiling
+血瘀：Blood stasis
+骨髓增生异常综合征：Myelodysplastic Syndromes
+人型支原体：Mycoplasma hominis
+肾动脉：Renal artery
+左心室：left ventricle
+中和抗体：neutralizing antibody
+视皮层：visual cortex
+内部营销：internal marketing
+超临界流体：supercritical fluids
+数据库：data bank
+曲率半径：curvature radius
+化学稳定性：chemical stability
+环境激素：environmental hormone
+粗糙表面：rough surface
+氧化胁迫：oxidative stress
+三磷酸腺苷：adenosine triphosphate
+副溶血性弧菌：Vibrio parahaemolyticus
+阿德福韦酯：adefovir dipivoxil
+农村卫生：Rural health
+乳清蛋白：Whey protein
+亚甲基四氢叶酸还原酶：methylenetetrahydrofolate reductase
+前列腺癌：Prostatic cancer
+羊水：Amniotic fluid
+音乐疗法：music therapy
+HIV感染：HIV infection
+口腔扁平苔藓：Oral lichen planus
+肾小管上皮细胞：renal tubular epithelial cell
+急性髓系白血病：acute myeloid leukemia
+无创正压通气：noninvasive positive pressure ventilation
+单光子：single photon
+胰岛素受体：Insulin receptor
+顶体反应：acrosome reaction
+物流服务：logistics service
+应急预案：emergency Plan
+电化学聚合：Electrochemical polymerization
+利用率：utilization rate
+实验教学体系：experimental teaching system
+组合化学：combinatorial chemistry
+急性中毒：Acute poisoning
+等效电路模型：equivalent circuit model
+自回归模型：autoregressive model
+混合系统：hybrid system
+肥厚型心肌病：Hypertrophic cardiomyopathy
+英语口语：Spoken English
+胸腰椎骨折：thoracolumbar fracture
+颞叶：temporal lobe
+层次聚类：hierarchical clustering
+响应面分析法：Response surface methodology
+对数正态分布：lognormal distribution
+何首乌：polygonum multiflorum thunb
+不良反应：side effect
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+一氧化碳中毒：carbon monoxide poisoning
+盐酸戊乙奎醚：penehyclidine hydrochloride
+时间窗：time window
+生物组织：Biological tissue
+阳性率：Positive rate
+心脏瓣膜：Heart valve
+肝病：liver disease
+丁酸钠：sodium butyrate
+寻常型银屑病：psoriasis vulgaris
+月经周期：Menstrual cycle
+内皮型一氧化氮合酶：Endothelial nitric oxide synthase
+氧化低密度脂蛋白：oxidized low density lipoprotein
+增生性玻璃体视网膜病变：proliferative vitreoretinopathy
+认知方式：cognitive style
+绿色合成：green synthesis
+联合毒性：joint toxicity
+化学法：chemical method
+黄色素：yellow pigment
+柱前衍生：Pre-column derivatization
+生精细胞：spermatogenic cell
+社会心理学：social psychology
+非酒精性脂肪性肝炎：Nonalcoholic steatohepatitis
+早期肠内营养：early enteral nutrition
+基质金属蛋白酶9：Matrix metalloproteinase-9
+卵巢早衰：premature ovarian failure
+冠脉造影：Coronary angiography
+镇痛作用：analgesic effect
+强迫症：Obsessive-compulsive disorder
+功能基因组学：Functional genomics
+病例-对照研究：case-control study
+引种栽培：introduction and cultivation
+急性肾衰竭：acute renal failure
+仿生合成：biomimetic synthesis
+模拟系统：simulation system
+动力学参数：kinetic parameter
+提取率：extraction rate
+苗族：Miao nationality
+对流换热：convection heat transfer
+群速度：group velocity
+酒石酸：tartaric acid
+接触压力：contact pressure
+蛋白芯片：protein chip
+丙戊酸钠：sodium valproate
+硬膜外阻滞：Epidural block
+空肠弯曲菌：Campylobacter jejuni
+巨噬细胞移动抑制因子：Macrophage Migration Inhibitory Factor
+食管肿瘤/放射疗法：Esophageal neoplasms/radiotherapy
+自然杀伤细胞：Natural killer cell
+蛋白激酶类：protein kinases
+面肌痉挛：hemifacial spasm
+髋臼骨折：acetabular fracture
+眼内压：intraocular pressure
+口腔癌：Oral cancer
+肩锁关节：Acromioclavicular joint
+胃腺癌：gastric adenocarcinoma
+睫状神经营养因子：ciliary neurotrophic factor
+视网膜静脉阻塞：Retinal vein occlusion
+特征选取：feature selection
+能量分布：Energy distribution
+黄连：rhizoma coptidis
+优化分析：optimization analysis
+色彩空间：color space
+队列研究：cohort study
+细胞悬浮培养：cell suspension culture
+差异显示：differential display
+清开灵注射液：Qingkailing injection
+组织创新：Organization innovation
+血小板计数：platelet count
+事件相关电位：Event-related potential
+胎膜早破：Premature rupture of membranes
+玻璃酸钠：sodium hyaluronate
+肠肿瘤：Intestinal Neoplasms
+病毒分离：Virus isolation
+古籍：ancient books
+XML加密：XML encryption
+相对分子质量：relative molecular mass
+安全措施：safety measure
+灰树花：Grifola frondosa
+超分子化学：supramolecular chemistry
+反相悬浮聚合：Inverse suspension polymerization
+弱势群体：disadvantaged groups
+乳酸乳球菌：Lactococcus lactis
+TOPSIS法：TOPSIS method
+新西兰：New Zealand
+诱导期：induction period
+红外遥控：Infrared remote control
+植物资源：plant resource
+贝叶斯方法：Bayesian method
+围术期：Perioperative period
+辨证：syndrome differentiation
+肠道营养：Enteral nutrition
+药物滥用：Drug abuse
+髓鞘碱性蛋白：myelin basic protein
+脉搏波：pulse wave
+细胞低氧：Cell hypoxia
+人工肝：artificial liver
+身体形态：body shape
+浊点萃取：cloud point extraction
+离子选择电极：ion-selective electrode
+茜素红：Alizarin red
+甘草：Glycyrrhiza uralensis
+社会影响：social influence
+变化趋势：change trend
+分子遗传学：molecular genetics
+全血：whole blood
+氨基酸序列：amino acid sequence
+淀粉含量：starch content
+聚丙烯酰胺水凝胶：Polyacrylamide hydrogel
+早产：Premature delivery
+电子病历：Electronic medical record
+肿瘤侵润：Neoplasm invasiveness
+心肌：cardiac muscle
+肺动脉栓塞：Pulmonary embolism
+神经损伤：nerve injury
+内质网应激：endoplasmic reticulum stress
+素质结构：quality structure
+医学图像处理：medical image processing
+复方甘草酸苷：Compound glycyrrhizin
+听力损失：Hearing loss
+数学建模：mathematics modeling
+吸收剂量：absorbed dose
+乙酸酐：acetic anhydride
+甲状旁腺激素：parathyroid hormone
+口腔：Oral cavity
+教育培训：education and training
+果蝇：Drosophila melanogaster
+Wistar大鼠：Wistar rat
+骨折：bone fracture
+先天性白内障：congenital cataract
+过敏性鼻炎：allergic rhinitis
+冠状动脉粥样硬化性心脏病：Coronary heart disease
+肺血栓栓塞症：Pulmonary thromboembolism
+性比：sex ratio
+血液粘度：blood viscosity
+抗性基因：resistance gene
+结构学习：Structure learning
+结构与性能：structure and property
+功能食品：functional food
+胞外多糖：extracellular polysaccharide
+枯草杆菌：Bacillus subtilis
+葡萄籽：grape seed
+富马酸：Fumaric acid
+三元配合物：Ternary complex
+实验设计：experimental design
+透皮吸收：percutaneous absorption
+GC-MS分析：GC-MS analysis
+α-亚麻酸：α-linolenic acid
+信息整合：Information Integration
+信息分析：information analysis
+胫骨骨折：tibial fracture
+海绵状血管瘤：cavernous hemangioma
+医学院校：medical college
+免疫机能：immune function
+桡骨骨折：radius fractures
+分娩镇痛：labor analgesia
+肌萎缩侧索硬化：amyotrophic lateral sclerosis
+耐力训练：endurance training
+脊髓背角：Spinal dorsal horn
+学生管理：students management
+特质焦虑：Trait anxiety
+核酸疫苗：nucleic acid vaccine
+HN基因：HN gene
+腹针：Abdominal acupuncture
+脂肪酸类：Fatty acids
+工艺优化：technology optimization
+模板法：template method
+原子吸收分光光度法：atomic absorption spectrophotometry
+六价铬：hexavalent chromium
+吖啶橙：acridine orange
+有机高分子材料：organic polymer materials
+甘草次酸：glycyrrhetinic acid
+电化学传感器：electrochemical sensor
+分子机理：molecular mechanism
+疾病控制：Disease control
+人员素质：personnel quality
+人工骨：artificial bone
+丙戊酸：valproic acid
+异步通信：Asynchronous Communication
+身体成分：Body composition
+高频超声：high frequency ultrasound
+卒中单元：stroke unit
+广州管圆线虫：Angiostrongylus cantonensis
+痰热清注射液：Tanreqing Injection
+室性心动过速：Ventricular Tachycardia
+血管重构：vascular remodeling
+医学伦理：Medical ethics
+淋病奈瑟菌：Neisseria gonorrhoeae
+糖尿病视网膜病：Diabetic retinopathy
+心室颤动：Ventricular fibrillation
+学术史：academic history
+信任机制：trust mechanism
+会话分析：Conversation analysis
+断裂机理：fracture mechanism
+发散思维：divergent thinking
+定量研究：quantitative research
+形状记忆：shape memory
+教育模式：education model
+分配系数：distribution coefficient
+硫酸锌：zinc sulfate
+基地建设：base construction
+电泳沉积：electrophoretic deposition
+声场：sound field
+依法行政：administration according to law
+辐射效应：Radiation effect
+睡眠障碍：Sleep disorders
+报警系统：alarm system
+茉莉酸甲酯：methyl jasmonate
+颈内动脉：Internal carotid artery
+社区获得性肺炎：Community-acquired pneumonia
+过敏性休克：Anaphylactic shock
+腺性膀胱炎：cystitis glandularis
+妊娠高血压综合征：Pregnancy induced hypertension
+服务补救：service recovery
+周围神经病变：Peripheral neuropathy
+性功能：sexual function
+癫痫持续状态：status epilepticus
+危机干预：crisis intervention
+E2基因：E2 gene
+旁观者效应：Bystander effect
+硫酸钡：barium sulfate
+气象条件：meteorological conditions
+突变：Abrupt change
+技术要求：technical requirement
+健康风险评价：health risk assessment
+多孔陶瓷：porous ceramic
+基因流：gene flow
+靶向治疗：target therapy
+丹参注射液：Danshen injection
+超声疗法：Ultrasonic therapy
+天麻：Gastrodia elata
+新体系：new system
+人工智能：artificial intelligent
+DNA合成：DNA synthesis
+N-S方程：N-S equations
+限定日剂量：Defined daily dose
+外科治疗：Surgical therapy
+积极心理学：positive psychology
+拔牙：Tooth extraction
+Fas配体：Fas ligand
+重症肺炎：severe pneumonia
+慢性重型肝炎：chronic severe hepatitis
+生殖器疱疹：Genital herpes
+缺氧缺血性脑损伤：hypoxic-ischemic brain damage
+咳嗽变异性哮喘：cough variant asthma
+前路减压：anterior decompression
+VP1基因：VP1 gene
+静脉注射：Intravenous injection
+食管和胃静脉曲张：Esophageal and gastric varices
+手损伤：Hand injuries
+侵袭转移：Invasion and metastasis
+丹红注射液：Danhong injection
+颈动脉体瘤：carotid body tumor
+接枝聚合：graft polymerization
+应力腐蚀：stress corrosion cracking
+疗效观察：Clinical observation
+脉冲发生器：pulse generator
+亚硫酸钠：sodium sulfite
+食物链：food chain
+热力学参数：thermodynamic parameters
+DNA多态性：DNA polymorphism
+黄芪多糖：Astragalus polysaccharides
+马来酸氯苯那敏：chlorphenamine maleate
+教学理论：teaching theory
+呼吸道：respiratory tract
+光镊：optical tweezers
+动刚度：dynamic stiffness
+中世纪：Middle Ages
+精浆：seminal plasma
+转基因动物：transgenic animal
+克山病：Keshan disease
+辅助化疗：adjuvant chemotherapy
+Ki-67抗原：Ki-67 Antigen
+CD40配体：CD40 ligand
+易损斑块：vulnerable plaque
+呼吸功能不全：Respiratory insufficiency
+下咽肿瘤：Hypopharyngeal neoplasms
+心肌桥：myocardial bridge
+颌下腺：submandibular gland
+细粒棘球绦虫：Echinococcus granulosus
+军事医学：military medicine
+心肌肥大：cardiac hypertrophy
+原位肝移植：orthotopic liver transplantation
+泪膜：tear film
+肿瘤浸润：neoplasm invasiveness
+胆管损伤：Bile duct injury
+慢性精神分裂症：Chronic schizophrenia
+垂直传播：Vertical transmission
+海参：sea cucumber
+大黄：Radix Et Rhizoma Rhei
+热循环：thermal cycling
+创新人才：innovative talent
+产权制度：property rights system
+碳酸锂：Lithium carbonate
+空间频率：spatial frequency
+自然选择：natural selection
+胆汁酸：Bile acid
+泊松分布：poisson distribution
+毛细胞：hair cells
+猕猴：rhesus monkey
+正畸治疗：orthodontic treatment
+超声诊断：Ultrasound diagnosis
+血清铁蛋白：Serum ferritin
+脾虚：spleen deficiency
+糖尿病心肌病：diabetic cardiomyopathy
+肝脏移植：Liver transplantation
+社区管理：Community Management
+Duffing振子：Duffing oscillator
+火焰原子吸收法：flame atomic absorption spectrometry
+氧化淀粉：oxidized starch
+层状结构：layered structure
+纤维形态：Fiber morphology
+计算机辅助制造：computer aided manufacturing
+系统发育树：phylogenetic tree
+胰蛋白酶抑制剂：Trypsin inhibitor
+低压：low pressure
+Monte-Carlo模拟：Monte-Carlo simulation
+乌索酸：Ursolic acid
+生命哲学：life philosophy
+人参皂苷Re：ginsenoside Re
+细胞培养技术：cell culture techniques
+非物质文化遗产：non-material cultural heritage
+旅客列车：passenger train
+先验知识：prior knowledge
+藏药：Tibetan medicine
+研究设计：research design
+血乳酸：blood lactic acid
+社会管理：social management
+腹部手术：abdominal operation
+原发性痛经：primary dysmenorrhea
+脑血管疾病：Cerebrovascular disease
+应变率成像：Strain rate imaging
+肺动脉高压：Pulmonary arterial hypertension
+分泌性中耳炎：Secretory otitis media
+新生大鼠：neonatal rats
+病毒载量：viral load
+胸苷激酶：Thymidine kinase
+学术质量：Academic quality
+紧密连接：Tight junction
+饮水：drinking water
+公共场所：public places
+磁处理：magnetic treatment
+有丝分裂指数：mitotic index
+玻璃化温度：glass transition temperature
+抗癌活性：anticancer activity
+注气：gas injection
+生物学行为：biological behavior
+大蒜油：Garlic oil
+主成分：Principal component
+三角帆蚌：Hyriopsis cumingii
+管理方法：management method
+溶藻弧菌：Vibrio alginolyticus
+基因表达式编程：gene expression programming
+空气品质：air quality
+海洋细菌：marine bacteria
+加工品质：Processing quality
+人文素质：humane quality
+体内：in vivo
+表皮葡萄球菌：staphylococcus epidermidis
+DNA芯片：DNA chip
+行为干预：Behavior intervention
+联系数：connection number
+肾性贫血：renal anemia
+体检：Physical examination
+外固定器：external fixator
+胰腺移植：Pancreas transplantation
+医疗事故：medical malpractice
+牙胚：tooth germ
+结核分支杆菌：Mycobacterium tuberculosis
+重组杆状病毒：Recombinant baculovirus
+基因沉默：Gene silence
+医学英语：Medical English
+中国林蛙：Rana chensinensis
+空气净化：Air purification
+技术改进：technical improvement
+孔雀绿：malachite green
+原子吸收光谱：Atomic Absorption Spectrometry
+弹性模量：Young's modulus
+深层培养：submerged culture
+改性淀粉：modified starch
+散射系数：scattering coefficient
+烟台市：Yantai City
+相关因素：relevant factors
+生物信息学分析：bioinformatics analysis
+调查与分析：Investigation and analysis
+放射损伤：Radiation injury
+毛细管电色谱：capillary electrochromatography
+质膜：plasma membrane
+超声造影：Contrast-enhanced ultrasonography
+扩散加权成像：Diffusion-weighted imaging
+淋球菌：Neisseria gonorrhoeae
+胎儿生长受限：Fetal growth restriction
+肾纤维化：Renal fibrosis
+人乳头状瘤病毒：Human papillomavirus
+表皮干细胞：epidermal stem cells
+血必净注射液：Xuebijing injection
+血管内膜：Tunica intima
+冠状血管：Coronary vessels
+脐带血：umbilical cord blood
+二尖瓣狭窄：Mitral stenosis
+家庭功能：Family function
+认知发展：cognitive development
+图像处理：image manipulation
+活性聚合：living polymerization
+人参皂苷Rb1：Ginsenoside Rb1
+氢氟酸：hydrofluoric acid
+水质预测：water quality prediction
+棕榈油：palm oil
+多元线性回归：multivariate linear regression
+卫生调查：Health survey
+雷州半岛：Leizhou Peninsula
+高分子材料：polymer material
+欧拉方程：Euler equation
+珊瑚礁：coral reef
+创造能力：creative ability
+正交投影：Orthogonal projection
+低剂量辐射：Low dose radiation
+精原干细胞：Spermatogonial stem cells
+皮肤缺损：Skin defect
+长期毒性：long-term toxicity
+手足口病：Hand-foot-mouth disease
+鼻内镜：nasal endoscope
+绝经后骨质疏松症：postmenopausal osteoporosis
+原核表达载体：Prokaryotic expression vector
+Lewis肺癌：Lewis lung cancer
+脐带：umbilical cord
+视功能：Visual function
+四君子汤：SiJunZi Decoction
+甲状腺功能：Thyroid function
+骨科手术方法：Orthopaedics operative methods
+血栓前状态：Prethrombotic state
+斑秃：Alopecia areata
+多中心研究：multicenter studies
+残疾人：the disabled
+军事人员：Military personnel
+存储系统：storage system
+半参数回归模型：semiparametric regression model
+超声空化：ultrasonic cavitation
+发光二极管：light emitting diode
+降解动力学：degradation kinetics
+超临界萃取：supercritical extraction
+脉冲激光：pulse laser
+畜牧学：animal husbandry
+甲基紫：methyl violet
+监督管理：supervision and management
+层次分析法(AHP)：analytic hierarchy process(AHP)
+饮食习惯：food habits
+医疗：medical treatment
+朱砂叶螨：Tetranychus cinnabarinus
+巢式PCR：nested PCR
+统计分布：statistical distribution
+基于案例推理：Case-based reasoning
+民歌：folk song
+梅毒螺旋体：Treponema pallidum
+特应性皮炎：atopic dermatitis
+细胞黏附：Cell adhesion
+腹腔化疗：Intraperitoneal chemotherapy
+正颌外科：Orthognathic surgery
+心脏病：Heart diseases
+诱导痰：induced sputum
+社交焦虑：social anxiety
+细胞转染：cell transfection
+唇腭裂：Cleft lip and palate
+汉滩病毒：Hantaan virus
+慢性泪囊炎：Chronic dacryocystitis
+脑外伤：traumatic brain injury
+格雷夫斯病：Graves disease
+细胞粘附分子：cell adhesion molecules
+医学图像配准：Medical image registration
+文化教育：cultural education
+RNAi：RNA interference
+铅离子：lead ion
+天津市：Tianjin City
+粒径：particle diameter
+粉末活性炭：powdered activated carbon
+酸性染料：acid dyes
+黄芩：Scutellaria baicalensis
+水源：water source
+生物学效应：biological effects
+成分分析：composition analysis
+胶原纤维：collagen fiber
+富马酸二甲酯：dimethyl fumarate
+转移因子：Transfer factor
+综合性实验：Comprehensive experiment
+光动力治疗：photodynamic therapy
+管理平台：management platform
+服务系统：service system
+验证性因素分析：confirmatory factor analysis
+定性研究：qualitative study
+公共关系：public relation
+同源模建：Homology modeling
+药理活性：pharmacological activities
+跟腱：Achilles tendon
+内膜增生：Intimal hyperplasia
+临床表现：clinical manifestations
+P27蛋白：P27 protein
+卫勤保障：Medical support
+抑郁障碍：Depressive disorder
+明胶酶A：gelatinase A
+痛阈：Pain threshold
+主动轮廓模型：active contour model
+语音处理：speech processing
+信息网格：information grid
+公共品：public goods
+交配型：Mating type
+Wittig反应：Wittig reaction
+石墨炉原子吸收法：Graphite furnace atomic absorption spectrometry
+复合纤维：composite fiber
+金纳米粒子：Gold nanoparticles
+麦麸：wheat bran
+刚果红：congo red
+凝胶电泳：Gel electrophoresis
+角度测量：angle measurement
+动态显示：dynamic display
+原儿茶醛：Protocatechuic aldehyde
+傅立叶级数：Fourier series
+终极关怀：ultimate concern
+酵母双杂交系统：Yeast two-hybrid system
+肱动脉：Brachial artery
+呼吸功能：Respiratory function
+气管插管：Endotracheal Intubation
+甲型肝炎：Hepatitis A
+更年期综合征：Climacteric syndrome
+功能性便秘：functional constipation
+听神经瘤：acoustic neuroma
+手术后期间：postoperative period
+医疗设备维修：medical equipment maintenance
+脑干听觉诱发电位：Brainstem auditory evoked potential
+慢性乙肝：Chronic Hepatitis B
+血红素氧合酶：heme oxygenase
+慢性硬膜下血肿：chronic subdural hematoma
+Westernblot：Western blot
+虚拟手术：virtual surgery
+HA基因：HA gene
+离体：in vitro
+虫生真菌：entomogenous fungi
+N基因：N gene
+临床流行病学：Clinical epidemiology
+蛋白质结构：Protein structure
+多不饱和脂肪酸：polyunsaturated fatty acids
+桐油：Tung oil
+价值链管理：value chain management
+酸水解：acid hydrolysis
+药物合成：drug synthesis
+柱色谱：Column chromatography
+活性成分：Active component
+青海：Qinghai Province
+职业病：Occupational disease
+樱桃番茄：cherry tomato
+田口方法：Taguchi Method
+苯甲酸钠：sodium benzoate
+桂花：osmanthus fragrans
+西洋参：American ginseng
+教育体系：educational system
+彗星实验：Comet Assay
+CT扫描：CT scanning
+横观各向同性：transversely isotropic
+重心：center of gravity
+分数阶微积分：fractional calculus
+智商：intelligence quotient
+熊去氧胆酸：ursodeoxycholic acid
+核因子κB：Nuclear factor-κB
+肾性高血压：Renal hypertension
+石蜡切片：paraffin section
+干眼症：dry eye
+病理变化：pathological change
+舒张功能：Diastolic function
+急性重症胰腺炎：Severe acute pancreatitis
+选择性剪接：alternative splicing
+膀胱出口梗阻：bladder outlet obstruction
+组织移植：Tissue transplantation
+新生隐球菌：Cryptococcus neoformans
+心血管病：Cardiovascular disease
+嗜人按蚊：Anopheles anthropophagus
+教学语言：Teaching language
+精英教育：Elite education
+英文摘要：English abstract
+胸痛：Chest pain
+表面自由能：surface free energy
+傅里叶变换红外光谱：Fourier Transform Infrared Spectroscopy
+电位滴定法：Potentiometric titration
+实验方法：experimental method
+聚丙烯酸钠：sodium polyacrylate
+抗张强度：tensile strength
+氨基酸组成：Amino acid composition
+竞争吸附：competitive adsorption
+ERP：Enterprise Resource Planning
+创新型人才：innovative talents
+公路运输：highway transportation
+聚丙烯酰胺凝胶电泳：polyacrylamide gel electrophoresis
+余氯：Residual chlorine
+稳健估计：robust estimation
+临床研究：Clinical studies
+行为问题：behavior problem
+细胞分离：cell separation
+蛋白质代谢：protein metabolism
+城乡居民：urban and rural residents
+支气管肺泡灌洗：Bronchoalveolar lavage
+冠状动脉介入治疗：Percutaneous coronary intervention
+新生儿筛查：neonatal screening
+艾迪注射液：Aidi injection
+临床实践：clinical practice
+年龄相关性黄斑变性：age-related macular degeneration
+长春花：Catharanthus roseus
+双盲法：double-blind method
+癌前状态：precancerous conditions
+视黄酸：retinoic acid
+晚期乳腺癌：Advanced breast cancer
+微血管减压术：Microvascular decompression
+城市居民：Urban residents
+风疹病毒：rubella virus
+纳米技术：nanometer technology
+主导作用：leading role
+不确定度分析：uncertainty analysis
+食用油：edible oil
+中性载体：neutral carrier
+微孔膜：microporous membrane
+SO2：sulfur dioxide
+剂量分布：Dose Distribution
+综合管理：integrated management
+溶解度参数：solubility parameter
+保留指数：Retention index
+盾叶薯蓣：Dioscorea Zingiberensis
+华南地区：South China
+磁偶极子：magnetic dipole
+乙醇脱氢酶：Alcohol dehydrogenase
+数据预处理：data pretreatment
+光电效应：photoelectric effect
+实习基地：Practice base
+肽库：peptide library
+等待时间：waiting time
+人口素质：population quality
+能量沉积：Energy deposition
+资源调查：resource investigation
+胼胝体：corpus callosum
+卵巢肿瘤：Ovarian Carcinoma
+血红素加氧酶-1：Heme oxygenase-1
+cDNA表达文库：cDNA expression library
+小分子干扰：small interfering
+内科学：internal medicine
+心包积液：Pericardial effusion
+肿瘤血管生成：tumor angiogenesis
+连接蛋白43：connexin 43
+细胞周期素D1：cyclin D1
+嗜麦芽窄食单胞菌：Stenotrophomonas maltophilia
+肾癌：Renal carcinoma
+乙肝：Hepatitis B
+组织蛋白酶B：cathepsin B
+根管：root canal
+胃酸：Gastric acid
+心理障碍：psychological obstacle
+抗体检测：antibody detection
+形态变异：morphological variation
+二尖瓣：mitral valve
+作用机理：function mechanism
+痕量元素：trace element
+香椿：Toona sinensis
+无机元素：inorganic element
+桔梗：Platycodon grandiflorum
+种群多样性：population diversity
+当归：Radix Angelicae Sinensis
+丁二酸：succinic acid
+品质分析：quality analysis
+自动跟踪：automatic tracking
+γ-亚麻酸：γ-linolenic acid
+超氧化物歧化酶(SOD)：superoxide dismutase(SOD)
+考试改革：examination reform
+房水：Aqueous humor
+中成药：Chinese patent medicine
+农村居民：rural resident
+地方性氟中毒：Endemic fluorosis
+药物监测：drug monitoring
+会计控制：accounting control
+分子伴侣：molecular chaperone
+良性前列腺增生症：Benign prostatic hyperplasia
+鼻黏膜：Nasal mucosa
+立体定位技术：stereotaxic techniques
+基因免疫：gene immunization
+松质骨：cancellous bone
+内皮生长因子：Endothelial growth factors
+表面重建：surface reconstruction
+同源性分析：Homology Analysis
+脑脓肿：brain abscess
+DNA倍体：DNA ploidy
+视网膜新生血管：retinal neovascularization
+肺肿瘤/病理学：lung neoplasms/pathology
+脑保护：Cerebral protection
+似然比：Likelihood ratio
+荷移反应：Charge Transfer Reaction
+煤沥青：coal tar pitch
+混合培养：mixed culture
+Maillard反应：maillard reaction
+石墨炉：graphite furnace
+原位：in situ
+反应级数：reaction order
+食物过敏：food allergy
+时空：time and space
+基因敲除：gene knock-out
+厚度测量：thickness measurement
+氟斑牙：Dental fluorosis
+教育制度：Educational System
+实时PCR：real-time PCR
+表观扩散系数：apparent diffusion coefficient
+糖尿病大鼠：diabetic rat
+云南红豆杉：taxus yunnanensis
+尖孢镰刀菌：Fusarium oxysporum
+人际交往：interpersonal communication
+心肌损伤：Myocardial damage
+甲状腺结节：thyroid nodule
+子宫颈癌：Cervical carcinoma
+胫骨平台骨折：Tibial plateau fracture
+颅内血肿：Intracranial hematoma
+约氏疟原虫：Plasmodium yoelii
+莱姆病：Lyme disease
+缺氧诱导因子-1α：Hypoxia-inducible factor-1α
+急性坏死性胰腺炎：Acute necrotizing pancreatitis
+慢性丙型肝炎：Chronic hepatitis C
+膝骨性关节炎：Knee osteoarthritis
+氧化型低密度脂蛋白：Oxidized low density lipoprotein
+骨髓干细胞：Bone marrow stem cells
+内毒素休克：Endotoxic shock
+病因病机：etiology and pathogenesis
+乳腺肿瘤/药物疗法：breast neoplasms/drug therapy
+冷应激：Cold stress
+HLA抗原：HLA antigens
+局部血流：Regional blood flow
+人体质量指数：Body mass index
+肾细胞：renal cell
+认知能力：cognitive ability
+下呼吸道：lower respiratory tract
+腹部损伤：Abdominal injuries
+股骨颈：Femoral neck
+汶川大地震：Wenchuan Earthquake
+超声检测：ultrasonic inspection
+光谱性质：Spectroscopic properties
+米糠油：Rice bran oil
+应急响应：emergency response
+纳米金：gold nanoparticles
+微波技术：microwave technology
+有限元建模：Finite element modeling
+原子荧光法：atomic fluorescence spectrometry
+KTP晶体：KTP crystal
+核医学：nuclear medicine
+运动方程：motion equation
+地塞米松磷酸钠：Dexamethasone Sodium Phosphate
+明清：the Ming and Qing Dynasties
+碘酸钾：potassium iodate
+嵌合抗体：chimeric antibody
+药物毒性：Drug toxicity
+药品不良反应：adverse drug reactions
+自然辩证法：dialectics of nature
+典型相关：Canonical correlation
+单个核细胞：mononuclear cells
+阿司匹林抵抗：Aspirin resistance
+慢性浅表性胃炎：Chronic superficial gastritis
+基因疫苗：DNA vaccine
+法医人类学：Forensic anthropology
+肝静脉：Hepatic vein
+公益性：public welfare
+随访研究：Follow-up study
+淋巴细胞转化：lymphocyte transformation
+张仲景：Zhang Zhongjing
+支持细胞：Sertoli cell
+民族教育：national education
+粗糙度：surface roughness
+指标权重：index weight
+川芎：Rhizoma Chuanxiong
+品质评价：Quality evaluation
+醋酸氯己定：chlorhexidine acetate
+智能终端：intelligent terminal
+气泡：air bubble
+蜂花粉：bee pollen
+生育期：Growth stage
+政策环境：policy environment
+卫生改革：Health reform
+桁架结构：truss structure
+空心莲子草：alternanthera philoxeroides
+可溶性表达：soluble expression
+人绒毛膜促性腺激素：human chorionic gonadotropin
+牙菌斑：dental plaque
+空间相关性：spatial correlation
+东方田鼠：Microtus fortis
+肠上皮化生：intestinal metaplasia
+基质金属蛋白酶-9：matrix metalloproteinases-9
+肾上腺肿瘤：adrenal gland neoplasms
+结肠肿瘤：colon neoplasms
+糖调节受损：impaired glucose regulation
+腹痛：Abdominal Pain
+手卫生：hand hygiene
+疾病遗传易感性：genetic predisposition to disease
+微创外科：Minimally invasive surgery
+不稳定性心绞痛：Unstable angina
+妊娠并发症：Pregnancy complication
+眼损伤：eye injuries
+临床护理：Clinical nursing
+弥散加权成像：diffusion-weighted imaging
+学习倦怠：Learning burnout
+S-100蛋白：S-100 protein
+关节不稳定性：Joint instability
+医学图书馆：medical library
+胃肠动力：Gastrointestinal motility
+比较基因组学：Comparative genomics
+胜任特征模型：competency model
+有机化学实验：organic chemistry experiment
+接枝改性：graft modification
+实验教学改革：experimental teaching reform
+酸价：acid value
+提取方法：extraction methods
+低浓度：low concentration
+文蛤：Meretrix meretrix
+串联质谱：tandem mass spectrometry
+分子模拟：molecular modeling
+五味子：Schisandra chinensis
+CF卡：CF card
+教育资源：education resource
+超声造影剂：ultrasound contrast agent
+网络教学平台：network teaching platform
+银染：silver staining
+动态误差：dynamic error
+食管癌：Esophagus cancer
+全反射：Total reflection
+动力髋螺钉：Dynamic hip screw
+辨证论治：Treatment based on syndrome differentiation
+听力筛查：Hearing screening
+窦房结：sinoatrial node
+1型糖尿病：type 1 diabetes mellitus
+高校学生：college student
+脑血流量：cerebral blood flow
+嗅球：olfactory bulb
+钠通道：Sodium channel
+卵巢过度刺激综合征：ovarian hyperstimulation syndrome
+急性呼吸衰竭：acute respiratory failure
+裸小鼠：nude mice
+胸苷磷酸化酶：Thymidine phosphorylase
+唯物辩证法：materialist dialectics
+胰岛素分泌：Insulin secretion
+腕管综合征：Carpal tunnel syndrome
+与时俱进：Keeping Pace with the Times
+头孢曲松钠：ceftriaxone sodium
+银离子：Silver ion
+轧钢：steel rolling
+解释模型：interpretation model
+结果分析：Result analysis
+茶皂素：tea saponin
+硫酸锰：manganese sulfate
+碳源：carbon sources
+普鲁士蓝：Prussian blue
+唑来膦酸：zoledronic acid
+血清：blood serum
+位置传感器：position sensor
+进化树：Phylogenetic tree
+非平衡磁控溅射：unbalanced magnetron sputtering
+镇痛：analgesic effect
+分析模型：analytical model
+碳酸氢钠：sodium bicarbonate
+氯化镉：cadmium chloride
+迷迭香酸：rosmarinic acid
+小牛胸腺DNA：calf thymus DNA
+定量测定：Quantitative determination
+Michael加成：Michael addition
+南昌市：Nanchang city
+超氧化物岐化酶：superoxide dismutase
+生活事件：life event
+抗战时期：anti-Japanese war
+阳离子脂质体：Cationic liposome
+黄花蒿：Artemisia annua L
+品种鉴定：Cultivar identification
+电喷雾电离：Electrospray ionization
+现代管理：modern management
+细胞转化：Cell transformation
+硬膜外镇痛：Epidural analgesia
+先兆流产：Threatened abortion
+鼻肿瘤：Nose neoplasms
+初中生：middle school students
+同伴教育：Peer education
+卡氏肺孢子虫：Pneumocystis carinii
+端粒酶逆转录酶：human telomerase reverse transcriptase
+临床价值：Clinical value
+生物学标记：Biological markers
+正常：normal occlusion
+角膜溃疡：corneal ulcer
+成骨分化：Osteogenic differentiation
+踝臂指数：ankle-brachial index
+真核表达质粒：eukaryotic expression plasmid
+碘缺乏：Iodine deficiency
+基因表达数据：Gene expression data
+急性脑梗塞：acute cerebral infarction
+精神发育迟滞：mental retardation
+胶原合成：collagen synthesis
+体系优化：system optimization
+针刺镇痛：Acupuncture analgesia
+培养目标：training goal
+表面硬度：surface hardness
+大气气溶胶：atmospheric aerosol
+抗菌机理：antibacterial Mechanism
+邻苯二甲酸二丁酯：dibutyl phthalate
+常温：Room temperature
+财务信息：financial information
+贵阳市：Guiyang city
+从头计算：ab initio calculation
+水源水：source water
+集中管理：centralized management
+结构修饰：structure modification
+马齿苋：Portulaca oleracea L
+群体感应：Quorum sensing
+资源优化：resource optimization
+医疗风险：Medical risk
+黄曲霉：aspergillus flavus
+定向进化：directed evolution
+公共健康：public health
+葛根素注射液：puerarin injection
+花生油：Peanut Oil
+剂量效应关系：Dose-response Relationship
+差异表达基因：differentially expressed genes
+中医药疗法：TCM treatment
+医学影像学：Medical imaging
+治疗药物监测：therapeutic drug monitoring
+宫外孕：Ectopic pregnancy
+卫生资源：health resource
+根管充填：root canal obturation
+髋部骨折：hip fracture
+肩关节：Shoulder joint
+医疗设备管理：medical equipment management
+慢性肾小球肾炎：chronic glomerulonephritis
+腹主动脉瘤：Abdominal aortic aneurysm
+连续性血液净化：Continuous blood purification
+A549细胞：A549 cell
+免疫性肝损伤：Immunological liver injury
+早孕：Early pregnancy
+保留灌肠：Retention enema
+细菌性痢疾：bacillary Dysentery
+富血小板血浆：Platelet-rich plasma
+步态分析：gait analysis
+针药并用：Acupuncture Medication Combined
+情绪调节：Emotion regulation
+儒家伦理：Confucian ethics
+烟雾病：Moyamoya disease
+Vero细胞：Vero cells
+胱抑素C：Cystatin C
+贝叶斯分析：Bayesian analysis
+有机物：organic compounds
+光学材料：optical material
+毒性试验：toxicity test
+硫化钠：sodium sulfide
+压电传感器：piezoelectric sensor
+PDCA循环：PDCA cycle
+食品包装：food packaging
+纤维蛋白胶：Fibrin glue
+生产现状：production status
+中国南方：South China
+共振散射：Resonance scattering
+奥运：olympic games
+相分析：phase analysis
+铁缺乏：Iron deficiency
+嗜肺军团菌：Legionella pneumophila
+神经管畸形：neural tube defects
+SolidEdge：Solid Edge
+温泉：Hot spring
+分析系统：analysis system
+听觉丧失：hearing loss
+腰椎间盘突出症：Lumbar intervertebral disc herniation
+肠道准备：Bowel preparation
+卵巢功能：Ovarian function
+铁代谢：iron metabolism
+肝门部胆管癌：hilar cholangiocarcinoma
+老年性痴呆：senile dementia
+慢性鼻窦炎：chronic sinusitis
+贲门癌：Cardiac cancer
+MCF-7细胞：MCF-7 cells
+抗心磷脂抗体：Anticardiolipin antibody
+外固定架：External fixator
+嗜麦芽寡养单胞菌：Stenotrophomonas maltophilia
+正中神经：Median nerve
+军事训练：military training
+M基因：M gene
+球差：spherical aberration
+胸主动脉：thoracic aorta
+S基因：S gene
+猪囊尾蚴：Cysticercus cellulosae
+基因枪：Gene gun
+唐山地震：Tangshan earthquake
+暂态过程：Transient Process
+唐山市：Tangshan city
+标准物质：reference material
+清洗剂：cleaning agent
+b值：b value
+防护措施：protective measures
+处理方法：processing method
+淡水鱼：freshwater fish
+Delphi法：Delphi method
+生产实习：Production practice
+二甘醇：diethylene glycol
+观赏植物：ornamental plants
+流程优化：process optimization
+直接电化学：Direct electrochemistry
+酚酸：phenolic acid
+实验室建设：lab construction
+恶性转化：malignant transformation
+蛋白质工程：protein engineering
+纤溶活性：Fibrinolytic activity
+卫生政策：Health policy
+天人合一：harmony between man and nature
+质量保证体系：quality assurance system
+前瞻性研究：prospective study
+护理教学：nursing teaching
+颌面部：Maxillofacial region
+Survivin蛋白：Survivin protein
+子宫内膜容受性：Endometrial receptivity
+反应时：Reaction time
+脑缺血再灌注损伤：cerebral ischemia-reperfusion injury
+蛋白激酶A：protein kinase A
+射频电流：radiofrequency current
+医学期刊：Medical journal
+疱疹病毒4型：herpesvirus 4
+头颈部：head and neck
+漏诊：Missed diagnosis
+缺血性中风：ischemic stroke
+球囊损伤：balloon injury
+心脏骤停：Cardiac Arrest
+经皮肾镜取石术：percutaneous nephrolithotomy
+疏血通注射液：Shuxuetong injection
+人性论：theory of human nature
+成纤维细胞生长因子2：Fibroblast growth factor 2
+克隆选择算法：clonal selection algorithm
+反胶束：Reverse micelle
+超临界CO2：supercritical CO_2
+实时荧光PCR：real-time PCR
+荧光假单胞菌：Pseudomonas fluorescens
+铁皮石斛：Dendrobium candidum
+改革措施：reform measures
+秋茄：Kandelia candel
+微波化学：microwave chemistry
+滑动摩擦：sliding friction
+环境因素：environment factor
+基因组DNA：genome DNA
+免疫球蛋白G：immunoglobulin G
+误差校正：Error correction
+图像降噪：image denoising
+牙周膜细胞：periodontal ligament cells
+解放思想：emancipate the mind
+亚叶酸钙：Calcium Folinate
+阻抗控制：impedance control
+腺苷三磷酸：adenosine triphosphate
+孕产妇：Pregnant women
+脑血管造影术：Cerebral angiography
+P波离散度：P wave dispersion
+胃肠出血：Gastrointestinal Hemorrhage
+自身免疫性疾病：autoimmune disease
+对照治疗观察：control treatment and observation
+知晓率：Awareness rate
+重症监护：Intensive care
+体征和症状：signs and symptoms
+细胞周期阻滞：cell cycle arrest
+酒精性脂肪肝：Alcoholic fatty liver
+心脏导管插入术：heart catheterization
+脊柱疾病：Spinal diseases
+细菌内毒素检查：Bacterial endotoxin test
+急性排斥：acute rejection
+尺神经：Ulnar nerve
+局部复发：Local recurrence
+病原真菌：pathogenic fungi
+期刊评价：journal evaluation
+伏隔核：nucleus accumbens
+肾病综合征：nephritic syndrome
+护理管理研究：Nursing Administration Research
+社会意义：social significance
+维修保障：maintenance support
+弛豫时间：relaxation time
+药理作用：pharmacological activities
+趋势面分析：trend surface analysis
+盐酸伪麻黄碱：pseudoephedrine hydrochloride
+水杨酸钠：sodium salicylate
+综合实验：comprehensive experiment
+石英晶体微天平：quartz crystal microbalance
+蜡样芽孢杆菌：Bacillus cereus
+青蒿：Artemisia annua L
+应用价值：application value
+分离技术：Separation technology
+氮平衡：nitrogen balance
+单线态氧：Singlet oxygen
+知识挖掘：knowledge mining
+灯盏花：Erigeron breviscapus
+HPLC指纹图谱：HPLC fingerprint
+现况调查：Cross-sectional study
+粪肠球菌：enterococcus faecalis
+Fos蛋白：Fos protein
+基因结构：gene structure
+直线加速器：linear accelerator
+黄芪注射液：Huangqi injection
+纤维桩：fiber post
+脱细胞真皮基质：Acellular dermal matrix
+流行性脑脊髓膜炎：Epidemic cerebrospinal meningitis
+肿瘤干细胞：tumor stem cell
+侧脑室：lateral ventricle
+cyclinD1：Cyclin D1
+麻疹疫苗：Measles vaccine
+综合干预：comprehensive intervention
+青年学生：Young students
+额叶：frontal lobe
+细粒棘球蚴：Echinococcus granulosus
+牙移动：tooth movement
+血清酶：serum enzyme
+人端粒酶逆转录酶：Human telomerase reverse transcriptase
+参芪扶正注射液：Shenqi Fuzheng Injection
+角膜厚度：corneal thickness
+肝肾综合征：Hepatorenal syndrome
+早泄：Premature ejaculation
+蛋白酶体抑制剂：proteasome inhibitor
+神经传导阻滞：Nerve Block
+心肌声学造影：Myocardial contrast echocardiography
+肿瘤/药物疗法：neoplasms/drug therapy
+单纯性肥胖症：Simple obesity
+血管内皮：Vascular endothelium
+血管重塑：Vascular remodeling
+XML签名：XML signature
+鳗弧菌：Vibrio anguillarum
+磁暴：Magnetic storm
+XMLSchema：XML Schema
+铅污染：lead pollution
+紫外光谱：UV spectrum
+非离子表面活性剂：non-ionic surfactant
+生物活性肽：Bioactive peptides
+合成工艺：synthetic process
+测量方法：measurement methods
+二甲酚橙：xylenol orange
+吸附平衡：Adsorption equilibrium
+策略研究：strategy research
+耗散结构：dissipation structure
+水平衡：water balance
+核心能力：core capability
+羟基红花黄色素A：Hydroxysafflor yellow A
+荧光强度：Fluorescence Intensity
+分类系统：classification system
+居住环境：living environment
+T细胞亚群：T cell subset
+三七总皂苷：Panax Notoginseng Saponins
+原儿茶酸：protocatechuic acid
+分子信标：Molecular beacon
+甲状旁腺素：parathyroid hormone
+肾衰竭：renal failure
+炎症因子：Inflammatory factors
+糖基化终产物：advanced glycation end products
+冠状动脉粥样硬化：Coronary atherosclerosis
+计算机X线摄影：Computed radiography
+联合治疗：Combination therapy
+经尿道前列腺电切术：Transurethral resection of the prostate
+Caco-2细胞：Caco-2 cell
+医学信息：medical information
+移行细胞：Transitional cell
+AmpC酶：AmpC enzyme
+慢性宫颈炎：Chronic cervicitis
+鸟氨酸脱羧酶：ornithine decarboxylase
+HBVDNA：HBV DNA
+基底细胞癌：basal cell carcinoma
+急性脑血管病：Acute cerebrovascular disease
+细胞存活：cell survival
+心脏不停跳：beating heart
+cDNA芯片：cDNA microarray
+热休克：heat shock
+牵引成骨：distraction osteogenesis
+AFLP标记：AFLP marker
+数字解调：digital demodulation
+选择性注意：Selective attention
+心理调适：psychological adjustment
+全胃切除术：Total gastrectomy
+重铬酸钾：potassium dichromate
+面粉：wheat flour
+烟曲霉：Aspergillus fumigatus
+声阻抗：acoustic impedance
+形状因子：shape factor
+植物提取物：plant extract
+分子间相互作用：intermolecular interaction
+溶氧：dissolved oxygen
+粉尘螨：dermatophagoides farinae
+有效成分：effective component
+克隆与表达：cloning and expression
+剪切力：shear stress
+地震灾害：Seismic disaster
+蓝光：blue light
+菌根真菌：Mycorrhizal fungi
+安培检测：Amperometric detection
+网络会计：network accounting
+创伤弧菌：Vibrio vulnificus
+RLS算法：RLS algorithm
+电磁耦合：electromagnetic coupling
+卫生装备：medical equipment
+免疫球蛋白E：Immunoglobulin E
+低视力：low vision
+氧代谢：Oxygen metabolism
+补阳还五汤：Buyanghuanwu decoction
+组蛋白乙酰化：Histone acetylation
+临床病理学：Clinical pathology
+炎性假瘤：Inflammatory pseudotumor
+流动儿童：Floating children
+湖北钉螺：Oncomelania hupensis
+基底动脉：basilar artery
+Ⅳ型胶原：Type Ⅳ collagen
+手术中护理：Intraoperative Care
+新生血管性青光眼：neovascular glaucoma
+药物流产：Drug abortion
+分子系统学：molecular phylogeny
+手术后医护：Postoperative care
+肺肿瘤/药物疗法：lung neoplasms/drug therapy
+死亡时间：Postmortem interval
+应用解剖学：applied anatomy
+脑功能：brain function
+左心功能：Left ventricular function
+COX模型：Cox model
+萎缩性胃炎：Atrophic gastritis
+病人教育：Patient Education
+颈性眩晕：Cervical vertigo
+红藻氨酸：kainic acid
+商业保险：Commercial insurance
+蛋白C：Protein C
+新公共服务：new public service
+金代：Jin Dynasty
+南方红豆杉：Taxus chinensis var.mairei
+知识生产：knowledge production
+家族史：Family history
+测定方法：measuring method
+化学性质：Chemical properties
+烧结性能：sintering property
+一步法：one-step method
+表面改性：surface treatment
+碳酸钡：barium carbonate
+结合常数：Binding constant
+烧结工艺：sintering process
+丝状真菌：filamentous fungi
+成本核算：cost calculation
+压力传感器：pressure transducer
+使用价值：use value
+营养保健品：Dietary Supplements
+问题与对策：problems and solutions
+费用控制：cost control
+自动分析：automatic analysis
+16SrRNA基因：16S rRNA gene
+抗肿瘤作用：anti-tumor effect
+肝组织：liver tissue
+方案评价：scheme evaluation
+CHO细胞：CHO cell
+组织和管理：Organization and Administration
+多巴胺能神经元：dopaminergic neurons
+经颅磁刺激：transcranial magnetic stimulation
+肝疾病：Liver disease
+细胞运动：Cell movement
+医院改革：hospital reform
+心肌疾病：Myocardial diseases
+慢性肾功能不全：chronic renal insufficiency
+实验室诊断：Laboratory diagnosis
+肌钙蛋白I：cardiac troponin I
+结核性脑膜炎：tuberculous meningitis
+性功能障碍：sexual dysfunction
+服务意识：Service consciousness
+急诊科：emergency department
+感染性心内膜炎：infective endocarditis
+白内障手术：cataract surgery
+早期教育：early education
+尾加压素Ⅱ：urotensin Ⅱ
+神经功能：neurological function
+心内直视手术：open heart surgery
+基质金属蛋白酶2：Matrix metalloproteinase-2
+血压变异性：blood pressure variability
+体能训练：physical training
+生长物质：growth substances
+核衣壳蛋白：nucleocapsid protein
+组织因子途径抑制物：tissue factor pathway inhibitor
+基因序列：gene sequence
+动力稳定：dynamic stability
+微晶纤维素：Microcrystalline cellulose
+腐蚀性能：corrosion resistance
+连续油管：coiled tubing
+激励相容：incentive compatibility
+综合控制：integrated control
+真空冷冻干燥：Vacuum freeze drying
+旋转磁场：Rotating Magnetic Field
+抗折强度：bending strength
+织物结构：fabric structure
+研究与应用：research and application
+密度分布：density distribution
+前馈控制：feed-forward control
+浓度猝灭：concentration quenching
+绿脓杆菌：Pseudomonas aeruginosa
+降血糖作用：hypoglycemic effect
+口腔崩解片：orally disintegrating tablets
+霉酚酸：Mycophenolic acid
+华山松：Pinus armandii
+资料分析：data analysis
+尿碘：Urine iodine
+黑腹果蝇：drosophila melanogaster
+心理社会因素：psychosocial factors
+肠吸收：intestinal absorption
+学习曲线：learning curve
+精液质量：Semen quality
+激光原位：laser in situ
+QT间期：QT interval
+卫生保健：Health care
+重症监护室：intensive care unit
+单核苷酸多态：single nucleotide polymorphism
+药学监护：Pharmaceutical care
+中心静脉压：central venous pressure
+抗体制备：Antibody preparation
+椎管：Spinal canal
+牙根吸收：root resorption
+细胞周期蛋白E：cyclin E
+室性心律失常：Ventricular arrhythmias
+信息检索课：Information Retrieval Course
+基因合成：Gene synthesis
+脉搏波速度：Pulse wave velocity
+地理要素：geographical elements
+心理旋转：mental rotation
+鼻中隔：Nasal septum
+思想道德教育：Moral Education
+车辆调度：vehicle scheduling
+广义同步：generalized synchronization
+西医：western medicine
+稀土离子：Rare earth ion
+加热温度：Heating Temperature
+实验装置：experimental device
+压敏胶：pressure sensitive adhesive
+时间序列预测：time series prediction
+恒温：constant temperature
+激光诱导荧光：laser-induced fluorescence
+径向基神经网络：RBF neural network
+H_2O_2：hydrogen peroxide
+控制效果：control effect
+脉冲辐解：Pulse radiolysis
+手性药物：chiral drug
+烟煤：bituminous coal
+工程技术：engineering technology
+传质模型：mass transfer model
+维生素B6：Vitamin B6
+服务理念：service concept
+控制环境：control environment
+洁净室：clean room
+卷烟烟气：cigarette smoke
+适应性反应：adaptive response
+回归系数：regression coefficient
+同位素标记：isotope labeling
+人口密度：population density
+电离室：ionization chamber
+美洲大蠊：Periplaneta americana
+分子诊断：Molecular Diagnosis
+磁场测量：magnetic field measurement
+血红素加氧酶：Heme Oxygenase
+膳食调查：Diet surveys
+颅内肿瘤：Intracranial tumor
+戊型肝炎：hepatitis E
+血管内皮生长因子A：vascular endothelial growth factor A
+稳定型心绞痛：stable angina pectoris
+稳定转染：stable transfection
+原发性开角型青光眼：primary open angle glaucoma
+焦虑症：Anxiety disorders
+穴位注射：point injection
+氧疗：oxygen therapy
+玻璃体积血：vitreous hemorrhage
+多焦视网膜电图：multifocal electroretinogram
+非平稳信号：non-stationary signal
+氦氖激光：He-Ne laser
+血流：Blood flow
+心脏成纤维细胞：cardiac fibroblasts
+射频导管消融：Radiofrequency catheter ablation
+培养的肿瘤细胞：cultured tumor cells
+急性冠状动脉综合征：Acute coronary syndromes
+活体供者：living donors
+组织支持感：perceived organizational support
+髓核：nucleus pulposus
+内窥镜逆行：endoscopic retrograde
+胃液：Gastric juice
+学习心理：learning psychology
+代谢综合征X：Metabolic syndrome X
+K-均值聚类：k-means clustering
+精益思想：lean thinking
+顾客感知价值：customer perceived value
+非等温动力学：non-isothermal kinetics
+敏感度分析：sensitivity analysis
+二氧化氮：nitrogen dioxide
+橙汁：orange juice
+官能团：functional group
+评估系统：Evaluation system
+药物载体：drug carriers
+氧化降解：Oxidative degradation
+盐酸曲马多：tramadol hydrochloride
+丙酮酸乙酯：ethyl pyruvate
+半衰期：half life
+气象要素：meteorological element
+光学相干层析成像：Optical Coherence Tomography
+有机化合物：organic compound
+氧化稳定性：oxidative stability
+集成创新：integrated innovation
+静磁场：static magnetic field
+成功率：success rate
+裙带菜：Undaria Pinnatifida
+设计与实现：design and implementation
+迟效制剂：delayed-action preparations
+乙型脑炎病毒：Japanese encephalitis virus
+三叉神经：trigeminal nerve
+蛋白质相互作用：protein interaction
+合资企业：joint venture
+高脂饮食：high-fat diet
+半导体激光：diode laser
+学习和记忆：learning and memory
+逆转录-聚合酶链反应：Reverse transcription-polymerase chain reaction
+肾功能不全：renal insufficiency
+基质细胞：stromal cells
+清醒镇静：Conscious sedation
+肺挫伤：pulmonary contusion
+舌癌：Tongue cancer
+器官保存：organ preservation
+心肌收缩：Myocardial contraction
+连续性肾脏替代治疗：continuous renal replacement therapy
+肾动脉梗阻：Renal artery obstruction
+高危因素：High risk factors
+动态增强：dynamic enhancement
+四逆汤：Sini Decoction
+体质量指数：body mass index
+Alzheimer病：Alzheimer's disease
+全直肠系膜切除术：Total mesorectal excision
+心理特点：Psychological characteristics
+组织特异性：tissue specificity
+杂合性丢失：loss of heterozygosity
+默会知识：tacit knowledge
+膜片钳技术：patch-clamp technique
+中心静脉：central venous
+术后疼痛：postoperative pain
+颅内感染：Intracranial infection
+外周神经：peripheral nerve
+电重构：electrical remodeling
+尿流改道：urinary diversion
+转录活性：Transcriptional activity
+背根节：dorsal root ganglion
+器官培养：Organ culture
+表达谱：Expression profile
+细胞色素氧化酶：cytochrome Oxidase
+群体遗传学：population genetics
+思想工作：Ideological work
+存活曲线：Survival curve
+信息用户：information user
+互动教学：interactive teaching
+分子印迹技术：molecular imprinting technique
+气压：air pressure
+不对称环氧化：asymmetric epoxidation
+邻苯二甲酸酯：phthalate esters
+溶出伏安法：stripping voltammetry
+发酵乳：fermented milk
+研究与实践：research and practice
+荧光淬灭：fluorescence quenching
+松茸：Tricholoma matsutake
+NiTi合金：NiTi alloy
+水葫芦：water hyacinth
+共沸蒸馏：azeotropic distillation
+多项式回归：polynomial regression
+氯化胆碱：choline chloride
+构成要件：constitutive requirements
+有效氯：Available chlorine
+核酸杂交：nucleic acid hybridization
+吹扫捕集：Purge and trap
+骨修复：bone repair
+计算机辅助分析：computer aided analysis
+热水：hot water
+模型优化：Model optimization
+防控：prevention and control
+苯酚-硫酸法：Phenol-sulfuric acid method
+甘草酸二铵：diammonium glycyrrhizinate
+生长过程：Growth process
+甲基红：methyl red
+组织蛋白酶D：cathepsin D
+剂量率：Dose Rate
+生态控制：ecological control
+褐家鼠：Rattus norvegicus
+蜜环菌：Armillaria mellea
+抗性机制：resistance mechanism
+死因：Death cause
+花生蛋白：peanut protein
+继续医学教育：Continuing Medical Education
+降血脂药：antilipemic agents
+低位直肠癌：Low rectal cancer
+冠状动脉旁路移植术：Coronary artery bypass
+根尖周炎：Periapical periodontitis
+气道高反应性：airway hyperresponsiveness
+毒力基因：Virulence gene
+黄体生成素：luteinizing hormone
+负性情绪：negative emotion
+序贯疗法：Sequential therapy
+肛瘘：anal fistula
+共刺激分子：Costimulatory molecule
+ICU：Intensive care unit
+膝损伤：Knee injuries
+科技论文：sci-tech paper
+原发性肾病综合征：Primary nephrotic syndrome
+唾液腺：Salivary gland
+预防与控制：Prevention and control
+膜片钳术：patch-clamp techniques
+根管治疗术：root canal therapy
+B细胞表位：B cell epitope
+前列腺特异抗原：prostate-specific antigen
+身体机能：physical function
+围绝经期综合征：perimenopausal syndrome
+骨重建：Bone remodeling
+糖耐量低减：impaired glucose tolerance
+核心蛋白：Core protein
+精氨酸加压素：Arginine vasopressin
+结节性甲状腺肿：Nodular goiter
+绝经后骨质疏松：Postmenopausal osteoporosis
+次生代谢：secondary metabolism
+现金流量表：cash flow statement
+卵巢发育：ovarian development
+牙齿移动：tooth movement
+西尼罗病毒：West Nile virus
+信息理论：information theory
+原料乳：raw milk
+格氏反应：Grignard reaction
+水分含量：water content
+人类健康：human health
+培养条件：cultural condition
+表面性能：surface properties
+乙基纤维素：ethyl cellulose
+量化计算：quantum chemistry calculation
+环境控制：environment control
+继续教育：continual education
+白术：Atractylodes macrocephala koidz
+互动式教学：Interactive teaching
+低分子量肝素：low molecular weight heparin
+特征频率：characteristic frequency
+肝损害：liver damage
+化合物制备：Compound preparation
+银杏内酯B：ginkgolide B
+人文素质教育：humanistic quality education
+科研能力：scientific research ability
+肺活量：Vital capacity
+开发与管理：development and management
+血氧饱和度：oxygen saturation
+种群生态学：population ecology
+不定根：adventitious roots
+结构预测：structure prediction
+吸入性损伤：Inhalation injury
+外伤性白内障：Traumatic cataract
+肾肿瘤：Renal tumor
+肌浆网：Sarcoplasmic reticulum
+缺血再灌注：Ischemic Reperfusion
+切开复位：Open reduction
+巨细胞病毒感染：cytomegalovirus infection
+胆总管：common bile duct
+肝脓肿：Liver abscess
+胶囊内镜：capsule endoscopy
+海人酸：Kainic acid
+心率震荡：heart rate turbulence
+宫颈病变：cervical lesions
+潮气量：Tidal volume
+慢性肝病：chronic liver disease
+血细胞分析仪：Hematology analyzer
+尿纤溶酶原激活物：urinary plasminogen activator
+进展期胃癌：advanced gastric cancer
+新生鼠：neonatal rat
+不典型增生：atypical hyperplasia
+妊娠糖尿病：Gestational diabetes mellitus
+Mirizzi综合征：Mirizzi syndrome
+运动性疲劳：sports fatigue
+特发性脊柱侧凸：Idiopathic scoliosis
+黄斑裂孔：macular hole
+漏斗胸：Pectus excavatum
+电阻抗断层成像：Electrical impedance tomography
+实时三维超声心动图：Real-time three-dimensional echocardiography
+未成熟心肌：Immature myocardium
+脑动脉：cerebral artery
+水迷宫：Morris water maze
+屈光手术：refractive surgery
+生存时间：survival time
+蛛网膜下腔：subarachnoid space
+数据迁移：data migration
+自身免疫性肝炎：Autoimmune hepatitis
+海马结构：hippocampal formation
+乳房再造：Breast reconstruction
+Epstein-Barr病毒：Epstein-Barr virus
+RNA二级结构：RNA secondary structure
+转向机构：steering mechanism
+内部治理：internal governance
+早期胃癌：early gastric cancer
+扩展不确定度：expanded uncertainty
+整体柱：monolithic column
+挥发性有机化合物：volatile organic compounds
+生长动力学：growth kinetics
+红移：red shift
+乙酰丙酸：levulinic acid
+应急机制：emergency mechanism
+磁性纳米粒子：Magnetic nanoparticles
+载荷分布：load distribution
+姬松茸：Agaricus blazei Murill
+光谱反射率：spectral reflectance
+DNA探针：DNA probe
+白灵菇：Pleurotus nebrodensis
+虚拟筛选：virtual screening
+动态调整：dynamic adjustment
+抗炎活性：anti-inflammatory activity
+职业防护：Occupational protection
+突发公共事件：public emergency
+科学理论：scientific theory
+亚砷酸钠：sodium arsenite
+HaCaT细胞：HaCaT cells
+输尿管结石：Ureteral calculus
+闭合复位：closed reduction
+脐动脉：Umbilical artery
+泡沫细胞：Foam Cell
+组织微阵列：Tissue microarray
+高渗盐水：Hypertonic saline
+爆裂骨折：burst fracture
+中医药治疗：TCM treatment
+异基因造血干细胞移植：allogeneic hematopoietic stem cell transplantation
+运动医学：Sports medicine
+气囊扩张术：Balloon dilatation
+钛网：Titanium mesh
+脑缺血发作：ischemic attack
+明胶海绵：Gelatin sponge
+反复自然流产：Recurrent spontaneous abortion
+平均动脉压：Mean arterial pressure
+心输出量：Cardiac output
+反义基因：Antisense gene
+成像质量：imaging quality
+腹主动脉：Abdominal aorta
+背景抑制：Background suppression
+心室复建：Ventricular remodeling
+构词法：word formation
+先进技术：advanced technology
+功能性反应：functional response
+组织缺损：Tissue defect
+莽草酸：shikimic acid
+磺基水杨酸：sulfosalicylic acid
+等离子体聚合：plasma polymerization
+酶催化：enzyme catalysis
+耗氧量：oxygen consumption
+珠江：Pearl River
+圆二色谱：Circular Dichroism
+膜萃取：membrane extraction
+工作效率：work efficiency
+加工方法：processing method
+脱乙酰度：degree of deacetylation
+偏最小二乘回归：partial least square regression
+竹叶：bamboo leaves
+分散片：Dispersible tablet
+动态吸附：dynamic adsorption
+谷氨酸棒杆菌：Corynebacterium glutamicum
+质子泵抑制剂：proton pump inhibitor
+闪烁晶体：scintillation crystal
+控制论：control theory
+XML技术：XML technology
+荧光灯：fluorescent lamp
+磷脂酶D：phospholipase D
+六西格玛管理：six sigma management
+相位角：Phase angle
+医护人员：medical staff
+乙型肝炎表面抗原：Hepatitis B Surface antigen
+公平与效率：fairness and efficiency
+股骨干骨折：femoral shaft fracture
+阵发性心房颤动：Paroxysmal atrial fibrillation
+冠状动脉病变：Coronary artery disease
+糖耐量受损：Impaired glucose tolerance
+鼻内镜手术：Endoscopic Sinus Surgery
+椎间盘退变：intervertebral disc degeneration
+肺肿瘤/外科学：Lung neoplasms/surgery
+IgG抗体：IgG antibody
+胸外科手术：Thoracic surgical procedures
+视神经损伤：optic nerve injury
+动静脉畸形：Arteriovenous malformation
+肺间质纤维化：pulmonary fibrosis
+脑利钠肽：Brain natriuretic peptide
+闭角型青光眼：angle-closure glaucoma
+男性不育症：male infertility
+病态窦房结综合征：Sick sinus syndrome
+兴奋性氨基酸：Excitatory Amino Acid
+心理训练：Mental training
+磁刺激：magnetic stimulation
+保护性免疫：protective immunity
+原位分子杂交：In situ hybridization
+自发性细菌性腹膜炎：spontaneous bacterial peritonitis
+系统发生树：phylogenetic tree
+表达系统：expression system
+肺肿瘤/诊断：Lung neoplasms/diagnosis
+教学观念：Teaching concept
+体脂：body fat
+表达模式：Expression pattern
+似然比检验：likelihood ratio test
+非负矩阵分解：Non-negative matrix factorization
+微卫星不稳定：Microsatellite instability
+政治教育：political education
+内容分析法：content analysis
+血液化学分析：blood chemical analysis
+三聚磷酸钠：sodium tripolyphosphate
+电子顺磁共振：electron paramagnetic resonance
+化学形态：chemical speciation
+反射波：reflection wave
+小麦麸皮：wheat bran
+变性梯度凝胶电泳：denaturing gradient gel electrophoresis
+离子交换纤维：ion exchange fiber
+判别分析：discrimination analysis
+营养评价：nutritional evaluation
+脱氢酶活性：dehydrogenase activity
+无锡市：Wuxi City
+集合论：set theory
+糖代谢：sugar metabolism
+氧分压：oxygen partial pressure
+透射电子显微镜：Transmission electron microscope
+丝氨酸蛋白酶：serine protease
+鞋楦：shoe last
+ζ电位：ζ potential
+刺梨：Rosa roxburghii Tratt
+表面积：surface area
+短小芽孢杆菌：bacillus pumilus
+黄曲霉毒素B1：aflatoxin B1
+细菌多样性：Bacterial diversity
+工业炸药：industrial explosive
+相似性度量：similarity measurement
+素质培养：quality training
+优势种群：dominant population
+哲学思考：philosophical thinking
+存活时间：survival time
+信息科学：information science
+锁相放大器：lock-in amplifier
+中华按蚊：Anopheles sinensis
+关系营销：relation marketing
+寿命试验：Life test
+双峰驼：bactrian camel
+清朝：the Qing Dynasty
+学术思想：Academic thoughts
+联合用药：drug combination
+二级预防：Secondary prevention
+过敏性紫癜：allergic purpura
+急性肾损伤：Acute kidney injury
+浅前房：Shallow anterior chamber
+骨疾病：Bone diseases
+原发性肝细胞癌：Primary hepatocellular carcinoma
+物理治疗：Physical therapy
+锁骨钩钢板：clavicular hook plate
+压力管理：Stress management
+惊恐障碍：Panic disorder
+智力低下：mental retardation
+西药：Western medicine
+心肺复苏术：cardiopulmonary resuscitation
+肝肿瘤/病理学：liver neoplasms/pathology
+引导组织再生：guided tissue regeneration
+体力活动：physical activity
+疾病负担：burden of disease
+DNA序列分析：DNA sequencing
+血管细胞黏附分子-1：Vascular cell adhesion molecule-1
+脑发育：brain development
+香丹注射液：Xiangdan Injection
+荧光抗体技术：Fluorescent antibody technique
+恙虫病：Tsutsugamushi disease
+英文写作：English writing
+医疗市场：medical market
+气道阻力：airway resistance
+比较基因组杂交：comparative genomic hybridization
+互信息量：mutual information
+表达序列标签：Expressed sequence tag
+心理控制源：Locus of control
+毛细血管通透性：Capillary permeability
+渐近分布：asymptotic distribution
+遗传背景：genetic background
+特种设备：Special equipment
+应用语言学：applied linguistics
+多壁碳纳米管：multi-walled carbon nanotube
+应用领域：application field
+菌种鉴定：strain identification
+保健饮料：health drink
+辅助设计：aided design
+分子结构：molecule structure
+正交试验法：orthogonal experiment
+模拟体液：simulated body fluid
+氢化物发生-原子荧光光谱法：hydride generation-atomic fluorescence spectrometry
+交变磁场：alternating magnetic field
+实验种群：experimental population
+亲和色谱：Affinity chromatography
+表观密度：apparent density
+生物资源：biological resources
+超临界CO_2萃取：supercritical CO_2 extraction
+二次谐波：second harmonic
+历史沿革：historical evolution
+桦褐孔菌：Inonotus obliquus
+谷氨酸脱氢酶：glutamate dehydrogenase
+传输特性：transmission characteristics
+海洋真菌：Marine fungus
+南通市：Nantong city
+维生素B1：Vitamin B1
+比例控制：proportional control
+三氯氧磷：phosphorus oxychloride
+柴胡：Radix Bupleuri
+总蛋白：total protein
+醋酸地塞米松：Dexamethasone acetate
+反应扩散：reaction diffusion
+地黄：Rehmannia glutinosa
+软珊瑚：soft coral
+最小成本分析：cost-minimization analysis
+积分球：integrating sphere
+伤寒：Typhoid fever
+血清蛋白：serum protein
+酶动力学：enzyme kinetics
+酒依赖：alcohol dependence
+形函数：shape function
+人性化服务：Humanized service
+胎盘早剥：Placental abruption
+血管内皮生长因子-C：vascular endothelial growth factor-C
+鞘内注射：Intrathecal injection
+单侧输尿管梗阻：Unilateral ureteral obstruction
+康复治疗：Rehabilitation treatment
+刺血疗法：pricking blood therapy
+医学微生物学：Medical microbiology
+坚固内固定：rigid internal fixation
+痘苗病毒：Vaccinia virus
+肺肿瘤/放射疗法：Lung neoplasms/radiotherapy
+联合手术：combined surgery
+脐静脉：umbilical vein
+独生子女：only child
+人胎：Human fetus
+传染性单核细胞增多症：Infectious mononucleosis
+心肌灌注：Myocardial perfusion
+全凭静脉麻醉：total intravenous anesthesia
+非淋菌性尿道炎：Nongonococcal urethritis
+碘营养：iodine nutrition
+环孢霉素A：cyclosporin A
+胚胎着床：embryo implantation
+立体定向放射外科：Stereotactic radiosurgery
+翼点入路：Pterional approach
+胆道闭锁：biliary atresia
+前列腺素内过氧化物合酶：prostaglandin-endoperoxide synthase
+表面麻醉：Topical anesthesia
+突触传递：synaptic transmission
+蛋白质P16：Protein P16
+蝶窦：Sphenoid sinus
+断面解剖：sectional anatomy
+前房：anterior chamber
+可溶性Fas：Soluble Fas
+早期治疗：Early treatment
+次生代谢物：Secondary metabolites
+Southern杂交：Southern blot
+肾血管性高血压：Renovascular hypertension
+黄体：corpus luteum
+心血管功能：cardiovascular function
+专业学位：professional degree
+膈神经：phrenic nerve
+竞争机制：competitive mechanism
+肾功能试验：Kidney function tests
+情报服务：information service
+发育生物学：Developmental biology
+视知觉：visual perception
+犬细小病毒：canine parvovirus
+运动捕捉：motion capture
+公共选择理论：public choice theory
+成就目标定向：Achievement goal orientation
+状态焦虑：State anxiety
+水杨酸甲酯：Methyl Salicylate
+模拟移动床：simulated moving bed
+矿区：mine area
+月桂酸：lauric acid
+电解铝：Electrolytic aluminum
+青年：young people
+电弧放电：arc discharge
+分散稳定性：dispersion stability
+检出率：detection rate
+黄磷：yellow phosphorus
+TiNi合金：TiNi alloy
+哲学基础：philosophical foundation
+环境雌激素：environmental estrogens
+激光多普勒：laser Doppler
+离子浓度：ion concentration
+氰化钠：sodium cyanide
+假阳性：false positive
+化学振荡：chemical oscillation
+青枯菌：Ralstonia solanacearum
+梯度法：gradient method
+系统进化分析：phylogenetic analysis
+SARS病毒：SARS virus
+宝鸡市：Baoji City
+缺血耐受：ischemic tolerance
+医学影像：Medical imaging
+纤溶酶原激活物抑制剂-1：plasminogen activator inhibitor-1
+宫颈肿瘤：Uterine cervical neoplasms
+喉鳞状细胞癌：Laryngeal squamous cell carcinoma
+多发伤：multiple injury
+社会医疗保险：Social medical insurance
+人工流产术：Induced abortion
+在职培训：Inservice Training
+鼠疫菌：Yersinia pestis
+碘过量：iodine excess
+聚焦超声：Focused ultrasound
+激活素A：activin A
+内隐联想测验：Implicit association Test
+室旁核：paraventricular nucleus
+尿激酶型纤溶酶原激活物：urokinase-type plasminogen activator
+脉冲微分方程：impulsive differential equations
+蛋白核小球藻：Chlorella pyrenoidosa
+腰椎滑脱症：lumbar spondylolisthesis
+多重RT-PCR：Multiplex RT-PCR
+胸部损伤：Thoracic Injuries
+人种群：ethnic groups
+视觉注意：visual attention
+Sox基因：Sox gene
+基因转录：Gene transcription
+结肠疾病：Colonic diseases
+逼尿肌不稳定：detrusor instability
+鼠疫耶尔森氏菌：Yersinia pestis
+抗体库：Antibody library
+tk基因：tk gene
+低出生体重：Low birth weight
+载体蛋白质类：Carrier proteins
+骨科手法：Orthopedic manipulation
+现值：present value
+社会主义荣辱观：socialist concept of honor and disgrace
+词序：word order
+三七：Radix notoginseng
+影响评价：impact assessment
+指数函数：exponential function
+固相合成：solid state synthesis
+氯化钡：barium chloride
+环境建设：environment construction
+乙酸丁酯：butyl acetate
+健康效应：health effect
+肌球蛋白重链：myosin heavy chain
+开放实验室：opening laboratory
+膳食结构：dietary pattern
+贯叶连翘：Hypericum perforatum L
+单胺氧化酶：monoamine oxidase
+统计工作：statistical work
+响应面方法：response surface methodology
+维修管理：maintenance management
+稀土金属：rare earth metal
+应力-应变关系：stress-strain relation
+合格率：qualified rate
+物料管理：material management
+棕榈酸：palmitic acid
+自由基清除剂：free radical scavenger
+结缔组织：Connective tissue
+流式细胞技术：flow cytometry
+峰值：peak value
+骨形成：bone formation
+黄柏：Cortex Phellodendri
+安全库存：safety stock
+中心组合设计：central composite design
+辐射场：Radiation Field
+肿瘤治疗：Cancer therapy
+小肠移植：small bowel transplantation
+延髓：medulla oblongata
+体外扩增：Ex vivo expansion
+软组织损伤：Soft tissue injury
+c-Fos蛋白：c-Fos protein
+过敏性哮喘：allergic asthma
+心理护理：mental care
+治疗效果：Curative effect
+巨细胞病毒：human cytomegalovirus
+深低温停循环：deep hypothermic circulatory arrest
+耳声发射：otoacoustic emissions
+阅读疗法：Reading therapy
+心音：heart sound
+黄韧带：Ligamentum flavum
+孤立性肺结节：solitary pulmonary nodule
+坚强内固定：Rigid internal fixation
+视上核：supraoptic nucleus
+经皮冠状动脉介入术：percutaneous coronary intervention
+间质瘤：Stromal tumor
+社区卫生：community health
+实时三维：real-time three-dimensional
+脂肪代谢：Fat metabolism
+炎症介质：Inflammatory Mediator
+工作能力：Work ability
+大肠肿瘤：Colorectal carcinoma
+空腹血糖：Fasting blood glucose
+肿瘤抑制基因：Tumor suppressor gene
+流感嗜血杆菌：Haemophilus influenzae
+房室结：atrioventricular node
+硬膜外腔：Epidural Space
+穿透性角膜移植：penetrating keratoplasty
+主动脉瓣：aortic valve
+重组抗原：Recombinant antigen
+射血分数：Ejection fraction
+海洛因依赖：Heroin addict
+A型肉毒毒素：botulinum toxin A
+听神经病：Auditory neuropathy
+唐氏综合征：Down syndrome
+中心性浆液性脉络膜视网膜病变：central serous chorioretinopathy
+性别因素：sex factors
+血气：Blood gas
+昆虫细胞：insect cell
+教育教学：education and teaching
+蛋白质表达：protein expression
+RNA沉默：RNA silencing
+玻璃体视网膜手术：vitreoretinal surgery
+心肌顿抑：Myocardial stunning
+愈伤组织培养：callus culture
+内皮功能障碍：Endothelial dysfunction
+王安石：WANG An-shi
+网络治理：network governance
+心跳骤停：Cardiac arrest
+磁性微球：magnetic microspheres
+机理研究：mechanism research
+柱前衍生化：pre-column derivatization
+液体培养：submerged culture
+生物样品：Biological sample
+抑制作用：inhibition effect
+缓释微丸：Sustained-release pellets
+多孔结构：porous structure
+标准溶液：standard solution
+活性氧：active oxygen species
+烧结法：sintering process
+生物监测：Biological monitoring
+价值评价：value evaluation
+检出限：Detection limit
+枸杞多糖：Lycium barbarum polysaccharide
+环境污染物：Environmental Pollutants
+SPSS软件：SPSS software
+核桃油：Walnut oil
+贮藏蛋白：Storage protein
+抑制活性：inhibitory activity
+酶工程：Enzyme engineering
+泡沫分离：foam separation
+综合预防：Universal precautions
+亚麻酸：Linolenic acid
+盐酸环丙沙星：Ciprofloxacin hydrochloride
+DNA微阵列：DNA microarray
+佛山市：Foshan city
+卫生人力：health manpower
+T-2毒素：T-2 toxin
+麦冬：Ophiopogon japonicus
+产气荚膜梭菌：Clostridium perfringens
+点接触：point contact
+非线性映射：nonlinear mapping
+数据保护：Data protection
+肝微粒体：liver microsomes
+封建社会：Feudal Society
+精子形态：Sperm morphology
+脂肪肝：fatty liver disease
+健康体检：health examination
+吻合口瘘：Anastomotic leakage
+结直肠肿瘤：Colorectal carcinoma
+评判性思维：critical thinking
+局部麻醉：Local anesthesia
+基因变异：gene mutation
+体外受精-胚胎移植：In vitro fertilization-embryo transfer
+乳牙：deciduous teeth
+腔静脉：Vena Cava
+红细胞免疫：Erythrocyte immunity
+血管内皮功能：endothelial function
+炎性因子：Inflammatory factor
+去卵巢大鼠：Ovariectomized rat
+动脉闭塞性疾病：Arterial occlusive diseases
+胞嘧啶脱氨酶：cytosine deaminase
+颗粒酶B：Granzyme B
+平均住院日：average length of stay
+黄斑变性：Macular degeneration
+医学工程：medical engineering
+星状神经节：Stellate Ganglion
+内脏痛：visceral pain
+坐骨神经损伤：sciatic nerve injury
+社区干预：community intervention
+血小板源生长因子：platelet-derived growth factor
+丘脑底核：subthalamic nucleus
+慢性心衰：Chronic heart failure
+原发性骨质疏松症：Primary Osteoporosis
+氟骨症：Skeletal fluorosis
+血型：Blood group
+再生植株：regenerated plant
+冠状动脉再狭窄：Coronary restenosis
+基本医疗保险：basic medical insurance
+生殖器肿瘤：Genital Neoplasms
+杆状病毒表达系统：Baculovirus expression system
+桡神经：Radial nerve
+体细胞：somatic cell
+认知疗法：Cognitive therapy
+群落组成：Community composition
+图象重建：Image Reconstruction
+远程实验：remote experiment
+市场均衡：market equilibrium
+条件logistic回归：Conditional logistic regression
+多孔膜：porous membrane
+牛血清蛋白：bovine serum albumin
+红葡萄酒：red wine
+硫氰酸铵：ammonium thiocyanate
+气象因素：meteorological factor
+硼硅酸盐玻璃：borosilicate glass
+发酵酒：fermented wine
+含氮量：nitrogen content
+扫描电子显微镜：scanning electron microscopy
+膜材料：membrane material
+Boltzmann方程：Boltzmann equation
+热老化：thermal aging
+并购：merger & acquisition
+乳粉：milk powder
+红茶：black tea
+粗纤维：crude fiber
+醋酸铅：lead acetate
+空间滤波：spatial filtering
+快速诊断：rapid diagnosis
+基本要求：basic requirement
+霍山石斛：Dendrobium huoshanense
+低密度脂蛋白受体：low density lipoprotein receptor
+一体化管理：integrated management
+程序分析：program analysis
+漫反射：diffuse reflection
+贫困地区：poor area
+糖尿病神经病变：diabetic neuropathy
+循环抗原：Circulating antigen
+1型：type 1
+蛋白质合成：protein synthesis
+空腹血糖受损：Impaired fasting glucose
+对照研究：Control study
+后腹腔镜：retroperitoneal laparoscopy
+治疗应用：Therapeutic use
+病理诊断：Pathologic diagnosis
+性早熟：precocious puberty
+轻度认知障碍：mild cognitive impairment
+三维适形放疗：three-dimensional conformal radiotherapy
+腰椎管狭窄症：lumbar spinal stenosis
+功能失调性子宫出血：Dysfunctional Uterine Bleeding
+病案管理：medical record management
+心理卫生：Psychological health
+多房棘球绦虫：echinococcus multilocularis
+糖尿病酮症酸中毒：Diabetic ketoacidosis
+围术期护理：Perioperative nursing
+血管生成抑制剂：angiogenesis inhibitors
+胆总管囊肿：choledochal cyst
+血管钙化：vascular calcification
+血清铁：serum iron
+肾虚：kidney deficiency
+布-加综合征：Budd-Chiari syndrome
+视网膜变性：retinal degeneration
+人格障碍：Personality disorder
+Fas基因：Fas gene
+肌肉疲劳：muscle fatigue
+血管性假血友病因子：Von willebrand factor
+人性化管理：humanized management
+CT血管成像：CT angiography
+甲型流感病毒：Influenza A virus
+单相动作电位：monophasic action potential
+财务监督：financial supervision
+血压测定：Blood pressure determination
+神经元样细胞：neuron-like cells
+开放性骨折：Open fracture
+大肠腺瘤：Colorectal adenoma
+寡核苷酸芯片：Oligonucleotide microarray
+胶原膜：Collagen membrane
+信息传播：Information dissemination
+中间件技术：middleware technology
+病人依从：Patient Compliance
+混合感染：Mixed infection
+脊椎肿瘤：spinal neoplasms
+分层抽样：stratified sampling
+扰动分析：perturbation analysis
+样本量：Sample size
+功能文体学：functional stylistics
+高素质：high quality
+星点设计：central composite design
+成型工艺：forming process
+叔胺：tertiary amine
+亚慢性毒性：Subchronic toxicity
+流动电位：streaming potential
+甲苯胺蓝：Toluidine blue
+谷氨酸脱羧酶：glutamate decarboxylase
+藏北：northern Tibet
+流程设计：process design
+微分脉冲伏安法：Differential pulse voltammetry
+选择性还原：selective reduction
+HPLC：high performance liquid chromatography
+S100蛋白：S100 protein
+安全风险：security risk
+单硝酸异山梨酯：isosorbide mononitrate
+二胺氧化酶：diamine oxidase
+缓释片：sustained release tablets
+重组大肠杆菌：recombinant Escherichia coli
+骨组织：bone tissue
+LabVIEW软件：LabVIEW Software
+细胞活力：cell viability
+苦豆子：Sophora alopecuroides L
+CO_2激光：CO_2 laser
+对比剂：Contrast agent
+含量均匀度：content uniformity
+标准成本：standard cost
+澜沧江：Lancang River
+头孢噻肟钠：Cefotaxime sodium
+氡浓度：Radon Concentration
+导波：guided wave
+大骨节病：kaschin-beck disease
+网络化管理：network management
+认知模式：cognitive model
+收缩应力：shrinkage stress
+协同工作：collaborative work
+边际分析：marginal analysis
+谷胱甘肽过氧化酶：glutathione peroxidase
+癌细胞：cancer cell
+谓词逻辑：predicate logic
+嵌入维数：embedding dimension
+轻度认知功能障碍：mild cognitive impairment
+护理程序：nursing procedure
+血供：Blood supply
+腰麻：spinal anesthesia
+霍乱毒素：cholera toxin
+病案：Medical records
+纤溶酶原激活物抑制物-1：Plasminogen activator inhibitor-1
+自身免疫病：Autoimmune disease
+皮肤肿瘤：Skin Neoplasms
+多重耐药：Multidrug resistance
+肺耐药蛋白：Lung resistance protein
+TNM分期：TNM staging
+心脏瓣膜疾病：Heart valve diseases
+医德：Medical ethics
+维生素A缺乏：Vitamin A deficiency
+缺血性心肌病：ischemic cardiomyopathy
+计算机体层摄影术：computed tomography
+弥散性血管内凝血：disseminated intravascular coagulation
+鼻窦：Paranasal sinuses
+程序性知识：Procedural knowledge
+五行：five elements
+周围性面瘫：Peripheral facial paralysis
+经蝶入路：Transsphenoidal approach
+深静脉血栓形成：Deep vein thrombosis
+基质金属蛋白酶-1：matrix metalloproteinase-1
+孔源性视网膜脱离：Rhegmatogenous Retinal Detachment
+转染效率：transfection efficiency
+口腔颌面部：Oral and maxillofacial region
+静脉畸形：Venous malformation
+心肌缺血再灌注损伤：Myocardial ischemia-reperfusion injury
+总胆汁酸：Total bile acid
+VX2肿瘤：VX2 tumor
+股静脉：Femoral vein
+心血管反应：cardiovascular response
+体长：body length
+心房扑动：Atrial flutter
+气管狭窄：tracheal stenosis
+血管生成拟态：vasculogenic mimicry
+血小板衍生生长因子：Platelet-derived growth factor
+NS1基因：NS1 gene
+烧伤创面：burn wound
+钙通道阻滞药：calcium channel blockers
+句法分析：syntactic analysis
+小细胞：small cell
+α-硫辛酸：α-lipoic acid
+磁场强度：magnetic field strength
+实习教学：practice teaching
+花生壳：peanut shell
+桑黄：Phellinus igniarius
+信息公开：information disclosure
+镉离子：cadmium ion
+弹性纤维：elastic fiber
+琼脂糖凝胶电泳：agarose gel electrophoresis
+肝素钠：heparin sodium
+液液萃取：Liquid-liquid extraction
+汞污染：Mercury pollution
+活性物质：active substance
+东莞市：Dongguan city
+牡丹皮：Cortex Moutan
+高通量筛选：high-throughput screening
+分离机理：separation mechanism
+总生物碱：total alkaloid
+提取条件：extraction condition
+质谱法：mass spectrometry
+纯水：pure water
+保护措施：protection measure
+碱金属：alkali metals
+动态参数：dynamic parameter
+环孢菌素A：cyclosporine A
+矿物元素：mineral elements
+猴头菌：Hericium erinaceus
+葡萄糖酸锌：Zinc gluconate
+疾病监测：disease surveillance
+三萜皂苷：triterpenoid saponin
+转铁蛋白受体：transferrin receptor
+Excel软件：Excel software
+镍铬合金：Ni-Cr alloy
+毒力因子：Virulence factor
+多巴胺转运蛋白：Dopamine transporter
+国家责任：state responsibility
+洪泽湖：Hongze Lake
+RNA提取：RNA isolation
+稳定表达：stable expression
+浓度测量：concentration measurement
+急诊医学：emergency medicine
+内因：internal cause
+光学成像：optical imaging
+肾结石：renal calculus
+创伤后应激障碍：Posttraumatic Stress Disorder
+慢性粒细胞白血病：chronic myelogenous leukemia
+压力超负荷：Pressure overload
+药物依赖：drug dependence
+咽鼓管：eustachian tube
+血小板聚集率：Platelet aggregation
+口服疫苗：oral vaccine
+椎弓根钉：Pedicle screw
+细菌耐药性：Bacterial resistance
+脉冲场凝胶电泳：pulsed-field gel electrophoresis
+慢性疼痛：Chronic pain
+抗体效价：Antibody titer
+青少年特发性脊柱侧凸：Adolescent idiopathic scoliosis
+血清抗体：serum antibody
+癌症疫苗：Cancer vaccines
+靶器官损害：target organ damage
+早产儿视网膜病变：retinopathy of prematurity
+条件培养液：Conditioned medium
+皮肤点刺试验：skin prick test
+医疗救助：medical assistance
+胃肿瘤/药物疗法：stomach neoplasms/drug therapy
+阴茎海绵体：corpus cavernosum
+特发性肺纤维化：Idiopathic pulmonary fibrosis
+挤压综合征：Crush syndrome
+围手术期处理：perioperative management
+醒脑静注射液：Xingnaojing Injection
+血管疾病：vascular diseases
+视神经炎：optic neuritis
+呼吸爆发：respiratory burst
+发育毒性：developmental toxicity
+现代科技：Modern science and technology
+时间间隔：time interval
+纯度鉴定：Purity identification
+星状神经节阻滞：Stellate ganglion block
+XML数据库：XML database
+人民群众：the masses
+可变剪接：alternative splicing
+氯化镧：lanthanum chloride
+结构特征：structure characteristic
+不饱和脂肪酸：unsaturated fatty acids
+产品标准：product standard
+形态结构：morphology and structure
+应急系统：emergency system
+二氧化锆：zirconium dioxide
+小波熵：wavelet entropy
+石油醚：Petroleum ether
+变化规律：change law
+脉冲磁场：pulsed magnetic field
+饮水安全：drinking water safety
+铁氰化钾：potassium ferricyanide
+磷脂酶A2：phospholipase A2
+实训教学：practical teaching
+安全浓度：Safe concentration
+工作压力：working pressure
+信息查询：Information query
+最小抑菌浓度：minimal inhibitory concentration
+隐患：hidden danger
+组织体系：organization system
+政策评估：Policy evaluation
+科研管理：research management
+文冠果：Xanthoceras sorbifolia Bunge
+儒家思想：Confucian thought
+偶氮胂Ⅲ：arsenazo Ⅲ
+甾体皂苷：steroidal saponins
+桐花树：Aegiceras corniculatum
+磷脂酶C：phospholipase C
+渐近分析：asymptotic analysis
+溴甲烷：methyl bromide
+基本功能：basic function
+双水相萃取：Aqueous two-phase extraction
+柱色谱法：column chromatography
+套式PCR：nested PCR
+生活变动事件：Life change events
+灯盏细辛：Erigeron breviscapus
+脂类代谢：lipid metabolism
+思维方法：thinking method
+芥酸：Erucic acid
+营养器官：vegetative organs
+前列腺素E1：prostaglandin E 1
+总DNA：total DNA
+运动损伤：athletic injury
+产后抑郁症：Postpartum depression
+股骨粗隆间骨折：femoral intertrochanteric fracture
+缺血再灌注损伤：Ischemical reperfusion injury
+血管内栓塞：Endovascular embolization
+胸苷酸合成酶：Thymidylate synthase
+高敏C反应蛋白：high-sensitivity C-reactive protein
+锁骨下静脉：subclavian vein
+学习与记忆：learning and memory
+临床对照试验：Controlled clinical trials
+诊断试验：diagnostic test
+视网膜神经纤维层：retinal nerve fiber layer
+血小板膜糖蛋白：platelet membrane glycoprotein
+临床护理研究：Clinical nursing research
+妇科外科手术：Gynecologic surgical procedures
+背景音乐：background music
+断层解剖学：sectional anatomy
+神经移位：nerve transfer
+颅骨缺损：Skull defect
+体外反搏：External Counterpulsation
+消化系统肿瘤：digestive system neoplasms
+脓毒性休克：Septic shock
+弓状核：arcuate nucleus
+β细胞功能：β-cell function
+T细胞受体：T cell receptor
+骨生物力学：bone biomechanics
+Kupffer细胞：Kupffer cell
+粘膜免疫：mucosal immunity
+室性早搏：Ventricular premature beat
+离职意愿：turnover intention
+家庭因素：Family factors
+有效不应期：effective refractory period
+巩膜扣带术：scleral buckling
+Poisson分布：Poisson distribution
+间日疟原虫：Plasmodium vivax
+气道重构：Airway remodeling
+冰冻切片：frozen section
+全胃肠外营养：total parenteral nutrition
+桥小脑角：Cerebellopontine angle
+眼动脉：ophthalmic artery
+原发性醛固酮增多症：Primary aldosteronism
+红细胞变形性：erythrocyte deformability
+膜蛋白质类：Membrane proteins
+外源基因：foreign gene
+葡糖耐量试验：glucose tolerance test
+鼻粘膜：Nasal mucosa
+大菱鲆：Scophthalmus maximus
+品牌竞争力：brand competitiveness
+优惠政策：preferential policy
+枯草芽胞杆菌：bacillus subtilis
+被引分析：citation analysis
+氧浓度：oxygen concentration
+自动检测：automatic inspection
+标准不确定度：standard uncertainty
+功能基因：functional gene
+科学思维：scientific thinking
+重金属元素：heavy metal elements
+分离鉴定：separation and identification
+加氢裂化装置：hydrocracking unit
+有机硒：Organic selenium
+纳豆菌：Bacillus natto
+阪崎肠杆菌：Enterobacter sakazakii
+景深：depth of field
+化学元素：chemical elements
+牛初乳：Bovine colostrums
+关键酶：key enzyme
+介电谱：dielectric spectroscopy
+仪器分析：instrument analysis
+诊断方法：diagnosis method
+学习系统：learning system
+农村地区：Rural areas
+蛋白含量：Protein content
+微波炉：microwave oven
+实验室技术和方法：Laboratory techniques and procedures
+5-氨基乙酰丙酸：5-Aminolevulinic acid
+流阻：flow resistance
+生理变化：physiological changes
+细胞毒活性：Cytotoxic activity
+羟苯磺酸钙：calcium dobesilate
+粘质沙雷氏菌：Serratia marcescens
+植物细胞培养：Plant cell culture
+荧光偏振：Fluorescence polarization
+泥蚶：Tegillarca granosa
+信息交流：Information Exchange
+人血清：Human Serum
+鼠伤寒沙门氏菌：Salmonella typhimurium
+重要作用：Important role
+血浆浓度：plasma concentration
+处方分析：Prescription analysis
+人体解剖学：Human anatomy
+胰岛细胞：Islet cell
+医院药学：Hospital pharmacy
+液体复苏：Fluid resuscitation
+骨钉：bone nails
+转化生长因子-β1：transforming growth factor-β_1
+音乐治疗：music therapy
+卒中后抑郁：Post-stroke depression
+肺泡蛋白沉积症：pulmonary alveolar proteinosis
+激光原位/方法：laser in situ/methods
+口腔健康：oral health
+中药疗法：Treatment with Chinese herbs
+骨折固定：fracture fixation
+难治性青光眼：Refractory glaucoma
+剖宫产率：Cesarean section rate
+行为疗法：behavior therapy
+可视化人体：Visible human
+剂量计算：Dose Calculation
+腹腔液：peritoneal fluid
+死亡受体：death receptor
+辅助生殖技术：assisted reproductive technology
+急性肝衰竭：Acute liver failure
+自我和谐：Self consistency and congruence
+激光光凝：Laser photocoagulation
+自杀意念：Suicide ideation
+综合性医院：General hospital
+杯状细胞：goblet cell
+下丘：Inferior colliculus
+胰岛素样生长因子-Ⅰ：Insulin-like growth factor-Ⅰ
+社会动员：Social mobilization
+骨髓祖代细胞：myeloid progenitor cells
+糖尿病性白内障：diabetic cataract
+尿崩症：Diabetes insipidus
+血管损伤：Vascular injury
+肌肉力量：muscle strength
+长角血蜱：Haemaphysalis longicornis
+脑科学：brain science
+亲子关系：Parent-child relationship
+Barrett食管：Barrett Esophagus
+能量响应：Energy Response
+Probit模型：Probit model
+即时通信：instant messaging
+后缀树：Suffix tree
+交流阻抗：electrochemical impedance spectroscopy
+茶多糖：tea polysaccharide
+固体发酵：solid-state fermentation
+纳豆芽孢杆菌：Bacillus natto
+介孔二氧化硅：mesoporous silica
+丙二醇：propylene glycol
+铬天青S：chrome azurol S
+溴甲酚绿：bromocresol green
+置信水平：confidence level
+能力验证：proficiency testing
+静电自组装：electrostatic self-assembly
+多媒体教学：multimedia-aided teaching
+青稞：highland barley
+色谱指纹图谱：chromatographic fingerprint
+液体发酵：submerged fermentation
+科学方法论：scientific methodology
+抗弯刚度：bending rigidity
+残留溶剂：residual solvent
+表面模型：surface model
+太行山：Taihang mountain
+人为因素：human factors
+铅暴露：lead exposure
+检索方法：Retrieval method
+蛋白质二级结构：protein secondary structure
+寻常痤疮：acne vulgaris
+自然菌：natural bacteria
+无机砷：Inorganic arsenic
+高斯函数：Gaussian function
+固定成本：fixed cost
+丙氨酸氨基转移酶：alanine aminotransferase
+贫铀：depleted uranium
+组织工程学：Tissue engineering
+滞回曲线：hysteresis curve
+总体布局：General Layout
+基底节：basal ganglia
+短发夹RNA：Short hairpin RNA
+螺旋神经节：Spiral ganglion
+药敏：Drug sensitivity
+易感基因：susceptibility gene
+胃肠活动：Gastrointestinal Motility
+纤维支气管镜：fiberoptic bronchoscopy
+高眼压：high intraocular pressure
+IgM抗体：IgM antibody
+股骨头缺血性坏死：Avascular Necrosis of Femoral Head
+三七总皂甙：panax notoginseng saponins
+视网膜色素上皮细胞：retinal pigment epithelium
+核基质：nuclear matrix
+心脏发育：heart development
+全髋关节置换术：total hip replacement
+经皮肾穿刺取石术：percutaneous nephrolithotomy
+消化道出血：gastrointestinal hemorrhage
+基于问题的学习：Problem-Based Learning
+喉罩：Laryngeal mask airway
+瘦素抵抗：Leptin resistance
+眼外伤：eye injury
+卵泡刺激素：follicle stimulating hormone
+Brugada综合征：Brugada syndrome
+人胚胎：Human embryo
+应付方式：Coping Styles
+Raji细胞：Raji cell
+静脉功能不全：venous insufficiency
+负二项分布：Negative binomial distribution
+心肺功能：cardiopulmonary function
+性心理：Sexual psychology
+X-线计算机：X-ray computed
+全膝关节置换术：total knee arthroplasty
+绝经后妇女：postmenopausal women
+脑缺血/再灌注：cerebral ischemia/reperfusion
+肝再生增强因子：augmenter of liver regeneration
+下颌下腺：Submandibular gland
+枯否细胞：Kupffer cell
+整形外科：plastic surgery
+大隐静脉：Great saphenous vein
+乳癌：breast cancer
+子宫内膜腺癌：Endometrial adenocarcinoma
+多巴胺转运体：dopamine transporter
+噬菌体肽库：phage peptide library
+迟发性脑病：Delayed encephalopathy
+傅里叶分析：fourier analysis
+人类基因组：human genome
+颈淋巴结清扫术：Radical neck dissection
+人工感染：artificial infection
+同源建模：homology modeling
+功能翻译理论：Functionalist translation theory
+家庭背景：Family background
+血红素氧化酶：heme oxygenase
+教学团队：teaching team
+运动活动：Motor activity
+氢氧化钾：potassium hydroxide
+信息系统集成：Information system integration
+软胶囊：soft capsule
+乙酰水杨酸：acetylsalicylic acid
+神经元网络：neural networks
+层层自组装：layer-by-layer self-assembly
+北美：North America
+多元统计：multivariate statistics
+苦味酸：picric acid
+天冬氨酸：aspartic acid
+红外光谱法：Infrared spectrometry
+白骨壤：Avicennia marina
+应变分布：strain distribution
+离子交换色谱：ion exchange chromatography
+室温离子液体：room temperature ionic liquids
+灵芝多糖：ganoderma lucidum polysaccharide
+优缺点：advantages and disadvantages
+相关分析：related analysis
+设计性实验：designed experiment
+多孔支架：porous scaffold
+粗脂肪：crude fat
+单核细胞增生李斯特菌：Listeria monocytogenes
+分析评价：analysis and evaluation
+蛋黄：egg yolk
+热激：heat shock
+构树：Broussonetia papyrifera
+黄金分割法：golden section method
+巴戟天：Morinda officinalis How
+社会调查：social investigation
+诊断模型：diagnosis model
+生理机能：physiological function
+双向凝胶电泳：Two-dimensional electrophoresis
+亚急性毒性：subacute toxicity
+羊栖菜：Sargassum fusiforme
+政策研究：policy study
+社会参与：Social Participation
+信息挖掘：information mining
+自由边界问题：free boundary problem
+重组蛋白质类：recombinant proteins
+技术引进：technology import
+食管肿瘤：Esophageal cancer
+人参皂甙Rg3：Ginsenoside Rg3
+组织型纤溶酶原激活物：tissue-type plasminogen activator
+热成像：Thermal imaging
+矢量场：vector field
+无创通气：Noninvasive ventilation
+糖尿病血管病变：diabetic angiopathies
+血管内治疗：Endovascular therapy
+血小板功能：Platelet function
+消化系统外科手术：Digestive system surgical procedures
+血液分析仪：Hematology analyzer
+良性肿瘤：benign tumor
+胃肠功能：gastrointestinal function
+显微鉴别：microscopic identification
+胆道梗阻：biliary obstruction
+胆汁反流：bile reflux
+心肌肌钙蛋白T：Cardiac troponin T
+难治性癫痫：refractory epilepsy
+血小板膜糖蛋白类：Platelet membrane glycoproteins
+三联疗法：Triple therapy
+p73基因：p73 Gene
+疾病易感性：Disease Susceptibility
+屈光不正：refractive error
+运动能力：sports ability
+肝癌细胞：hepatoma cell
+人工气道：artificial airway
+舒张性心力衰竭：Diastolic heart failure
+系统进化树：Phylogenetic tree
+血液循环：Blood circulation
+腺样囊性：adenoid cystic
+初级卫生保健：Primary health care
+异育银鲫：Carassius auratus gibelio
+早期妊娠：Early pregnancy
+癌基因蛋白质类：oncogene proteins
+创伤与损伤：wounds and injuries
+基底前脑：Basal forebrain
+受精率：Fertilization rate
+序贯治疗：Sequential therapy
+猪肺炎支原体：Mycoplasma hyopneumoniae
+心房功能：Atrial function
+血管紧张素转换酶抑制药：angiotensin-converting enzyme inhibitors
+实体瘤：solid tumor
+M蛋白：M protein
+药学教育：Pharmaceutical education
+药物协同作用：drug synergism
+子宫内膜增生：endometrial hyperplasia
+脆性X综合征：fragile X syndrome
+氩激光：Argon laser
+肠营养：enteral nutrition
+形觉剥夺：form deprivation
+树鼩：Tree shrew
+肝片吸虫：Fasciola hepatica
+气象服务：meteorological service
+网络实验室：Network laboratory
+准公共产品：quasi-public goods
+分离均衡：separating equilibrium
+价值规律：law of value
+王阳明：WANG Yang-ming
+内分泌干扰物：Endocrine disrupting chemicals
+制备条件：preparation condition
+评价模型：appraisal model
+均匀设计法：uniform design method
+过渡金属配合物：transition metal complexes
+无机陶瓷膜：inorganic ceramic membrane
+最小二乘拟合：least square fitting
+抑菌作用：antimicrobial effect
+振动频率：vibrational frequency
+GC/MS分析：GC/MS analysis
+PCR：polymerase chain reaction(PCR)
+判别函数：discriminant function
+精品课程：top-quality course
+杂环化合物：heterocyclic compound
+芳香胺：aromatic amine
+野生植物：wild plants
+分子质量：molecular weight
+市场信息：market information
+抗菌作用：antibacterial activity
+洪灾：Flood disaster
+抽样方法：Sampling method
+光声光谱：Photoacoustic spectroscopy
+体外抗菌活性：In vitro antibacterial activity
+表面涂层：surface coating
+地方院校：local college
+马来酸：maleic acid
+Mannich碱：Mannich base
+磷酸三丁酯：tributyl phosphate
+非洲爪蟾：Xenopus laevis
+氯化钴：cobalt chloride
+质控：Quality control
+实验室开放：laboratory opening
+超声清洗：ultrasonic cleaning
+实证：empirical study
+半导体材料：semiconductor material
+奥扎格雷钠：Sodium Ozagrel
+Matlab程序：matlab program
+生理反应：physiological response
+半边旗：Pteris semipinnata L
+教学水平：teaching level
+宁夏枸杞：Lycium barbarum L
+内皮素受体拮抗剂：endothelin receptor antagonist
+盐酸西替利嗪：Cetirizine hydrochloride
+最速下降法：steepest descent method
+人口控制：Population control
+寡核苷酸探针：Oligonucleotide probe
+体格发育：Physical development
+国民收入：national income
+2DNMR：2D NMR
+生存质量：living quality
+肺组织：Lung tissue
+急性髓细胞白血病：acute myeloid leukemia
+不稳定心绞痛：Unstable angina
+B型利钠肽：B-type natriuretic peptide
+角膜内皮：corneal endothelium
+X染色体：X chromosome
+表面抗原：Surface antigen
+上肢：upper extremity
+下腰痛：low back pain
+血府逐瘀汤：Xuefu Zhuyu decoction
+真菌性角膜炎：fungal keratitis
+多脏器功能障碍综合征：Multiple organ dysfunction syndrome
+人文素养：humanistic quality
+缺血半暗带：ischemic penumbra
+残根：residual root
+右心室功能：right ventricular function
+慢性再生障碍性贫血：chronic aplastic anemia
+围手术期护理：Perioperative Care
+膝关节骨性关节炎：knee osteoarthritis
+不良事件：Adverse Event
+情商：Emotional quotient
+慢性湿疹：chronic eczema
+经皮穿刺：Percutaneous puncture
+泌尿道感染：Urinary Tract Infection
+制度伦理：institutional ethics
+骨瓣：Bone flap
+急性淋巴细胞白血病：Acute lymphocytic leukemia
+神经心理学测验：Neuropsychological tests
+重组融合蛋白质类：Recombinant fusion proteins
+医学统计学：medical statistics
+单链构象多态性：Single strand conformation polymorphism
+医疗救援：medical rescue
+牙齿发育：tooth development
+多处创伤：Multiple trauma
+学科馆员：subject librarians
+形态分化：Morphological differentiation
+视皮质：Visual cortex
+随机效应：Random effect
+亚单位疫苗：Subunit vaccine
+统计推断：statistical inference
+语言技能：language skills
+冷链：cold chain
+超混沌系统：hyperchaotic system
+日本鳗鲡：Anguilla japonica
+上海港：Shanghai port
+微波消融：microwave ablation
+化学组分：chemical composition
+质量要求：Quality requirement
+邯郸市：Handan city
+非线性回归：non-linear regression
+综合指数：comprehensive index
+不确定度评定：evaluation of uncertainty
+大气压：atmospheric pressure
+盐酸左氧氟沙星：Levofloxacin hydrochloride
+海绵钛：titanium sponge
+相转移：phase transfer
+图像噪声：image noise
+间接法：indirect method
+力学强度：mechanical strength
+激光扫描共聚焦显微镜：laser scanning confocal microscopy
+药物释放系统：drug delivery system
+分类鉴定：Classification and identification
+教学课件：teaching courseware
+毕业实习：graduation practice
+不同部位：Different parts
+电子传递：electron transfer
+行业分析：industry analysis
+葡萄糖酸钙：calcium gluconate
+酸枣仁：Semen Ziziphi spinosae
+复小波：complex wavelet
+镁离子：magnesium ion
+代谢途径：metabolic pathway
+DCS：distributed control system
+热激蛋白：heat shock protein
+单糖组成：monosaccharide composition
+小波阈值：wavelet threshold
+分子构象：molecular conformation
+溶度参数：solubility parameter
+菘蓝：Isatis Indigotica Fort
+穿心莲：Andrographis paniculata
+特异性IgE：specific IgE
+尿蛋白：urinary protein
+家属：Family members
+传统哲学：traditional philosophy
+磷酸三钙：tricalcium phosphate
+流感疫苗：influenza vaccine
+定点诱变：site-directed mutagenesis
+核受体：Nuclear receptor
+凝血酶时间：Thrombin time
+外因：external cause
+生命价值：Value of life
+扁桃酸：mandelic acid
+声带麻痹：Vocal Cord Paralysis
+伏核：nucleus accumbens
+瓣膜置换：valve replacement
+高血压性脑出血：Hypertensive cerebral hemorrhage
+保护性抗原：protective antigen
+核素显像：radionuclide imaging
+变异链球菌：Streptococcus mutans
+肠黏膜屏障：Intestinal Mucosal Barrier
+肺透明膜病：hyaline membrane disease
+血管紧张素转换酶2：angiotensin-converting enzyme 2
+阴道超声：Transvaginal sonography
+非霍奇金淋巴瘤：non-Hodgkin's lymphoma
+精液分析：Semen analysis
+急诊手术：Emergency operation
+可摘局部义齿：removable partial denture
+稽留流产：missed abortion
+Jurkat细胞：Jurkat cells
+视神经管：Optic canal
+实验性变态反应性脑脊髓炎：experimental allergic encephalomyelitis
+多普勒超声心动图：Doppler echocardiography
+前列腺特异性抗原：prostate-specific antigen
+计算生物学：computational biology
+非小细胞肺/药物疗法：non-small cell lung/drug therapy
+胆碱能神经元：cholinergic neuron
+临床带教：Clinical teaching
+近交SHR：inbred SHR
+X基因：X gene
+14-3-3蛋白：14-3-3 protein
+骨龄：skeletal age
+胚胎培养：Embryo culture
+分子影像学：Molecular Imaging
+虚拟内窥镜：virtual endoscopy
+胎儿DNA：Fetal DNA
+门脉高压性胃病：portal hypertensive gastropathy
+长骨：long bone
+心脏外科：Cardiac Surgery
+心肌灌注显像：myocardial perfusion imaging
+二烯丙基二硫：diallyl disulfide
+肺通气：pulmonary ventilation
+遗传咨询：Genetic counseling
+Oddi括约肌：sphincter of Oddi
+周围神经病：Peripheral neuropathy
+视神经萎缩：Optic atrophy
+重组痘苗病毒：recombinant vaccinia virus
+骨螺丝：Bone screws
+N蛋白：N protein
+mdr1基因：mdr1 gene
+专业知识：professional knowledge
+多系统萎缩：Multiple system atrophy
+翼腭窝：Pterygopalatine fossa
+教学质量评价：teaching quality evaluation
+显微外科解剖：Microsurgical anatomy
+急诊处理：emergency treatment
+皮神经：cutaneous nerve
+中国传统：Chinese tradition
+模糊综合评估：fuzzy comprehensive evaluation
+枫香：Liquidambar formosana
+为人民服务：Serve the people
+成本补偿：cost compensation
+种源选择：provenance selection
+盐酸丁卡因：Tetracaine hydrochloride
+哨点监测：Sentinel surveillance
+定量超声：Quantitative ultrasound
+天然胶乳：natural rubber latex
+竹笋：bamboo shoots
+给药系统：drug delivery system
+荧光增强：Fluorescence enhancement
+正交设计法：orthogonal design method
+数据挖掘技术：data mining technology
+测量仪：measuring instrument
+三氧化二锑：antimony trioxide

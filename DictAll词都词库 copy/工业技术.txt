@@ -1,0 +1,5000 @@
+数值模拟：numerical simulation
+遗传算法：genetic algorithm
+神经网络：neural network
+数据挖掘：data mining
+故障诊断：fault diagnosis
+小波变换：Wavelet transform
+有限元：finite element
+模糊控制：Fuzzy control
+质量控制：Quality Control
+嵌入式系统：embedded system
+专家系统：expert system
+有限元分析：finite element analysis
+数据采集：Data acquisition
+控制系统：control system
+力学性能：mechanical property
+虚拟仪器：virtual Instrument
+晶体结构：Crystal structure
+指标体系：index system
+温度场：temperature field
+电力系统：power system
+柴油机：diesel engine
+信息系统：information system
+遗传多样性：genetic diversity
+遥感：remote sensing
+聚类分析：cluster analysis
+风险管理：risk management
+特征提取：feature extraction
+项目管理：project management
+虚拟现实：virtual reality
+数据仓库：data warehouse
+模式识别：pattern recognition
+知识管理：knowledge management
+细胞周期：cell cycle
+入侵检测：intrusion detection
+数据处理：data processing
+环境保护：environmental protection
+数字图书馆：digital library
+边缘检测：Edge detection
+粗糙集：Rough set
+因子分析：factor analysis
+信息服务：information service
+计算机应用：computer application
+数据融合：data fusion
+实验研究：experimental study
+信息安全：Information security
+主成分分析：principal component analysis
+信号处理：signal processing
+粉煤灰：fly ash
+数值分析：numerical analysis
+职业教育：vocational education
+自适应控制：adaptive control
+管理信息系统：management information system
+计算机仿真：computer simulation
+组织工程：Tissue engineering
+氨基酸：amino acid
+传统文化：Traditional culture
+优化设计：optimum design
+网络环境：network environment
+乳腺肿瘤：breast neoplasms
+Web服务：Web Service
+博弈论：game theory
+网络管理：Network management
+数字水印：Digital watermarking
+系统设计：system design
+水质：Water quality
+数字签名：digital signature
+模态分析：Modal analysis
+无线传感器网络：Wireless sensor network
+活性炭：activated carbon
+铝合金：aluminum alloy
+质量管理：quality management
+风景园林：Landscape Architecture
+自动控制：automatic control
+信息融合：information fusion
+串行通信：serial communication
+实验教学：experimental teaching
+热稳定性：thermal stability
+智能控制：intelligent control
+温度控制：temperature control
+正交试验：orthogonal test
+定量分析：Quantitative analysis
+经济效益：economic benefit
+统计分析：statistical analysis
+研究进展：research progress
+地理信息系统：Geographic Information System
+液压系统：hydraulic system
+钢筋混凝土：Reinforced concrete
+不锈钢：stainless steel
+耐药性：drug resistance
+关联规则：association rules
+模型试验：model test
+结构设计：structure design
+管理系统：management system
+时间序列：time series
+综合利用：comprehensive utilization
+高炉：blast furnace
+人脸识别：face recognition
+搜索引擎：search engine
+岩石力学：rock mechanics
+风险分析：risk analysis
+数值仿真：numerical simulation
+矢量控制：vector control
+传热：heat transfer
+正交设计：orthogonal design
+钢结构：steel structure
+电力市场：electricity market
+参数估计：parameter estimation
+蚁群算法：ant colony algorithm
+Petri网：Petri net
+图像融合：image fusion
+自由基：free radical
+信息检索：information retrieval
+最优控制：optimal control
+计算机网络：computer network
+图像压缩：image compression
+计算机视觉：computer vision
+数值计算：numerical calculation
+控制策略：control strategy
+太阳能：solar energy
+低温：low temperature
+斜拉桥：cable-stayed bridge
+碳纳米管：carbon nanotubes
+溶胶-凝胶法：sol-gel method
+微量元素：trace elements
+高温：high temperature
+汽轮机：steam turbine
+非线性系统：nonlinear system
+耐磨性：wear resistance
+鲁棒控制：robust control
+耐蚀性：corrosion resistance
+周期解：periodic solution
+城市规划：urban planning
+质量标准：quality standard
+大肠杆菌：escherichia coli
+线性规划：linear programming
+安全管理：safety management
+有限元方法：finite element method
+决策支持系统：decision support system
+拥塞控制：congestion control
+分子标记：molecular marker
+毛细管电泳：Capillary electrophoresis
+模糊神经网络：Fuzzy neural network
+水处理：water treatment
+沥青路面：asphalt pavement
+桥梁工程：bridge engineering
+水平井：horizontal well
+软件工程：Software engineering
+机器视觉：machine vision
+信息管理：information management
+应力分析：stress analysis
+电能质量：power quality
+模糊逻辑：fuzzy logic
+不动点：fixed point
+气相色谱法：Gas chromatography
+磁场：magnetic field
+数学形态学：mathematical morphology
+血压：blood pressure
+农业工程：agricultural engineering
+碳纤维：carbon fiber
+河南省：Henan Province
+移动机器人：mobile robot
+稳定性分析：stability analysis
+水资源：water resource
+思想政治工作：ideological and political work
+企业管理：enterprise management
+节能：energy conservation
+磁控溅射：magnetron sputtering
+土壤侵蚀：soil erosion
+BP算法：BP algorithm
+分形维数：fractal dimension
+复合地基：composite foundation
+二氧化钛：titanium dioxide
+激光技术：laser technique
+系统集成：system integration
+软件设计：software design
+逆向工程：reverse engineering
+均匀设计：uniform design
+信道估计：channel estimation
+成本控制：Cost Control
+pH值：pH value
+无线通信：wireless communication
+表面粗糙度：surface roughness
+流媒体：streaming media
+钛合金：titanium alloy
+动态规划：dynamic programming
+薄膜：thin film
+模糊综合评价：fuzzy comprehensive evaluation
+饮用水：drinking water
+系统辨识：system identification
+连铸：continuous casting
+抗压强度：compressive strength
+风险评估：risk assessment
+密度泛函理论：density functional theory
+水热合成：hydrothermal synthesis
+性能分析：performance analysis
+环保：environmental protection
+模糊聚类：fuzzy clustering
+动力响应：Dynamic response
+机器学习：machine learning
+路由协议：routing protocol
+水环境：water environment
+分布式系统：distributed system
+换热器：heat exchanger
+运动估计：motion estimation
+计算方法：calculation method
+产品设计：product design
+语音识别：Speech recognition
+评价指标：evaluation index
+预测控制：predictive control
+嵌入式Linux：embedded Linux
+骨密度：bone mineral density
+能耗：energy consumption
+电子结构：electronic structure
+成本管理：Cost Management
+信息隐藏：information hiding
+鄂尔多斯盆地：Ordos Basin
+系统仿真：system simulation
+虚拟样机：Virtual prototype
+乳液聚合：emulsion polymerization
+目标跟踪：target tracking
+燃料电池：fuel cell
+功率因数：Power factor
+煤矿：coal mine
+河北省：Hebei Province
+山东省：Shandong Province
+表面处理：surface treatment
+催化裂化：catalytic cracking
+在线监测：on-line monitoring
+虚拟企业：virtual enterprise
+网格计算：grid computing
+催化氧化：catalytic oxidation
+数据结构：data structure
+继电保护：relay protection
+激光熔覆：laser cladding
+振动控制：vibration control
+计算机控制：Computer Control
+数字信号处理器：Digital Signal Processor
+信息熵：information entropy
+DNA损伤：DNA damage
+公共图书馆：Public Library
+图像增强：image enhancement
+监控系统：Monitoring system
+曲线拟合：curve fitting
+热分析：Thermal analysis
+对比研究：comparative study
+交通工程：traffic engineering
+移动Agent：mobile agent
+服务质量：service quality
+离子注入：ion implantation
+景观格局：Landscape pattern
+表面张力：surface tension
+软件测试：software testing
+膝关节：knee joint
+数字图像处理：digital image processing
+模糊综合评判：Fuzzy comprehensive evaluation
+山西省：Shanxi Province
+信息集成：Information Integration
+流化床：fluidized bed
+经济分析：economic analysis
+PCI总线：PCI bus
+系统动力学：system dynamics
+特征选择：feature selection
+高层建筑：high-rise building
+数字信号处理：Digital signal processing
+图像配准：image registration
+深基坑：deep foundation pit
+应力强度因子：stress intensity factor
+高职院校：higher vocational college
+线性矩阵不等式：linear matrix inequality
+化学镀：electroless plating
+直接转矩控制：direct torque control
+土力学：soil mechanics
+人脸检测：face detection
+变结构控制：variable structure control
+故障检测：fault detection
+软件体系结构：software architecture
+微波辐射：microwave irradiation
+数据模型：data model
+预测模型：prediction model
+光纤：optical fiber
+通信协议：communication protocol
+仿真分析：simulation analysis
+景观设计：Landscape design
+模拟退火：simulated annealing
+软件无线电：software radio
+电磁场：electromagnetic field
+施工技术：construction technique
+本构模型：constitutive model
+三维重建：3D reconstruction
+分子动力学：molecular dynamics
+乳酸菌：Lactic acid bacteria
+维生素C：vitamin C
+移动代理：Mobile Agent
+微分方程：differential equation
+原油：crude oil
+声发射：acoustic emission
+开发利用：development and utilization
+公众参与：public participation
+伺服系统：Servo system
+空间分析：spatial analysis
+RBF神经网络：RBF Neural Network
+数据集成：Data integration
+学分制：credit system
+压力容器：pressure vessel
+维生素E：vitamin E
+数据分析：data analysis
+可持续利用：Sustainable utilization
+X射线衍射：X-ray diffraction
+并行算法：parallel algorithm
+施工方法：construction method
+正交实验：orthogonal experiment
+晶体生长：crystal growth
+中小企业：small and medium-sized enterprises
+视频编码：video coding
+信息共享：information sharing
+应力集中：stress concentration
+两相流：two-phase flow
+微波消解：Microwave digestion
+体育：physical education
+数据交换：data exchange
+钻井液：drilling fluid
+数据传输：data transmission
+模拟退火算法：simulated annealing algorithm
+概念设计：conceptual design
+图像检索：image retrieval
+局部放电：Partial discharge
+属性约简：attribute reduction
+空间结构：spatial structure
+非线性光学：Nonlinear optics
+图像分析：image analysis
+施工控制：construction control
+结构分析：structure analysis
+膜污染：membrane fouling
+评价指标体系：evaluation index system
+无功补偿：Reactive power compensation
+知识表示：knowledge representation
+教学效果：teaching effect
+运动控制：Motion Control
+数据压缩：Data Compression
+远程控制：Remote Control
+信息资源：information resource
+版权保护：copyright protection
+质量评价：quality evaluation
+工业设计：industrial design
+串口通信：serial communication
+介电性能：dielectric properties
+非线性分析：nonlinear analysis
+空间数据库：spatial database
+温度补偿：temperature compensation
+参数辨识：parameter identification
+建设项目：construction project
+多孔介质：porous media
+电场：Electric field
+MATLAB仿真：MATLAB simulation
+糖尿病视网膜病变：Diabetic retinopathy
+汶川地震：Wenchuan earthquake
+预应力混凝土：prestressed concrete
+并行工程：concurrent engineering
+硫化氢：hydrogen sulfide
+软件复用：software reuse
+博弈：Game Theory
+合成孔径雷达：Synthetic Aperture Radar
+持续发展：sustainable development
+燃气轮机：gas turbine
+卡尔曼滤波：Kalman Filtering
+传递函数：transfer function
+边值问题：boundary value problem
+动态分析：dynamic analysis
+柠檬酸：citric acid
+分子生物学：molecular biology
+BP网络：BP network
+混凝土结构：Concrete structure
+基质金属蛋白酶：matrix metalloproteinase
+准噶尔盆地：Junggar Basin
+振动与波：vibration and wave
+甘肃省：Gansu province
+离心泵：Centrifugal pump
+奇异值分解：Singular value decomposition
+污水处理：sewage treatment
+大体积混凝土：mass concrete
+四川盆地：Sichuan Basin
+锂离子电池：lithium ion battery
+抗拉强度：tensile strength
+管理模式：Management Model
+程序设计：program design
+滑模控制：Sliding Mode Control
+断裂韧性：fracture toughness
+中文信息处理：Chinese information processing
+误差补偿：error compensation
+医院管理：hospital management
+正态分布：normal distribution
+操作系统：operating system
+时滞：time delay
+循环伏安法：Cyclic voltammetry
+模糊评价：fuzzy evaluation
+文化内涵：cultural connotation
+环境监测：environmental monitoring
+核函数：kernel function
+形状记忆合金：Shape memory alloy
+相位噪声：phase noise
+水电站：hydropower station
+汽油机：gasoline engine
+拱桥：Arch bridge
+膜分离：Membrane separation
+碰撞检测：collision detection
+Hough变换：Hough transform
+细胞外基质：extracellular matrix
+数控加工：NC machining
+相图：phase diagram
+多媒体技术：multimedia technology
+心率变异性：Heart rate variability
+电导率：electrical conductivity
+液晶：liquid crystal
+阻燃剂：flame retardant
+信息管理系统：information management system
+肺纤维化：Pulmonary fibrosis
+动态特性：Dynamic characteristic
+图书馆管理：library management
+碳酸钙：calcium carbonate
+社会发展：social development
+阿魏酸：ferulic acid
+建筑设计：architectural design
+创造性思维：creative thinking
+状态反馈：state feedback
+地基处理：foundation treatment
+网络技术：network technology
+经济评价：economic evaluation
+价值工程：value engineering
+结构优化：structural optimization
+物理化学：physical chemistry
+功率控制：power control
+酸雨：acid rain
+办公自动化：office automation
+状态监测：condition monitoring
+组合导航：integrated navigation
+数据管理：data management
+数字控制：digital control
+可靠性分析：reliability analysis
+傅里叶变换：Fourier transform
+氧化锌：zinc oxide
+功率谱：power spectrum
+绿色化学：green chemistry
+空间数据：spatial data
+大规模定制：mass customization
+图论：graph theory
+意境：artistic conception
+聚乙烯醇：polyvinyl alcohol
+折射率：refractive index
+反馈控制：feedback control
+动态模型：dynamic model
+摄像机标定：camera calibration
+动力分析：dynamic analysis
+动态响应：dynamic response
+极限承载力：ultimate bearing capacity
+主动控制：Active control
+多Agent系统：multi-agent system
+工程地质：engineering geology
+知识发现：knowledge discovery
+地震预报：Earthquake prediction
+甲基橙：Methyl orange
+电磁兼容：electromagnetic compatibility
+提取工艺：extraction technology
+碳化硅：silicon carbide
+清洁生产：clean production
+肿瘤细胞：tumor cells
+新技术：new technology
+复杂系统：complex system
+工程设计：engineering design
+相变：phase transformation
+热导率：thermal conductivity
+温度传感器：Temperature Sensor
+层次分析法：analytical hierarchy process
+乳酸：Lactic acid
+火电厂：thermal power plant
+数学模型：Mathematical models
+现代物流：modern logistics
+尿酸：uric acid
+香港：Hong Kong
+地震反应：seismic response
+传质：mass transfer
+教学改革：teaching reformation
+反问题：inverse problem
+边界元法：Boundary Element Method
+小波包：wavelet packet
+流动注射：flow injection
+串行通讯：Serial communication
+密钥管理：key management
+人文精神：humanistic spirit
+温度测量：temperature measurement
+并行处理：parallel processing
+导热系数：thermal conductivity
+敏感性分析：sensitivity analysis
+有源电力滤波器：active power filter
+晶粒细化：grain refinement
+产品开发：product development
+叶绿素荧光：Chlorophyll fluorescence
+环境影响评价：environmental impact assessment
+拓扑优化：topology optimization
+交通流：traffic flow
+教学设计：instructional design
+网络教学：network teaching
+竞争情报：competitive intelligence
+语义Web：semantic web
+原因分析：cause analysis
+基坑：foundation pit
+螺旋CT：spiral CT
+粒子群算法：particle swarm optimization
+智能建筑：intelligent building
+炭黑：carbon black
+独立分量分析：independent component analysis
+图像重建：image reconstruction
+接枝共聚：graft copolymerization
+科研：scientific research
+图象处理：image processing
+边界条件：boundary condition
+改性沥青：modified asphalt
+设备管理：equipment management
+循环流化床：circulating fluidized bed
+能源与动力工程：energy and power engineering
+资源管理：resource management
+灰色理论：Grey Theory
+模糊集：fuzzy set
+故障树：fault tree
+管理体系：management system
+疲劳强度：fatigue strength
+接触角：contact angle
+任务调度：task scheduling
+护理管理：Nursing management
+数据收集：Data Collection
+市场机制：market mechanism
+全局优化：global optimization
+光催化降解：photocatalytic degradation
+有机酸：organic acid
+分离纯化：Isolation and purification
+虚拟装配：virtual assembly
+膨胀土：expansive soil
+模糊控制器：fuzzy controller
+电压稳定：voltage stability
+参数识别：parameter identification
+分子量：molecular weight
+压降：pressure drop
+防治：prevention and cure
+膜生物反应器：membrane bioreactor
+应力分布：Stress Distribution
+运动补偿：motion compensation
+动力特性：Dynamic characteristics
+监测系统：monitoring system
+复杂网络：complex network
+离子液体：ionic liquids
+理论分析：theoretical analysis
+B/S模式：B/S mode
+化学合成：chemical synthesis
+图像去噪：image denoising
+茶多酚：Tea Polyphenols
+修饰电极：Modified electrode
+工程应用：engineering application
+心血管疾病：cardiovascular disease
+数据通信：data communication
+动力学模型：dynamic model
+有机质：organic matter
+Web挖掘：web mining
+摩擦系数：friction coefficient
+互信息：mutual information
+智能天线：smart antenna
+分形理论：fractal theory
+负载型催化剂：supported catalyst
+土地利用变化：land use change
+带式输送机：belt conveyor
+DNA提取：DNA extraction
+桩基：pile foundation
+图像匹配：image matching
+冲击波：shock wave
+纳什均衡：Nash equilibrium
+异常检测：anomaly detection
+信息素养：information literacy
+采矿工程：mining engineering
+电化学性能：electrochemical performance
+相平衡：phase equilibrium
+杉木：Chinese Fir
+扩散系数：diffusion coefficient
+塑性变形：plastic deformation
+红外图像：infrared image
+光纤激光器：fiber laser
+拱坝：arch dam
+非线性振动：nonlinear vibration
+数字仿真：digital simulation
+计算机图形学：computer graphics
+酚醛树脂：phenolic resin
+高分辨率：high resolution
+老年人：the elderly
+自适应滤波：adaptive filtering
+红外光谱：Infrared Spectrum
+关系数据库：relational database
+信息不对称：asymmetric information
+偶联剂：coupling agent
+断裂力学：fracture mechanics
+快速凝固：rapid solidification
+综合素质：comprehensive quality
+非线性控制：nonlinear control
+阴极保护：cathodic protection
+边界层：Boundary layer
+Web服务器：Web server
+荧光光谱：fluorescence spectrum
+同步辐射：synchrotron radiation
+离子色谱：ion chromatography
+地震响应：seismic response
+半导体激光器：semiconductor laser
+数字图像：digital image
+岩土工程：geotechnical engineering
+脂肪酸：fatty acids
+暂态稳定：transient stability
+步进电机：step motor
+电力变压器：power transformer
+多媒体课件：multimedia courseware
+相对湿度：relative humidity
+姿态控制：attitude control
+反求工程：reverse engineering
+负载均衡：load balance
+软土：soft soil
+光通信：optical communication
+使用寿命：service life
+教育技术：educational technology
+移动IP：Mobile IP
+电源：power supply
+碳酸二甲酯：dimethyl carbonate
+边坡稳定：slope stability
+分布式数据库：distributed database
+Lyapunov函数：Lyapunov function
+工艺参数：process parameter
+分子动力学模拟：molecular dynamics simulation
+教育改革：educational reform
+计算流体力学：computational fluid dynamics
+生态恢复：ecological restoration
+生产工艺：production process
+随机振动：random vibration
+信息处理：information processing
+定性分析：qualitative analysis
+动态模拟：dynamic simulation
+黄河：Yellow River
+快速算法：Fast algorithm
+粒子滤波：particle filter
+光学设计：optical design
+电磁散射：electromagnetic scattering
+高速铁路：high-speed railway
+有机合成：organic synthesis
+文本分类：text classification
+自然语言处理：natural language processing
+知识获取：knowledge acquisition
+抗氧化活性：antioxidant activity
+Ad Hoc网络：Ad hoc network
+产品质量：product quality
+路由算法：routing algorithm
+IC卡：IC card
+波动方程：Wave equation
+马尔可夫链：Markov chain
+溶解氧：dissolved oxygen
+循环伏安：cyclic voltammetry
+三峡工程：Three Gorges Project
+网络通信：Network communication
+甲基丙烯酸甲酯：methyl methacrylate
+三维建模：3D modeling
+有机化学：organic chemistry
+有限体积法：Finite volume method
+椭圆曲线：Elliptic curve
+知识创新：knowledge innovation
+柴达木盆地：Qaidam Basin
+系统工程：System engineering
+润滑油：lubricating oil
+视频压缩：video compression
+空间格局：spatial pattern
+相转移催化：phase transfer catalysis
+模糊推理：fuzzy inference
+催化活性：catalytic activity
+语音增强：speech enhancement
+激光焊接：Laser welding
+教学体系：teaching system
+Web数据库：Web database
+表面质量：surface quality
+无功优化：reactive power optimization
+数字滤波器：digital filter
+医疗保险：Medical insurance
+调度算法：scheduling algorithm
+分子筛：Molecular sieve
+蒙特卡罗模拟：Monte Carlo Simulation
+并联机构：parallel mechanism
+孔结构：pore structure
+膳食纤维：dietary fiber
+动态监测：dynamic monitoring
+施工工艺：construction technique
+数值方法：Numerical method
+量子化学：quantum chemistry
+应力波：stress wave
+直线电机：linear motor
+测试系统：testing system
+最短路径：shortest path
+文件系统：File system
+稀土元素：rare earth element
+实时控制：real-time control
+绿色设计：green design
+软土地基：soft soil foundation
+差动保护：differential protection
+硅橡胶：silicone rubber
+回转窑：rotary kiln
+内燃机：IC engine
+无机非金属材料：inorganic non-metallic materials
+药物化学：medicinal chemistry
+证据理论：evidence theory
+数字电视：digital TV
+抗震性能：Seismic performance
+数字城市：digital city
+傅立叶变换：Fourier Transform
+三维可视化：3D visualization
+开关电源：switching power supply
+地域文化：regional culture
+棉铃虫：Helicoverpa armigera
+青藏铁路：Qinghai-Tibet Railway
+Apriori算法：Apriori algorithm
+紫外分光光度法：UV spectrophotometry
+施工质量：construction quality
+电力机车：electric locomotive
+风险防范：risk prevention
+电磁辐射：electromagnetic radiation
+纹理映射：texture mapping
+创新教育：creative education
+景观生态学：landscape ecology
+光纤通信：optical fiber communication
+直肠肿瘤：rectal neoplasms
+脉冲压缩：pulse compression
+溶剂萃取：solvent extraction
+风险评价：risk evaluation
+时间序列分析：time series analysis
+并行计算：parallel computation
+科学研究：scientific research
+隧道工程：tunnel engineering
+光学测量：optical measurement
+医学图像：medical image
+性能测试：performance test
+等离子喷涂：plasma spraying
+科学管理：scientific management
+可靠性设计：Reliability design
+植被恢复：vegetation restoration
+化学修饰：chemical modification
+第三方物流：third party logistics
+硬件设计：Hardware design
+非线性动力学：nonlinear dynamics
+数据共享：data sharing
+终身教育：Lifelong education
+注射成型：injection molding
+能量传递：Energy transfer
+高等院校：colleges and universities
+遥感图像：Remote sensing image
+电流互感器：current transformer
+字符识别：character recognition
+地表水：surface water
+中草药：Chinese herbal medicine
+驱动力：Driving force
+土木工程：civil engineering
+功率放大器：Power amplifier
+基因工程：gene engineering
+概率分布：probability distribution
+优化模型：optimization model
+CFG桩：CFG pile
+电力电子：power electronics
+染整：dyeing and finishing
+数字滤波：digital filter
+力学模型：mechanical model
+植物生长调节剂：plant growth regulator
+网络结构：network structure
+医院信息系统：Hospital information system
+误差估计：error estimate
+电子地图：Electronic map
+动态再结晶：dynamic recrystallization
+金属离子：Metal ions
+等效电路：equivalent circuit
+目标函数：objective function
+库存管理：Inventory management
+合同管理：contract management
+呼叫中心：call center
+冷却系统：Cooling system
+空间变异：Spatial variability
+定向凝固：directional solidification
+效用函数：utility function
+边坡工程：slope engineering
+故障定位：fault location
+叶酸：folic acid
+代理签名：proxy signature
+飞行控制：flight control
+荧光猝灭：fluorescence quenching
+深度处理：advanced treatment
+信息抽取：Information Extraction
+裂纹扩展：crack propagation
+轨道交通：rail transit
+肥大细胞：Mast cell
+蒙特卡罗方法：Monte Carlo method
+钢纤维：steel fiber
+Web应用：web application
+图像加密：image encryption
+固体超强酸：solid superacid
+数控：numerical control
+工程造价：engineering cost
+感应加热：induction heating
+孔隙结构：pore structure
+光催化氧化：photocatalytic oxidation
+注射模：injection mould
+太湖：Taihu Lake
+知识结构：knowledge structure
+小流域：small watershed
+混沌控制：chaos control
+敏捷制造：Agile Manufacturing
+方差分析：variance analysis
+状态方程：equation of state
+图像复原：image restoration
+理论模型：theoretical model
+安全评价：Safety assessment
+量子点：Quantum dots
+固体力学：solid mechanics
+嵌入式操作系统：embedded operating system
+加热炉：heating furnace
+生活方式：life style
+网络仿真：network simulation
+阵列信号处理：array signal processing
+工作流引擎：Workflow engine
+化学气相沉积：chemical vapor deposition
+分子识别：molecular recognition
+预防措施：preventive measures
+吸收光谱：Absorption spectrum
+系统结构：system structure
+齐墩果酸：oleanolic acid
+信息提取：information extraction
+强化学习：reinforcement learning
+聚合物驱：polymer flooding
+微弧氧化：micro-arc oxidation
+海藻酸钠：sodium alginate
+生产管理：production management
+医疗设备：medical equipment
+制备方法：preparation method
+固体酸：solid acid
+故障测距：fault location
+地下空间：underground space
+免疫应答：immune response
+卫星通信：Satellite Communication
+机器翻译：machine translation
+大众文化：Popular Culture
+教学评价：teaching evaluation
+回归模型：Regression model
+中国特色：Chinese characteristics
+冷却塔：cooling tower
+多孔硅：Porous silicon
+资源共享：resources sharing
+产品数据管理：product data management
+张力控制：tension control
+新世纪：New century
+信号分析：signal analysis
+Lyapunov指数：Lyapunov exponent
+红外辐射：infrared radiation
+资源配置：Resource allocation
+碳钢：carbon steel
+切削力：cutting force
+多酚氧化酶：polyphenol oxidase
+高强混凝土：high strength concrete
+烟气：flue gas
+机械密封：mechanical seal
+有限差分：finite difference
+物业管理：property management
+设备驱动程序：Device driver
+毫米波：millimeter wave
+罗丹明B：rhodamine B
+网络优化：network optimization
+光子晶体光纤：photonic crystal fiber
+室内设计：Interior design
+时间同步：time synchronization
+触摸屏：touch screen
+软件可靠性：software reliability
+turbo码：turbo code
+业务流程：business process
+非线性有限元：nonlinear finite element
+认知无线电：cognitive radio
+应变率：strain rate
+海南岛：Hainan Island
+资源分配：Resource allocation
+制备工艺：preparation technology
+晶粒尺寸：grain size
+实时数据库：real-time database
+氢氧化镁：magnesium hydroxide
+控制措施：control measure
+自然通风：natural ventilation
+虚拟制造：virtual manufacturing
+培养模式：training mode
+语音编码：speech coding
+抗肿瘤活性：antitumor activity
+效益分析：Benefit analysis
+光纤光学：fiber optics
+无功功率：reactive power
+混沌同步：Chaos synchronization
+网络处理器：network processor
+草酸：oxalic acid
+嵌段共聚物：block copolymer
+热轧：hot rolling
+计算机软件：computer software
+独立学院：independent college
+混合遗传算法：Hybrid Genetic Algorithm
+固相萃取：solid-phase extraction
+流动注射分析：flow injection analysis
+建模与仿真：modeling and simulation
+振动台试验：shaking table test
+剪力墙：shear wall
+并发控制：concurrency control
+燃烧合成：combustion synthesis
+界面张力：interfacial tension
+酱油：Soy Sauce
+数控系统：CNC System
+IP核：IP Core
+光纤光栅：fiber bragg grating
+拉伸强度：tensile strength
+结构调整：structure adjustment
+人乳头瘤病毒：human papillomavirus
+化学清洗：chemical cleaning
+回归方程：regression equation
+时程分析：time-history analysis
+亚甲基蓝：methylene blue
+气井：gas well
+虚拟环境：virtual environment
+性能试验：performance test
+Hopf分支：Hopf bifurcation
+PLC控制：PLC control
+虚拟设计：virtual design
+虚拟实验：virtual experiment
+工程图学：Engineering graphics
+精度分析：accuracy analysis
+棉纤维：cotton fiber
+激波：shock wave
+挡土墙：retaining wall
+污染控制：pollution control
+乒乓球：table tennis
+油酸：oleic acid
+感应电机：induction motor
+半主动控制：semi-active control
+生态补偿：ecological compensation
+苏云金芽孢杆菌：Bacillus thuringiensis
+循环流化床锅炉：Circulating fluidized bed boiler
+体绘制：Volume Rendering
+感应电动机：induction motor
+组织芯片：tissue microarray
+地面沉降：land subsidence
+配送中心：distribution center
+计算机技术：computer technology
+网络安全：network safety
+教学研究：teaching research
+广义预测控制：generalized predictive control
+离散小波变换：Discrete wavelet transform
+生产技术：production technology
+内燃机车：diesel locomotive
+预算管理：budget management
+说话人识别：speaker recognition
+机械性能：mechanical property
+水位：water level
+坐标变换：coordinate transformation
+灰色系统理论：grey system theory
+无刷直流电动机：brushless DC motor
+协议分析：Protocol analysis
+光子晶体：Photonic Crystals
+区域发展：Regional development
+学习算法：learning algorithm
+温度应力：thermal stress
+通信系统：communication system
+系统模型：system model
+乙二醇：ethylene glycol
+冷轧：cold rolling
+速度场：Velocity Field
+比表面积：Specific surface area
+评价研究：Evaluation studies
+数据加密：data encryption
+图书馆服务：library service
+风力发电：wind power
+过程管理：Process management
+基尼系数：Gini coefficient
+概念格：concept lattice
+倒立摆：inverted pendulum
+秘密共享：secret sharing
+青海省：Qinghai Province
+传热系数：Heat Transfer Coefficient
+公共空间：public space
+近代中国：modern China
+盲均衡：blind equalization
+城市道路：urban road
+离子色谱法：ion chromatography
+组件技术：component technology
+新形势：new situation
+通风系统：ventilation system
+硫酸镁：magnesium sulfate
+厌氧消化：anaerobic digestion
+压电陶瓷：piezoelectric ceramics
+临界点：critical point
+蛋白纯化：protein purification
+振动分析：vibration analysis
+应急管理：emergency management
+网络化制造：Networked manufacturing
+电子束：Electron beam
+空调系统：Air Conditioning System
+模糊数：fuzzy number
+发展方向：development direction
+传感器网络：sensor network
+衍射效率：diffraction efficiency
+实践能力：practical ability
+隐马尔可夫模型：Hidden Markov Model
+非饱和土：unsaturated soil
+极化曲线：polarization curve
+生物处理：Biological treatment
+模块化设计：modular design
+移动计算：mobile computing
+氮化硅：silicon nitride
+高锰酸钾：potassium permanganate
+异步电动机：induction motor
+细胞色素C：cytochrome C
+鲁棒稳定性：robust stability
+人工免疫系统：artificial immune system
+本构方程：constitutive equation
+土壤温度：soil temperature
+A/D转换器：A/D converter
+相结构：phase structure
+大孔树脂：macroporous resin
+醋酸：Acetic acid
+煤与瓦斯突出：coal and gas outburst
+气体传感器：gas sensor
+植被指数：vegetation index
+自然环境：natural environment
+并联机器人：parallel robot
+迭代学习控制：iterative learning control
+飞秒激光：femtosecond laser
+励磁系统：Excitation system
+信任模型：trust model
+信息素质：Information literacy
+数字证书：digital certificate
+磷酸：phosphoric acid
+赤潮：red tide
+网络拓扑：network topology
+内力：internal force
+催化合成：catalytic synthesis
+物理模拟：physical simulation
+相分离：phase separation
+球磨机：Ball mill
+泵站：pumping station
+自适应光学：adaptive optics
+场发射：field emission
+信息平台：Information Platform
+VisualBasic：Visual Basic
+卡尔曼滤波器：Kalman filter
+中国传统文化：Chinese traditional culture
+服务型政府：service-oriented government
+集成光学：integrated optics
+线性模型：linear model
+AR模型：AR model
+输出反馈：output feedback
+自适应算法：Adaptive algorithm
+分析方法：analytical method
+原子吸收光谱法：atomic absorption spectrometry
+响应时间：response time
+原子力显微镜：atomic force microscope
+伺服控制：servo control
+正极材料：cathode materials
+基本原则：basic principle
+电网：Power grid
+安全协议：security protocol
+土壤质量：soil quality
+微波加热：microwave heating
+偏微分方程：partial differential equation
+频率响应：Frequency response
+接触应力：contact stress
+工艺设计：process design
+爆炸力学：explosion mechanics
+太阳电池：Solar cell
+精益生产：lean production
+教学过程：teaching process
+森林公园：forest park
+湍流模型：turbulence model
+数据存储：data storage
+彩色图像：color image
+高温氧化：high temperature oxidation
+网络经济：network economy
+环氧丙烷：propylene oxide
+催化燃烧：catalytic combustion
+信息光学：information optics
+固体推进剂：solid propellant
+温度梯度：temperature gradient
+不对称合成：asymmetric synthesis
+食品工业：food industry
+决策表：Decision Table
+CAI课件：CAI courseware
+发酵条件：fermentation conditions
+胶州湾：Jiaozhou Bay
+纹理分析：texture analysis
+特征抽取：feature extraction
+指数分布：exponential distribution
+土壤污染：Soil pollution
+孔隙水压力：Pore water pressure
+数据库系统：Database System
+数据库设计：database design
+热舒适：thermal comfort
+相关反馈：relevance feedback
+固定化酶：immobilized enzyme
+质子交换膜：proton exchange membrane
+集对分析：set pair analysis
+拉曼光谱：Raman spectrum
+综合评价：synthetic evaluation
+动力学分析：dynamic analysis
+进化算法：evolutionary algorithm
+沥青混凝土：Asphalt concrete
+Weibull分布：Weibull distribution
+传热传质：heat and mass transfer
+双酚A：bisphenol A
+溶胶凝胶法：sol-gel method
+电子技术：electron technology
+疲劳试验：fatigue test
+催化光度法：catalytic spectrophotometry
+模糊PID：fuzzy PID
+内模控制：internal model control
+IP地址：IP address
+生态效应：ecological effect
+位置控制：position control
+形成机制：formation mechanism
+小城镇：small towns
+开关磁阻电机：Switched reluctance motor
+二叉树：binary tree
+社会网络：social network
+金属间化合物：Intermetallic Compound
+叶绿素含量：chlorophyll content
+活性染料：reactive dye
+自由振动：free vibration
+结构鉴定：structure identification
+模拟模型：simulation model
+全球定位系统：global positioning system
+乙酸乙酯：ethyl acetate
+寿命预测：life prediction
+光散射：light scattering
+金属材料：metallic materials
+ANSYS软件：ANSYS software
+级进模：progressive die
+成组技术：Group Technology
+现代远程教育：modern distance education
+排队论：queuing theory
+阳极氧化：anodic oxidation
+腐殖酸：humic acid
+运算放大器：Operational amplifier
+立体匹配：stereo matching
+光催化活性：photocatalytic activity
+煤气化：coal gasification
+系统论：system theory
+准分子激光：Excimer laser
+指纹识别：Fingerprint identification
+理论基础：theoretical basis
+热性能：Thermal property
+禁忌搜索：Tabu Search
+动力机械工程：power and mechanical engineering
+16SrDNA：16S rDNA
+汉字：Chinese character
+短期负荷预测：short-term load forecasting
+振动信号：vibration signal
+高强度：high strength
+艺术设计：art design
+裂缝控制：crack control
+磁选：Magnetic separation
+城市森林：urban forest
+热效应：thermal effect
+水工结构：hydraulic structure
+硅烷偶联剂：silane coupling agent
+电磁搅拌：electromagnetic stirring
+铸铁：cast iron
+杀虫活性：insecticidal activity
+大涡模拟：large eddy simulation
+免疫系统：Immune system
+有限域：finite field
+重力坝：gravity dam
+磁性能：magnetic property
+区间数：interval number
+档案管理：archives management
+热能动力工程：thermal power engineering
+水轮机：hydraulic turbine
+查询优化：query optimization
+应用效果：application effect
+氢化物发生：hydride generation
+永磁同步电机：permanent magnet synchronous motor
+审美教育：aesthetic education
+系统开发：system development
+化学镀镍：electroless nickel plating
+码率控制：rate control
+电流密度：current density
+粗集：rough set
+整数规划：integer programming
+农药残留：pesticide residues
+光合细菌：photosynthetic bacteria
+腐植酸：humic acid
+软件过程：software process
+运动仿真：motion simulation
+承载力：carrying capacity
+接口电路：interface circuit
+虚拟机：virtual machine
+隔振：vibration isolation
+阻燃：flame retardant
+钢渣：Steel slag
+气藏：gas reservoir
+化学改性：chemical modification
+围岩：surrounding rock
+黑洞：black hole
+天然橡胶：natural rubber
+动平衡：dynamic balance
+模糊系统：fuzzy system
+反应谱：response spectrum
+计算机病毒：computer virus
+信道容量：channel capacity
+水质评价：water quality assessment
+珠江三角洲：Pearl River Delta
+奥氏体不锈钢：austenitic stainless steel
+断裂韧度：fracture toughness
+自然对流：natural convection
+动态管理：dynamic management
+网络模型：network model
+高功率微波：high power microwave
+随机共振：Stochastic resonance
+剪切强度：shear strength
+高密度聚乙烯：high density polyethylene
+高边坡：high slope
+拆除爆破：demolition blasting
+摩擦磨损性能：friction and wear behavior
+蛋白质含量：Protein content
+Web技术：Web technology
+动态联盟：dynamic alliance
+风荷载：wind load
+固体火箭发动机：solid rocket motor
+负载平衡：load balance
+低渗透：low permeability
+水质模型：water quality model
+国家标准：national standard
+管理制度：management system
+主动网络：active network
+绿茶：green tea
+液压支架：hydraulic support
+动力学仿真：Dynamic Simulation
+造价控制：cost control
+禽流感：Avian influenza
+测试用例：test case
+光波导：optical waveguide
+旋转机械：rotating machinery
+地震前兆：earthquake precursor
+信号完整性：signal integrity
+地质环境：geological environment
+鄱阳湖：Poyang Lake
+关联维数：correlation dimension
+植酸：phytic acid
+冷却水：cooling water
+数值模型：numerical model
+无源定位：Passive location
+静力分析：Static Analysis
+相位差：phase difference
+化学修饰电极：Chemically modified electrode
+铜合金：copper alloy
+维生素A：vitamin A
+激励机制：motivation mechanism
+反馈线性化：Feedback Linearization
+环氧乙烷：ethylene oxide
+网络信息：Network information
+全局稳定性：Global stability
+贮氢合金：hydrogen storage alloy
+葡萄糖氧化酶：glucose oxidase
+色散补偿：Dispersion compensation
+屈服强度：yield strength
+设计参数：design parameter
+含水率：moisture content
+物理实验：physical experiment
+赤泥：red mud
+固化剂：curing agent
+疲劳损伤：fatigue damage
+流量工程：traffic engineering
+化学反应：Chemical reaction
+工业应用：industrial application
+阻尼比：damping ratio
+领域本体：Domain Ontology
+曲面重构：surface reconstruction
+劳动力市场：labor market
+工作流模型：workflow model
+耐腐蚀性：corrosion resistance
+蒙特卡罗：Monte Carlo
+远程监测：remote monitoring
+铁矿石：iron ore
+没食子酸：gallic acid
+生产调度：production scheduling
+扭转振动：torsional vibration
+太阳辐射：solar radiation
+生产线：production line
+岩土力学：rock and soil mechanics
+安全模型：security model
+绿色制造：green manufacturing
+长江：Yangtze River
+配电自动化：distribution automation
+疲劳裂纹：fatigue crack
+量子阱：Quantum well
+数字电路：digital circuit
+接入网：access network
+水力压裂：hydraulic fracturing
+动作电位：action potential
+健康监测：health monitoring
+过程模型：process model
+USB接口：USB interface
+变分不等式：variational inequality
+阻垢剂：scale inhibitor
+渗透系数：Permeability coefficient
+贝叶斯网络：Bayesian networks
+低功耗：low power consumption
+串口通讯：serial communication
+信息流：information flow
+失效概率：failure probability
+量子纠缠：quantum entanglement
+温度裂缝：temperature crack
+非晶态合金：amorphous alloy
+海洋平台：offshore platform
+足球机器人：soccer robot
+函数优化：function optimization
+控制电路：Control circuit
+固溶体：solid solution
+城市土地：urban land
+丹酚酸B：salvianolic acid B
+曝气生物滤池：Biological aerated filter
+系统优化：system optimization
+同时测定：simultaneous determination
+工程质量：engineering quality
+线阵CCD：linear CCD
+状态观测器：State observer
+分散控制：decentralized control
+岩体：rock mass
+热膨胀：thermal expansion
+小波包变换：Wavelet packet transform
+性能评估：performance evaluation
+社区教育：community education
+旅行社：travel agency
+结构表征：structure characterization
+钛酸钡：Barium titanate
+受力分析：force analysis
+T-S模糊模型：T-S fuzzy model
+视频监控：video monitoring
+静态分析：static analysis
+Radon变换：Radon transform
+PWM整流器：PWM rectifier
+网格服务：grid service
+虚拟实验室：virtual laboratory
+动态范围：dynamic range
+测试方法：Test method
+活塞环：Piston ring
+平衡点：equilibrium point
+信息模型：information model
+FIR滤波器：FIR filter
+绩效考核：performance evaluation
+状态机：state machine
+文本挖掘：text mining
+大气腐蚀：atmospheric corrosion
+机理分析：mechanism analysis
+季铵盐：quaternary ammonium salt
+应用研究：applied research
+分布函数：distribution function
+视景仿真：visual simulation
+信息论：information theory
+Kalman滤波：Kalman filtering
+眼压：intraocular pressure
+随机模拟：stochastic simulation
+软件重用：software reuse
+可信计算：Trusted computing
+分光光度法：spectrophotometric method
+原子荧光光谱法：atomic fluorescence spectrometry
+扩频：spread spectrum
+LMS算法：LMS algorithm
+认知语境：cognitive context
+输油管道：oil pipeline
+电磁屏蔽：electromagnetic shielding
+趋势分析：trend analysis
+样条函数：spline function
+武汉市：Wuhan city
+燃烧室：Combustion chamber
+二级结构：secondary structure
+高性能：High performance
+砌体结构：Masonry structure
+二次规划：Quadratic programming
+仿真平台：simulation platform
+信道编码：channel coding
+抗氧化性：oxidation resistance
+有机溶剂：organic solvent
+除草活性：herbicidal activity
+最优解：optimal solution
+网络系统：network system
+生态城市：ecological city
+空压机：air compressor
+原生质体融合：Protoplast Fusion
+渗流场：seepage field
+土地利用规划：land use planning
+SQLServer：SQL Server
+量子力学：quantum mechanics
+食用菌：Edible fungi
+微机控制：microcomputer control
+应力松弛：stress relaxation
+高速列车：high-speed train
+睡眠呼吸暂停：Sleep Apnea
+飞灰：fly ash
+深井：deep well
+可靠性评估：reliability evaluation
+施工方案：Construction scheme
+全面质量管理：total quality management
+WebService：web service
+精神文明：spiritual civilization
+光面爆破：smooth blasting
+高精度：High accuracy
+热阻：thermal resistance
+交通仿真：traffic simulation
+ARMA模型：ARMA model
+基于内容的图像检索：Content-based image retrieval
+逐步回归：stepwise regression
+地质构造：geological structure
+过程建模：process modeling
+群签名：group signature
+QoS路由：QoS routing
+太阳能电池：solar cell
+甘草酸：glycyrrhizic acid
+课程建设：curriculum construction
+广州市：Guangzhou City
+模糊模式识别：fuzzy pattern recognition
+重合度：Coincidence degree
+大学图书馆：University library
+软件质量：software quality
+铅中毒：Lead poisoning
+辣根过氧化物酶：horseradish peroxidase
+药物分析：pharmaceutical analysis
+D-S证据理论：D-S evidence theory
+逆问题：inverse problem
+水平集：level set
+油页岩：Oil Shale
+松材线虫：Bursaphelenchus xylophilus
+进化计算：Evolutionary computation
+巡航导弹：cruise missile
+成核剂：Nucleating agent
+手性固定相：chiral stationary phase
+统计学习理论：statistical learning theory
+盲签名：blind signature
+复合镀层：composite coating
+单纯形法：Simplex Method
+行波：traveling wave
+景观生态：landscape ecology
+数码相机：digital camera
+最优潮流：Optimal power flow
+视频传输：video transmission
+频率合成器：frequency synthesizer
+甲酸：formic acid
+水泵：water pump
+拓扑指数：topological index
+聚合酶链式反应：polymerase chain reaction
+信用卡：credit card
+烧结温度：Sintering Temperature
+优化控制：optimal control
+测井：well logging
+功率因数校正：power factor correction
+红色素：red pigment
+Modbus协议：modbus protocol
+光学系统：Optical system
+设备驱动：device driver
+数理统计：mathematical statistics
+重庆市：Chongqing City
+摩擦学性能：tribological properties
+微流控芯片：Microfluidic chip
+温度系数：temperature coefficient
+羟自由基：hydroxyl radical
+速度控制：speed control
+旅行商问题：traveling salesman problem
+社会环境：social environment
+配电系统：distribution system
+直流电机：DC motor
+全局收敛：global convergence
+原子转移自由基聚合：atom transfer radical polymerization
+能量平衡：energy balance
+随机过程：stochastic process
+遥控：remote control
+大气湍流：atmospheric turbulence
+异步电机：induction motor
+威布尔分布：Weibull distribution
+数字化校园：digital campus
+协同过滤：collaborative filtering
+流变性能：rheological property
+传递矩阵：transfer matrix
+技术措施：technical measure
+弹性波：elastic wave
+服务体系：service system
+数据库安全：database security
+新工艺：new technology
+有限状态机：Finite state machine
+并行设计：concurrent design
+动力机制：dynamic mechanism
+光束质量：beam quality
+通信网络：communication network
+线性系统：linear system
+结合能：binding energy
+吸收系数：absorption coefficient
+电力：electric power
+连杆：Connecting rod
+文化遗产：cultural heritage
+牛鞭效应：bullwhip effect
+网络协议：Network protocol
+有源滤波器：active power filter
+矩阵变换器：matrix converter
+混纺纱：Blended Yarn
+马氏体相变：martensitic transformation
+羟基自由基：hydroxyl radical
+基础油：base oil
+乳化炸药：emulsion explosive
+酶活力：enzyme activity
+连续梁：continuous beam
+气流组织：air distribution
+数字减影：digital subtraction
+模糊决策：fuzzy decision
+结构参数：Structural parameter
+生态伦理：ecological ethics
+面向对象技术：object-oriented technology
+初始对准：initial alignment
+厌氧发酵：anaerobic fermentation
+接触分析：contact analysis
+油罐：oil tank
+生态保护：ecological protection
+生态承载力：ecological carrying capacity
+电化学行为：Electrochemical Behavior
+离心铸造：centrifugal casting
+解析解：analytic solution
+标准体系：standard system
+轨迹规划：trajectory planning
+钢管混凝土：concrete-filled steel tube
+VXI总线：VXI bus
+社会保险：social insurance
+离散对数：discrete logarithm
+云模型：cloud model
+色差：color difference
+实时监控：real-time monitoring
+方案设计：scheme design
+银杏叶提取物：Ginkgo Biloba Extract
+自适应遗传算法：adaptive genetic algorithm
+定量评价：quantitative evaluation
+固体电解质：solid electrolyte
+非线性模型：nonlinear model
+空间数据挖掘：spatial data mining
+差错控制：Error control
+慢性肾衰竭：chronic renal failure
+语义分析：semantic analysis
+机械制图：mechanical drawing
+信息过滤：information filtering
+硅胶：silica gel
+热变形：hot deformation
+焦炉：Coke oven
+氯化钠：sodium chloride
+设计方案：design scheme
+技术标准：technical standard
+晶界：grain boundary
+强夯：Dynamic compaction
+分布格局：distribution pattern
+健康促进：Health promotion
+主动队列管理：active queue management
+激活能：activation energy
+土地复垦：Land reclamation
+集散控制系统：distributed control system
+凸轮机构：Cam mechanism
+主元分析：principal component analysis
+风洞：wind tunnel
+励磁控制：excitation control
+能量函数：energy function
+主动悬架：active suspension
+电荷泵：charge pump
+表面活性：surface activity
+回收率：recovery rate
+东营凹陷：Dongying depression
+疲劳断裂：fatigue fracture
+钢丝绳：Wire rope
+工程热物理：engineering thermophysics
+安全文化：safety culture
+实时监测：real-time monitoring
+固体氧化物燃料电池：Solid oxide fuel cell
+雷达散射截面：radar cross section
+HeLa细胞：HeLa cell
+活性炭纤维：activated carbon fiber
+毛细管气相色谱：capillary gas chromatography
+包合物：inclusion complex
+过渡金属：Transition metal
+视频会议：video conference
+实时操作系统：real-time operating system
+钢筋混凝土结构：reinforced concrete structure
+无损检测：Non-destructive testing
+无线通讯：wireless communication
+模拟实验：simulation experiment
+轧机：rolling mill
+表面裂纹：surface crack
+反分析：back analysis
+交通管理：traffic management
+性能指标：performance index
+特征匹配：feature matching
+服务发现：service discovery
+有限元法：finite element method(FEM)
+刀具磨损：tool wear
+光动力疗法：photodynamic therapy
+热传导：Heat conduction
+分子量分布：molecular weight distribution
+谐波检测：harmonic detection
+超临界流体萃取：Supercritical fluid extraction
+企业信息化：enterprise informatization
+现代设计：modern design
+数据质量：data quality
+中国对虾：Penaeus chinensis
+中等职业教育：Secondary vocational education
+辛烷值：octane number
+卫星遥感：satellite remote sensing
+粒度分布：particle size distribution
+稳定同位素：stable isotope
+新方法：new method
+水平位移：horizontal displacement
+本科教育：undergraduate education
+原料：raw material
+安全工程：safety engineering
+工艺改进：Process improvement
+临界温度：critical temperature
+中值滤波：median filtering
+分子设计：Molecular design
+网络课程：network course
+免疫遗传算法：immune genetic algorithm
+考证：Textual research
+变化检测：change detection
+支持向量回归：support vector regression
+动态控制：dynamic control
+电刺激：Electrical stimulation
+电流效率：current efficiency
+重复控制：repetitive control
+城市景观：urban landscape
+冻土：frozen soil
+模糊可靠性：fuzzy reliability
+价值分析：value analysis
+运动检测：motion detection
+激光手术：Laser surgery
+大豆异黄酮：soybean isoflavone
+超临界水：supercritical water
+钢管：steel pipe
+还原糖：reducing sugar
+超声提取：Ultrasonic extraction
+内耗：internal friction
+承载能力：bearing capacity
+CMOS图像传感器：CMOS image sensor
+频谱：frequency spectrum
+击穿电压：breakdown voltage
+数据网格：data grid
+化学结构：chemical structure
+选择氧化：selective oxidation
+胜利油田：Shengli Oilfield
+蓝牙技术：Bluetooth Technology
+人血清白蛋白：Human serum albumin
+爆破振动：blasting vibration
+ActiveX控件：ActiveX control
+体验经济：experience economy
+社会公正：Social Justice
+文本聚类：text clustering
+分组密码：block cipher
+稠油油藏：heavy oil reservoir
+开采沉陷：Mining subsidence
+损伤力学：damage mechanics
+权函数：weight function
+模式分类：pattern classification
+温升：temperature rise
+光开关：Optical switch
+Voronoi图：voronoi diagram
+品质因数：quality factor
+传输线：Transmission line
+极大似然估计：maximum likelihood estimation
+对苯二甲酸：terephthalic acid
+理论计算：theoretical calculation
+远程监控：remote monitor
+综合治理：comprehensive treatment
+热膨胀系数：Thermal expansion coefficient
+交通噪声：traffic noise
+转矩脉动：torque ripple
+实验室管理：laboratory management
+桥梁结构：bridge structure
+热模拟：thermal simulation
+悬浮聚合：Suspension polymerization
+环境容量：environmental capacity
+联合循环：combined cycle
+防砂：sand control
+多智能体系统：multi-agent system
+核电站：Nuclear power station
+概周期解：almost periodic solution
+突变理论：catastrophe theory
+油田开发：oilfield development
+旋风分离器：Cyclone separator
+效果分析：effect analysis
+生态设计：Ecological design
+含水量：moisture content
+泄漏电流：Leakage Current
+转动惯量：Moment of inertia
+智能仪表：intelligent instrument
+河西走廊：Hexi Corridor
+景观规划：landscape planning
+内容分析：Content analysis
+数据同步：data synchronization
+板料成形：sheet metal forming
+改进遗传算法：Improved genetic algorithm
+转子系统：rotor system
+防雷：lightning protection
+多普勒效应：Doppler effect
+水价：water price
+交通控制：traffic control
+食品添加剂：food additive
+构造应力场：tectonic stress field
+试验研究：experiment research
+数字地球：digital earth
+综合能力：Comprehensive ability
+网络营销：Network Marketing
+计算机系统：Computer system
+水下爆炸：underwater explosion
+ROC曲线：ROC curve
+降噪：Noise reduction
+晶粒度：grain size
+冶金技术：metallurgical technology
+海南省：Hainan Province
+农业机械：agricultural machinery
+通信技术：communication technology
+应用服务器：application server
+系统调用：system call
+硝酸：nitric acid
+金刚石薄膜：diamond film
+分形几何：fractal geometry
+阴离子表面活性剂：anionic surfactant
+金属基复合材料：metal matrix composites
+制冷系统：refrigeration system
+职业学校：Vocational school
+混凝土强度：concrete strength
+控制理论：control theory
+DNA计算：DNA computing
+风力机：wind turbine
+参数优化：parameters optimization
+拉伸性能：tensile properties
+协同作用：synergistic effect
+形状记忆效应：shape memory effect
+灰色模型：gray model
+直接甲醇燃料电池：direct methanol fuel cell
+HOPF分岔：HOPF bifurcation
+电子阅览室：Electronic reading room
+日常生活：daily life
+图像分类：image classification
+油井：oil well
+环境效应：environmental effect
+采矿方法：Mining method
+无土栽培：soilless culture
+谱分析：spectrum analysis
+驱动电路：drive circuit
+仿真软件：Simulation software
+悬臂梁：cantilever beam
+蒸汽发生器：steam generator
+测量误差：measurement error
+动态调度：dynamic scheduling
+锁相环：phase locked loop
+黄芪：Astragalus Membranaceus
+有效应力：effective stress
+数值积分：Numerical integration
+海水淡化：seawater desalination
+水力计算：hydraulic calculation
+电力电缆：power cable
+仿射变换：affine transformation
+多用户检测：Multi-user detection
+总磷：total phosphorus
+固相反应：solid state reaction
+压力控制：pressure control
+21世纪：21st century
+表面能：surface energy
+产品族：product family
+串级控制：cascade control
+定向井：directional well
+活度系数：activity coefficient
+城市环境：urban environment
+评估体系：evaluation system
+空间环境：space environment
+适应度函数：fitness function
+接地电阻：grounding resistance
+嵌入式Web服务器：embedded Web server
+供电系统：power supply system
+光学性能：optical properties
+大孔吸附树脂：macroporous adsorption resin
+CAD系统：CAD system
+对象模型：object model
+认知心理学：Cognitive psychology
+纹理合成：Texture synthesis
+弹道导弹：ballistic missile
+尼龙6：nylon 6
+低周疲劳：low cycle fatigue
+轴承钢：bearing steel
+PI控制：PI control
+诱变育种：mutation breeding
+钢丝：steel wire
+波函数：wave function
+故障树分析：fault tree analysis
+冠醚：crown ether
+物流中心：logistics center
+特征方程：characteristic equation
+机制设计：mechanism design
+医疗质量：medical quality
+频率估计：frequency estimation
+反舰导弹：anti-ship missile
+虚拟现实技术：Virtual reality technology
+教学实验：teaching experiment
+管理会计：Management Accounting
+置信区间：confidence interval
+供水：Water supply
+短消息：Short message
+破坏模式：failure mode
+复合涂层：composite coating
+中空纤维膜：hollow fiber membrane
+长江三角洲：Yangtze River Delta
+特征识别：feature recognition
+表面结构：Surface structure
+决策分析：decision analysis
+投影寻踪：projection pursuit
+目标检测：object detection
+光照强度：Light intensity
+相控阵雷达：Phased array radar
+工程力学：engineering mechanics
+生态位宽度：niche breadth
+冲击强度：impact strength
+滑动轴承：sliding bearing
+毛细管区带电泳：capillary zone electrophoresis
+山东：Shandong province
+分布式控制系统：Distributed control system
+规划设计：planning design
+潮流：tidal current
+抗滑桩：anti-slide pile
+静电场：electrostatic field
+氯乙烯：vinyl chloride
+电子鼻：Electronic nose
+小波分析：wavelet transform
+环境科学：environmental science
+硬脂酸：stearic acid
+高光谱遥感：hyperspectral remote sensing
+系统发育分析：phylogenetic analysis
+系统可靠性：system reliability
+相关函数：correlation function
+结构可靠性：structural reliability
+数据备份：data backup
+网络测量：Network measurement
+协议栈：protocol stack
+谐波电流：harmonic current
+马尾松：Masson pine
+抗热震性：thermal shock resistance
+手性分离：chiral separation
+电晕放电：corona discharge
+城市群：urban agglomeration
+故障分析：Failure analysis
+可靠指标：reliability index
+伽玛刀：gamma knife
+腐蚀疲劳：corrosion fatigue
+变形分析：deformation analysis
+产品结构：product structure
+电磁环境：Electromagnetic Environment
+高效：High efficiency
+组合结构：composite structure
+应变速率：Strain Rate
+叶面积：leaf area
+Oracle数据库：Oracle database
+混沌理论：chaos theory
+物理性能：physical properties
+发电：power generation
+射频：radio frequency
+最小二乘法：Least squares method
+有向图：Directed Graph
+数据通讯：data communication
+相空间：phase space
+雷诺数：Reynolds number
+政策分析：policy analysis
+动态设计：dynamic design
+惯性导航：inertial navigation
+气相色谱-质谱：gas chromatography-mass spectrometry
+变性淀粉：modified starch
+分子蒸馏：molecular distillation
+动态优化：dynamic optimization
+安全性评价：safety evaluation
+高可用性：high availability
+中空纤维：Hollow Fiber
+长白山：Changbai Mountain
+模糊熵：fuzzy entropy
+波分复用：wavelength division multiplexing
+运动目标检测：moving object detection
+真空预压：vacuum preloading
+奇异摄动：singular perturbation
+DOA估计：DOA estimation
+喷射成形：spray forming
+总黄酮：total flavones
+数据转换：data conversion
+美拉德反应：Maillard reaction
+时延估计：time delay estimation
+ARIMA模型：ARIMA model
+变频调速：frequency control
+土壤湿度：soil moisture
+颜色空间：Color Space
+钢纤维混凝土：steel fiber reinforced concrete
+数学分析：mathematical analysis
+米糠：rice bran
+码分多址：Code division multiple access
+医疗服务：medical service
+溶剂效应：solvent effect
+超临界二氧化碳：supercritical carbon dioxide
+水煤浆：coal water slurry
+生产成本：production cost
+铝电解：aluminum electrolysis
+γ-氨基丁酸：γ-aminobutyric acid
+设计计算：design calculation
+气力输送：pneumatic conveying
+动态测量：dynamic measurement
+地铁车站：subway station
+企业应用集成：enterprise application integration
+虚拟组织：Virtual organization
+增强现实：Augmented reality
+广义逆：generalized inverse
+MAC协议：MAC protocol
+精准农业：precision agriculture
+沉积速率：deposition rate
+电化学腐蚀：electrochemical corrosion
+减阻：drag reduction
+烟叶：Tobacco leaf
+激光扫描：Laser scanning
+三峡水库：Three Gorges Reservoir
+生长模型：growth model
+流型：flow pattern
+非定常流动：unsteady flow
+服务组合：service composition
+移动数据库：mobile database
+耐腐蚀性能：corrosion resistance
+绿色GDP：green GDP
+现场应用：field application
+鱼油：fish oil
+离子电导率：ionic conductivity
+偏振光：polarized light
+剪应力：shear stress
+水化热：hydration heat
+汽车工程：Automobile engineering
+中等职业学校：secondary vocational school
+Contourlet变换：contourlet transform
+伙伴选择：partner selection
+大学物理：college physics
+催化裂解：catalytic cracking
+分散聚合：dispersion polymerization
+高温高压：high temperature and high pressure
+VB：visual basic
+岩质边坡：Rock slope
+地下水资源：groundwater resources
+阻抗匹配：impedance matching
+武器系统：Weapon system
+相转移催化剂：phase transfer catalyst
+元胞自动机：cellular automaton
+工程项目：construction project
+电磁感应：electromagnetic induction
+网络设计：Network design
+空间矢量调制：space vector modulation
+抗肿瘤药：Antineoplastic agents
+hash函数：hash function
+Hausdorff距离：Hausdorff distance
+组播路由：multicast routing
+抗弯强度：bending strength
+经济性分析：economic analysis
+频谱分析：spectral analysis
+温室气体：greenhouse gas
+本构关系：constitutive relationship
+应用光学：applied optics
+MATLAB语言：MATLAB language
+控制模型：control model
+信道模型：channel model
+无机化学：inorganic chemistry
+腐蚀速率：corrosion rate
+胶体金：colloidal gold
+跟踪控制：tracking control
+计算机控制系统：computer control system
+工作流：work flow
+心理因素：psychological factors
+量子信息：quantum information
+模型检测：model checking
+失效机理：failure mechanism
+混沌时间序列：chaotic time series
+供应商管理：supplier management
+二值图像：binary image
+数字地图：digital map
+无损压缩：lossless compression
+避障：obstacle avoidance
+保性能控制：Guaranteed cost control
+Cauchy问题：Cauchy Problem
+软件构件：software component
+电子镇流器：electronic ballast
+非晶合金：amorphous alloy
+爆破参数：Blasting parameters
+WebServices：Web Services
+边缘提取：edge detection
+Navier-Stokes方程：Navier-Stokes equations
+运载火箭：Launch vehicle
+信息社会：information society
+乙肝病毒：hepatitis B virus
+RAPD标记：RAPD marker
+机载雷达：Airborne radar
+工作流管理：workflow management
+白噪声：white noise
+分离效率：separation efficiency
+耐水性：water resistance
+功率流：power flow
+计算公式：calculation formula
+运动控制器：motion controller
+教学手段：teaching means
+课程资源：curriculum resources
+事故分析：accident analysis
+分维数：fractal dimension
+石油焦：petroleum coke
+现代教育技术：modern education technology
+车牌识别：license plate recognition
+拓扑发现：topology discovery
+瞬时频率：Instantaneous frequency
+密度泛函：density functional theory
+寿命：service life
+并联机床：parallel machine tool
+CFB锅炉：CFB boiler
+抑菌活性：antimicrobial activity
+L-乳酸：L-lactic acid
+仿真技术：simulation technology
+米曲霉：Aspergillus oryzae
+网络分析：network analysis
+瓦斯爆炸：gas explosion
+综合评判：comprehensive evaluation
+工程塑料：engineering plastics
+脱落酸：abscisic acid
+变压器油：transformer oil
+社会价值：social value
+西部开发：western development
+Markov链：markov chain
+人工免疫：artificial immune
+运动规划：motion planning
+全局渐近稳定性：global asymptotic stability
+鲁棒镇定：robust stabilization
+气液两相流：gas-liquid two-phase flow
+社区参与：Community participation
+产品配置：Product configuration
+线性预测：linear prediction
+塑性铰：plastic hinge
+静载试验：static load test
+手性拆分：Chiral separation
+多孔材料：porous material
+误差模型：error model
+振动主动控制：active vibration control
+极限环：Limit cycles
+大豆油：Soybean oil
+专业建设：specialty construction
+液压缸：hydraulic cylinder
+大批量定制：mass customization
+I2C总线：I2C bus
+摄动法：perturbation method
+网格简化：Mesh simplification
+SAR图像：SAR image
+分析力学：analytical mechanics
+人与自然：man and nature
+天然气水合物：natural gas hydrate
+模拟酸雨：simulated acid rain
+压铸：Die Casting
+机械工程：mechanical engineering
+腐蚀机理：corrosion mechanism
+性信息素：sex pheromone
+网络控制：network control
+多分辨率分析：multi-resolution analysis
+状态空间：State space
+教学评估：Teaching evaluation
+视频检索：video retrieval
+部分氧化：partial oxidation
+钢板：steel plate
+金属氧化物：metal oxide
+肉品质：Meat quality
+塔式起重机：Tower crane
+稳定性评价：stability evaluation
+概率密度函数：probability density function
+极限分析：limit analysis
+对等网络：peer-to-peer network
+时间复杂度：time complexity
+软件产业：software industry
+稳定常数：Stability constant
+数学模拟：mathematical simulation
+氢键：Hydrogen bonding
+时空分布：temporal and spatial distribution
+竹纤维：bamboo fiber
+生长速率：Growth rate
+Monte Carlo方法：Monte Carlo method
+阈值电压：threshold voltage
+人事管理：Personnel management
+核电厂：nuclear power plant
+认知结构：cognitive structure
+财务评价：financial evaluation
+曲面拟合：surface fitting
+网络攻击：network attack
+剪切变形：shear deformation
+案例推理：case-based reasoning
+电阻点焊：resistance spot welding
+接触电阻：contact resistance
+施工项目：construction project
+优化方法：Optimization method
+模型修正：model updating
+嵌入式技术：embedded technology
+模糊积分：fuzzy integral
+城镇体系：urban system
+Struts框架：Struts framework
+信任管理：trust management
+Web使用挖掘：Web usage mining
+氧化膜：oxide film
+非牛顿流体：non-Newtonian fluid
+次氯酸钠：sodium hypochlorite
+创新设计：Innovative design
+Ames试验：Ames test
+金针菇：Flammulina velutipes
+位移传感器：displacement sensor
+空间信息：spatial information
+形状优化：shape optimization
+考试系统：examination system
+学习风格：learning style
+视频服务器：video server
+高压：high voltage
+黄原胶：xanthan gum
+MonteCarlo模拟：Monte Carlo simulation
+开环聚合：ring-opening polymerization
+脲醛树脂：urea-formaldehyde resin
+RBF网络：RBF network
+施工过程：construction process
+沉降观测：settlement observation
+玻璃化转变温度：glass transition temperature
+红外探测器：Infrared detector
+PXI总线：PXI Bus
+生态位重叠：niche overlap
+教育功能：educational function
+智能网：intelligent network
+人工生命：artificial life
+DC/DC变换器：DC/DC converter
+城市文化：urban culture
+指数稳定性：exponential stability
+创意产业：creative industry
+课程开发：curriculum development
+智能控制器：intelligent controller
+资源整合：resources integration
+品牌形象：brand image
+海岸带：coastal zone
+正电子湮没：Positron annihilation
+ASP技术：ASP technology
+损伤识别：damage detection
+群体智能：swarm intelligence
+应用系统：application system
+网络性能：network performance
+下界：Lower bound
+流量：flow rate
+R/S分析：R/S analysis
+安全生产：safe production
+硫酸钾：potassium sulfate
+数字视频：digital video
+刚度矩阵：stiffness matrix
+亚油酸：linoleic acid
+烧碱：caustic soda
+玻碳电极：Glassy carbon electrode
+热效率：heat efficiency
+酶水解：enzymatic hydrolysis
+稳健设计：robust design
+数据中心：data center
+超声电机：ultrasonic motor
+应用集成：application integration
+中性点：neutral point
+涡旋压缩机：Scroll Compressor
+人口老龄化：population aging
+作战效能：operational effectiveness
+PDC钻头：PDC bit
+膨胀石墨：expanded graphite
+化学分析：chemical analysis
+供电：power supply
+甜玉米：sweet corn
+系统分析：systematic analysis
+计算几何：Computational geometry
+Rough集：rough set
+动态博弈：dynamic game
+Stewart平台：stewart platform
+非恒定流：unsteady flow
+新制度经济学：new Institutional economics
+大学文化：university culture
+数字化变电站：digital substation
+端点检测：endpoint detection
+下一代网络：next generation network
+电荷转移：Charge transfer
+地震数据处理：seismic data processing
+模型预测控制：model predictive control
+网格技术：grid technology
+自密实混凝土：self-compacting concrete
+摩擦材料：Friction material
+城市形象：city image
+图像传感器：image sensor
+教学管理：teaching administration
+数字校园：digital campus
+多媒体通信：multimedia communication
+组合导航系统：Integrated Navigation System
+AdHoc网络：Ad Hoc network
+风险模型：risk model
+细胞壁：Cell wall
+结晶紫：crystal violet
+注塑成型：injection molding
+分散染料：disperse dyes
+汽液平衡：vapor-liquid equilibrium
+非接触测量：non-contact measurement
+时间管理：Time management
+文化传统：cultural tradition
+己二酸：adipic acid
+条形码：bar code
+爆炸焊接：explosive welding
+经济损失：economic loss
+螺杆泵：screw pump
+过程模拟：process simulation
+先进制造技术：Advanced manufacturing technology
+膜结构：membrane structure
+智能节点：intelligent node
+网络规划：network planning
+细胞融合：cell fusion
+软件平台：software platform
+藏传佛教：Tibetan Buddhism
+凝固组织：solidification structure
+电弧喷涂：Arc spraying
+酶活：enzyme activity
+塔里木河：Tarim River
+视电阻率：apparent resistivity
+案例分析：case study
+假设检验：Hypothesis test
+虚拟仿真：virtual simulation
+开关磁阻电动机：switched reluctance motor
+进化规划：evolutionary programming
+专家控制：expert control
+复杂适应系统：complex adaptive system
+军事物流：military logistics
+运动矢量：motion vector
+资源调度：resource scheduling
+网络流量：network traffic
+界面反应：interfacial reaction
+重金属离子：heavy metal ion
+空间变异性：spatial variability
+动力学光度法：kinetic spectrophotometry
+单晶：single crystal
+轧制力：rolling force
+滇池：Dianchi Lake
+噪声系数：noise figure
+超声波提取：ultrasonic extraction
+香菇：lentinus edodes
+多分辨分析：multiresolution analysis
+退火温度：annealing temperature
+嗜酸乳杆菌：lactobacillus acidophilus
+龙滩水电站：Longtan Hydropower Station
+设计管理：design management
+单神经元：Single neuron
+台湾海峡：Taiwan Strait
+龋齿：dental caries
+社会科学：Social science
+虚拟人：Virtual human
+光流：optical flow
+意识流：stream of consciousness
+环境成本：environmental cost
+原子吸收：atomic absorption
+剩余油：residual oil
+磷钨酸：phosphotungstic acid
+冰淇淋：ice cream
+光纤传感器：Fiber optic sensor
+柱层析：column chromatography
+非定常流：unsteady flow
+固定相：Stationary phase
+自适应模糊控制：adaptive fuzzy control
+多体动力学：multi-body dynamics
+土压力：soil pressure
+教学能力：Teaching ability
+Gabor滤波器：Gabor filter
+智能家居：Smart Home
+火控系统：fire control system
+图像置乱：image scrambling
+业务流程再造：Business Process Reengineering
+晶间腐蚀：intergranular corrosion
+干旱区：arid area
+溶液聚合：solution polymerization
+兰州市：Lanzhou city
+光纤布拉格光栅：fiber Bragg grating
+可视化仿真：visual simulation
+极点配置：pole placement
+批判性思维：critical thinking
+知识约简：knowledge reduction
+网络数据库：network database
+颜色直方图：color histogram
+Web日志挖掘：Web log mining
+存在唯一性：existence and uniqueness
+AZ31镁合金：AZ31 magnesium alloy
+低密度聚乙烯：Low density polyethylene
+超声波检测：ultrasonic testing
+知识工程：knowledge engineering
+热降解：thermal degradation
+点焊：spot welding
+二次流：secondary flow
+大气光学：atmospheric optics
+采后生理：postharvest physiology
+He-Ne激光：He-Ne laser
+动应力：dynamic stress
+贪婪算法：greedy algorithm
+运动处方：exercise prescription
+建筑文化：Architectural culture
+距离保护：distance protection
+羧甲基壳聚糖：carboxymethyl chitosan
+圆柱壳：cylindrical shell
+C/S模式：C/S mode
+南京市：Nanjing City
+在线测量：on-line measurement
+重力异常：gravity anomaly
+协同设计：Cooperative design
+系统功能：system function
+政府管制：government regulation
+地下结构：underground structure
+终身学习：Lifelong learning
+气膜冷却：film cooling
+嵌入式软件：embedded software
+多普勒雷达：Doppler radar
+铜离子：copper ion
+模具设计：mold design
+红外成像：Infrared imaging
+质量改进：quality improvement
+电化学检测：electrochemical detection
+计算机管理：computer management
+置换通风：displacement ventilation
+压力损失：pressure loss
+居住区：residential area
+数据库管理系统：database management system
+模糊模型：Fuzzy model
+视觉文化：visual culture
+数字通信：digital communication
+股骨头坏死：Femoral head necrosis
+自适应调制：adaptive modulation
+语义相似度：semantic similarity
+阳离子表面活性剂：cationic surfactant
+磁流体：magnetic fluid
+蓖麻油：castor oil
+CO2：carbon dioxide
+储罐：storage tank
+概率模型：probability model
+晶粒长大：Grain growth
+水量平衡：water balance
+地表径流：surface runoff
+动态补偿：dynamic compensation
+人脐静脉内皮细胞：human umbilical vein endothelial cells
+结构模型：structural model
+块匹配：block matching
+滞回性能：hysteretic behavior
+混凝土坝：Concrete dam
+激光切割：laser cutting
+营养价值：nutritional value
+模糊PID控制：Fuzzy-PID control
+新材料：new material
+流变行为：rheological behavior
+质量监督：quality supervision
+三维重构：3D reconstruction
+矿质元素：mineral element
+马尔可夫模型：Markov model
+空间分辨率：Spatial resolution
+多目标规划：multi-objective programming
+RAKE接收机：RAKE receiver
+应力路径：stress path
+应用化学：applied chemistry
+镁合金：Mg alloy
+再生水：reclaimed water
+数学规划：mathematical programming
+二氧化锰：manganese dioxide
+压力降：pressure drop
+生态文化：ecological culture
+环境问题：environmental problems
+山梨酸：Sorbic acid
+固体分散体：solid dispersion
+显色反应：color reaction
+压电性能：piezoelectric properties
+地理信息：geographic information
+风能：wind energy
+受激布里渊散射：Stimulated Brillouin scattering
+GPS接收机：GPS receiver
+网络编码：network coding
+光网络：optical network
+信用评级：credit rating
+耐热性：heat tolerance
+可持续发展：continuable development
+催化酯化：catalytic esterification
+测量不确定度：uncertainty of measurement
+Nash均衡：Nash equilibrium
+网络平台：network platform
+吸附机理：adsorption mechanism
+漏电流：leakage current
+熔模铸造：Investment Casting
+定向爆破：directional blasting
+电路仿真：circuit simulation
+API函数：API function
+描述逻辑：description logic
+缓冲区溢出：buffer overflow
+能值分析：emergy analysis
+高铬铸铁：high chromium cast iron
+肉桂酸：cinnamic acid
+强化传热：enhanced heat transfer
+涡流：eddy current
+ERP系统：ERP system
+换热系数：heat transfer coefficient
+罚函数：penalty function
+射线追踪：ray tracing
+量化分析：quantitative analysis
+边界元：boundary element
+自然循环：natural circulation
+插入损耗：insertion loss
+学习能力：learning ability
+20世纪：the 20th Century
+计算机教学：Computer Teaching
+数字全息：digital holography
+齿轮泵：gear pump
+工业废水：industrial wastewater
+流动单元：flow unit
+局部搜索：local search
+化学工业：chemical industry
+选址：site selection
+核电：Nuclear Power
+隶属度函数：membership function
+经济政策：economic policy
+数值试验：numerical experiment
+高斯混合模型：Gaussian mixture model
+消光比：extinction ratio
+液压挖掘机：Hydraulic excavator
+充分条件：sufficient condition
+双光子吸收：two-photon absorption
+无铅钎料：Lead-free Solder
+钢铁：iron and steel
+复合污染：combined pollution
+菜籽油：rapeseed oil
+相似理论：similarity theory
+电磁力：electromagnetic force
+地震反演：seismic inversion
+激光烧蚀：laser ablation
+远程教育：long-distance education
+信息可视化：information visualization
+电子转移：electron transfer
+短路：short circuit
+大亚湾：Daya Bay
+拉普拉斯变换：Laplace transform
+Galerkin方法：Galerkin method
+自适应阈值：adaptive threshold
+电子密度：Electron density
+可编程逻辑器件：programmable logic device
+商业智能：business intelligence
+故障管理：fault management
+丹参酮ⅡA：Tanshinone ⅡA
+新产品：new product
+辉光放电：glow discharge
+关键技术：key techniques
+阴离子聚合：anionic polymerization
+荧光检测：Fluorescence detection
+控制网络：control network
+混合编程：mixed programming
+电磁脉冲：electromagnetic pulse
+多学科设计优化：multidisciplinary design optimization
+激光物理：laser physics
+结构可靠度：structural reliability
+能级：energy level
+社会因素：social factors
+嵌入式Internet：embedded Internet
+碳酸二苯酯：Diphenyl carbonate
+自然语言：natural language
+基坑支护：foundation pit support
+城市更新：Urban renewal
+生产实践：production practice
+AZ91D镁合金：AZ91D magnesium alloy
+铝基复合材料：aluminum matrix composite
+保健：health care
+环烷酸：naphthenic acid
+模糊聚类分析：fuzzy clustering analysis
+黄河三角洲：The Yellow River Delta
+计算机程序：computer program
+弯矩：bending moment
+城市建设：city construction
+工作过程：working process
+数据字典：data dictionary
+MUSIC算法：MUSIC algorithm
+彩色图像分割：color image segmentation
+教师专业发展：teachers professional development
+拓扑控制：topology control
+大坝安全：dam safety
+森林景观：forest landscape
+电极材料：electrode material
+磨损机制：wear mechanism
+化学动力学：chemical kinetics
+分子对接：molecular docking
+伸缩缝：expansion joint
+驻波：standing wave
+阳离子淀粉：cationic starch
+蛹虫草：Cordyceps militaris
+线性变换：linear transformation
+工业控制：industrial control
+物流业：logistics industry
+公钥基础设施：public key infrastructure
+地震反应分析：Seismic response analysis
+空空导弹：Air-to-air missile
+半实物仿真：hardware-in-the-loop simulation
+体外预应力：External prestressing
+流形学习：manifold learning
+介质损耗：dielectric loss
+细菌纤维素：bacterial cellulose
+焊接工艺：welding process
+针状铁素体：acicular ferrite
+残余应力：residual stresses
+流固耦合：fluid-solid coupling
+烧结机：sintering machine
+浮法玻璃：float glass
+埋地管道：buried pipeline
+城市交通：urban transportation
+延迟焦化：delayed coking
+速度分布：Velocity distribution
+控制释放：controlled release
+全合成：total synthesis
+原材料：raw material
+接触问题：contact problem
+有限变形：finite deformation
+营养液：nutrient solution
+自相关函数：autocorrelation function
+标准差：standard deviation
+背包问题：knapsack problem
+毛白杨：Populus tomentosa
+启发式搜索：heuristic search
+动态矩阵控制：Dynamic matrix control
+激光二极管：Laser diode
+空间索引：spatial index
+影像融合：image fusion
+本体映射：ontology mapping
+用例：use case
+飞行仿真：flight simulation
+西方经济学：western economics
+微波合成：microwave synthesis
+大气环境：atmospheric environment
+氧含量：oxygen content
+信息化建设：information construction
+冷藏：cold storage
+不饱和聚酯：unsaturated polyester
+化学位移：chemical shift
+弹性变形：elastic deformation
+减振器：shock absorber
+安全分析：safety analysis
+箱梁：box beam
+张謇：Zhang Jian
+粘结强度：bond strength
+钉螺：Oncomelania hupensis
+水势：water potential
+古希腊：Ancient Greece
+偏振模色散：polarization mode dispersion
+查询处理：query processing
+长江口：Yangtze Estuary
+瓦斯抽放：gas drainage
+模态参数：Modal parameter
+集成系统：integrated system
+自由能：free energy
+微弱信号检测：weak signal detection
+电液伺服系统：electro-hydraulic servo system
+高功率：high power
+工程数据库：engineering database
+显性知识：explicit knowledge
+水电厂：hydropower plant
+不对称信息：asymmetric information
+雷达成像：radar imaging
+非完整系统：nonholonomic system
+薄板坯：Thin slab
+变形机制：deformation mechanism
+动态硫化：dynamic vulcanization
+冷挤压：cold extrusion
+基站：base station
+微波干燥：microwave drying
+课程教学：course teaching
+海水：sea water
+光学性质：optical property
+糙米：brown rice
+神经网络控制：neural network control
+Canny算子：CANNY operator
+腐蚀行为：corrosion behavior
+流体流动：fluid flow
+玉米秸秆：corn stalk
+战略规划：strategic planning
+机械振动：mechanical vibration
+拉曼散射：Raman scattering
+道路交通：road traffic
+动力稳定性：dynamic stability
+函数逼近：Function approximation
+相对误差：relative error
+霍尔传感器：Hall sensor
+教育管理：educational management
+供暖系统：Heating System
+图像插值：Image interpolation
+力学性质：Mechanical Properties
+建筑工程：construction engineering
+室内环境：Indoor Environment
+循环寿命：cycle life
+空间插值：spatial interpolation
+数据拟合：data fitting
+随机微分方程：stochastic differential equation
+刚体：rigid body
+液体火箭发动机：liquid rocket engine
+诱发电位：Evoked potential
+指数稳定：exponential stability
+工程教育：engineering education
+跳频：frequency hopping
+比较定理：comparison theorem
+智能Agent：intelligent agent
+沉淀法：Precipitation Method
+微波烧结：microwave sintering
+孔型设计：pass design
+热处理工艺：heat treatment process
+直流电动机：DC motor
+煤质：coal quality
+固体脂质纳米粒：Solid lipid nanoparticles
+排水系统：drainage system
+介孔分子筛：Mesoporous molecular sieve
+顺丁烯二酸酐：maleic anhydride
+相控阵：phased array
+特征值：characteristic value
+生态平衡：ecological balance
+各向异性扩散：anisotropic diffusion
+知识模型：knowledge model
+制造系统：manufacturing system
+MRI：Magnetic Resonance Imaging
+有限时间热力学：finite time thermodynamics
+移动终端：mobile terminal
+励磁涌流：inrush current
+居住建筑：residential building
+目录服务：Directory Service
+相对密度：relative density
+价电子结构：valence electron structure
+鲫鱼：Carassius auratus
+机械设计：machine design
+SCADA系统：SCADA system
+疲劳分析：fatigue analysis
+玻璃幕墙：glass curtain wall
+电机控制：motor control
+机械系统：mechanical system
+连续小波变换：Continuous Wavelet Transform
+交通组织：Traffic organization
+曲面重建：Surface reconstruction
+群决策：group decision making
+房颤：atrial fibrillation
+城市空间结构：Urban Spatial Structure
+嵌入式数据库：embedded database
+IP网络：IP network
+文化精神：cultural spirit
+车辆检测：vehicle detection
+抽油杆：sucker rod
+磷肥：phosphate fertilizer
+溴酸钾：Potassium bromate
+加油站：gas station
+离心式压缩机：centrifugal compressor
+实践性教学：Practical teaching
+Hilbert变换：Hilbert transform
+合作博弈：cooperative game
+RS-485总线：RS-485 bus
+预应力混凝土结构：prestressed concrete structure
+误差修正：error correction
+平顺性：Ride comfort
+低噪声：low noise
+明朝：Ming Dynasty
+计算机动画：computer animation
+量子计算：Quantum computation
+智能客户端：smart client
+仿真建模：simulation modeling
+大学精神：University spirit
+教育创新：educational innovation
+超声波电机：ultrasonic motor
+滑动窗口：sliding window
+沉积特征：sedimentary characteristics
+研究性学习：research learning
+碳糊电极：carbon paste electrode
+火成岩：igneous rock
+改进措施：improvement measure
+回归分析：regressive analysis
+运行管理：Operation management
+三角模糊数：triangular fuzzy number
+网络课件：network courseware
+广东：Guangdong Province
+谐振频率：resonance frequency
+随机规划：stochastic programming
+公共交通：Public traffic
+节肢动物群落：arthropod community
+导航系统：Navigation system
+客户细分：customer segmentation
+物权法：property law
+步态识别：gait recognition
+硫酸软骨素：chondroitin sulfate
+去除率：removal efficiency
+不饱和聚酯树脂：unsaturated polyester resin
+硫酸亚铁：ferrous sulfate
+超支化聚合物：hyperbranched polymer
+含水饱和度：water saturation
+响应面分析：response surface analysis
+黑液：black liquor
+豆粕：soybean meal
+环境地质：environmental geology
+同步控制：synchronous control
+激光晶体：laser crystal
+CFD模拟：CFD simulation
+大型空分设备：Large scale air separation unit
+煤焦油：coal tar
+系统管理：system management
+气体分离：gas separation
+自振频率：natural frequency
+光学特性：optical properties
+教学系统：teaching system
+时间常数：Time constant
+教育研究：educational research
+切换系统：Switched systems
+动力反应：dynamic response
+孔雀石绿：malachite green
+偶氮染料：azo dye
+粒径分布：size distribution
+碘化钾：potassium iodide
+炭纤维：Carbon fiber
+共振光散射：resonance light scattering
+基础理论：basic theory
+Matlab软件：Matlab software
+温差：temperature Difference
+地震资料：seismic data
+评价标准：evaluation criteria
+光电传感器：photoelectric sensor
+工程实践：engineering practice
+动态测试：dynamic test
+配电网络：distribution network
+MSComm控件：MSComm control
+转换效率：conversion efficiency
+洪水预报：flood forecasting
+装备保障：equipment support
+高拱坝：high arch dam
+海杂波：sea clutter
+不确定系统：Uncertain systems
+互耦：Mutual coupling
+建筑材料：building materials
+燃煤锅炉：coal-fired boiler
+子午线轮胎：radial tire
+高能球磨：high energy ball milling
+IF钢：IF steel
+表面分析：surface analysis
+压力梯度：Pressure Gradient
+传热模型：heat transfer model
+施工监测：construction monitoring
+远程诊断：Remote diagnosis
+合金钢：alloy steel
+水源热泵：water source heat pump
+临界载荷：critical load
+建模方法：modeling method
+DSP：digital signal processor
+可靠度分析：reliability analysis
+电子设备：electronic equipment
+应用程序：application program
+空中交通管制：air traffic control
+串行接口：serial interface
+结构动力学：structural dynamics
+森林旅游：forest tourism
+电子控制：Electronic control
+机动目标：maneuvering target
+资源发现：resource discovery
+视频分割：video segmentation
+逆运动学：Inverse kinematics
+可溶性蛋白质：soluble protein
+负压：Negative pressure
+硫酸：sulphuric acid
+双氯芬酸钠：diclofenac sodium
+振动测试：vibration test
+流量系数：flow coefficient
+模型分析：model analysis
+边际成本：marginal cost
+智能设计：intelligent design
+条件数：Condition number
+耐磨性能：wear resistance
+气相色谱：gas chromatograph
+苹果汁：apple juice
+数字矿山：digital mine
+混纺织物：blended fabric
+生态工程：ecological engineering
+残留分析：residue analysis
+大豆蛋白：soy protein
+防治措施：control measures
+分布规律：distribution law
+机械活化：mechanical activation
+扭振：Torsional vibration
+温室效应：greenhouse effect
+岩爆：rock burst
+湿度传感器：humidity sensor
+信用管理：credit management
+转基因植物：transgenic plants
+关键路径：critical path
+Access数据库：access database
+电路分析：circuit analysis
+水权：water rights
+卫星导航：satellite navigation
+武术：Martial arts
+注塑模：injection mold
+真空钎焊：vacuum brazing
+Al-Si合金：Al-Si alloy
+弹性地基：elastic foundation
+山区：mountain area
+电子封装：electronic packaging
+松嫩平原：Songnen Plain
+T-S模型：T-S model
+水锤：water hammer
+波阻抗：wave impedance
+硅溶胶：silica sol
+生产系统：production system
+无侧限抗压强度：Unconfined compressive strength
+微机保护：microcomputer protection
+业务流程重组：Business process reengineering
+结构健康监测：Structural health monitoring
+液晶显示：liquid crystal display
+扩散方程：diffusion equation
+能源消耗：energy consumption
+现代建筑：modern architecture
+火箭发动机：Rocket engine
+会计信息系统：Accounting information system
+三电平逆变器：three-level inverter
+天然色素：natural pigment
+膜通量：Membrane flux
+功耗：power consumption
+液化石油气：liquefied petroleum gas
+选择性氧化：selective oxidation
+导电聚合物：conducting polymer
+设计与施工：design and construction
+微动磨损：fretting wear
+直接还原：direct reduction
+模糊数学：fuzzy math
+再生骨料：recycled aggregate
+决策模型：Decision-making Model
+功能分析：functional analysis
+移相器：phase shifter
+大黄鱼：Pseudosciaena crocea
+制度分析：institutional analysis
+Vague集：Vague sets
+帧同步：frame synchronization
+不完备信息系统：incomplete information system
+增量学习：incremental learning
+烟气脱硫：flue gas desulphurization
+共振瑞利散射：Resonance Rayleigh Scattering
+选择性激光烧结：selective laser sintering
+施工组织：construction organization
+硫含量：sulfur content
+水产品：aquatic product
+天然产物：natural products
+储氢：hydrogen storage
+物元模型：matter-element model
+花生四烯酸：arachidonic acid
+三维模型：three-dimensional model
+振动测量：vibration measurement
+逆系统：inverse system
+区域规划：Regional Planning
+Rogowski线圈：Rogowski coil
+幽门螺旋杆菌：helicobacter pylori
+森林植被：Forest Vegetation
+波浪力：wave force
+健康管理：health management
+特性阻抗：characteristic impedance
+短路电流：short circuit current
+最大似然估计：Maximum likelihood estimation
+虚拟社区：Virtual Community
+移动性管理：mobility management
+黄酒：yellow rice wine
+氧化沟：oxidation ditch
+点蚀：pitting corrosion
+水环境容量：water environmental capacity
+酒精发酵：alcohol fermentation
+内标法：internal standard method
+耗水量：water consumption
+模糊层次分析法：Fuzzy analytic hierarchy process
+肉制品：Meat products
+TIG焊：TIG welding
+催化重整：catalytic reforming
+动态建模：dynamic modeling
+综合分析：comprehensive analysis
+综合自动化：integrated automation
+模型辨识：Model Identification
+燃烧效率：combustion efficiency
+通用串行总线：universal serial bus
+被动控制：passive control
+液压泵：Hydraulic pump
+随机场：random field
+中耳：Middle ear
+盲检测：Blind detection
+计算机安全：computer security
+单点登录：single sign-on
+查询扩展：query expansion
+三峡库区：Three Gorges Reservoir
+聚氨酯弹性体：polyurethane elastomer
+TiO2：titanium dioxide
+快速测定：rapid determination
+伺服电机：servo motor
+CCD摄像机：CCD camera
+市场调查：market research
+安全系数：safety coefficient
+排放控制：emission control
+空气压缩机：air compressor
+模型设计：model design
+色散关系：dispersion relation
+水力设计：hydraulic design
+超声波传感器：ultrasonic sensor
+配置管理：configuration management
+目标探测：Target detection
+耦合系数：coupling coefficient
+信息需求：information demand
+Delaunay三角剖分：Delaunay triangulation
+分布式应用：distributed application
+通信网：communication network
+泊松比：Poisson's ratio
+功率密度：Power density
+氢氧化钠：sodium hydroxide
+质量监控：quality control
+残余奥氏体：retained austenite
+模糊规则：fuzzy rules
+防止地层损害：Formation damage prevention
+薄板：thin plate
+步进电动机：Stepping motor
+多元回归：multiple regression
+统计方法：statistical method
+液氮：liquid nitrogen
+智能传感器：intelligent sensor
+自适应逆控制：adaptive inverse control
+流程图：flow chart
+马尔可夫过程：markov process
+内生真菌：endophytic fungus
+旅游开发：tourism exploitation
+地震数据：seismic data
+空间电荷：space charge
+表面波：Surface wave
+电流控制：current control
+门式刚架：portal frame
+演化算法：evolutionary algorithm
+壮族：Zhuang nationality
+流程管理：process management
+代价函数：cost function
+载波同步：carrier synchronization
+钢桁架：steel truss
+门限签名：threshold signature
+加密算法：encryption algorithm
+领域工程：Domain Engineering
+相位调制：phase modulation
+地下水污染：groundwater pollution
+金属切削：metal cutting
+资源利用：resource utilization
+流变特性：rheological property
+构造运动：tectonic movement
+尺寸稳定性：dimensional stability
+经验公式：empirical formula
+密度函数：density function
+C/S结构：C/S structure
+效能评估：efficiency evaluation
+工程监理：engineering supervision
+质量检测：quality inspection
+催化精馏：catalytic distillation
+帷幕灌浆：curtain grouting
+边界元方法：boundary element method
+冷害：chilling injury
+输出功率：Output Power
+影子价格：shadow price
+热力系统：thermal system
+临界荷载：critical load
+极限强度：ultimate strength
+案例教学法：Case teaching method
+参数提取：parameter extraction
+综合医院：General hospital
+频繁项集：frequent itemsets
+神经网络集成：Neural network ensemble
+纹理分割：texture segmentation
+履带车辆：tracked vehicle
+无约束最优化：unconstrained optimization
+自动编程：automatic programming
+人机界面：human-machine interface
+储氢合金：hydrogen storage alloy
+无机盐：inorganic salt
+超声振动：ultrasonic vibration
+本科教学：undergraduate teaching
+信息处理技术：information processing technique
+血液相容性：blood compatibility
+干密度：dry density
+智能系统：Intelligent system
+地层损害：formation damage
+马兜铃酸：Aristolochic Acid
+教学方式：teaching method
+模糊集合：fuzzy set
+数据可视化：data visualization
+地形图：topographic map
+红楼梦：A Dream of Red Mansions
+电源管理：power management
+图像认证：image authentication
+家庭网关：home gateway
+Hausdorff测度：Hausdorff measure
+审美文化：aesthetic culture
+选择加氢：selective hydrogenation
+喷射沉积：spray deposition
+有机磷农药：Organophosphorus pesticides
+坐标系：Coordinate System
+硝酸铵：ammonium nitrate
+特征分析：characteristic analysis
+响应曲面法：response surface methodology
+生态效益：ecological benefits
+变形控制：Deformation control
+长沙市：Changsha City
+凝结时间：Setting time
+济南市：Jinan city
+磨粒磨损：abrasive wear
+茂金属催化剂：metallocene catalyst
+智能诊断：Intelligent diagnosis
+蒙特卡罗法：Monte-Carlo method
+粒子群：particle swarm
+GIS技术：GIS technology
+隶属函数：subordinate function
+近似解：approximate solution
+知识表达：knowledge representation
+非线性方程组：nonlinear equations
+Snake模型：Snake model
+学校文化：School culture
+可靠性增长：reliability growth
+循环荷载：cyclic loading
+剪力滞：shear lag
+路面结构：pavement structure
+直流系统：DC system
+机器人足球：robot soccer
+土地市场：land market
+辽河油田：Liaohe Oilfield
+液膜：Liquid membrane
+家具设计：Furniture design
+Mannich反应：Mannich reaction
+马铃薯淀粉：potato starch
+麦草：wheat straw
+共混改性：blending modification
+希夫碱：Schiff base
+加工技术：processing technology
+氧化铜：copper oxide
+谷氨酰胺合成酶：glutamine synthetase
+毛细管柱：Capillary column
+开放系统：open system
+空间矢量：space vector
+参考模型：Reference model
+登革热：dengue fever
+电动助力转向：electric power steering
+空时编码：space-time coding
+厌氧处理：anaerobic treatment
+差示扫描量热法：differential scanning calorimetry
+市场前景：market prospect
+316L不锈钢：316L stainless steel
+聚丙烯腈纤维：polyacrylonitrile fiber
+无机膜：inorganic membrane
+梯度洗脱：gradient elution
+地下管线：underground pipeline
+人体健康：Human health
+驱动程序：Driver Program
+铝酸钠溶液：sodium aluminate solution
+供热系统：heating system
+蜂王浆：royal jelly
+生产测井：production logging
+顺酐：maleic anhydride
+效益评价：Benefit evaluation
+模型选择：model selection
+转子动力学：rotor dynamics
+耦合振动：coupled vibration
+单桩：single pile
+集中供热：central heating
+区间分析：interval analysis
+实体造型：solid modeling
+概率神经网络：probabilistic neural network
+震源机制：focal mechanism
+信息增益：information gain
+语音信号：Speech signal
+连接池：connection pool
+数据链：data link
+复合绝缘子：composite insulator
+校园规划：Campus planning
+银行业：banking industry
+数字接收机：digital receiver
+测量系统：measuring system
+物理性质：Physical properties
+沙尘暴：dust storm
+财富效应：wealth effect
+膜反应器：membrane reactor
+真空系统：Vacuum system
+保障体系：Guarantee System
+配电变压器：distribution transformer
+小波去噪：wavelet denoising
+振动监测：vibration monitoring
+虚拟场景：virtual scene
+奇点：singular point
+扩散张量成像：Diffusion tensor imaging
+多普勒组织成像：Doppler tissue imaging
+数据复制：data replication
+荷载传递：load transfer
+桩土应力比：pile-soil stress ratio
+多播路由：multicast routing
+阴影检测：shadow detection
+固相微萃取：Solid-phase microextraction
+量纲分析：dimensional analysis
+地质模型：geological model
+二次开发：further development
+动态过程：dynamic process
+包封率：encapsulation efficiency
+剪切应力：shear stress
+针织物：Knitted fabric
+燃煤电厂：coal-fired power plant
+偶联反应：Coupling reaction
+人工抗原：artificial antigen
+蒙特卡洛法：Monte Carlo method
+不确定性分析：uncertainty analysis
+药物释放：Drug release
+机械强度：Mechanical strength
+火力发电厂：thermal power plant
+系统科学：system science
+网络通讯：Network Communication
+压缩比：compression ratio
+教育实习：teaching practice
+结构强度：structural strength
+嵌入式处理器：embedded processor
+抗震设计：aseismic design
+数据采集卡：Data acquisition card
+环境设计：environmental design
+预防医学：Preventive Medicine
+推力轴承：thrust bearing
+粒子滤波器：particle filter
+激光推进：Laser propulsion
+核方法：kernel method
+认证协议：authentication protocol
+分簇算法：clustering algorithm
+Web数据挖掘：web data mining
+指派问题：assignment problem
+月球车：Lunar rover
+乌龙茶：Oolong tea
+超临界CO2萃取：supercritical CO2 extraction
+极限平衡法：Limit equilibrium method
+污水回用：wastewater reuse
+工艺条件：technological condition
+S-N曲线：S-N curve
+振动特性：Vibration characteristics
+矿井提升机：Mine hoist
+膜技术：membrane technology
+微波等离子体：microwave plasma
+剑杆织机：rapier loom
+判断矩阵：judgement matrix
+位移场：displacement field
+气体放电：gas discharge
+能谱：Energy Spectrum
+安全评估：safety assessment
+双孢蘑菇：Agaricus bisporus
+仿真实验：simulation experiment
+MAC地址：MAC address
+频率跟踪：frequency tracking
+脆性断裂：brittle fracture
+杂散电流：stray current
+流动控制：flow control
+数字控制器：digital controller
+Linux操作系统：Linux operating system
+智能车辆：Intelligent vehicle
+土坝：earth dam
+线路保护：Line protection
+语言模型：language model
+卷积码：convolutional code
+机组组合：unit commitment
+数据立方体：data cube
+计算机取证：computer forensics
+投资基金：investment fund
+荧光寿命：fluorescence lifetime
+木材干燥：wood drying
+碳化钨：tungsten carbide
+力学分析：mechanics analysis
+低温烧结：low temperature sintering
+过氧化值：peroxide value
+光限幅：optical limiting
+结晶行为：crystallization behavior
+生长机制：growth mechanism
+虎杖：Polygonum cuspidatum
+甜高粱：sweet sorghum
+平面应变：plane strain
+荧光探针：Fluorescent probe
+抗氧化性能：Oxidation resistance
+生理活性：physiological activity
+氧传感器：oxygen sensor
+速度测量：velocity measurement
+六西格玛：six sigma
+塑性区：plastic zone
+模糊矩阵：fuzzy matrix
+压力角：pressure angle
+水电工程：hydropower project
+黄河流域：Yellow River Basin
+颜色特征：color feature
+创新精神：innovative spirit
+雷公藤：Tripterygium wilfordii
+整数小波变换：Integer wavelet transform
+施工阶段：construction stage
+打靶法：shooting method
+Gabor小波：Gabor wavelet
+石英晶体：quartz crystal
+设计策略：design strategy
+班级管理：class management
+钻孔桩：bored pile
+积分不等式：integral inequality
+色彩管理：color management
+工艺控制：process control
+光子带隙：photonic band gap
+微波辅助提取：Microwave-assisted extraction
+安全控制：safety control
+教学环境：teaching environment
+地理信息系统(GIS)：Geographic information system(GIS)
+三峡：Three Gorges
+择优取向：Preferred Orientation
+TiAl合金：TiAl alloy
+深层发酵：submerged fermentation
+不对称还原：asymmetric reduction
+反应温度：reaction temperature
+形态特征：morphological character
+遗传规划：genetic programming
+均方误差：mean square error
+碳酸钠：Sodium carbonate
+离心力：Centrifugal force
+制造网格：Manufacturing grid
+数据一致性：data consistency
+势函数：potential function
+抗差估计：robust estimation
+血液净化：blood purification
+卫生服务：health service
+沉降预测：settlement prediction
+传递对准：Transfer alignment
+碳化硼：Boron Carbide
+延迟时间：Delay time
+气含率：gas holdup
+熔融还原：smelting reduction
+工程建设：project construction
+电偶腐蚀：galvanic corrosion
+青海湖：Qinghai lake
+微弱信号：weak signal
+蒙特卡洛模拟：Monte Carlo simulation
+离心压缩机：centrifugal compressor
+地表温度：land surface temperature
+AutoCAD：Auto CAD
+透射系数：Transmission coefficient
+权系数：weight coefficient
+再生核：reproducing kernel
+迭代函数系统：iterated function system
+结构体系：structure system
+全局稳定：global stability
+图象压缩：image compression
+消能：energy dissipation
+边界扫描：boundary scan
+分布式对象：distributed object
+半监督学习：semi-supervised learning
+期刊管理：periodical management
+减压渣油：vacuum residue
+煤炭企业：coal enterprises
+涡流检测：Eddy current testing
+响应面：response surface
+相对渗透率：relative permeability
+情景分析：scenario analysis
+选矿：mineral processing
+粒子群优化：particle swarm optimization(PSO)
+煤炭工业：coal industry
+水质分析：water quality analysis
+高效毛细管电泳：high performance capillary electrophoresis
+血管紧张素转换酶：angiotensin converting enzyme
+屈服应力：yield stress
+连续铸造：Continuous Casting
+功能设计：function design
+生态建筑：ecological architecture
+系统软件：system software
+概率密度：probability density
+无线网络：wireless networks
+植物景观：plant landscape
+预测函数控制：Predictive functional control
+DNA测序：DNA sequencing
+混流式水轮机：Francis turbine
+相位补偿：phase compensation
+科技期刊：Sci-tech Periodicals
+服务模式：service model
+对比敏感度：contrast sensitivity
+Markov模型：Markov model
+茶文化：tea culture
+露天矿：Open-pit mine
+温度监测：temperature monitoring
+电子束焊接：electron beam welding
+菲涅耳衍射：Fresnel diffraction
+比热：specific heat
+综合回收：Comprehensive recovery
+荧光定量PCR：Real-time PCR
+现代社会：modern society
+锂电池：lithium battery
+Simulink仿真：Simulink simulation
+信息交换：information exchange
+客户服务：customer service
+控制软件：control software
+智能决策支持系统：intelligent decision support system
+电子温度：Electron temperature
+可靠性指标：reliability index
+地磁场：geomagnetic field
+耦合效率：Coupling efficiency
+土家族：Tujia nationality
+数据源：data source
+交叉感染：cross infection
+Kalman滤波器：Kalman filter
+宽带接入：Broadband access
+轨道电路：track circuit
+带宽分配：bandwidth allocation
+线损：line loss
+网络管理系统：network management system
+集成学习：ensemble learning
+催化化学：catalytic chemistry
+预测方法：prediction method
+耦合模型：coupling model
+污染土壤：contaminated soil
+催化还原：catalytic reduction
+接口技术：interface technology
+土地覆盖：land cover
+应变能：strain energy
+抽水蓄能电站：pumped storage power station
+安全防护：safety protection
+网络资源：network resource
+风洞实验：wind tunnel test
+热辐射：thermal radiation
+BP模型：BP model
+水平集方法：level set method
+RS码：RS code
+中小学：primary and secondary schools
+特征造型：Feature modeling
+变压器保护：transformer protection
+数字化医院：Digital hospital
+发根农杆菌：Agrobacterium rhizogenes
+通信接口：communication interface
+艺术价值：artistic value
+半刚性连接：semi-rigid connection
+包过滤：packet filtering
+反洗钱：anti-money laundering
+低温等离子体：low temperature plasma
+Keggin结构：Keggin structure
+油气：oil and gas
+液压控制：Hydraulic control
+二硫化碳：carbon disulfide
+配煤：coal blending
+气体钻井：gas drilling
+真空度：vacuum degree
+煤粉燃烧：pulverized coal combustion
+最小二乘支持向量机：least squares support vector machine
+食品加工：Food processing
+固体酸催化剂：solid acid catalyst
+缓冲层：Buffer layer
+几何非线性：geometrical nonlinearity
+均匀分布：uniform distribution
+板式换热器：plate heat exchanger
+马尔科夫链：markov chain
+水资源承载力：Water resources carrying capacity
+屈服准则：yield criterion
+曲面造型：surface modeling
+活性粉末混凝土：reactive powder concrete
+硬盘：Hard disk
+场致发射：field emission
+相位测量：phase measurement
+药物筛选：drug screening
+CCD相机：CCD camera
+尺度函数：scaling function
+瞬时无功功率理论：instantaneous reactive power theory
+植物保护：plant protection
+膜蛋白：membrane protein
+血管内超声：intravascular ultrasound
+阻塞管理：congestion management
+多普勒频率：Doppler frequency
+控制技术：Control technique
+液压油：hydraulic oil
+层流冷却：laminar cooling
+扩散连接：diffusion bonding
+冷冻干燥：freeze drying
+磨损率：wear rate
+复合肥：compound fertilizer
+液压机：Hydraulic press
+X-射线衍射：X-ray diffraction
+库车坳陷：Kuqa depression
+防范措施：preventive measures
+土地退化：land degradation
+DC-DC变换器：DC-DC converter
+余热锅炉：waste heat boiler
+高新技术：high technology
+动力系统：dynamical system
+设计理论：design theory
+载荷谱：load spectrum
+缺失数据：missing data
+视频信号：video signal
+视频水印：video watermarking
+雨水利用：Rainwater utilization
+信息反馈：information feedback
+动态环境：Dynamic environment
+楔横轧：cross wedge rolling
+微分几何：Differential geometry
+提升格式：lifting scheme
+碎石桩：gravel pile
+电力系统稳定器：power system stabilizer
+线性矩阵不等式(LMI)：linear matrix inequality(LMI)
+布尔函数：Boolean function
+事务处理：Transaction processing
+精细农业：precision agriculture
+异常处理：exception handling
+竞争比：competitive ratio
+形式概念分析：formal concept analysis
+云计算：cloud computing
+球罐：spherical tank
+矿井通风：mine ventilation
+黄孢原毛平革菌：Phanerochaete chrysosporium
+Elman神经网络：Elman neural network
+变结构：variable structure
+氯化氢：hydrogen chloride
+应变测量：strain measurement
+反应时间：reaction time
+服务管理：service management
+祁连山：Qilian Mountains
+现实意义：realistic significance
+线程池：Thread Pool
+模糊逻辑控制：fuzzy logic control
+混合控制：hybrid control
+接口设计：Interface design
+一体化设计：integrated design
+混凝土施工：concrete construction
+ISA总线：ISA bus
+技能训练：Skill training
+绝对稳定性：absolute stability
+带通滤波器：bandpass filter
+异物：Foreign body
+用户管理：user management
+视频通信：video communication
+分形编码：Fractal coding
+雷达目标识别：radar target recognition
+平均曲率：mean curvature
+氯化聚乙烯：chlorinated polyethylene
+城市热岛：urban heat island
+喷气织机：air-jet loom
+功能特性：functional properties
+螺旋藻：Spirulina platensis
+传质系数：mass transfer coefficient
+多环芳烃：polycyclic aromatic hydrocarbons(PAHs)
+噪声污染：noise pollution
+球墨铸铁：nodular cast iron
+金属元素：metal element
+流程模拟：process simulation
+乙烯装置：ethylene plant
+服装设计：Fashion Design
+硫酸氢钠：sodium bisulfate
+室内空气污染：indoor air pollution
+铁道车辆：rolling stock
+介电损耗：dielectric loss
+市场需求分析：market demand analysis
+两相流动：Two-phase flow
+流变模型：rheological model
+顶空气相色谱法：headspace gas chromatography
+稀土配合物：rare earth complexes
+紊流：Turbulent flow
+社会变迁：social changes
+管理模型：management model
+MonteCarlo方法：Monte Carlo method
+变型设计：variant design
+遗传参数：Genetic parameter
+MVC模式：MVC pattern
+Logistic映射：logistic map
+运输问题：transportation problem
+耦合分析：coupling analysis
+建立模型：Model building
+线性方程组：linear equations
+负荷建模：load modeling
+Duffing方程：Duffing equation
+摆式列车：tilting train
+IEC61850：IEC 61850
+表层沉积物：surface sediment
+板坯连铸：slab continuous casting
+有机食品：organic food
+传输矩阵：transfer matrix
+热力学计算：thermodynamic calculation
+混杂系统：hybrid system
+木薯淀粉：cassava starch
+货架期：shelf life
+米根霉：Rhizopus oryzae
+电站：power station
+焊接残余应力：welding residual stress
+膜分离技术：membrane separation technology
+台架试验：Bench test
+雅可比矩阵：Jacobian matrix
+电子显微镜：electron microscope
+相移：phase shift
+市场环境：Market environment
+物流信息系统：logistics information system
+推理机：reasoning machine
+数据流：data flow
+课程结构：curriculum structure
+实时系统：real time system
+光存储：Optical storage
+白僵菌：Beauveria bassiana
+节水型社会：water-saving society
+形状参数：shape parameter
+数字鸿沟：Digital Divide
+全局渐近稳定：global asymptotic stability
+Adaboost算法：Adaboost Algorithm
+数字资源：digital resource
+飞行试验：flight test
+土钉支护：soil nailing
+雷达回波：radar echo
+天线选择：antenna selection
+性能管理：performance management
+颗粒物：Particulate matter
+露点：dew point
+互花米草：spartina alterniflora
+材料设计：material design
+磨削力：grinding force
+植物乳杆菌：Lactobacillus plantarum
+水系统：water system
+事故预防：Accident prevention
+阳离子交换树脂：cation exchange resin
+时效处理：aging treatment
+近似熵：approximate entropy
+放电容量：discharge capacity
+高强度钢：high strength steel
+环境变化：Environmental change
+光折变效应：photorefractive effect
+岩溶塌陷：karst collapse
+低通滤波器：Low-pass filter
+计算智能：computational intelligence
+红粘土：red clay
+交通量：traffic volume
+振动响应：vibration response
+负荷模型：load model
+失效率：failure rate
+数据格式：data format
+非结构网格：unstructured grid
+区间估计：Interval estimation
+椎间盘：Intervertebral disk
+乙肝疫苗：Hepatitis B vaccine
+二项分布：binomial distribution
+面元法：panel method
+位置管理：location management
+中间业务：Intermediary business
+反应条件：reaction condition
+丙烯酸甲酯：methyl acrylate
+喷气燃料：jet fuel
+加氢催化剂：hydrogenation catalyst
+CO氧化：CO oxidation
+热冲击：thermal shock
+燃烧控制：combustion control
+PLC控制系统：PLC Control System
+基体改进剂：Matrix modifier
+表面纳米化：surface nanocrystallization
+吐哈盆地：Tuha basin
+解析法：analytic method
+系统效率：system efficiency
+热腐蚀：hot corrosion
+尾气：tail gas
+生活饮用水：drinking water
+噪声源：noise source
+食品分析：food analysis
+乳化沥青：Emulsified asphalt
+创新意识：innovative consciousness
+醇酸树脂：alkyd resin
+起落架：landing gear
+现代艺术：modern art
+多尺度分析：multi-scale analysis
+交通事故：traffic accidents
+特征建模：feature modeling
+相对效率：relative efficiency
+表面温度：surface temperature
+波速：wave velocity
+药物设计：Drug design
+石杉碱甲：Huperzine A
+结构工程：structural engineering
+流动沸腾：flow boiling
+含油量：oil content
+网格生成：Mesh generation
+稀疏矩阵：Sparse Matrix
+视频处理：video processing
+T细胞：T cells
+动力相互作用：dynamic interaction
+完全图：complete graph
+粘滞阻尼器：viscous damper
+流密码：stream cipher
+新闻报道：news report
+k-means算法：k-means algorithm
+软粘土：soft clay
+移动Ad hoc网络：mobile Ad hoc network
+图像水印：image watermarking
+分组调度：packet scheduling
+公钥：public key
+数字化图书馆：digital library
+反相乳液聚合：inverse emulsion polymerization
+甲酸甲酯：methyl formate
+小波网络：wavelet network
+可持续性发展：sustainable development
+多元统计分析：multivariate statistical analysis
+代谢工程：metabolic engineering
+固定化细胞：immobilized cell
+相机标定：camera calibration
+致病菌：pathogenic bacteria
+定位精度：Positioning accuracy
+岩溶水：karst water
+状态空间模型：state space model
+原型系统：prototype system
+抗冻性：frost resistance
+光孤子：Optical soliton
+模型参考自适应控制：model reference adaptive control
+声卡：sound card
+欧氏距离：Euclidean distance
+法拉第效应：Faraday effect
+数据接口：data interface
+地源热泵：ground-source heat pump
+雷达信号：Radar Signal
+鲁棒稳定：robust stability
+内容管理：content management
+推荐系统：recommendation system
+病毒检测：Virus detection
+ZnO薄膜：ZnO films
+磁流变阻尼器：MR damper
+碱性蛋白酶：alkaline protease
+拉伸试验：tensile test
+混凝土裂缝：concrete crack
+痕量分析：trace analysis
+吸水率：water absorption
+斜齿轮：helical gear
+疲劳极限：fatigue limit
+自动测量：automatic measurement
+软件包：software package
+可行性研究：feasibility research
+理论体系：theory system
+能量密度：energy density
+备件：spare parts
+共振频率：resonance frequency
+锯缘青蟹：Scylla serrata
+转移概率：transition probability
+神经网络模型：Neural Network model
+分水岭算法：watershed algorithm
+协方差矩阵：covariance matrix
+多变量系统：multivariable system
+保障措施：safeguard measures
+Fourier级数：Fourier series
+磁路：magnetic circuit
+电流模式：current mode
+数字信号：Digital signal
+网络信息资源：network information resource
+提升小波：lifting wavelet
+电力系统稳定：power system stability
+自适应均衡：adaptive equalization
+资源预留：resource reservation
+逆矩阵：inverse matrix
+门限方案：threshold scheme
+碳含量：carbon content
+环境风险：environmental risk
+信号源：signal source
+H2O2：hydrogen peroxide
+截断误差：truncation error
+数控机床：CNC machine
+混合溶剂：mixed solvent
+变频：variable frequency
+比电容：specific capacitance
+弹簧钢：spring steel
+偏最小二乘法：Partial least squares
+冷却速率：cooling rate
+选材：material selection
+热稳定剂：heat stabilizer
+功能梯度材料：functionally graded materials
+轻烃：light hydrocarbon
+钙钛矿结构：perovskite structure
+电弧离子镀：arc ion plating
+电动车：electric vehicle
+结构力学：structural mechanics
+发达国家：Developed country
+主成份分析：principal component analysis
+审美意识：Aesthetic Consciousness
+系统识别：system identification
+粗集理论：rough set theory
+基础工程：foundation engineering
+牵引变电所：traction substation
+Adhoc：Ad hoc
+馈线自动化：feeder automation
+软件项目：Software project
+节能降耗：energy saving
+凝析气藏：condensate gas reservoir
+白细胞：White Blood Cell
+原位聚合：in situ polymerization
+深部开采：deep mining
+膨胀剂：expansive agent
+晚三叠世：late Triassic
+机械钻速：penetration rate
+馒头：steamed bread
+灰色预测：gray prediction
+浮选柱：flotation column
+降解机理：degradation mechanism
+直接数值模拟：direct numerical simulation
+氧化动力学：Oxidation Kinetics
+磁流变液：magnetorheological fluid
+生长因子：growth factors
+研究方向：research direction
+渗透压：osmotic pressure
+山东半岛：Shandong peninsula
+内氧化：Internal Oxidation
+永磁体：permanent magnet
+破坏准则：failure criterion
+模糊可靠度：Fuzzy reliability
+随机数：random number
+琼斯矩阵：Jones matrix
+统一强度理论：unified strength theory
+参数整定：parameter tuning
+禁忌搜索算法：Tabu search algorithm
+学习理论：learning theory
+地基承载力：bearing capacity of foundation
+离散系统：discrete system
+校园网络：campus network
+变速恒频：variable speed constant frequency
+公共艺术：public art
+混沌加密：chaotic encryption
+设计洪水：design flood
+网格安全：grid security
+计算机犯罪：computer crime
+微波辐照：microwave irradiation
+长余辉：long afterglow
+紫外辐射：ultraviolet radiation
+废气：waste gas
+地下开采：underground mining
+井眼轨迹：hole trajectory
+转移矩阵：transfer matrix
+氯乙酸：chloroacetic acid
+中性红：Neutral Red
+空间数据模型：spatial data model
+三维仿真：3D simulation
+矿泉水：mineral water
+运行模式：operation mode
+甜樱桃：sweet cherry
+模糊规划：fuzzy programming
+果树：Fruit trees
+消费文化：consumption culture
+里氏木霉：Trichoderma reesei
+电子枪：electron gun
+凸包：convex hull
+宗教文化：religious culture
+有功功率：active power
+可靠性试验：reliability test
+机器人视觉：robot vision
+电压波动：voltage fluctuation
+化学灌浆：chemical grouting
+气动性能：aerodynamic performance
+社会网络分析：Social network analysis
+数据库建设：Database construction
+工作流技术：workflow technology
+水泥搅拌桩：cement mixing pile
+电力推进：electric propulsion
+最优路径：optimal path
+变异算子：mutation operator
+商务智能：Business Intelligence
+知识地图：knowledge map
+教学平台：Teaching platform
+氢氧化铝：Aluminum hydroxide
+挥发油：volatile oils
+质量问题：quality problem
+电磁阀：electromagnetic valve
+服务平台：service platform
+温控：temperature control
+介孔材料：mesoporous material
+变异系数：variation coefficient
+催化动力学光度法：catalytic kinetic spectrophotometry
+果蔬：fruit and vegetable
+离心风机：centrifugal fan
+热力学模型：thermodynamic model
+色彩设计：Color design
+矿井水：mine water
+光化学反应：photochemical reaction
+果醋：fruit vinegar
+废纸：waste paper
+过氧乙酸：peracetic acid
+标准偏差：standard deviation
+中子活化分析：Neutron activation analysis
+多项式拟合：polynomial fitting
+输气管道：Gas pipeline
+分形维：fractal dimension
+制动系统：braking system
+微生物群落：microbial community
+膜电位：membrane potential
+网络传输：network transmission
+网络监控：Network Monitoring
+酶电极：enzyme electrode
+对策论：Game theory
+力反馈：Force Feedback
+产品模型：product model
+CT图像：CT image
+匹配算法：matching algorithm
+软X射线：soft X-ray
+cDNA微阵列：cDNA microarray
+内隐记忆：Implicit memory
+自适应波束形成：adaptive beamforming
+电子战：electronic warfare
+城市体系：urban system
+数据访问：data access
+暂态稳定性：transient stability
+波长转换：wavelength conversion
+氧化铝：aluminum oxide
+多元回归分析：multiple regression analysis
+粉末涂料：powder coatings
+理化性质：physicochemical property
+矿物组成：mineral composition
+接触疲劳：contact fatigue
+微乳液聚合：microemulsion polymerization
+设计理念：design idea
+白光LED：White LED
+振型：vibration mode
+sol-gel法：sol-gel method
+脂肪酸组成：fatty acid composition
+自来水：Tap water
+抗逆性：stress resistance
+SBS改性沥青：SBS modified asphalt
+铸钢：Cast steel
+四波混频：four-wave mixing
+压力场：pressure field
+饱和磁化强度：saturation magnetization
+水蒸气蒸馏：steam distillation
+自动监测：Automatic monitoring
+相似度：similarity degree
+能量释放率：energy release rate
+牛顿法：Newton method
+渐开线齿轮：involute gear
+数据库管理：Database management
+磁矩：Magnetic Moment
+低频振荡：low-frequency oscillation
+约束混凝土：confined concrete
+视频图像：video image
+功能模型：function model
+沸点：Boiling point
+住宅建筑：residential building
+速率控制：rate control
+临床诊断：clinical diagnosis
+语音信号处理：speech signal processing
+企业建模：enterprise modeling
+水声通信：underwater acoustic communication
+个性化推荐：personalized recommendation
+电化学沉积：electrochemical deposition
+相变材料：phase change materials
+BP人工神经网络：BP artificial neural network
+抗静电剂：antistatic agent
+高速加工：high speed machining
+桥式起重机：Bridge crane
+水平连铸：horizontal continuous casting
+酸值：acid value
+总皂苷：Total saponins
+热流道：Hot runner
+虚拟水：virtual water
+非球面：aspheric surface
+声表面波：surface acoustic wave
+结构稳定性：structural stability
+16S rRNA基因：16S rRNA gene
+弧齿锥齿轮：spiral bevel gear
+水质污染：water pollution
+干气密封：dry gas seal
+板蓝根：Radix Isatidis
+演化计算：Evolutionary computation
+动强度：dynamic strength
+建筑节能：building energy-saving
+政策体系：policy system
+中国西部：Western China
+两性霉素B：Amphotericin B
+绝缘电阻：insulation resistance
+切应力：shear stress
+绞股蓝：Gynostemma pentaphyllum
+霍尔效应：Hall effect
+建设监理：construction supervision
+调制解调：modulation and demodulation
+特征空间：feature space
+教学效率：teaching efficiency
+教务管理：educational administration
+度分布：degree distribution
+型钢混凝土：Steel reinforced concrete
+关键帧：key frame
+测试生成：test generation
+力学特性：Mechanical properties
+技术改造：technological transformation
+技术参数：technical parameters
+超临界水氧化：Supercritical Water Oxidation
+铁路运输：railway transport
+非线性优化：nonlinear optimization
+衣康酸：itaconic acid
+冲击韧度：impact toughness
+隔声：sound insulation
+巢湖：Chaohu Lake
+顺序控制：Sequence control
+脉冲电流：pulse current
+快速设计：rapid design
+分子力学：molecular mechanics
+氧化镍：nickel oxide
+凝固过程：Solidification Process
+经济运行：Economical operation
+决策树：decision trees
+精细结构：fine structure
+技术管理：Technical management
+轴向力：axial force
+角动量：angular momentum
+小湾水电站：Xiaowan Hydropower Station
+关联分析：correlation analysis
+医用光学与生物技术：medical optics and biotechnology
+数据整合：data integration
+自动控制技术：auto-control technology
+压缩空气：compressed air
+信息传输：information transmission
+开放空间：Open Space
+发展研究：development research
+精确农业：precision agriculture
+图像传输：image transmission
+应激反应：stress reaction
+输入阻抗：Input impedance
+二元结构：dual structure
+Web日志：Web log
+滑动模态：Sliding mode
+政府绩效：government performance
+BP神经网络：back propagation neural network
+化工：chemical industry
+磁悬浮：magnetic levitation
+钻机：drilling rig
+生活垃圾：municipal solid waste
+排放因子：emission factor
+条件概率：conditional probability
+应变软化：strain softening
+稳定控制：stability control
+监督分类：supervised Classification
+氨合成：ammonia synthesis
+食品污染：Food Contamination
+非线性规划：non-linear programming
+实时仿真：real time simulation
+发展现状：Development situation
+动态光散射：Dynamic light scattering
+传热强化：heat transfer enhancement
+工控机：industrial control computer
+硅灰：silica fume
+生产物流：production logistics
+机构设计：mechanism design
+减振：vibration reduction
+模糊分析：Fuzzy analysis
+集成管理：integrated management
+成像系统：imaging system
+研究与开发：research and development
+大挠度：Large deflection
+体系构建：system construction
+强度折减法：strength reduction method
+蛋白质纯化：protein purification
+抗震分析：seismic analysis
+醛糖还原酶：Aldose Reductase
+线性空间：linear space
+局部屈曲：local buckling
+微波辐射计：microwave radiometer
+向量空间：vector space
+本体聚合：Bulk Polymerization
+钼酸铵：ammonium molybdate
+桑叶：mulberry leaves
+营养成分：nutrient composition
+包装设计：Package design
+选煤：coal preparation
+激光光学：laser optics
+消弧线圈：arc suppression coil
+室温：room temperature
+地层水：formation water
+模型实验：model experiment
+横向振动：transverse vibration
+振动试验：vibration test
+啤酒酵母：beer yeast
+潜山：buried hill
+电力企业：Electric power enterprise
+远程故障诊断：Remote fault diagnosis
+Diels-Alder反应：Diels-Alder reaction
+生长率：growth rate
+学习方法：Learning method
+压电材料：piezoelectric materials
+角速度：Angular velocity
+控制测量：control survey
+简化模型：simplified model
+种间竞争：interspecific competition
+断裂能：fracture energy
+可靠性模型：reliability model
+往复式压缩机：reciprocating compressor
+模糊建模：fuzzy modeling
+土-结构相互作用：soil-structure interaction
+配电网：power distribution network
+最小生成树：minimum spanning tree
+形状特征：shape feature
+学习共同体：learning community
+图像数据库：image database
+网络重构：network reconfiguration
+智能机器人：Intelligent robot
+语义Web服务：semantic Web service
+远程教学：distance education
+线性算子：linear operator
+用户体验：user experience
+贪心算法：greedy algorithm
+误用检测：misuse detection
+控制模式：control mode
+气缸盖：cylinder head
+制备技术：preparation technology
+燃料油：fuel oil
+解析模型：analytical model
+唾液酸：Sialic acid
+源解析：source apportionment
+矩形板：rectangular plate
+压力脉动：pressure fluctuation
+贵金属：noble metal
+纺织工业：textile industry
+应力应变：stress and strain
+食品安全：food security
+复混肥：compound fertilizer
+室内空气质量：indoor air quality
+隔热：heat insulation
+OPC技术：OPC technology
+实验系统：experiment system
+区域文化：regional culture
+带隙基准：Bandgap reference
+进度控制：Schedule control
+生态美学：ecological aesthetics
+复合形法：Complex method
+损失函数：loss function
+单目视觉：monocular vision
+主动数据库：active database
+无碴轨道：ballastless track
+粒子模拟：particle simulation
+标准模型：standard model
+粒计算：granular computing
+孤立波：solitary wave
+学生模型：student model
+链接分析：link analysis
+激光干涉仪：laser interferometer
+工艺分析：process analysis
+界面聚合：interfacial polymerization
+化学氧化：chemical oxidation
+剩余寿命：residual life
+数控技术：numerical control technology
+鱼腥草：Houttuynia Cordata Thunb
+构造应力：tectonic stress
+氧化铁：Ferric oxide
+丝织物：silk fabric
+研发：research and development
+强磁场：high magnetic field
+模型简化：model simplification
+投资管理：investment management
+燃速：Burning rate
+附加应力：additional stress
+自动生成：automatic generation
+城市绿化：urban greening
+磁热效应：magnetocaloric effect
+抗剪强度：shearing strength
+频率特性：frequency characteristics
+质量检验：quality inspection
+损伤演化：damage evolution
+系统生物学：systems biology
+非线性效应：nonlinear effect
+灌区：irrigation area
+质量安全：quality safety
+分形插值：Fractal interpolation
+生态工业园：eco-industrial park
+动力学建模：dynamic modeling
+主变压器：main transformer
+脑组织：brain tissue
+线性回归模型：linear regression model
+人工关节：artificial joint
+历史背景：Historical background
+工程结构：engineering structure
+霍夫变换：Hough transform
+物理层：physical layer
+数值模式：numerical model
+基础设计：foundation design
+保成本控制：guaranteed cost control
+边界积分方程：Boundary integral equation
+肿瘤标记物：Tumor marker
+概念图：concept map
+面向服务架构：service-oriented architecture
+城市经济：urban economy
+电压控制：voltage control
+换流站：converter station
+变形模量：deformation modulus
+Pushover分析：pushover analysis
+孤波解：solitary wave solution
+Web服务组合：Web service composition
+移动GIS：mobile GIS
+Linux内核：linux kernel
+景象匹配：Scene matching
+硬件平台：Hardware platform
+无线接入：Wireless access
+地应力：ground stress
+带隙：band gap
+弯曲强度：bending strength
+溶剂热合成：solvothermal synthesis
+差分法：difference method
+结合强度：bond strength
+基本原理：basic principle
+长输管道：long distance pipeline
+苏北盆地：Subei Basin
+动态力学性能：dynamic mechanical properties
+组织演变：microstructure evolution
+消失模铸造：Lost Foam Casting
+缺陷模：defect mode
+软计算：soft computing
+耐腐蚀：corrosion resistance
+危害分析：hazard analysis
+品牌文化：Brand culture
+特征参数：characteristic parameters
+楚文化：Chu culture
+恒流源：constant current source
+安全体系：security system
+正反馈：positive feedback
+红外传感器：infrared sensor
+信息时代：information times
+微扰理论：perturbation theory
+知识集成：knowledge integration
+职业素质：professional quality
+城市边缘区：urban fringe
+模糊关系：fuzzy relation
+青岛市：Qingdao City
+投资效益：Investment benefit
+电路模型：Circuit model
+钢梁：steel beam
+加速寿命试验：accelerated life test
+视觉诱发电位：Visual Evoked Potential
+数字系统：digital system
+非线性电路：nonlinear circuit
+感兴趣区域：region of interest
+编队飞行：formation flying
+地下连续墙：Underground continuous wall
+洗钱：money laundering
+随机控制：stochastic control
+真空干燥：vacuum drying
+国家创新体系：national innovation system
+成像测井：imaging logging
+含油饱和度：oil saturation
+催化性能：catalytic performance
+电化学合成：electrochemical synthesis
+冲击地压：rock burst
+固体碱：solid base
+苦瓜：balsam pear
+碳储量：carbon storage
+流态：flow pattern
+模具钢：Die steel
+离子选择性电极：ion-selective electrode
+高碘酸钾：Potassium periodate
+钢球：steel ball
+异常压力：abnormal pressure
+南美白对虾：Penaeus vannamei
+有源噪声控制：active noise control
+工程陶瓷：Engineering ceramics
+氧指数：oxygen index
+砂轮：grinding wheel
+干涉条纹：interference fringe
+人体：human body
+B样条曲线：B-spline curve
+法制建设：legal construction
+渤海湾：Bohai bay
+阶跃响应：step response
+双目立体视觉：binocular stereo vision
+嵌入式计算机：embedded computer
+电容传感器：capacitance sensor
+焊接机器人：welding robot
+截面：cross section
+瞬态分析：transient analysis
+资产管理：assets management
+表面工程：surface engineering
+WindowsCE：windows CE
+液压伺服系统：Hydraulic servo system
+混沌吸引子：chaotic attractor
+凸集：convex set
+相位误差：phase error
+回族：Hui nationality
+个体差异：Individual differences
+多元智能：Multiple intelligences
+动网格：dynamic mesh
+平面图：Planar graph
+无标度网络：scale-free network
+图像平滑：image smoothing
+磷酸钙：calcium phosphate
+大坝安全监测：dam safety monitoring
+早熟收敛：premature convergence
+非均匀性校正：nonuniformity correction
+圆极化：Circular polarization
+椭圆型方程：elliptic equation
+态密度：density of states
+趋肤效应：skin effect
+铜配合物：copper complex
+余热：waste heat
+钻具组合：bottom hole assembly
+过氧化苯甲酰：benzoyl peroxide
+方位角：azimuth angle
+聚磷酸铵：ammonium polyphosphate
+大豆分离蛋白：soybean protein isolate
+高碳钢：high carbon steel
+关键控制点：critical control point
+甲基丙烯酸缩水甘油酯：glycidyl methacrylate
+纳米碳管：carbon nanotube
+自动气象站：automatic weather station
+施工期：construction period
+数据集市：data mart
+VOF方法：VOF method
+乙烯聚合：ethylene polymerization
+变形机理：deformation mechanism
+系统控制：system control
+模拟试验：simulation experiment
+杭州湾：Hangzhou Bay
+极限平衡：limit equilibrium
+领域知识：domain knowledge
+自然美：natural beauty
+区域分割：region segmentation
+岩石边坡：rock slope
+马氏距离：Mahalanobis Distance
+传播模型：propagation model
+小样本：small sample
+压电效应：piezoelectric effect
+混响时间：reverberation time
+时空混沌：spatiotemporal chaos
+联想记忆：associative memory
+概率分析：Probability analysis
+概率论：probability theory
+Boost变换器：Boost converter
+能量收支：Energy budget
+施工监理：construction supervision
+电势：electric potential
+普适计算：Ubiquitous Computing
+海水浸泡：Seawater immersion
+千兆以太网：Gigabit Ethernet
+实时绘制：real-time rendering
+匿名通信：anonymous communication
+鲁棒自适应控制：robust adaptive control
+故障注入：Fault injection
+Boussinesq方程：Boussinesq equation
+双线性对：bilinear pairing
+膜蒸馏：membrane distillation
+灰色关联分析：grey relation analysis
+硅酸钠：sodium silicate
+焊接接头：welded joints
+硝酸银：silver nitrate
+岩体结构：rock mass structure
+生产效率：production efficiency
+能量消耗：energy consumption
+流动应力：Flow Stress
+洁净煤技术：clean coal technology
+数字化设计：Digital Design
+激光辐照：laser irradiation
+离子强度：ionic strength
+土壤腐蚀：soil corrosion
+化学势：chemical potential
+注水井：Water injection well
+提拉法：Czochralski method
+热交换器：Heat exchanger
+水体污染：water pollution
+持续利用：Sustainable utilization
+坛紫菜：Porphyra haitanensis
+几何建模：geometric modeling
+趋势预测：trend prediction
+改进算法：improved algorithm
+网络接口：network interface
+真空灭弧室：vacuum interrupter
+蚁群优化：ant colony optimization
+维纳滤波：Wiener filter
+匹配滤波器：matched filter
+基因表达谱：Gene expression profiling
+视皮层：visual cortex
+知识资本：Knowledge capital
+剪力滞效应：shear lag effect
+单周控制：one-cycle control
+中值定理：mean value theorem
+电压稳定性：voltage stability
+信息经济：information economy
+换流变压器：converter transformer
+建筑教育：architectural education
+数字调制：digital modulation
+人脸跟踪：face tracking
+序列密码：stream cipher
+仿人机器人：Humanoid robot
+超临界流体：supercritical fluids
+原位反应：in-situ reaction
+焉耆盆地：Yanqi basin
+聚合物溶液：polymer solution
+参数化设计：parameter design
+煤层气：coal bed methane
+数据库：data bank
+锌合金：zinc alloy
+曲率半径：curvature radius
+零排放：zero discharge
+扇三角洲：fan delta
+高应变率：high strain rate
+石墨电极：Graphite electrode
+化学稳定性：chemical stability
+环境激素：environmental hormone
+水电开发：hydropower development
+等电点：isoelectric point
+粗糙表面：rough surface
+氧化胁迫：oxidative stress
+三磷酸腺苷：adenosine triphosphate
+多体系统：Multi-body System
+农用地：Agricultural land
+副溶血性弧菌：Vibrio parahaemolyticus
+实践教学体系：practice teaching system
+RS485总线：RS485 bus
+教学软件：teaching software
+仿真研究：simulation study
+Bayes估计：Bayes estimation
+乳清蛋白：Whey protein
+李代数：Lie algebra
+广义解：generalized solution
+Java语言：Java language
+教学资源：teaching resource
+单光子：single photon
+链码：chain code
+采暖系统：heating system
+随机系统：stochastic system
+涡扇发动机：turbofan engine
+客户关系：customer relationship
+双基地雷达：bistatic radar
+语义场：Semantic Field
+乙醛酸：Glyoxylic acid
+人造金刚石：synthetic diamond
+建筑施工：building construction
+应急预案：emergency Plan
+铝硅合金：Al-Si Alloy
+环境工程：environment engineering
+焊接质量：welding quality
+电化学聚合：Electrochemical polymerization
+杂化材料：hybrid material
+实体建模：Solid modeling
+惰性阳极：inert anode
+利用率：utilization rate
+实验教学体系：experimental teaching system
+气体水合物：gas hydrate
+激光重熔：laser remelting
+安全教育：safety education
+扩散模型：diffusion model
+水热处理：hydrothermal treatment
+组合化学：combinatorial chemistry
+电流传感器：current sensor
+圆度误差：Roundness error
+海洋工程：ocean engineering
+衰减系数：attenuation coefficient
+开发模式：development model
+工会：trade unions
+Malmquist指数：Malmquist index
+界面裂纹：interface crack
+蛋白质折叠：protein folding
+纤维缠绕：filament winding
+含沙量：sediment concentration
+等效电路模型：equivalent circuit model
+教师评价：teacher evaluation
+园林：landscape architecture
+自回归模型：autoregressive model
+混合系统：hybrid system
+PI控制器：PI controller
+布里渊散射：Brillouin scattering
+激光等离子体：Laser plasma
+信息环境：information environment
+脉冲爆震发动机：pulse detonation engine
+载波恢复：carrier recovery
+热水器：water heater
+ZigBee技术：ZigBee technology
+影像匹配：image matching
+无线电引信：radio fuze
+层次聚类：hierarchical clustering
+屈曲分析：buckling analysis
+农业信息：agricultural information
+三元复合驱：ASP flooding
+制造技术：manufacturing technology
+冻结法：freezing method
+频响函数：frequency response function
+气象灾害：meteorological disaster
+响应面分析法：Response surface methodology
+USB总线：USB bus
+支持向量机(SVM)：support vector machine(SVM)
+对数正态分布：lognormal distribution
+何首乌：polygonum multiflorum thunb
+性能化设计：performance-based design
+热电材料：thermoelectric material
+大豆蛋白纤维：soybean protein fiber
+声辐射：sound radiation
+成都市：Chengdu City
+单轴压缩：Uniaxial compression
+WebGIS：Web GIS
+发展阶段：development stage
+集成控制：integrated control
+空气调节：air conditioning
+双线性插值：bilinear interpolation
+城市形态：urban form
+信息资源管理：information resource management
+交流接触器：AC contactor
+时间窗：time window
+生物组织：Biological tissue
+肝病：liver disease
+刑事侦查：criminal investigation
+非线性微分方程：nonlinear differential equation
+图像修复：image inpainting
+纹理分类：texture classification
+特征结构配置：eigenstructure assignment
+小卫星：Small Satellite
+规则引擎：Rule Engine
+配气机构：Valve train
+真空泵：vacuum pump
+移动互联网：mobile internet
+错误隐藏：error concealment
+公路工程：highway project
+绿色合成：green synthesis
+化学法：chemical method
+天然沸石：natural zeolite
+试井：well test
+膜清洗：membrane cleaning
+博弈理论：game theory
+相行为：phase behavior
+热喷涂：thermal spray
+激波管：shock tube
+黄色素：yellow pigment
+柱前衍生：Pre-column derivatization
+FLUENT软件：FLUENT software
+动载荷：dynamic load
+硫酸铜：Copper sulfate
+加成反应：addition reaction
+风场：wind field
+磁性材料：magnetic materials
+管理体制：administration system
+瑞利波：Rayleigh wave
+阻尼系数：damping coefficient
+量子遗传算法：quantum genetic algorithm
+装配模型：assembly model
+协同仿真：collaborative simulation
+Timoshenko梁：Timoshenko beam
+规则提取：rule extraction
+相位展开：phase unwrapping
+粘弹性阻尼器：viscoelastic damper
+聚能装药：shaped charge
+土壤结构：Soil structure
+数据恢复：Data recovery
+飞行模拟器：flight simulator
+数字农业：digital agriculture
+人口分布：Population Distribution
+引种栽培：introduction and cultivation
+Buck变换器：Buck converter
+船舶设计：ship design
+金融业：financial industry
+波达方向估计：DOA estimation
+Lorenz系统：Lorenz system
+渐近展开：asymptotic expansion
+入侵容忍：intrusion tolerance
+量子密码：quantum cryptography
+仿生合成：biomimetic synthesis
+H13钢：H13 steel
+模拟系统：simulation system
+遥感技术：remote sensing technique
+动力学参数：kinetic parameter
+水冷壁：water wall
+连续退火：continuous annealing
+高强钢：High strength steel
+浓香型白酒：luzhou-flavor liquor
+提取率：extraction rate
+苗族：Miao nationality
+对流换热：convection heat transfer
+群速度：group velocity
+安全技术：safety technology
+智能CAD：intelligent CAD
+可靠度指标：Reliability index
+淮河流域：Huaihe River Basin
+乳酸发酵：lactic acid fermentation
+酒石酸：tartaric acid
+光学器件：optical devices
+接触压力：contact pressure
+功能模块：Functional Module
+材料非线性：material nonlinearity
+损伤变量：damage variable
+增韧机理：toughening mechanism
+智能结构：intelligent structure
+雨生红球藻：haematococcus pluvialis
+蛋白芯片：protein chip
+液压马达：hydraulic motor
+Green函数：Green's function
+压力测量：Pressure measurement
+人工免疫算法：artificial immune algorithm
+燃油经济性：fuel economy
+改性膨润土：modified bentonite
+矢量数据：vector data
+眼内压：intraocular pressure
+特征选取：feature selection
+LabVIEW：Lab VIEW
+制导律：guidance law
+网络拥塞：network congestion
+黑启动：black start
+Web2.0：Web 2.0
+构件库：Component Library
+最优性条件：optimality condition
+重选：gravity separation
+射流泵：jet pump
+短纤维：Short fiber
+管道输送：pipeline transportation
+停留时间分布：residence time distribution
+漏磁检测：magnetic flux leakage testing
+粘胶纤维：viscose fiber
+管网：pipe network
+造纸废水：papermaking wastewater
+304不锈钢：304 stainless steel
+醋酸乙烯：vinyl acetate
+氯化镁：magnesium chloride
+光纤传感：optical fiber sensing
+铸造工艺：casting process
+理论框架：theoretical framework
+能量分布：Energy distribution
+技术发展：technology development
+表面吸附：Surface adsorption
+UML建模：UML modeling
+黄连：rhizoma coptidis
+城市公园：Urban park
+剪切模量：Shear modulus
+试验机：testing machine
+光学常数：optical constants
+混合模型：hybrid model
+绿色管理：green management
+电子辐照：electron irradiation
+优化分析：optimization analysis
+故障率：failure rate
+钢筋混凝土梁：RC beam
+色彩空间：color space
+施工缝：construction joint
+精神文化：spiritual culture
+投资体制：investment system
+线性代数：linear algebra
+船舶柴油机：marine diesel engine
+清开灵注射液：Qingkailing injection
+智能交通：intelligent transportation
+钻井工程：drilling engineering
+语义关系：Semantic relation
+混沌映射：chaotic map
+冬期施工：winter construction
+故障模型：fault model
+古籍：ancient books
+数据库加密：database encryption
+通行能力：traffic capacity
+构件技术：Component technology
+电气化铁道：electrified railway
+Delaunay三角网：Delaunay triangulation
+环路滤波器：loop filter
+算术编码：arithmetic coding
+XML加密：XML encryption
+量子密钥分配：quantum key distribution
+相对分子质量：relative molecular mass
+焊缝：welding seam
+管理措施：Management measures
+催化机理：catalytic mechanism
+复介电常数：complex permittivity
+气缸套：cylinder liner
+安全措施：safety measure
+预警系统：warning system
+电控系统：electronic control system
+铀矿床：uranium deposit
+三元体系：ternary system
+竞聚率：reactivity ratio
+灰树花：Grifola frondosa
+虚拟样机技术：Virtual prototyping technology
+超分子化学：supramolecular chemistry
+反相悬浮聚合：Inverse suspension polymerization
+石化企业：Petrochemical Enterprise
+实验室试验：laboratory testing
+压力波：pressure wave
+乳酸乳球菌：Lactococcus lactis
+诱导期：induction period
+TM影像：TM image
+脐橙：navel orange
+室内热环境：indoor thermal environment
+Mie散射：Mie scattering
+电液比例控制：electro-hydraulic proportional control
+性能系数：coefficient of performance
+人性化设计：humanized design
+高速数据采集：high-speed data acquisition
+红外遥控：Infrared remote control
+载荷试验：loading test
+抛物方程：parabolic equation
+内点法：Interior point method
+转矩控制：torque control
+贝叶斯方法：Bayesian method
+数据组织：data organization
+肠道营养：Enteral nutrition
+脉搏波：pulse wave
+时空数据模型：spatio-temporal data model
+南京国民政府：Nanjing National Government
+原型观测：prototype observation
+传感器管理：sensor management
+移动支付：mobile payment
+分布式虚拟环境：distributed virtual environment
+浊点萃取：cloud point extraction
+离子交换膜：ion exchange membrane
+铜粉：copper powder
+数值稳定性：numerical stability
+水击：water hammer
+集中控制：Centralized control
+低电压：low voltage
+化学工程：chemical engineering
+鸡粪：chicken manure
+ZA27合金：ZA27 alloy
+热障涂层：thermal barrier coating
+苹果渣：Apple pomace
+离子选择电极：ion-selective electrode
+间歇精馏：batch distillation
+损耗因子：loss factor
+随机变量：random variables
+棉织物：cotton fabrics
+有效质量：Effective mass
+茜素红：Alizarin red
+硼氢化钠：sodium borohydride
+甘草：Glycyrrhiza uralensis
+超细粉末：ultrafine powder
+衬底温度：substrate temperature
+磁熵变：magnetic entropy change
+锅炉效率：boiler efficiency
+施工设计：construction design
+品质因子：quality factor
+分子遗传学：molecular genetics
+模糊C均值聚类：fuzzy c-means clustering
+氨基酸序列：amino acid sequence
+淀粉含量：starch content
+正交变换：orthogonal transformation
+电子病历：Electronic medical record
+医学图像处理：medical image processing
+情感计算：affective computing
+应急物流：emergency logistics
+武术教学：wushu teaching
+纠缠态：entangled state
+对比度增强：Contrast enhancement
+搜索算法：search algorithm
+电子对抗：electronic countermeasure
+比特分配：bit allocation
+检测概率：detection probability
+工作流建模：workflow modeling
+频率稳定度：frequency stability
+中国剩余定理：Chinese remainder theorem
+Viterbi算法：Viterbi algorithm
+孔隙压力：pore pressure
+锥形量热仪：CONE calorimeter
+注塑模具：injection mold
+自动化系统：automatic system
+水驱：water drive
+超声马达：ultrasonic motor
+游离氨基酸：free amino acids
+双子表面活性剂：gemini surfactant
+聚酰胺6：polyamide 6
+压力波动：pressure fluctuation
+数学建模：mathematics modeling
+吸收剂量：absorbed dose
+涂料印花：pigment printing
+住宅小区：Residential district
+大地电磁测深：magnetotelluric sounding
+铝箔：aluminum foil
+储能：energy storage
+乙酸酐：acetic anhydride
+氯离子：chlorine ion
+J积分：J integral
+三价铬：trivalent chromium
+柔性铰链：flexible hinge
+浓度场：concentration field
+珠三角：Pearl River Delta
+表面等离子体共振：surface plasmon resonance
+自由表面：free surface
+氢氧化镍：nickel hydroxide
+流媒体技术：streaming media technology
+景观结构：Landscape structure
+节点定位：node localization
+石油工业：petroleum industry
+区域竞争力：regional competitiveness
+层次结构：hierarchical structure
+教育培训：education and training
+积件：integrable ware
+SIMPLE算法：SIMPLE algorithm
+回弹法：rebound method
+果蝇：Drosophila melanogaster
+定子绕组：stator winding
+西欧：Western Europe
+视频检测：video detection
+模糊变量：fuzzy variable
+动三轴试验：dynamic triaxial test
+宋朝：Song Dynasty
+农村能源：rural energy
+HART协议：HART protocol
+堆石坝：rockfill dam
+骨折：bone fracture
+血液粘度：blood viscosity
+点扩散函数：point spread function
+管理控制：management control
+光纤通道：fibre channel
+故障选线：fault line selection
+频偏估计：frequency offset estimation
+全局指数稳定性：global exponential stability
+无线资源管理：radio resource management
+结构学习：Structure learning
+阻尼性能：damping property
+结构与性能：structure and property
+漏风：air leakage
+功能食品：functional food
+传热性能：heat transfer performance
+静态混合器：static mixer
+胞外多糖：extracellular polysaccharide
+多点成形：multi-point forming
+液相烧结：liquid phase sintering
+染色性能：dyeing property
+包芯纱：Core-spun Yarn
+枯草杆菌：Bacillus subtilis
+葡萄籽：grape seed
+富马酸：Fumaric acid
+三元配合物：Ternary complex
+聚偏氟乙烯：polyvinylidene fluoride
+杂交育种：cross breeding
+幕墙：Curtain Wall
+误差分离：Error separation
+实验设计：experimental design
+能量回收：energy recovery
+热释放速率：heat release rate
+处理措施：Treatment Measures
+特征向量：Characteristic vector
+软件集成：software integration
+透皮吸收：percutaneous absorption
+GC-MS分析：GC-MS analysis
+设备选型：equipment selection
+余热回收：waste heat recovery
+声波：Sound wave
+TVD格式：TVD scheme
+环境试验：environmental test
+α-亚麻酸：α-linolenic acid
+表面合金化：Surface alloying
+投资分析：investment analysis
+运动学分析：kinematic analysis
+贮藏品质：storage quality
+设计原理：design principle
+数据清洗：data cleaning
+人口增长：population growth
+信息整合：Information Integration
+电压空间矢量：voltage space vector
+钢管桩：steel pipe pile
+系统性能：system performance
+协议转换：protocol conversion
+热力计算：thermal calculation
+傅里叶级数：fourier series
+受迫振动：Forced Vibration
+信息分析：information analysis
+电力负荷：power load
+医学院校：medical college
+学生管理：students management
+肤色模型：Skin color model
+直剪试验：direct shear test
+道路提取：road extraction
+地铁隧道：Subway Tunnel
+广义系统：singular systems
+卫星网络：satellite network
+天线阵列：antenna array
+矢量水听器：Vector hydrophone
+信息家电：Information Appliance
+代码生成：code generation
+交通信号控制：traffic signal control
+形式验证：formal verification
+对称矩阵：symmetric matrix
+Dirichlet级数：Dirichlet series
+工艺优化：technology optimization
+Ni-P合金：Ni-P alloy
+流场：fluid field
+生态系统管理：ecosystem management
+规整填料：structured packing
+能源管理：energy management
+含能材料：energetic materials
+模板法：template method
+湿法磷酸：wet-process phosphoric acid
+蒙特卡洛：monte carlo
+原子吸收分光光度法：atomic absorption spectrophotometry
+六价铬：hexavalent chromium
+吖啶橙：acridine orange
+石羊河流域：Shiyang River basin
+有机高分子材料：organic polymer materials
+污泥处理：sludge treatment
+温度特性：temperature characteristic
+废塑料：waste plastics
+录井：mud logging
+电化学性质：electrochemical property
+附加质量：Added mass
+外延生长：epitaxial growth
+弯曲应力：bending stress
+离心模型试验：centrifugal model test
+甘草次酸：glycyrrhetinic acid
+电化学传感器：electrochemical sensor
+内压：internal pressure
+应变场：strain field
+开封市：Kaifeng City
+数据建模：data modeling
+消防安全：fire safety
+管理软件：management software
+实时测量：real-time measurement
+疾病控制：Disease control
+地下车库：underground garage
+人员素质：personnel quality
+网络控制系统：network control system
+谱方法：spectral method
+区域气候模式：Regional climate model
+长细比：Slenderness ratio
+模糊辨识：fuzzy identification
+奇异性检测：singularity detection
+内容体系：content system
+异步通信：Asynchronous Communication
+信息质量：information quality
+开源软件：open source software
+细胞色素b：Cytochrome b
+强度折减：strength reduction
+线性调频：linear frequency modulation
+机顶盒：set-top box
+视频对象：video object
+工业遗产：Industrial Heritage
+文化转向：cultural turn
+信任机制：trust mechanism
+聚苯硫醚：polyphenylene sulfide
+金属磁记忆：metal magnetic memory
+工艺过程：Technological process
+随机建模：Stochastic Modeling
+氮化硼：boron nitride
+断裂机理：fracture mechanism
+历史文化：History and Culture
+中性蛋白酶：neutral protease
+环境影响：environmental influence
+Plackett-Burman设计：Plackett-Burman design
+形状记忆：shape memory
+金刚石膜：diamond films
+CO_2：carbon dioxide
+电场强度：electric field strength
+Q235钢：Q235 steel
+玻璃化转变：glass transition
+电子束蒸发：electron beam evaporation
+环境风险评价：Environmental risk assessment
+水资源保护：water resources protection
+大直径：Large diameter
+热舒适性：thermal comfort
+氧化脱硫：oxidative desulfurization
+焙烧温度：calcination temperature
+生态系统服务功能：ecosystem services
+分配系数：distribution coefficient
+紊流模型：turbulence model
+硫酸锌：zinc sulfate
+电解质溶液：electrolyte solution
+软启动：soft start
+氧化偶联：oxidative coupling
+基地建设：base construction
+柴油发动机：diesel engine
+电磁流量计：electromagnetic flowmeter
+电泳沉积：electrophoretic deposition
+金属结构：Metal structure
+声场：sound field
+温度控制系统：temperature control system
+辐射效应：Radiation effect
+报警系统：alarm system
+电子海图：electronic chart
+清洁能源：clean energy
+相速度：phase velocity
+吸附制冷：adsorption refrigeration
+能量管理：energy management
+南非：South Africa
+茉莉酸甲酯：methyl jasmonate
+战术导弹：tactical missile
+群落演替：community succession
+收敛速度：convergence speed
+古村落：ancient village
+调频：Frequency modulation
+信号重构：signal reconstruction
+活动断层：active fault
+隧道衬砌：tunnel lining
+度量空间：metric space
+SD卡：SD card
+数字摄影测量：Digital photogrammetry
+网络体系结构：Network architecture
+逻辑综合：logic synthesis
+IEEE802.11：IEEE 802.11
+天线阵：Antenna array
+空间机器人：space robot
+视觉伺服：visual servoing
+线搜索：line search
+非完整约束：nonholonomic constraint
+商空间：quotient space
+软件度量：Software metrics
+QoS：quality of service
+测井资料：logging data
+声波测井：acoustic logging
+硫酸钡：barium sulfate
+耐候钢：weathering steel
+动态数据交换：dynamic data exchange
+气象条件：meteorological conditions
+合金元素：alloy element
+大港油田：Dagang Oilfield
+技术要求：technical requirement
+能量效率：energy efficiency
+粒状贝氏体：granular bainite
+多孔陶瓷：porous ceramic
+动力学方程：dynamic equation
+干酪乳杆菌：lactobacillus casei
+人工神经元网络：artificial neural network
+油膜：oil film
+应力比：stress ratio
+功率谱密度：power spectrum density
+结构损伤：structural damage
+关联矩阵：incidence matrix
+驱动系统：driving system
+分类体系：classification system
+社会评价：social evaluation
+人工智能：artificial intelligent
+民间艺术：folk art
+照明设计：lighting design
+N-S方程：N-S equations
+Kronecker积：Kronecker product
+静脉注射：Intravenous injection
+拓扑熵：topological entropy
+教师培训：teachers training
+三维地形：3D terrain
+构件模型：component model
+动态逆：dynamic inversion
+网络中心战：network centric warfare
+末制导：terminal guidance
+COM组件：COM component
+SSL协议：SSL protocol
+进程代数：process algebra
+选择性加氢：selective hydrogenation
+接枝聚合：graft polymerization
+应力腐蚀：stress corrosion cracking
+卷取温度：coiling temperature
+专利分析：patent analysis
+纵向振动：longitudinal vibration
+采收率：oil recovery
+油气田：oil and gas field
+化学处理：chemical treatment
+呼吸速率：respiration rate
+聚酰胺纤维：polyamide fiber
+脉冲发生器：pulse generator
+亚硫酸钠：sodium sulfite
+食物链：food chain
+量子化学计算：Quantum chemical calculation
+木粉：wood flour
+精密铸造：investment casting
+撞击感度：impact sensitivity
+参数化建模：parameterized modeling
+直线电动机：Linear Motor
+热力学参数：thermodynamic parameters
+气田：gas field
+DNA多态性：DNA polymorphism
+测量精度：measuring accuracy
+土壤盐渍化：soil salinization
+矩阵范数：matrix norm
+硝酸钾：potassium nitrate
+工业炉：industrial furnace
+黄芪多糖：Astragalus polysaccharides
+整理剂：finishing agent
+电化学电容器：electrochemical capacitor
+教学理论：teaching theory
+耦合效应：coupling effect
+量子尺寸效应：quantum size effect
+大气校正：atmospheric correction
+水力机械：hydraulic machinery
+空间光调制器：Spatial light modulator
+简化计算：simplified calculation
+光镊：optical tweezers
+动刚度：dynamic stiffness
+样条插值：spline interpolation
+可修系统：repairable system
+画法几何：descriptive geometry
+摩擦补偿：friction compensation
+不适定问题：ill-posed problem
+三角网格：triangular mesh
+学习控制：learning control
+军事医学：military medicine
+Markov过程：Markov process
+sobel算子：sobel operator
+理论力学：theoretical mechanics
+混合动力电动汽车：hybrid electric vehicle
+作业调度：job scheduling
+分数傅里叶变换：fractional fourier transform
+车辆跟踪：vehicle tracking
+网络媒体：network media
+网络入侵检测：network intrusion detection
+形式化验证：formal verification
+网络模拟：network simulation
+通信规约：communication protocol
+BAN逻辑：BAN logic
+叶水势：leaf water potential
+1553B总线：1553B bus
+海参：sea cucumber
+共轭聚合物：conjugated polymer
+硬质合金：hard alloy
+安全性分析：security analysis
+产氢：hydrogen production
+填料塔：packed column
+膨胀节：expansion joint
+电气设备：electric equipment
+大黄：Radix Et Rhizoma Rhei
+合成橡胶：synthetic rubber
+热循环：thermal cycling
+可采储量：recoverable reserves
+外观质量：appearance quality
+控制方法：control methods
+创新人才：innovative talent
+清洁燃料：clean fuel
+孤东油田：Gudong Oilfield
+丁基橡胶：butyl rubber
+马氏链：markov chain
+防腐：corrosion protection
+塑性成形：plastic forming
+表面缺陷：Surface defects
+传输矩阵法：transfer matrix method
+培养基优化：medium optimization
+节能技术：energy-saving technology
+加氢反应器：Hydrogenation reactor
+工艺规划：process planning
+直流磁控溅射：DC magnetron sputtering
+搅拌槽：stirred tank
+钛酸锶钡：barium strontium titanate
+能源战略：energy strategy
+图像滤波：image filtering
+透视投影：perspective projection
+碳酸锂：Lithium carbonate
+Melnikov函数：melnikov function
+空间频率：spatial frequency
+离散模型：discrete model
+燃气管道：gas pipeline
+模糊专家系统：fuzzy expert system

@@ -1,0 +1,5000 @@
+和谐社会：harmonious society
+聚类分析：cluster analysis
+虚拟现实：virtual reality
+知识管理：knowledge management
+现状：present situation
+心理健康：mental health
+粗糙集：Rough set
+因子分析：factor analysis
+发展趋势：development trend
+质量管理：quality management
+人力资源：human resource
+时间序列：time series
+德育：moral education
+社会支持：social support
+河南省：Henan Province
+思想政治工作：ideological and political work
+营销策略：marketing strategy
+鲁迅：Lu Xun
+关联理论：relevance theory
+制度创新：system innovation
+对比研究：comparative study
+吉林省：Jilin province
+江泽民：Jiang Zemin
+评价指标体系：evaluation index system
+危机管理：crisis management
+信息披露：Information disclosure
+先进文化：Advanced Culture
+社会发展：social development
+网络技术：network technology
+复杂系统：complex system
+反问题：inverse problem
+原因分析：cause analysis
+竞争战略：competitive strategy
+管理体系：management system
+绩效评估：performance evaluation
+森林资源：forest resources
+流动人口：floating population
+辽宁省：Liaoning province
+跨文化交际：cross-cultural communication
+科学发展观：scientific outlook on development
+空间格局：spatial pattern
+社会工作：social work
+四川省：Sichuan province
+科学管理：scientific management
+社会功能：social function
+新经济：New economy
+市民社会：Civil society
+家庭教育：Family education
+战略管理：strategy management
+生活方式：life style
+大众文化：Popular Culture
+中国特色：Chinese characteristics
+资源配置：Resource allocation
+网络优化：network optimization
+组织学习：organizational learning
+梁启超：Liang Qichao
+科学精神：scientific spirit
+思想教育：ideological education
+投资决策：investment decision
+公共物品：public goods
+和谐文化：harmonious culture
+管理机制：management mechanism
+教学过程：teaching process
+社会和谐：social harmony
+计划生育：Family Planning
+社会网络：social network
+汉族：Han nationality
+社会转型：social transition
+社会结构：social structure
+社会福利：Social welfare
+区间数：interval number
+清代：the Qing Dynasty
+社会控制：social control
+社会主义和谐社会：socialist harmonious society
+历史唯物主义：historical materialism
+绿色制造：green manufacturing
+信息流：information flow
+东南亚：Southeast Asia
+医患关系：doctor-patient relationship
+应用研究：applied research
+武汉市：Wuhan city
+模糊模式识别：fuzzy pattern recognition
+基础研究：basic research
+社会环境：social environment
+人际关系：interpersonal relationship
+模糊决策：fuzzy decision
+非线性模型：nonlinear model
+现代价值：modern value
+数据质量：data quality
+本科教育：undergraduate education
+新媒体：new media
+社区建设：community construction
+内容分析：Content analysis
+日常生活：daily life
+西方文化：western culture
+21世纪：21st century
+开放存取：open access
+山东：Shandong province
+成就动机：Achievement motivation
+社会分层：social stratification
+女性形象：female image
+功率流：power flow
+文化认同：cultural identity
+社会心理：Social psychology
+家庭环境：family environment
+社区参与：Community participation
+有限理性：bounded rationality
+认知结构：cognitive structure
+城镇体系：urban system
+人口老龄化：population aging
+城市形象：city image
+理想人格：ideal personality
+假设检验：Hypothesis test
+滇池：Dianchi Lake
+社会科学：Social science
+终身学习：Lifelong learning
+社会经济：social economy
+政治社会化：Political socialization
+公共领域：Public sphere
+生态文化：ecological culture
+自然科学：Natural science
+性行为：Sexual behavior
+生态系统健康：ecosystem health
+性教育：sex education
+信息可视化：information visualization
+空间自相关：Spatial Autocorrelation
+线性变换：linear transformation
+家庭暴力：Domestic violence
+城市交通：urban transportation
+标准差：standard deviation
+集成系统：integrated system
+农民工：peasant worker
+群决策：group decision making
+生命科学：life science
+网络组织：network organization
+科学社会主义：Scientific Socialism
+生活世界：life world
+三角模糊数：triangular fuzzy number
+国家利益：National interests
+社会地位：social status
+经济全球化：Economy Globalization
+经济人：economic man
+生活满意度：Life satisfaction
+善治：Good Governance
+防治措施：control measures
+陈云：CHEN Yun
+劳动力：labor force
+决策模型：Decision-making Model
+功能分析：functional analysis
+农村社区：rural community
+增量学习：incremental learning
+虚拟社区：Virtual Community
+情绪智力：emotional intelligence
+多元回归：multiple regression
+壮族：Zhuang nationality
+密度函数：density function
+风险社会：risk society
+人事制度：Personnel system
+行政程序：administrative procedure
+社会政策：social policy
+利弊：advantages and disadvantages
+动态过程：dynamic process
+判断矩阵：judgement matrix
+社区文化：community culture
+人本管理：Humanistic management
+民俗文化：folk culture
+冲突管理：conflict management
+社会排斥：Social Exclusion
+现代社会：modern society
+土家族：Tujia nationality
+社会生活：social life
+反洗钱：anti-money laundering
+文化全球化：Cultural globalization
+农村妇女：Rural women
+质的研究：qualitative research
+服务管理：service management
+质性研究：qualitative research
+文化资本：cultural capital
+生态价值：ecological value
+社会变迁：social changes
+运输问题：transportation problem
+社区发展：Community development
+心理机制：psychological mechanism
+眼动：eye movement
+社会救助：Social assistance
+滨海新区：Binhai New Area
+公共权力：public power
+多元统计分析：multivariate statistical analysis
+人的发展：human development
+舆论：Public opinion
+协方差矩阵：covariance matrix
+网络社会：network society
+青少年犯罪：Juvenile delinquency
+管理科学：management science
+角色定位：role orientation
+社会角色：social role
+社会网络分析：Social network analysis
+供需：Supply and demand
+基本理论：basic theory
+社会性别：Social gender
+离职倾向：turnover intention
+社会服务：Social service
+文化自觉：cultural consciousness
+现状分析：present situation analysis
+应激反应：stress reaction
+二元结构：dual structure
+社会秩序：social order
+出路：way out
+网络文化：Internet culture
+学习共同体：learning community
+社会流动：social mobility
+进度控制：Schedule control
+文献综述：literature review
+历史背景：Historical background
+消费社会：Consumer Society
+心理压力：psychological pressure
+城市边缘区：urban fringe
+文化哲学：cultural philosophy
+回族：Hui nationality
+主体意识：subject consciousness
+公共部门：public sector
+书评：book review
+创新绩效：innovation performance
+公共治理：Public governance
+团队精神：Team spirit
+扩散模型：diffusion model
+社会保障体系：social security system
+村民自治：villagers autonomy
+对外开放：opening to the outside world
+社会心理学：social psychology
+管理体制：administration system
+人口分布：Population Distribution
+苗族：Miao nationality
+历史地位：historical status
+族群：Ethnic Group
+组织文化：organization culture
+事件相关电位：Event-related potential
+明清时期：Ming and Qing Dynasties
+跨文化交际能力：Intercultural communicative competence
+弱势群体：disadvantaged groups
+TOPSIS法：TOPSIS method
+开发策略：development strategy
+知识网络：knowledge network
+发展历程：development process
+随机变量：random variables
+社会影响：social influence
+集体行动：Collective Action
+文化多样性：cultural diversity
+社会问题：social problem
+消费函数：Consumption function
+实验设计：experimental design
+人口增长：population growth
+人际信任：interpersonal trust
+特质焦虑：Trait anxiety
+石羊河流域：Shiyang River basin
+开封市：Kaifeng City
+学术史：academic history
+价值判断：Value judgment
+文化转向：cultural turn
+信任机制：trust mechanism
+会话分析：Conversation analysis
+定量研究：quantitative research
+依法行政：administration according to law
+古村落：ancient village
+社会评价：social evaluation
+信息加工：information processing
+网络媒体：network media
+离散模型：discrete model
+家庭结构：family structure
+社区管理：Community Management
+户籍制度：household registration system
+新农村：new rural
+社会管理：social management
+学术质量：Academic quality
+主成分：Principal component
+相关因素：relevant factors
+调查与分析：Investigation and analysis
+发展观：development view
+家庭功能：Family function
+言语交际：verbal communication
+合理利用：Rational utilization
+支撑向量机：support vector machine
+商务谈判：business negotiation
+残疾人：the disabled
+半参数回归模型：semiparametric regression model
+社区治理：community governance
+遗传程序设计：genetic programming
+管理理论：Management Theory
+人口迁移：population migration
+逻辑起点：logical starting point
+验证性因素分析：confirmatory factor analysis
+定性研究：qualitative study
+公共关系：public relation
+科学素质：scientific quality
+区域开发：regional development
+社会行为：social behavior
+模糊线性规划：fuzzy linear programming
+风险决策：risk decision
+知识链：knowledge chain
+文化人类学：Cultural Anthropology
+重心：center of gravity
+城市经营：city management
+行为问题：behavior problem
+城乡居民：urban and rural residents
+城市居民：Urban residents
+科举制度：Imperial examination system
+网络计划：network plan
+统计学习：statistical learning
+人口素质：population quality
+团队绩效：team performance
+风险偏好：risk preference
+公民权利：civil rights
+教育制度：Educational System
+虚拟团队：Virtual team
+政策支持：Policy support
+人口结构：Population structure
+社会建设：Social Construction
+汶川大地震：Wenchuan Earthquake
+效应分析：effect analysis
+自然辩证法：dialectics of nature
+科学知识：scientific knowledge
+社会建构主义：social constructivism
+社会组织：social organization
+指标权重：index weight
+和谐管理：harmonious management
+颜元：Yan Yuan
+运作机制：operation mechanism
+核估计：Kernel estimation
+信息咨询：information consultation
+文化批判：cultural criticism
+民间音乐：folk music
+喀斯特地区：karst area
+性别平等：gender equality
+南昌市：Nanchang city
+社会建构：Social construction
+现代管理：modern management
+培训模式：Training model
+精神家园：Spiritual Home
+增长率：growth rate
+贵阳市：Guiyang city
+最大流：maximum flow
+影响函数：influence function
+儒家伦理：Confucian ethics
+直觉模糊集：intuitionistic fuzzy sets
+犯罪预防：crime prevention
+乡村社会：rural society
+族群认同：ethnic identity
+过程能力指数：process capability index
+变革型领导：transformational leadership
+家族企业：family enterprises
+中产阶级：Middle Class
+文化批评：Cultural Criticism
+参考点：Reference Point
+前瞻性研究：prospective study
+舆论监督：Supervision by public opinion
+人性论：theory of human nature
+林语堂：LIN Yu-tang
+熵权法：Entropy method
+探索性因素分析：exploratory factor analysis
+城市品牌：City Brand
+二分图：Bipartite graph
+大众媒介：Mass media
+知识员工：knowledge worker
+政治权力：political power
+成都平原：Chengdu plain
+模型验证：model verification
+区域一体化：regional integration
+延边地区：Yanbian area
+理论价值：theoretical value
+学习化社会：learning society
+测量方法：measurement methods
+策略研究：strategy research
+耗散结构：dissipation structure
+非线性理论：nonlinear theory
+石家庄市：Shijiazhuang City
+社会系统：social system
+Hamming距离：Hamming distance
+未成年人犯罪：juvenile delinquency
+相对熵：Relative entropy
+地方性知识：local knowledge
+生态哲学：ecological philosophy
+业务素质：Professional quality
+流动儿童：Floating children
+新公共服务：new public service
+知识生产：knowledge production
+婚姻家庭：marriage and family
+文学价值：literary value
+社会风险：social risk
+问题与对策：problems and solutions
+现代文明：modern civilization
+农村工业化：rural industrialization
+文化意象：cultural image
+当代意义：contemporary significance
+中西文化：Chinese and Western cultures
+民族地区：minority regions
+思想道德教育：Moral Education
+社会制度：social system
+道德实践：moral practice
+虚拟学习社区：Virtual Learning Community
+社会冲突：social conflict
+家族文化：family culture
+人口密度：population density
+文化冲突：culture conflict
+同伴关系：Peer Relationship
+组织支持感：perceived organizational support
+私有制：private ownership
+意义建构：meaning construction
+项目调度：project scheduling
+随机抽样：random sampling
+第三产业：the third industry
+知识建构：Knowledge construction
+合资企业：joint venture
+默会知识：tacit knowledge
+政府角色：government role
+信息用户：information user
+应用文：practical writing
+新变化：new changes
+多项式回归：polynomial regression
+服务经济：service economy
+福利国家：welfare state
+经济因素：economic factors
+综合防治：comprehensive control
+中国北方：North China
+形象设计：Image design
+开发与管理：development and management
+种群生态学：population ecology
+人格特质：personality trait
+中介组织：Intermediary organization
+阅读心理：Reading psychology
+人居环境：human settlement environment
+应急机制：emergency mechanism
+Bootstrap方法：Bootstrap method
+企业组织：enterprise organization
+民间信仰：Folk Beliefs
+统计数据：statistical data
+政治素质：Political Quality
+可能度：possibility degree
+管理咨询：management consulting
+法兰克福学派：Frankfurt school
+区域政策：regional policy
+运作模式：operation model
+生存环境：living environment
+人才资源：talent resource
+生态适应：Ecological adaptation
+公民意识：citizen consciousness
+偏序：partial order
+两型社会：two-oriented society
+无锡市：Wuxi City
+学术思想：Academic thoughts
+流行文化：popular culture
+非言语交际：nonverbal communication
+信用危机：credit crisis
+李觏：LI Gou
+发展状况：development status
+人类社会：human society
+任务绩效：task performance
+几何模型：geometry model
+资本运作：capital operation
+独生子女：only child
+消极影响：negative influence
+模糊模拟：Fuzzy simulation
+人口城市化：Population Urbanization
+价值冲突：value conflict
+信息沟通：information communication
+哈佛大学：Harvard University
+独立人格：independent personality
+状态焦虑：State anxiety
+世界观：world view
+冲突分析：conflict analysis
+群体决策：group decision-making
+熵理论：entropy theory
+哲学基础：philosophical foundation
+文化管理：cultural management
+投影法：projection method
+社会空间：social space
+数字信息：digital information
+宝鸡市：Baoji City
+城市现代化：Urban modernization
+内隐联想测验：Implicit association Test
+农村改革：rural reform
+充分就业：full employment
+教育人类学：educational anthropology
+可靠性理论：reliability theory
+统计工作：statistical work
+大庆市：Daqing City
+开发与利用：development and utilization
+社区卫生：community health
+工作能力：Work ability
+领导行为：leadership behavior
+人的本质：human essence
+社区自治：community autonomy
+信息成本：information cost
+价值评价：value evaluation
+海南：Hainan province
+社会互动：Social interaction
+认知疗法：Cognitive therapy
+网络犯罪：Network crime
+语言态度：language attitude
+社会关系：social relation
+公共利益：Public benefits
+贫困地区：poor area
+心理卫生：Psychological health
+人格障碍：Personality disorder
+人际传播：interpersonal communication
+离职意向：Turnover intention
+集体记忆：collective memory
+购买力平价：purchasing power parity
+公共精神：Public spirit
+现代人格：modern personality
+变化特征：variation characteristics
+饮食文化：diet culture
+宜居城市：livable city
+城中村：village in city
+基本内容：basic content
+主流文化：mainstream culture
+初级阶段：primary stage
+征地：land expropriation
+跨文化意识：Intercultural awareness
+文化变迁：cultural changes
+第三条道路：the third way
+研究现状：research actuality
+东莞市：Dongguan city
+聊城市：Liaocheng city
+国家责任：state responsibility
+投影算子：projection operator
+教育环境：educational environment
+现代科技：Modern science and technology
+历史意识：historical consciousness
+乡村治理：rural governance
+传统社会：Traditional society
+旅游环境：tourism environment
+工作压力：working pressure
+政策评估：Policy evaluation
+人才管理：talent management
+蓝海战略：Blue Ocean Strategy
+基本功能：basic function
+知识重用：knowledge reuse
+现代文化：modern culture
+中介效应：Mediating effect
+家庭因素：Family factors
+大学毕业生：University graduates
+社会史：social history
+系统整合：system integration
+Floyd算法：Floyd Algorithm
+都市文化：Urban Culture
+文化价值观：cultural values
+理论贡献：theoretical contribution
+人口政策：population policy
+证据推理：evidence reasoning
+农村地区：Rural areas
+外部成本：External cost
+负面影响：negative impact
+少数民族地区：minority area
+空间模型：spatial model
+工商管理：business administration
+行为疗法：behavior therapy
+社会动员：Social mobilization
+隐性知识：implicit knowledge
+亲子关系：Parent-child relationship
+文化取向：Cultural orientation
+社区规划：community planning
+当代中国：modern China
+政治心理：political psychology
+中国革命：Chinese revolution
+虚拟世界：Virtual world
+生涯发展：career development
+大众媒体：Mass media
+非正式制度：informal system
+置信水平：confidence level
+Shannon熵：Shannon entropy
+制度建设：system building
+数量分析：Quantitative analysis
+印象管理：impression management
+家庭背景：Family background
+历史记忆：Historical Memory
+治理理论：governance theory
+实践理性：practical reason
+新媒介：new media
+客观真实：objective truth
+民族关系：national relationship
+项目建设：project construction
+过程方法：process method
+热点：hot spot
+黄金分割法：golden section method
+社会调查：social investigation
+知识建模：knowledge modeling
+社会参与：Social Participation
+语言使用：language use
+议程设置：agenda setting
+批判理论：Critical theory
+战略定位：strategic positioning
+抽样方法：Sampling method
+教学水平：teaching level
+人口控制：Population control
+逻辑结构：Logic structure
+生存质量：living quality
+收入不平等：Income inequality
+随机效应：Random effect
+统计推断：statistical inference
+客户忠诚度：customer loyalty
+外来文化：Foreign culture
+社会救济：social relief
+民权：civil rights
+综合指数：comprehensive index
+生产关系：production relations
+负效应：negative effects
+外因：external cause
+纽约：New York
+中国传统：Chinese tradition
+重力模型：gravity model
+亲社会行为：prosocial behavior
+政治秩序：Political Order
+赛珍珠：Pearl S.Buck
+政治权威：political authority
+交往理性：communicative rationality
+岷江上游：upper reaches of Minjiang River
+认知神经科学：cognitive neuroscience
+SARS：severe acute respiratory syndrome
+国家干预：State intervention
+生态管理：ecological management
+市场调研：market research
+乡镇：Villages and towns
+分形特征：Fractal characteristics
+关键绩效指标：Key performance indicators
+卫生系统：Health system
+社会比较：social comparison
+婚姻制度：marriage system
+跨文化交流：intercultural communication
+共享机制：sharing mechanism
+哲学社会科学：Philosophy and social sciences
+网络购物：online shopping
+宗族：Patriarchal clan
+农村社会养老保险：Rural social endowment insurance
+新闻传播：news communication
+国家认同：National identity
+扎根理论：grounded theory
+新结构：new structure
+认知偏差：cognitive bias
+文化心理学：cultural psychology
+风险态度：Risk attitude
+中庸：golden mean
+积极作用：positive role
+传统聚落：Traditional settlement
+理想点：ideal point
+话语权：Discourse right
+良性互动：positive interaction
+政治体制改革：political system reform
+社会理想：Social Ideal
+社会文明：social civilization
+社会现实：Social reality
+社会工程：social engineering
+安阳市：Anyang City
+抽样调查：sampling investigation
+科学决策：scientific decision
+目标选择：Target selection
+智力测验：Intelligence test
+虚拟实践：virtual practice
+组织公平：Organizational justice
+积极影响：Positive influence
+选址问题：location problem
+相似关系：similarity relation
+风险函数：risk function
+支持体系：Support system
+文艺：literature and art
+晏阳初：Yan Yangchu
+信息消费：information consumption
+多属性决策：multi-attribute decision
+农村现代化：rural modernization
+社会危机：social crisis
+城市人口：urban population
+理论与方法：theory and method
+竹文化：Bamboo Culture
+干预措施：intervention measure
+医务社会工作：Medical Social Work
+应用心理学：Applied psychology
+职业道德：Occupational ethics
+工作家庭冲突：Work-family conflict
+身势语：body language
+核心员工：core staff
+数字社区：Digital Community
+因果图：causality diagram
+社会学分析：sociological analysis
+包含度：Inclusion degree
+民族性格：national character
+叙述声音：narrative voice
+文化民族主义：cultural nationalism
+学术批评：academic criticism
+中国社会：Chinese Society
+价值标准：value standard
+畲族：She nationality
+创意经济：creative economy
+组织认同：organizational identification
+调节效应：Moderating effect
+民族认同：ethnic identity
+社会技术：social technology
+人的全面发展：all-round development of human being
+管理效率：management efficiency
+战略思维：strategic thinking
+青年文化：youth culture
+质化研究：qualitative research
+管理信息系统(MIS)：management information system(MIS)
+公共服务体系：public service system
+社会机制：social mechanism
+社区康复：community-based rehabilitation
+内隐态度：Implicit Attitude
+心理授权：psychological empowerment
+改革开放：reform and open policy
+网络建模：network modeling
+冲突解决：Conflict resolution
+SECI模型：SECI model
+职业生涯发展：Career development
+贸易收支：Trade Balance
+当代资本主义：contemporary capitalism
+任务难度：task difficulty
+定量方法：Quantitative method
+图腾崇拜：totem worship
+组织模型：organization model
+中心城市：central cities
+系统方法：system method
+工作环境：working environment
+科学态度：scientific attitude
+世界银行：World bank
+全髋关节置换：total hip arthroplasty
+社会交往：social communication
+性别比：sex ratio
+概化理论：Generalizability Theory
+传统伦理：Traditional Ethics
+入学教育：entrance education
+费孝通：Fei Xiaotong
+文化空间：cultural space
+语言变量：linguistic variable
+供给机制：Supply Mechanism
+知识仓库：knowledge warehouse
+信息系统安全：Information system security
+办公室工作：office work
+女性话语：female discourse
+文化史：cultural history
+区域效应：regional effect
+动漫产业：Cartoon Industry
+危机传播：crisis communication
+公众舆论：public opinion
+主流意识形态：mainstream ideology
+农业文明：agricultural civilization
+模糊集合理论：fuzzy set theory
+管理实践：management practice
+人口承载力：population carrying capacity
+心理测量：psychological measurement
+量化研究：quantitative research
+个案分析：case study
+负外部性：negative externality
+新挑战：new challenge
+管理决策：management decision
+闲暇生活：Leisure life
+角色扮演：role play
+心理资本：psychological capital
+职业高原：career plateau
+组织公平感：organizational justice
+社会信任：social trust
+团队学习：Team learning
+人才开发：talent development
+信息搜索：information search
+历史研究：historical research
+机制建设：mechanism construction
+常规关系：stereotypical relation
+科学学：science of science
+社会融合：Social integration
+非正式学习：Informal learning
+历史变迁：historical changes
+民主制度：democratic system
+文化工业：cultural industry
+公立高校：public university
+自由时间：free time
+历史叙事：historical narration
+国家与社会：state and society
+女性主义翻译：feminist translation
+生态和谐：ecological harmony
+老龄化社会：aging society
+嘉兴市：Jiaxing City
+纳西族：Naxi nationality
+基础数据：basic data
+地域差异：regional difference
+价值理性：value reason
+人口规模：Population scale
+非正式组织：informal organization
+文化氛围：cultural atmosphere
+文化心理：cultural mentality
+管理伦理：management ethics
+邓小平理论：DENG Xiao ping theory
+闲暇时间：leisure time
+和谐城市：harmonious city
+信用建设：Credit construction
+应用文写作：practical writing
+近现代：Modern Times
+公共生活：public life
+分析框架：analysis framework
+价值功能：value function
+美国经济：American Economy
+梁漱溟：Liang Shu-ming
+文化符号：Cultural symbol
+农民负担：Farmers Burden
+社会责任会计：social responsibility accounting
+社会现代化：social modernization
+文化图式：cultural schema
+学校社会工作：School Social Work
+小组讨论：group discussion
+优质服务：high quality service
+社区共管：Community Co-Management
+激励制度：incentive system
+经济风险：economic risk
+城镇体系规划：urban system planning
+西北：northwest China
+劳动保护：labor protection
+管理职能：Management function
+郑观应：Zheng Guanying
+优势关系：dominance relation
+国际商务：international business
+虚拟实在：virtual reality
+法律服务：legal service
+审美人类学：aesthetic anthropology
+道德判断：moral judgment
+政策措施：policy measures
+数据流程：data flow
+和谐关系：harmonious relationship
+过程质量：Process quality
+并行遗传算法：parallel genetic algorithms
+分类标准：classification standard
+政策评价：policy evaluation
+民族传统：national tradition
+T检验：T Test
+综合改革：comprehensive reform
+朝鲜族：Korean nationality
+模拟训练：simulated training
+问题行为：Problem behavior
+社会交换：social exchange
+医学人类学：medical anthropology
+视觉素养：visual literacy
+学习障碍：Learning disorders
+价值中立：value neutrality
+出行行为：Travel behavior
+公共组织：public organization
+大众传播媒介：mass media
+职业锚：career anchor
+关系管理：relationship management
+史记：Historical Records
+庙会：temple fair
+二元对立：binary oppositions
+素质建设：quality construction
+科学共同体：scientific community
+社会距离：social distance
+知识社会学：Sociology of Knowledge
+商业伦理：business ethics
+亲属称谓：kinship terms
+经济预测：Economic Forecasting
+安全阀：relief valve
+职业能力：professional competence
+多目标决策：multiple objective decision making
+增量算法：Incremental algorithm
+工具理性：Instrumental reason
+跨学科研究：interdisciplinary research
+非正式群体：informal group
+科学社会学：sociology of science
+继承与创新：Inheritance and Innovation
+工学结合：combining learning with working
+城市政府：city government
+人力资本理论：Human capital theory
+直接选举：direct election
+MBA教育：MBA Education
+现实生活：real life
+后殖民理论：postcolonial theory
+社会变革：social transformation
+社会权力：social power
+组织信任：organizational trust
+人才流动：talent flow
+玉文化：jade culture
+文学人类学：literary anthropology
+农村小学：Rural Primary School
+文化互动：cultural interaction
+利益冲突：Benefit conflict
+信息收集：information collection
+环境变迁：environmental changes
+高层次人才：high-level talents
+购买行为：purchasing behavior
+法律秩序：legal order
+科学实验：scientific experiment
+研究框架：research framework
+改革方向：reform direction
+生物进化：Biological evolution
+精神危机：spiritual crisis
+电视媒体：television media
+认知地图：cognitive map
+语言评价信息：linguistic assessment information
+道德自律：moral self-discipline
+领导风格：leadership style
+报业：newspaper industry
+管理文化：management culture
+心理模型：mental model
+劳动分工：division of labor
+历史人类学：historical anthropology
+社会有机体：social organism
+人际沟通：Interpersonal communication
+空间分异：spatial variation
+系统演化：System Evolution
+技术风险：technical risk
+群体行为：group behavior
+仿真方法：simulation method
+偏好信息：preference information
+中国风格：Chinese style
+职业伦理：Professional ethics
+机制分析：Mechanism analysis
+礼貌原则：politeness principles
+探索性因子分析：Exploratory factor analysis
+大学生就业：college students employment
+角色转换：role transformation
+生涯规划：Career planning
+人性假设：humanity hypothesis
+公共参与：Public Participation
+策略选择：strategy choice
+现代教学：modern teaching
+理想类型：ideal type
+阶级性：class nature
+现代人：modern people
+认同危机：identity crisis
+交易型领导：transactional leadership
+公共预算：public budget
+性别视角：gender perspective
+文化阐释：cultural interpretation
+阶级意识：class consciousness
+目标设置：goal setting
+人均GDP：GDP per capita
+湘西：West Hunan
+研究展望：research prospect
+自然条件：natural conditions
+政策设计：policy design
+绿色文化：Green culture
+常熟市：Changshu city
+绿色交通：green traffic
+协调机制：Coordinating mechanism
+社会责任感：sense of social responsibility
+人的价值：human value
+社会支持系统：social support system
+新视角：new perspective
+内部动机：intrinsic motivation
+激励效应：incentive effect
+城市治理：urban governance
+空间形式：space form
+和谐精神：harmonious spirit
+婚俗：Marriage custom
+成吉思汗：Genghis Khan
+虚拟社会：virtual society
+民主参与：Democratic Participation
+权力话语：power discourse
+社会形态：social form
+保险需求：insurance demand
+文化知识：cultural knowledge
+大学评价：university evaluation
+属性权重：attribute weight
+退休年龄：retirement age
+CAPM模型：CAPM model
+价值基础：value basis
+产业转型：industry transformation
+东营市：Dongying city
+环境史：environmental history
+二维模型：two-dimensional model
+海外华人：overseas Chinese
+组织制度：organization system
+未确知有理数：unascertained rational number
+鄱阳湖区：Poyang lake area
+结构功能：structure and function
+人口压力：population pressure
+决策方法：decision-making method
+价值主体：value subject
+行为模式：behavior mode
+研究内容：research contents
+区域特征：regional characteristics
+指标分析：index analysis
+水族：Shui Nationality
+近代上海：modern Shanghai
+工作模式：work mode
+学术成就：academic achievement
+情绪劳动：Emotional labor
+人格类型：personality type
+道德意识：Moral Consciousness
+《道德经》：Tao Te Ching
+工作满意：job satisfaction
+文化策略：Cultural Strategy
+物理规划：physical programming
+符号消费：symbol consumption
+创意城市：creative city
+最小费用流：minimum cost flow
+背景分析：background analysis
+专用性投资：specific investment
+信息不完全：incomplete information
+城市精神：city spirit
+后工业社会：post-industrial society
+政治信仰：political belief
+社会哲学：Social philosophy
+范畴论：category theory
+网站评价：website evaluation
+创新团队：innovation team
+公共事务：public affairs
+中介作用：mediating effect
+民间舞蹈：folk dance
+异常数据：abnormal data
+科学技术：Science technology
+国家：The State
+灰色系统模型：grey system model
+多准则决策：multi-criteria decision making
+风险度：risk degree
+预期寿命：Life expectancy
+感觉寻求：sensation seeking
+职业女性：Professional women
+框架效应：framing effect
+人力资本投资：investment of human capital
+利他行为：altruistic behavior
+移动平均：moving average
+教育对策：Educational strategy
+季节指数：Seasonal index
+理想解：ideal solution
+社区组织：community organization
+村落文化：village culture
+高管团队：top management team
+司马迁：Si Ma-qian
+汉文化：Han culture
+住房需求：housing demand
+进化博弈论：evolutionary game theory
+公文：official documents
+社区就业：community employment
+Cook距离：Cook distance
+人才结构：talent structure
+危机信息：Crisis information
+广告传播：advertising communication
+公共舆论：public opinion
+科学知识社会学：sociology of scientific knowledge
+社会理论：social theory
+社会伦理：social ethics
+社会工作教育：Social Work Education
+外交语言：diplomatic language
+人口与计划生育：population and family planning
+双重国籍：Dual nationality
+周边绩效：contextual performance
+OWA算子：OWA operator
+行为科学：behavior science
+经济生活：economic life
+边缘效应：edge effects
+信息风险：Information Risk
+法益：Legal interests
+田野调查：Field investigation
+家庭关系：family relations
+护理措施：nursing measures
+社会运动：Social movement
+体验式学习：Experiential learning
+人文社会科学：humanities and social science
+模糊距离：fuzzy distance
+微分方程组：differential equations
+社会作用：social function
+正外部性：positive externality
+道德体系：moral system
+互补判断矩阵：complementary judgment matrix
+关键路径法：critical path method
+抑制控制：inhibitory control
+Box-Cox变换：Box-Cox transformation
+绝对贫困：absolute poverty
+民间宗教：folk religion
+社会记忆：social memory
+战略地图：strategy map
+幸福指数：happiness index
+中国学派：Chinese school
+休闲行为：leisure behavior
+传统节日：traditional festivals
+理想社会：ideal society
+社区照顾：Community Care
+实践知识：practical knowledge
+青年工作：youth work
+工作-家庭冲突：work-family conflict
+经济可持续发展：sustainable economic development
+环境事件：environmental events
+复合型人才：compound talent
+经济社会：economy and society
+消费观念：consumption concept
+培养体系：culture system
+可持续发展观：sustainable development
+力场：Force field
+宜宾市：yibin city
+数学方法：mathematics method
+常识：common sense
+测评模型：evaluation model
+贝叶斯统计：Bayesian statistics
+城市生态学：Urban ecology
+全面发展：all-around development
+中西方：China and the west
+决策过程：decision process
+留守儿童：Rear children
+婚姻质量：marriage quality
+个人权利：individual rights
+危机事件：Crisis event
+模糊多属性决策：fuzzy multiple attribute decision making
+男女平等：Equality between men and women
+人才测评：Personnel assessment
+决策理论：decision theory
+样本轮换：sample rotation
+休闲空间：Leisure space
+城市空间扩展：urban spatial expansion
+归属感：sense of belonging
+公众满意度：public satisfaction
+空间相互作用：spatial interaction
+人口转变：demographic transition
+服务质量评价：service quality evaluation
+角色理论：role theory
+间接言语行为：indirect speech acts
+农村剩余劳动力：surplus rural labor force
+自由发展：free development
+相对贫困：relative poverty
+信任关系：trust relationship
+身份建构：Identity Construction
+政治权利：political rights
+跨文化比较：cross-cultural comparison
+人类行为：human behavior
+调查方法：investigation method
+自我效能感：sense of self-efficacy
+宣传教育：publicity and education
+障碍因素：obstacle factor
+市场体制：market system
+干预策略：Intervention strategy
+节约型社会：conservation-minded society
+生态人类学：ecological anthropology
+研究成果：Research results
+大城市：large city
+研究策略：Research strategy
+健康干预：Health intervention
+工作满意度：Work satisfaction
+认知因素：cognitive factors
+项目决策：project decision-making
+咨询业：consulting industry
+二元语义：two-tuple linguistic
+定西市：Dingxi City
+存在惟一性：existence and uniqueness
+失地农民：land-losing farmers
+学习型社区：learning community
+写作技巧：writing techniques
+会展：Convention and exhibition
+原始社会：Primitive society
+信息服务模式：information service mode
+企业环境：enterprise environment
+社会现象：Social Phenomenon
+司法程序：Judicial procedure
+动态发展：dynamic development
+政治结构：political structure
+模块化组织：modular organization
+口述史：oral history
+原始性创新：original innovation
+组织行为学：organizational behavior
+团队效能：team effectiveness
+世界秩序：World Order
+行动学习：action learning
+生态政治：ecological politics
+信息化技术：Information technology
+白水：white water
+企业经济：enterprise economy
+团队文化：Team Culture
+人口流动：population mobility
+国内外：home and abroad
+长江上游：upper reaches of Yangtze River
+测量模型：measuring model
+优化研究：optimization research
+协调发展度：coordinated development degree
+文化建设：cultural building
+女性角色：female role
+统计软件：Statistical software
+网络学习：network study
+风险对策：risk countermeasure
+模糊向量：Fuzzy vector
+合作行为：Cooperative Behavior
+职业承诺：Career commitment
+中小学生：middle and primary school students
+性健康：sexual health
+职业认同：professional identity
+职业价值观：occupational values
+人口质量：Population quality
+政治过程：Political process
+科技革命：science and technology revolution
+知识组织：knowledge organizing
+政府危机管理：government crisis management
+冲突证据：conflict evidence
+乡村文化：rural culture
+社会分化：social differentiation
+权利保障：right guarantee
+视觉符号：visual symbol
+模糊互补判断矩阵：fuzzy complementary judgment matrix
+无差异曲线：indifference curve
+政治国家：Political country
+意见领袖：opinion leader
+效率与公平：efficiency and fairness
+关系网络：relation network
+社会分工：social division of labor
+社会转型期：Social Transformation
+素质评价：quality evaluation
+人口管理：population management
+发展轨迹：development track
+社区经济：community economy
+话语策略：Discourse strategy
+史实：historical facts
+大学排名：university ranking
+公民文化：Civil Culture
+体育休闲：sports leisure
+马克斯·韦伯：Max Weber
+个体意识：Individual Consciousness
+反事实思维：counterfactual thinking
+功能区：functional area
+群组决策：group decision making
+政治生态：political ecology
+未来趋势：future trend
+文化力：Cultural Force
+全过程：entire process
+资本逻辑：capital logic
+人类发展：human development
+生存与发展：survival and development
+民族经济：ethnic economy
+研究价值：research value
+抽样误差：sampling error
+岩溶山区：Karst mountain area
+管理成本：management cost
+基因表达式程序设计：gene expression programming
+地区分布：regional distribution
+实践意义：practical meaning
+外资企业：foreign enterprise
+统计学方法：statistical method
+精神健康：mental health
+性道德：Sexual morality
+性别角色：Gender roles
+英语文化：English culture
+死亡教育：death education
+关系绩效：Contextual performance
+权力关系：power relationship
+社区服务：community services
+留学：study abroad
+内生增长理论：endogenous growth theory
+公共服务设施：Public service facilities
+创造性转化：creative transformation
+经济中心：economic center
+知识团队：knowledge team
+抽样技术：sampling techniques
+移民政策：immigration policy
+公众人物：Public figures
+社会身份：social identity
+战略绩效：strategic performance
+理性批判：rational criticism
+社会规范：social norms
+社会交换理论：social exchange theory
+家长式领导：paternalistic leadership
+区域差距：regional gap
+马克思主义理论：Marxism theory
+妇女解放：women's liberation
+宗教精神：Religious spirit
+和谐农村：Harmonious countryside
+和谐消费：Harmonious consumption
+网络交往：network communication
+新闻媒介：news media
+关系资本：relational capital
+电子媒介：electronic media
+政府服务：government service
+南朝：the Southern Dynasty
+社会行动：social action
+现实世界：real world
+利益群体：interest groups
+世界体系：world system
+道德价值观：moral values
+人的需要：human needs
+国家政权：state power
+文化空缺：cultural vacancy
+政治系统：political system
+人身危险性：personal danger
+预防机制：prevention mechanism
+民族凝聚力：national cohesion
+词汇隐喻：lexical metaphor
+盛宣怀：Sheng Xuanhuai
+生态环境保护：Eco-environmental protection
+设备监理：equipment supervision
+损失厌恶：loss aversion
+案例库：Case base
+个体行为：individual behavior
+供给模式：supply model
+自适应调整：adaptive adjustment
+制度因素：system factor
+TOPSIS方法：TOPSIS Method
+资源效率：Resource efficiency
+乌海市：Wuhai city
+合成规则：combination rule
+社会群体：social group
+社会生态学：Social Ecology
+文化模式：cultural patterns
+乘数法：multiplier method
+高技能人才：high-skilled talent
+反应抑制：response inhibition
+公共理性：public rationality
+工作压力源：job stressor
+洛伦兹曲线：Lorenz curve
+组织变革：organizational reform
+社会建构论：social constructionism
+禁毒：Drug Control
+社会工作者：social worker
+教育目标：educational objective
+生育率：fertility rate
+身体意象：Body image
+C2R模型：C2R model
+平衡发展：balanced development
+民间组织：non-governmental organization
+税费改革：tax and fee reform
+广告教育：advertising education
+主要特征：main characteristics
+多目标最优化：multi-objective optimization
+国际大都市：international metropolis
+索洛模型：Solow Model
+中国象棋：Chinese chess
+英语培训：English training
+公共服务平台：Public service platform
+区域空间结构：regional spatial structure
+技术系统：technical system
+人生价值：Value of life
+教育消费：education consumption
+不完备信息：Incomplete information
+满意一致性：satisfying consistency
+研究方法论：research methodology
+中国女性：Chinese women
+人的解放：human liberation
+国际移民：international migration
+软力量：soft power
+通俗文化：popular culture
+创新行为：innovation behavior
+现收现付制：pay-as-you-go system
+技术决定论：technological determinism
+点估计：point estimate
+社会历史：social history
+储蓄率：Saving rate
+时间压力：time pressure
+宗法制度：patriarchal clan system
+人格精神：personality spirit
+世界历史理论：World history theory
+普遍语用学：Universal Pragmatics
+现代奥运会：Modern Olympic Games
+正式制度：formal system
+Excel：Microsoft Excel
+科技发展：scientific and technological development
+黔西南：southwest Guizhou
+社会性规制：social regulation
+监测指标：monitoring index
+组织理论：organizational theory
+期望值：Expectation value
+制度结构：system structure
+体系建设：system building
+数理分析：mathematical analysis
+蜜蜂：Honey bee
+正面效应：positive effect
+先秦儒家：Pre-Qin Confucianism
+文化转型：culture transformation
+城乡：City and country
+甘南藏族自治州：Gannan Tibetan Autonomous Prefecture
+演化建模：evolutionary modeling
+网络使用：Internet use
+政策执行：policy execution
+社会适应：Social adaptability
+家庭地位：Family status
+伦理分析：Ethical Analysis
+服务内容：service content
+社会活动：social activities
+弗洛伊德：Sigmund freud
+传统道德：traditional morals
+网络伦理：Internet ethics
+组织公正：organizational justice
+婚姻挤压：Marriage squeeze
+动力效应：dynamic effect
+动态决策：dynamic decision
+结构理论：structure theory
+教学问题：teaching problems
+真空热试验：vacuum thermal test
+社会整合：social conformity
+语言交际：verbal communication
+语言判断矩阵：linguistic judgment matrix
+文化保护：Culture protection
+中庸之道：the doctrine of the mean
+社会空间结构：Social spatial structure
+发展变化：development and change
+社区资源：Community resources
+交换价值：exchange value
+新疆生产建设兵团：Xinjiang Production and Construction Corps
+结构性矛盾：structural contradiction
+开放社会：open society
+人才环境：talent environment
+制度理论：institutional theory
+多中心治理：polycentric governance
+纠纷解决机制：dispute settlement mechanism
+《易经》：The Book of Changes
+治理绩效：Governance Performance
+家文化：family culture
+旅游服务：tourism service
+炫耀性消费：Conspicuous Consumption
+认知图式：cognitive schema
+称呼语：address form
+文化移情：cultural empathy
+俄罗斯文化：russian culture
+生育意愿：fertility desire
+杭州：Hangzhou city
+工作质量：working quality
+工作机制：work mechanism
+福清市：Fuqing city
+城市生活：city life
+单位制：unit system
+行为矫正：behavior modification
+公民参与：civic participation
+发达地区：developed area
+动态研究：dynamic research
+风险分配：risk allocation
+危机决策：crisis decision-making
+视觉景观：Visual Landscape
+延吉市：Yanji City
+规划模型：planning model
+人口健康：population health
+社会稳定：social stabilization
+排序方法：Priority method
+沟通能力：communication ability
+回顾性调查：retrospective survey
+风险沟通：risk communication
+贫困人口：Poverty population
+群体结构：group structure
+潜在需求：potential demand
+防控措施：Prevention and control measures
+文化休克：culture shock
+学术发展：academic development
+理论建构：theory construction
+校园暴力：Campus violence
+心理功能：psychological function
+极小化序列：minimizing sequence
+心智模型：mental model
+感性认识：perceptual knowledge
+民间社会：folk society
+城市结构：City Structure
+艺术创造：art creation
+决策质量：decision quality
+市场配置：Market allocation
+方案排序：alternative ranking
+管理过程：management process
+分工：division of labour
+领导有效性：leadership effectiveness
+柔性战略：flexible strategy
+网格化管理：Grid management
+指数体系：index system
+时代价值：time value
+公共决策：Public Policy-making
+区域社会：regional society
+非言语行为：non-verbal behavior
+组织记忆：organizational memory
+文艺学：literature and art
+中国农民：Chinese peasants
+群体性事件：Group event
+文秘专业：secretary major
+社会关系网络：Social Network
+青年亚文化：youth subculture
+真人秀：Reality Show
+休闲生活：leisure life
+小组工作：group work
+社会主义制度：socialist system
+满语：Manchu language
+社会性格：social character
+方法论个人主义：methodological individualism
+国内产业：domestic industry
+女性身份：female identity
+社会保护：social protection
+系统思考：systematic thinking
+环境社会学：environmental sociology
+布依族：Buyi nationality
+培训机制：training mechanism
+济南：Jinan City
+专业定位：Specialty orientation
+发展机遇：development opportunities
+队伍建设：group construction
+规模报酬：returns to scale
+样本容量：Sample capacity
+襄樊市：Xiangfan City
+匹配模型：matching model
+思维创新：Thinking innovation
+年龄差异：Age difference
+生活体验：Life experience
+数学焦虑：mathematics anxiety
+拉祜族：Lahu nationality
+知识女性：intellectual women
+生育水平：Fertility level
+人的本性：human nature
+社会心态：social psychology
+社会条件：social condition
+水运工程：waterway engineering
+成长环境：growth environment
+创意阶层：creative class
+时间距离：temporal distance
+居住文化：residential culture
+城市规模分布：city-size distribution
+算术平均：arithmetic average
+技术创新绩效：technological innovation performance
+信息测度：information measure
+文化根源：cultural origin
+他者：the others
+经济人类学：Economic anthropology
+学科结构：subject structure
+分层随机抽样：stratified random sampling
+芝加哥学派：Chicago School
+二次创新：secondary innovation
+公共福利：public welfare
+组织生态学：organizational ecology
+乡村社区：rural community
+生存策略：survival strategy
+离婚率：divorce rate
+第三者：the third party
+价值维度：value dimension
+利益均衡：balance of interests
+文化机制：cultural mechanism
+语用推理：pragmatic reasoning
+分配公平：distributive justice
+局部均衡：partial equilibrium
+社会科学哲学：philosophy of social science
+干扰管理：disruption management
+总和生育率：Total Fertility Rate
+平等就业：Equal employment
+社会价值观：Social Values
+原始文化：primitive culture
+语文知识：Chinese knowledge
+学衡派：Xueheng school
+后现代语境：post-modern context
+民族理论：national theory
+法律多元：legal pluralism
+雇主责任：employer liability
+政治社会学：political sociology
+三峡地区：Three Gorges Area
+灵敏度分析：analysis of sensitivity
+人文因素：human factors
+认证体系：certification system
+摩梭人：Mosuo people
+分析与研究：Analysis and Research
+利益矛盾：interest contradiction
+总量：total amount
+经济资源：economic resources
+基本形式：Basic form
+灰熵：grey entropy
+满族：Manchu Nationality
+第三方：the third party
+池州市：chizhou city
+经济系统：economy system
+乡土社会：local society
+核心家庭：nuclear family
+教养方式：Parenting style
+文化实践：cultural practice
+团队有效性：team effectiveness
+生存状况：Living condition
+应试教育：test-oriented education
+文风：writing style
+民营企业家：private entrepreneur
+梯形模糊数：trapezoidal fuzzy numbers
+管理科学与工程：management science and engineering
+政府信息化：government informationization
+利益表达：Expression of Interest
+关中平原：Guanzhong plain
+统计调查：statistical survey
+空间演变：Spatial Evolution
+培训市场：Training Market
+管理优化：Management Optimization
+体验教学：experience teaching
+动态权重：dynamic weight
+生育文化：Fertility Culture
+自动谈判：automated negotiation
+劳动力流动：labor migration
+知识传递：knowledge transfer
+信度函数：belief function
+Score统计量：Score statistic
+生产前沿面：production frontier
+文化生活：cultural life
+城市社会学：Urban sociology
+消费者心理：Consumer psychology
+知识市场：knowledge market
+条件收敛：conditional convergence
+负所得税：Negative income tax
+语言因素：linguistic factors
+伯明翰学派：Birmingham school
+时尚杂志：fashion magazine
+传媒文化：media culture
+培养体制：training system
+口语表达：oral expression
+公众形象：public image
+形式与内容：Form and content
+历史局限：historical limitation
+政府供给：government supply
+三螺旋：triple helix
+跨文化能力：intercultural competence
+新教伦理：Protestant ethics
+法律措施：legal measures
+现实依据：realistic basis
+集体意识：collective consciousness
+职业生涯成功：career success
+合法性危机：legitimacy crisis
+乡土情结：Local Complex
+原始宗教：original religion
+拒绝策略：refusal strategy
+传承与发展：inheritance and development
+影视人类学：visual anthropology
+社会达尔文主义：social darwinism
+杨增新：Yang Zengxin
+大五人格：Big five personality
+顾客感知：customer perception
+代际公平：intergenerational equity
+途径分析：pathway analysis
+关联模型：correlation model
+瓶颈问题：bottleneck problem
+弹性系数：elastic constants
+人类发展指数：Human Development Index
+G1法：G1 method
+优化措施：optimization measures
+DEA：Data envelopment analysis(DEA)
+藏区：Tibetan area
+汉民族：Han nationality
+信息建设：information construction
+组合评价：combined evaluation
+基本特点：basic features
+发展速度：development speed
+人文价值：human value
+仪征市：Yizheng City
+主观幸福感：Subject well-being
+社会性别分析：gender analysis
+锡伯族：xibo nationality
+社区工作：community work
+情感表达：Emotional expression
+业务能力：Professional ability
+人性观：human nature view
+亲子沟通：Parent-adolescent communication
+调节机制：Regulation mechanism
+无标度：scale free
+性别认同：Gender identity
+求职：Job hunting
+固定效应模型：Fixed effect model
+危机公关：Crisis public relations
+理论构建：theory construction
+心理所有权：psychological ownership
+需求收入弹性：income elasticity of demand
+专业培训：professional training
+物质生活：Material life
+出生率：Birth rate
+学术活动：academic activity
+象征意义：symbolic meanings
+预期理论：prospect theory
+传统与现代：tradition and modern
+课程实验：course experiment
+公共哲学：Public Philosophy
+历史原因：historical reasons
+文化传承：Culture inheritance
+满族文化：Manchu culture
+决策体制：decision-making system
+因子模型：factor model
+女权运动：feminist movement
+居民收入：income of residents
+契约精神：contract spirit
+业务转型：business transformation
+体育美学：sports aesthetics
+信息道德：information morality
+大众高等教育：mass higher education
+非权力影响力：Non-power influence
+古汉语：ancient Chinese language
+劳动力资源：labor resources
+社会学习：social learning
+市场选择：market selection
+社会运行：Social operation
+乡村精英：Rural elite
+新农民：New Farmer
+职业倾向：Career orientation
+法律权威：Authority of Law
+社会团结：social solidarity
+美国社会：American society
+媒介形象：Media Image
+社会资本理论：social capital theory
+NK模型：NK model
+随机化回答：randomized response
+公共知识分子：public intellectual
+道德标准：moral standard
+超级女声：Super Girl
+组织效能：organizational effectiveness
+感情承诺：affective commitment
+知识图谱：knowledge mapping
+福利分析：Welfare Analysis
+羌族：qiang people
+平等就业权：equal employment right
+符号价值：symbolic value
+经济独立：economic independence
+经济和谐：economic harmony
+广州亚运会：Guangzhou Asian Games
+女性就业：female employment
+利益分化：interest differentiation
+父权文化：patriarchal culture
+理性选择理论：rational choice theory
+文化建构：culture construction
+长期趋势：long-term trend
+现场实验：field experiment
+丽江市：Lijiang City
+环境卫生：environmental hygiene
+消费体验：consumption experience
+特点分析：characteristic analysis
+新动向：new trends
+城市交通规划：Urban traffic planning
+人才队伍：talent team
+城市可持续发展：sustainable urban development
+不同类型：Different types
+和谐理念：harmonious idea
+人口变动：population change
+综合承载力：synthetic carrying capacity
+发展权：development right
+中西：Chinese and Western
+菏泽市：Heze City
+博弈树：game tree
+人口容量：population carrying capacity
+社会失范：social anomie
+统计信息：statistics information
+研究思路：research thinking
+文化功能：culture function
+分枝定界算法：Branch and bound algorithm
+性态度：sexual attitude
+领导艺术：leading art
+青少年学生：young students
+婚姻状况：Marital status
+个人发展：personal development
+网络行为：Internet behavior
+可持续生计：sustainable livelihoods
+人际和谐：interpersonal harmony
+性别教育：gender education
+人-组织匹配：Person-organization fit
+工作投入：Job engagement
+角色认知：role cognition
+决策者：decision maker
+决策行为：decision-making behavior
+传统观念：traditional concept
+时代背景：era background
+跨文化心理学：cross-cultural psychology
+代沟：Generation gap
+教学与研究：Teaching and Research
+社区环境：Community environment
+多指标决策：multiple criteria decision making
+新兴技术：emerging technologies
+逻辑方法：logic method
+特征向量法：eigenvector method
+组织行为：organization behavior
+科研评价：scientific research evaluation
+敏感性问题：sensitive questions
+休闲城市：leisure city
+沉没成本：sunk cost
+计算实验：computational experiments
+异化劳动：alienation of labor
+组织资本：organization capital
+干中学：learning by doing
+宗法：patriarchal clan system
+交往理论：Communication Theory
+基础信息：basic information
+文化性格：cultural personality
+多值映射：multivalued mapping
+行政效能：administrative efficiency
+乡村债务：rural debt
+出生人口性别比：sex ratio at birth
+农民协会：peasant association
+社会保障支出：social security expenditure
+信息系统工程：information system engineering
+闽南文化：Minnan culture
+文化构建：culture construction
+网络暴力：network violence
+游戏教学：Game Teaching
+观察学习：observational learning
+消费方式：consumption pattern
+和谐主题：hexie theme
+跨文化培训：intercultural training
+藏族文化：Tibetan culture
+社会网：social network
+教育社会学：education sociology
+渐进改革：gradual reform
+公共需求：public demand
+职业流动：occupational mobility
+花儿：Hua er
+婚姻文化：marriage culture
+福利政策：Welfare Policy
+中国人类学：Chinese anthropology
+角色期望：role expectation
+政策参与：policy participation
+中华传统文化：chinese traditional culture
+全球公民社会：global civil society
+中国青年：Chinese youth
+无边界职业生涯：boundaryless career
+规范承诺：normative commitment
+喀斯特山区：Karst mountainous area
+参与式方法：participatory approach
+生态伦理观：ecological ethics
+应用实践：application practice
+非线性关系：non-linear relationship
+分析报告：analysis report
+大冶铁矿：Daye iron mine
+流动行为：flow behavior
+理论结构：theoretical structure
+东莞：Dongguan City
+黎族：Li minority
+人地关系：Human-land relationship
+社会认同：social identification
+行政道德：administrative morality
+人才需求：talents demand
+人口因素：population factor
+生态可持续性：ecological sustainability
+精神需求：spiritual demand
+实习模式：practice mode
+时空格局：spatio-temporal pattern
+体制建设：system construction
+引水系统：water diversion system
+定性方法：qualitative method
+增长速度：growth rate
+行为特征：behavior character
+公民素质：Citizen quality
+身体语言：body language
+民族心理：national mentality
+软系统方法论：soft system methodology
+保护因素：protective factors
+婚姻满意度：marital satisfaction
+三峡移民：Three Gorges migrants
+古典自由主义：classical liberalism
+管理艺术：management art
+布朗族：Bulang Nationality
+生态理性：ecological rationality
+组织公正感：organizational justice
+社会阶层：Social classes
+职业角色：professional role
+干部队伍：Cadre team
+裕固族：Yugu nationality
+计划生育工作：Family Planning Work
+预防体系：Prevention system
+新时代：New era
+榜样教育：model education
+网瘾：internet addiction
+贫富差距：the gap between rich and poor
+汉中市：Hanzhong City
+文化侵略：cultural invasion
+公文写作：document writing
+贪心策略：greedy strategy
+城市社会空间：Urban Social Space
+内在因素：internal factors
+养老保障：endowment insurance
+产品概念设计：product conceptual design
+工具变量：instrumental variable
+服务绩效：service performance
+公关：public relations
+参与式发展：participatory development
+城乡结合部：rural-urban continuum
+理论实践：theory and practice
+写作主体：writing subject
+思想状况：ideological situation
+领导方式：leadership style
+伊格尔顿：Terry Eagleton
+社会风俗：social custom
+鹤壁市：Hebi City
+晋中市：Jinzhong city
+非营利性组织：Non-profit organization
+人口重心：population gravity center
+基层民主：Democracy at the Grassroots Level
+性别比例：sex ratio
+土地征用制度：Land expropriation system
+个体理性：individual rationality
+IT能力：IT capability
+组织形象：organization image
+权力距离：power distance
+思维习惯：thinking habit
+职业形象：professional image
+文化权力：cultural power
+纵横家：Political Strategists
+实地研究：field research
+谈判力：Bargaining power
+魅力型领导：charismatic leadership
+少数民族文化：minority culture
+契约治理：contractual governance
+休闲活动：leisure activity
+内隐攻击性：implicit aggressiveness
+班昭：Ban Zhao
+民族史：national history
+女性艺术：female art
+人伦：Human relations
+民族思想：National thought
+人的存在：human existence
+符号互动论：symbolic interactionism
+艺术人类学：art Anthropology
+行动逻辑：action logic
+价值引导：value guidance
+人口危机：population crisis
+妇女观：view of women
+人口文化：population culture
+社会思想：social thought
+合作治理：cooperative governance
+犯罪动机：criminal motive
+文化社会学：cultural sociology
+治理模式：control model
+社会化管理：socialized management
+工业生产：commercial production
+彝族：Yi ethnic group
+群体效应：group effect
+控制指标：control target
+生态社会：ecological society
+发展趋向：developing tendency
+管理信息化：management informatization
+公共突发事件：public emergency
+课程教学改革：teaching reform
+侗族：Dong minority
+健康需求：health needs
+社会进步：social development
+负功能：negative function
+利益补偿：benefit compensation
+教改：teaching innovation
+网络互动：network interaction
+社会思潮：social trend of thought
+统计法：Statistical method
+文学艺术：literary art
+桂东北：Northeast Guangxi
+固定效应：FIXED EFFECTS
+分布类型：distribution type
+外来人口：migrant population
+人口学特征：demographic characteristics
+职业群体：Occupational Groups
+环境变量：environment variable
+社会歧视：Social discrimination
+语言交流：Language communication
+保护性因素：Protective Factors
+人口安全：population safety
+文献回顾：literature review
+亲子冲突：parent-adolescent conflict
+管理能力：management capacity
+心理学理论：Psychological theory
+组织氛围：organizational climate
+隐喻思维：Metaphor thinking
+古籍文献：ancient books
+社会性别主流化：Gender mainstreaming
+分配公正：distributive justice
+中韩：China and Korea
+审美观念：aesthetic concept
+组合方法：Combination method
+通用航空：General Aviation
+湘西州：Xiangxi Autonomous Prefecture
+资产定价：assets pricing
+基于任务的访问控制：task-based access control
+电视传媒：Television media
+消费动机：consumer motivation
+管理行为：management behavior
+立法规制：legislative regulation
+主观原因：subjective reason
+虚拟社群：virtual community
+绥化市：Suihua City
+社会事实：social facts
+用人机制：employment mechanism
+投资组合优化：portfolio optimization
+消极因素：negative factor
+逻辑斯蒂模型：Logistic model
+人的现代化：modernization of man
+强影响点：influential point
+地域分异：regional differentiation
+文化现象：Cultural Phenomena
+家庭保障：Family security
+主流价值观：mainstream values
+政府失败：government failure
+职业结构：occupational structure
+培训项目：training project
+审美范式：aesthetic paradigm
+网络心理：network psychology
+理论范式：Theory paradigm
+搭便车：free riding
+博客文化：blog culture
+社会经济地位：Socioeconomic status
+政治管理：political management
+网络传媒：network media
+领导理论：leadership theory
+企业生态系统：Enterprise Ecosystem
+物流配送系统：Logistics distribution system
+价值重构：value reconstruction
+风险治理：risk governance
+丧葬习俗：funeral customs
+农村社会保障体系：rural social security system
+社会性别理论：gender theory
+未成年犯：juvenile offenders
+性别偏好：Sex Preference
+转型社会：transforming society
+华侨农场：Overseas Chinese farm
+中西方文化：Chinese and Western culture
+制度基础：system foundation
+司法机关：judicial organ
+性别和谐：gender harmony
+QQ群：QQ group
+和合管理：He-he management
+叙事分析：Narrative analysis
+秘密社会：secret society
+领导-成员交换：leader-member exchange
+高等教育体系：higher education system
+礼貌理论：Politeness theory
+军事文化：military culture
+少年犯罪：juvenile delinquency
+人口和计划生育：population and family planning
+立法设计：legislative design
+同辈群体：peer group
+能力发展：ability development
+职业成功：career success
+文化矛盾：cultural contradiction
+环境心理学：environment psychology
+模糊综合评判模型：fuzzy comprehensive evaluation model
+生成机理：forming mechanism
+中国西南：Southwestern China
+封闭性：sealing ability
+生态足迹法：ecological footprint
+专业技术人才：professional and technical personnel
+难题：difficult problems
+人因：Human factors
+利益衡量：interest measurement
+三角模糊数互补判断矩阵：triangular fuzzy number complementary judgment matrix
+长期：long term
+公共意识：public consciousness
+武汉城市圈：Wuhan megalopolis
+典型案例：typical cases
+管理方式：management method
+风险感知：risk perception
+观测数据：observed data
+正负效应：positive and negative effect
+集对论：Set Pair Theory
+核心概念：Core concept
+时间结构：temporal structure
+集体选择：Collective choice
+区位优势：location superiority
+模糊综合评价方法：fuzzy comprehensive evaluation method
+概念界定：concept definition
+基本假设：basic hypothesis
+问卷编制：Questionnaire development
+结构洞：structural holes
+服务效能：service efficiency
+服务能力：service capability
+评分方法：Scoring method
+辅助技术：assistive technology
+保安族：Baoan nationality
+农村家庭：Rural families
+白族：The Bai nationality
+切入点：cut-in point
+人口数据：Population data
+大众传播：Public communication
+考据学：textual criticism
+经济收入：Economic income
+家庭和谐：Family harmony
+教育内容：education content
+投影模型：projection model
+下岗职工：laid-off worker
+铁路行业：railway industry
+人口预测：Population projection
+追踪研究：longitudinal study
+物质利益：material benefits
+管理心理学：managerial psychology
+算术平均数：Arithmetic mean
+个体特征：Individual Characteristics
+社会物理学：social physics
+社区功能：community function
+匈牙利法：Hungary method
+启发式策略：heuristic strategy
+社区商业：Community business
+价值意义：value and significance
+多准则：multiple criteria
+不平衡发展：unbalanced development
+统计诊断：statistical diagnosis
+居住隔离：residential segregation
+受教育权：education right
+时尚消费：fashion consumption
+思想史：thought history
+国家权力：the state power
+未来走向：future trend
+组织环境：organization environment
+行政手段：administrative means
+挑战与对策：challenges and countermeasures
+精神资源：Spiritual Resources
+有向网络：directed networks
+语言信息：Language information
+群体一致性：group consistency
+问卷设计：questionnaire design
+网络日志：Web log
+茶馆：tea house
+市场网络：market network
+道德困境：moral dilemma
+社会主义初级阶段：socialist primary stage
+性别文化：sex culture
+阶层分化：stratum differentiation
+优胜劣汰：survival of the fittest
+生产劳动：production labor
+侨乡：hometown of overseas Chinese
+知识分布：knowledge distribution
+口头表达：Oral expression
+社会主义法制：socialist legal system
+经济欠发达地区：Underdeveloped areas
+舆情：public sentiment
+怒江州：Nujiang Prefecture
+领导效能：leadership effectiveness
+参照群体：reference group
+人口增长率：Population growth rate
+网络媒介：internet media
+网络信息组织：network information organization
+数字娱乐：Digital entertainment
+数字地球平台：digital earth platform
+道德控制：moral control
+知识链管理：knowledge chain management
+软件工程师：software engineer
+文化保守主义：Culture conservatism
+兴趣教学：interest teaching
+土地权利：land rights
+和谐管理理论：harmonious management theory
+学术共同体：academic community
+秘书问题：secretary problem
+制度演化：institution evolution
+社会中介组织：social intermediate organization
+公众满意：public satisfaction
+街道办事处：subdistrict office
+相对频率：relative frequency
+时间透视：time perspective
+感性活动：perceptual activity
+农村实用人才：Rural Practical Talents
+玻璃天花板：glass ceiling
+晕轮效应：halo effect
+话语建构：discourse construction
+教育决策：educational decision-making
+跨文化交际学：intercultural communication
+婚姻习俗：marriage Customs
+地方知识：local knowledge
+居家养老：Aged-care at Home
+民族特征：national characteristics
+自治组织：autonomous organization
+社区归属感：community attachment
+熟人社会：acquaintance society
+下岗失业人员：laid-off workers
+失业持续时间：unemployment duration
+领导教育：leadership education
+艺术终结：the end of art
+后现代女性主义：postmodern feminism
+青年失业：youth unemployment
+生活政治：Life Politics
+劳动权益：labor rights and interests
+第三空间：third space
+贵州旅游：Guizhou tourism
+自我控制能力：self-control ability
+居住分异：residential differentiation
+新民：new people
+酷儿理论：queer theory
+审美制度：aesthetic system
+家庭道德教育：family moral education
+赫哲族：Hezhe nationality
+人口生产：population production
+积极面子：positive face
+消极面子：negative face
+语言礼貌：linguistic politeness
+个体主体：individual subject
+科技哲学：philosophy of science and technology
+持续承诺：continuance commitment
+体验式培训：experiential training
+统计技术：Statistic technique
+社会适应性：social adaptation
+就业率：rate of employment
+机制研究：mechanism study
+基本国策：Basic national policy
+科研成果：scientific research achievement
+沙漠化：aeolian desertification
+数量结构：quantity structure
+土地承载力：land bearing capacity
+组织公民行为：organization citizenship behavior
+管理思想：management ideology
+应急对策：emergency countermeasure
+实现路径：realization way
+村庄整治：village renovation
+最新发展：latest development
+生态群落：ecological community
+跨期选择：intertemporal choice
+商业模式：business pattern
+系统模式：system mode
+文化积淀：cultural accumulation
+环境代价：environmental cost
+购买决策：purchase decision
+理论背景：theoretical background
+生态发展：ecological development
+规模收益：return to scale
+技术变迁：technological change
+哈尼族：The Hani nationality
+性传播：Sexual transmission
+组织战略：organizational strategy
+死亡分析：Death analysis
+网络调查：Internet survey
+经济社会学：economic sociology
+科技人才：qualified scientists and technicians
+职业决策自我效能：career decision-making self-efficacy
+治疗原则：therapeutic principle
+冰山理论：Iceberg Theory
+叙事治疗：narrative therapy
+置换检验：permutation test
+五力模型：Five forces model
+Bayes公式：bayes formula
+医科院校：Medical University
+时间观：time concept
+外部动机：extrinsic motivation
+人事代理制度：personnel agency system
+社会压力：Social pressure
+主动性人格：proactive personality
+社会体系：social system
+管理哲学：Managerial Philosophy
+有限理论：finite theory
+协作体系：cooperative system
+环境优化：environmental optimization
+结构二重性：duality of structure
+网络嵌入：network embedding
+性别结构：sex structure
+居民参与：resident participation
+违法建设：Illegal construction
+城市网络：City network
+东西方文化：Eastern and Western cultures
+会话合作原则：cooperative principle
+人性恶：evil human nature
+职业资格证书制度：vocational qualification certificate system
+城市空间演化：Urban spatial evolution
+发展困境：development predicament
+区域科技：regional science and technology
+人才观：talent outlook
+社会交际：social communication
+外部控制：External control
+社交语用失误：socio-pragmatic failure
+职业素养：professional attainment
+蚩尤：Chi You
+老龄人口：aging population
+政治认同：political approval
+劳务输出：export of labor services
+政治民主化：political democracy
+行为决策：behavior decision
+生态机制：Ecological mechanism
+行政公文：administrative document
+城镇化进程：urbanization process
+人生价值观：outlook on life
+职业自我效能：Career self-efficacy
+考试模式：Test mode
+中间性组织：inter-firm organization
+屯堡文化：Tunpu culture
+思维定势：Thinking Set
+公共文化服务：public culture service
+土族：Tu Minority
+现代服务业：modern services
+文化权利：cultural right
+电视传播：TV communication
+文化世界：cultural world
+学习目标：learning goal
+社会认知：Social recognition
+五四时期：the May 4th movement
+服务手段：Service Means
+群体极化：group polarization
+工作嵌入：job embeddedness
+精神动力：spiritual power
+非权力性影响力：non-power influence
+民族历史：national history
+角色冲突：Role Conflicts
+经济援助：economic assistance
+养老金会计：pension accounting
+养老金计划：pension plan
+5·12地震：5·12 Earthquake
+民族发展：national development
+亲缘选择：Kin selection
+价值认同：value identification
+社会研究：social study
+强纲领：strong program
+情景判断测验：situational judgment test
+情感承诺：emotional commitment
+加性一致性：additive consistency
+资本主义精神：spirit of capitalism
+分层整群抽样：stratified cluster sampling
+失业人口：unemployed population
+商务沟通：business communication
+信任结构：trust structure
+发展平台：development platform
+知识价值观：knowledge values
+语用对比：pragmatic comparison
+景颇族：Jingpo nationality
+企业演化：Enterprise Evolution
+个人素质：personal quality
+组织健康：Organizational Health
+两性平等：gender equality
+伦理关怀：ethical care
+族源：ethnic origin
+元宵节：Lantern Festival
+史官：official historian
+心理援助：psychological aid
+领导文化：leadership culture
+社会管理体制：social management system
+历史想象：historical imagination
+组织政治：organizational politics
+两性和谐：gender harmony
+新民主主义革命：the New Democratic Revolution
+生命历程：life course
+土司制度：Tusi system
+共有知识：shared knowledge
+素质发展：quality development
+稻作文化：rice culture
+历史反思：historical reflection
+女性身体：female body
+社会动机：social motivation
+认知解读：cognitive interpretation
+契约文化：Contract Culture
+礼物交换：Gift exchange
+成功老龄化：successful aging
+和谐青海：harmonious Qinghai
+受众心理：Audience Psychology
+社会学理论：sociological theory
+宗教生活：religious Life
+宗教人类学：religious anthropology
+交往行动：communicative action
+传统人格：traditional personality
+保护与传承：protection and inheritance
+心理需要：psychological needs
+决策模式：decision-making mode
+文山州：Wenshan Prefecture
+模型检验：Model verification
+剪刀差：scissors difference
+组织设计：weave design
+三位一体：three in one
+参与观察：participant observation
+工作程序：work procedure
+对策和建议：countermeasure and suggestion
+测量工具：measuring tool
+多元信息：multivariate information
+志愿服务：volunteering service
+天性：human nature
+心理原因：psychological reason
+生态维护：ecological maintenance
+北京城区：Beijing city
+综合集成：comprehensive integration
+职业岗位：professional post
+合理结构：reasonable structure
+社会选择：Social selection
+信息资料：information data
+环境恶化：environmental deterioration
+省级：provincial level
+陕甘宁边区：Shaanxi-Gansu-Ningxia Border Area
+城市危机：City crisis
+内部环境：Inside environment
+参与式管理：participatory management
+消费差异：Consumption difference
+新学科：new discipline
+基诺族：Jinuo nationality
+多重线性回归：Multiple Linear Regression
+分析工具：Analysis tool
+生态理论：ecological theory
+经济决策：economic decision-making
+网络成瘾：Internet Addiction Disorder(IAD)
+矫治：orthodontic treatment
+报告制度：reporting system
+理想状态：ideal state
+社区医疗：Community medical service
+实践课：practical course
+管理技能：management skill
+性观念：Sexual attitude
+空巢：empty nest
+伦理规范：Ethical norms
+高龄老人：the oldest old
+生育政策：birth policy
+军校：Military college
+东乡族：Dongxiang minority
+考试作弊：cheating on exams
+祭祀：sacrificial rites
+责任推断：judgment of responsibility
+辅助器具：assistive devices
+贫困文化：Culture of poverty
+人口红利：demographic bonus
+批判思维：Critical Thinking
+组织创新气氛：organizational innovation climate
+学术评价：academic appraisal
+人口特征：Population characteristics
+坏消息：bad news
+内隐理论：implicit theories
+城市女性：Urban women
+组织实施：organization and implementation
+流动妇女：migrant women
+心理适应：mental adaptation
+环境适应：environmental adaptation
+性文化：Sex culture
+文化素养：cultural quality
+跨文化适应：cross-cultural adaptation
+灰色关联系数：grey incidence coefficient
+资源动员：resource mobilization
+犯罪行为：criminal act
+白马藏族：Baima Tibetan
+科学开发：scientific development
+土楼：earth building
+问题和建议：Problems and suggestions
+节约型校园：Economical campus
+女性解放：women's liberation
+整体分析：integral analysis
+经济产出：economic output
+政府治理：Government administration
+实践理论：practical theory
+结构化理论：structuration theory
+项目进度计划：Project scheduling
+中等城市：medium-sized cities
+能力素质：ability quality
+决策网络计划：decision network planning
+军事代表：military representatives
+实施步骤：implementation steps
+能力分析：capability analysis
+规划系统：planning system
+体语：body language
+区间概率：interval probability
+能源统计：energy statistics
+社会文化环境：social cultural environment
+时间观念：time concept
+行为理论：behavior theory
+历史文献：historical literature
+女性消费：female consumption
+多属性效用函数：multi-attribute utility function
+性别研究：gender study
+创业意向：entrepreneurial intention
+预期收入：expected income
+组织学习力：organizational learning capacity
+讨价还价模型：Bargaining model
+小世界模型：small-world model
+管理有效性：management efficiency
+相对收入：relative income
+时代意义：time significance
+个性解放：individuality liberation
+基模：fundamental mode
+利益最大化：benefit maximization
+古为今用：Making the past serve the present
+江南：south China
+人口布局：population distribution
+家庭角色：family role
+婚恋：marriage and love
+区域比较：Region comparison
+二元体制：dual system
+制度机制：system mechanism
+九龙县：Jiulong County
+心理和谐：Mental harmony
+原住民：indigenous people
+组织边界：organization boundary
+计划生育政策：Family Planning Policy
+诸葛亮：Zhu Ge-liang
+秘书工作：Secretary work
+人肉搜索：human flesh search engine
+经验启示：experience and inspiration
+理性人：rational people
+秘书学：secretarial science
+管理实验：Management Experiment
+物流教学：logistics teaching
+个人学习：individual learning
+择校：selecting school
+机构仓储：institutional repository
+社会工作实验室：social work laboratory
+志愿精神：Volunteer spirit
+职业资格制度：professional qualification system
+和谐组织：Harmonious organization
+社交网络：social network
+农村文化建设：rural culture construction
+管理咨询服务：management consulting service
+机构设置：Organization setting
+成果评价：achievement evaluation
+人际互动：Interpersonal Interaction
+个体心理：Individual psychology
+专业服务：Professional service
+风险文化：Risk Culture
+模糊语言评估：fuzzy linguistic assessments
+计划经济体制：planned economic system
+共同特征：common feature
+符号权力：symbolic power
+示范效应：demonstration effect
+心理预防：psychological prevention
+完全数据：full data
+社会保障政策：Social security policy
+高校办公室：university office
+家庭经济：family economy
+基本单位：fundamental unit
+城乡关系：urban-rural relation
+差生：poor students
+社区志愿服务：community volunteer service
+女性发展：female development
+社会价值取向：social value orientation
+青年农民工：young peasant workers
+激进民主：radical democracy
+边缘人：marginal man
+集体行为：collective behavior
+社会学视角：sociological perspective
+本土知识：local knowledge
+法人类学：legal anthropology
+破窗理论：Broken Window Theory
+文化悲剧：cultural tragedy
+就业期望：employment expectation
+妇女发展：women's development
+历史嬗变：historical evolution
+志愿者组织：volunteer organization
+社区制：Community system
+南街村：Nanjie Village
+音乐人类学：music anthropology
+村庄精英：Village Elite
+法定义务：legal duty
+20世纪50年代：the 1950s
+经济生态：economic ecology
+和平学：peace studies
+就业权：employment right
+宗教社会学：religious sociology
+锁定效应：Lock-in effect
+礼仪文化：etiquette culture
+职业定位：professional orientation
+儒学复兴：revival of Confucianism
+藏族传统文化：Tibetan traditional culture
+镜像阶段：the Mirror Stage
+中国人口：Chinese population
+德行：moral conduct
+品牌发展：brand development
+傣语：Dai language
+消费教育：consumption education
+女子体育：women sports
+和平教育：peace education
+社会安全网：Social Safety Net
+统治阶级：ruling class
+人际吸引：interpersonal attraction
+人口理论：population theory
+利益团体：interest group
+人格现代化：personality modernization
+私域：private sphere
+韦拔群：Wei Baqun
+道德关怀：moral concern
+血缘关系：blood relationship
+地方精英：local elite
+同伴群体：peer group
+员工参与：Employee Involvement
+马寅初：Ma Yinchu
+内生机制：endogenous mechanism
+网络交易：Internet trading
+裘沛然：Qiu Peiran
+流失风险：loss risk
+无领导小组讨论：Leaderless Group Discussion
+学校因素：school factors
+传统思想：traditional thoughts
+人才战略：human resource strategy
+理性选择：reasonable choice
+技术模式：technique mode
+案例式教学：case teaching
+组织因素：organizational factor
+评价原则：evaluation principles
+社会危害：Social harm
+科学观：science outlook
+统计规律：statistical rule
+功能分区：functional division
+毕节试验区：Bijie Experimental Region
+初步分析：preliminary analysis
+完善对策：perfect countermeasures
+缓冲机制：buffer mechanism
+高科技园区：High-tech parks
+组织方法：organizing method
+网络模式：network model
+消费趋势：consumption trend
+全球问题：global problem
+长期性：protracted nature
+休闲时间：leisure time
+系统调控：System regulation
+理论问题：theoretical issues
+改革探索：Reform exploration
+熵定律：entropy law
+家庭成员：Family members
+抑郁：depressive disorder
+社会隔离：social isolation
+城市贫困：urban poor
+吸毒：Drug users
+课程范式：Curriculum paradigm
+生育权：birth right
+特质理论：trait theory
+统计数据质量：statistical data quality
+汉族人：Chinese Han
+思维范式：thinking paradigm
+网络聊天：Network Chat
+优势资源：advantageous resources
+双语教学模式：Bilingual teaching mode
+卓越绩效模式：Performance Excellence Model
+支持服务：support services
+人文科学：literae humaniores
+健康老龄化：healthy ageing
+功能评估：functional evaluation
+东西方：East and West
+互惠利他：reciprocal altruism
+道歉策略：Apology strategy
+行为选择：action choice
+情感支持：Emotional support
+改革实践：reform and practice
+出生性别比：Birth sex ratio
+社会变化：social change
+社会焦虑：social anxiety
+人事改革：Personnel reform
+人才市场：talents market
+参与机制：participating mechanism
+网络空间：internet space
+志愿失灵：voluntary failure
+仡佬族：Gelao nationality
+职业资格证书：professional certificate
+LOWA算子：LOWA operator
+移民文化：immigration culture
+中西部地区：central and western regions
+模式转换：schema conversion
+决策单元：decision unit
+机会公平：equal opportunity
+公共投资建设项目：public projects
+住宅区：residential quarter
+公共管理学：public management
+语言变异：language deviance
+问题式学习：Problem-based learning
+人口系统：population system
+广告策划：Advertising planning
+非语言因素：non-linguistic factor
+核心理念：core ideas
+定量分析方法：quantitative analysis method
+知识型组织：knowledge organization
+后现代社会：postmodern society
+组织社会资本：organizational social capital
+社会规划：Social Planning
+管理活动：management activity
+学习智障：Learning disability
+权力寻租：power rent-seeking
+配额制：Portfolio Standard
+家庭养老：family support of old age
+客观原因：objective reason
+期望值模型：expected value model
+中国研究：Chinese study
+对话管理：dialogue management
+知识贡献：knowledge contribution
+行为系统：Behavior system
+公共关系学：Public relations
+文化多元性：Cultural Diversity
+PPS抽样：PPS sampling
+文化体系：Culture system
+国际化人才：internationalized talents
+网络隐私权：network privacy right
+文化形态：cultural formation
+新视野：new perspective
+有序加权平均算子：ordered weighted averaging operator
+教学模拟：teaching simulation
+心理安全：psychological safety
+社会权利：social right
+居委会：neighborhood committee
+科技体制：scientific and technological system
+传统价值观：traditional values
+竞争因素：competitive factors
+个体选择：individual selection
+民族融合：national amalgamation
+微观基础：microeconomic foundation
+解放区：liberated area
+私人空间：private space
+犯罪原因：cause of crime
+leslie模型：leslie model
+铜鼓县：Tonggu county
+郊区城市化：suburb urbanization
+女性观：outlook on women
+进城务工人员：migrant workers
+民工荒：Shortage of farmer workers
+经济变迁：economic change
+消费习惯：consumption habit
+创新型组织：innovative organization
+轻刑化：light punishment
+农民权利：farmers rights
+保甲制度：Bao-Jia system
+基层社会：grass-roots society
+性别公平：gender equity
+生物统计分析：biological statistic analysis
+社会科学研究：social science research
+逆抽样：inverse sampling
+社会网络理论：social network theory
+当代青年：modern youth
+受众研究：Audience Research
+公共基础课：public basic course
+政务公开：government affairs openness
+空间可达性：spatial accessibility
+语言评价：linguistic assessment
+调查统计：investigation and statistics
+艺术消费：art consumption
+媒介竞争：media competition
+信息异化：information alienation
+网络交际：network communication
+应用型本科院校：Application-oriented institutes
+博客传播：blog communication
+话语权力：Power of Discourse
+中国话语：Chinese Discourse
+非正式网络：informal networks
+满意度测评：satisfaction measurement
+白领：white collar
+需要理论：need theory
+数据深度：data depth
+产业演进：Industry Evolution
+心理矛盾：psychological conflict
+个人社会化：individual socialization
+情境因素：situational factors
+信任文化：trust culture
+北部湾经济区：The Beibu Gulf Economic Zone
+体育志愿者：sports volunteers
+区域变化：regional variation
+京津冀都市圈：Beijing-Tianjin-Hebei Metropolitan Region
+管理时尚：management fashion
+教育发展战略：educational development strategy
+变革型领导行为：transformational leadership
+收入差异：income difference
+人才集聚：talent aggregation
+越轨行为：deviant behavior
+均衡点：equilibrium point
+个人-组织匹配：person-organization fit
+好消息：good news
+舞龙：Dragon Dancing
+城市成长：urban growth
+社会控制体系：social control system
+物质条件：material condition
+有机论：organic theory
+职业声望：occupational prestige
+对等原则：equivalence principle
+客观标准：objective standard
+社会创新：social innovation
+价值结构：value structure
+先进性别文化：advanced gender culture
+社会解放：social liberation
+人情：Human sentiment
+个人主体性：individual subjectivity
+女性主体意识：Female Subject Consciousness
+供给方式：supply mode
+广州亚运：Guangzhou Asian Games
+乡村现代化：rural modernization
+双重标准：double standards
+生死观：life and death view
+慈善捐赠：charitable donation
+社区认同：Community Identity
+祭祖：ancestor worship
+关键成功要素：key success factors
+科技型人才：technological talent
+民族宗教：national religion
+官僚制组织：bureaucratic organization
+女性主体性：female subjectivity
+新解：new interpretation
+运动休闲：leisure sports
+深描：thick description
+青年人才：youth talent
+网络生活：Network life
+妇女运动：women's movement
+人文发展：Human development
+传统因素：traditional factors
+东方管理：Oriental Management
+理论来源：theoretical source
+沟通障碍：communication obstacle
+商务电子邮件：business e-mail
+民主实践：democratic practice
+田野作业：field work
+宗法社会：patriarchal society
+助人行为：helping behavior
+社会网络资本：social network capital
+道德共同体：moral community
+文化移植：cultural transplantation
+德昂族：De ang nationality
+经济逻辑：economic logic
+农村社会工作：Rural Social Work
+跨国婚姻：transnational marriage
+有机团结：organic solidarity
+中国问题：Chinese problem
+犯罪防控：crime prevention
+学术话语：academic discourse
+孝亲：Filial piety
+贫困陷阱：poverty trap
+人口思想：population thought
+作为公平的正义：Justice as fairness
+宗族组织：clan organization
+夫妻关系：conjugal relation
+阿伦特：Hannah Arendt
+地方感：sense of place
+象征人类学：symbolic anthropology
+族群记忆：ethnic memory
+公共问题：public problems
+中国社会学：Chinese sociology
+社会情境：social context
+社会学研究：sociological research
+抚养比：dependency ratio
+道德信仰危机：moral belief crisis
+组织支持理论：organizational support theory
+宗教认同：Religious Identity
+非正式规则：informal rules
+福利多元主义：Welfare Pluralism
+女神崇拜：goddess worship
+当代文化：contemporary culture
+进谏行为：voice behavior
+目标群体：Target Group
+政府营销：government marketing
+家庭资源：family resources
+社会保障模式：social security model
+经济支持：economic support
+非正式支持：informal support
+经济互动：economic interaction
+民间歌谣：folk songs
+建设性冲突：constructive conflict
+标签理论：Labeling Theory
+控制权配置：allocation of control rights
+海外人才：overseas talents
+白族文化：Bai culture
+父子关系：father-son relationship
+空间语言：space language
+早婚：Early marriage
+显示偏好：revealed preference
+发展实践：development practice
+长宁区：Changning District
+生态特征：ecological feature
+资源节约型社会：resource-efficient society
+农牧交错区：farming-pastoral zone
+过程分析：course analysis
+边界效应：boundary effects
+描述统计：descriptive statistics
+劳动供给：labour supply
+自回归：Auto regression
+和谐社区：Harmonious Communities
+清单分析：life cycle inventory
+人口问题：population issue
+投资控制：investment controlling
+加权平均：Weight average
+鄂东南：southeastern Hubei Province
+统计制度：statistic system
+持续改进：sustained improvement
+社会资本：social capitals
+研究前景：research prospect
+人文生态：human ecology
+曲线回归：Curve regression
+生存方式：mode of existence
+技能型人才：skilled talent
+人才素质：personnel quality
+主要原因：Main causes
+统计预测：statistical forecasting
+苍南县：Cangnan County
+盐井：Salt well
+国外经验：foreign experiences
+正交多项式回归：orthogonal polynomial regression
+结构因素：structural factors
+城市病：city disease
+发生机制：occurrence mechanism
+管理框架：management frame
+傣族：The Dai people
+外力：outside force
+行动策略：action strategy
+白水江自然保护区：Baishuijiang nature reserve
+衡量指标：measurement index
+服装设计师：fashion designer
+模糊优选模型：FUZZY optimization model
+生存空间：survival space
+广西壮族自治区：Guangxi Zhuangzu Zizhiqu
+理论方法：theory method
+直接过渡：Direct transition
+社会支持评定量表：social support rating scale
+干预研究：intervention studies
+暴力犯罪：Violent crimes
+父母监控：parental monitoring
+单亲家庭：single parent family
+程序公正：Due process
+社会情绪：Social emotion
+社交恐惧症：social phobia
+种族差异：ethnic difference
+认知评价：cognitive evaluation
+汉语文化：Chinese culture
+社会控制理论：social control theory
+空间自相关分析：Spatial Autocorrelation
+激励方法：incentive method
+社会心理因素：Psychosocial factor
+两性关系：sexual relation
+组织政治知觉：Perception of organizational politics
+职业决策困难：Career decision-making difficulty
+平均指标：average index
+服务需求：service needs
+学习适应：Learning adaptability
+个体因素：Individual factors
+实地调查：On-the-spot investigation
+撒拉族：Salar nationality
+培训迁移：training transfer
+方差估计：variance estimate
+汽车牌照：vehicle license plate
+中国朝鲜族：Chinese Korean
+个案调查：Case study
+心理结构：mental structure
+城乡差异：difference between urban and rural areas
+健康长寿：health and longevity
+二重性：dual nature
+人文发展指数：human development index
+缺失值：Missing values
+被征地农民：landless farmers
+职能转变：function change
+发展原则：development principle
+乡村建设：country construction
+俄罗斯族：Russ nationality
+文化特质：cultural trait
+意义世界：meaningful world
+职业技能鉴定：professional skills identification
+侗族村寨：Dong Minority village
+话语风格：speech style
+客家文化：the Hakkas culture
+都市人类学：urban anthropology
+休闲文化：recreational culture
+区间数判断矩阵：interval number judgment matrix
+丁克家庭：dINK Family
+教学措施：teaching measures
+多元价值：Plural Value
+区间灰数：interval grey numbers
+区间数据：interval data
+人口年龄结构：Age structure
+均衡优化：equilibrium optimization
+集结算子：aggregation operators
+解决问题：solve problem
+心理特质：psychological characteristics
+文化设施：Cultural facilities
+人伦关系：human relations
+人口构成：population composition
+邻里空间：neighborhood space
+外国：foreign country
+MCMC：Markov chain Monte Carlo
+标准解：standard solution
+知识传播：knowledge propagation
+SCI论文：SCI papers
+能量误差：energy error
+青年毛泽东：youth Mao Zedong
+人才政策：talent policy
+心态指标：index of attitude
+决策空间：decision space
+实践教学法：practice teaching
+可能满意度：possibility-satisfiability degree
+人口空间分布：Spatial distribution of population
+现代科技革命：modern science and technology revolution
+人口信息系统：population information system
+人均国内生产总值：GDP per capita
+正效应：positive effects
+闲暇活动：Leisure activities
+机会均等：Equal Opportunities
+德行领导：moral leadership
+学生需求：students needs
+心理动因：psychological motive
+信息增值：value-added information
+长效管理：Long-term management
+文化生态学：Culture ecology
+自然的人化：humanization of nature
+管理经济学：management economics
+信息化项目：IT project
+人才预测：talent forecast
+青年大学生：college students
+共识度：consensus degree
+战略思想：strategic idea
+社会动因：social motivation
+文化视野：cultural horizon
+重庆经济：Chongqing economy
+道德约束：moral restriction
+社交礼仪：social etiquette
+公众心理：public psychology
+注册工程师：registered engineer
+都市空间：Urban Space
+道德素养：moral accomplishment
+人才安全：talent security
+非自愿移民：involuntary resettlement
+社区重建：Community Reconstruction
+价值类型：value types
+咨询公司：consulting company
+统计指数：statistical index
+劳动力供给：supply of labor
+人才资源开发：human resources development
+高新技术园区：high-tech park
+实践与发展：practice and development
+资格考试：qualification test
+体系建构：construction of system
+城乡结构：urban and rural structure
+鄂西南：southwest of Hubei Province
+研究焦点：Research focus
+生活保障：living security
+干部教育培训：cadre education and training
+和谐新农村：harmonious new countryside
+专业合作：professional cooperation
+文献评述：literature review
+西晋：West Jin Dynasty
+电视媒介：television media
+教育机制：education system
+苗族文化：Miao nationality culture
+不和谐因素：unharmonious factors
+推拉理论：push and pull theory
+需要层次论：hierarchy of needs theory
+女性教育：women education
+适应策略：adaptive strategy
+无声语言：Silent Language
+利益结构：benefit structure
+中国语境：the Chinese context
+志愿者服务：volunteer service
+群体层次分析法：group analytic hierarchy process
+ECM算法：ECM algorithm
+学科性质：disciplinary nature
+信息资源配置：information resource disposition
+王云五：Wang Yunwu
+不确定语言变量：uncertain linguistic variable
+认知范式：cognitive paradigm
+服务保障：service guarantee
+ERP沙盘：ERP sand table
+《生活》周刊：Life Weekly
+女性地位：female position
+应急决策：Emergency decision-making
+课程安排：course arrangement
+混合型多属性决策：hybrid multiple attribute decision making
+群体心理：mass psychology
+初级群体：primary group
+双向沟通：two-way communication
+优先函数：preference function
+办公室主任：office director
+情感能量：emotional energy
+C-OWA算子：C-OWA operator
+政策比较：policy comparison
+个体素质：individual quality
+新探索：new exploration
+咨询机构：consulting agency
+组织范式：organizational paradigm
+心理服务：psychological service
+素质与能力：quality and ability
+国际视野：international view
+制度信任：institution-based trust
+期望值算子：expected value operator
+人类起源：Human origin
+人口状况：population status
+科技异化：the alienation of science and technology
+社会批判理论：social critical theory
+路径创新：path innovation
+人才资本：human capital
+时间变量：time variable
+生命周期假说：life cycle hypothesis
+关系冲突：relationship conflict
+敏感问题：sensitive questions
+领导科学：leading science
+教育不平等：Education Inequality
+城市流强度：urban flows intensity
+群体选择：group selection
+行动者网络理论：Actor-Network Theory
+主角：leading role
+吴文俊：WU Wen-jun
+集中趋势：central tendency
+贫困指数：Poverty Index
+城市休闲：urban leisure
+动因分析：motivation analysis
+第三种文化：the third culture
+空间实践：spatial practice
+统计教育：Statistical Education
+社会人类学：social anthropology
+凉山彝族：Yi people in Liangshan
+开发机制：development mechanism
+Ellsberg悖论：Ellsberg paradox
+公开选拔：open selection
+特征价格理论：Hedonic Price Theory
+实用人才：practical talents
+管理咨询业：management consulting industry
+大学生社会化：Socialization of college students
+文明社区：civilized community
+社会偏好：social preference
+社会困境：social dilemma
+优势视角：strengths perspective
+代际差异：intergenerational difference
+数字文化：digital culture
+就业困境：employment difficulties
+永兴县：Yongxing county
+教育病理学：educational pathology
+社会精英：social elite
+随机应答技术：randomized response technique
+正式组织：formal organization
+学生组织：student organization
+实践性教学体系：practical teaching system
+女性主义教育学：feminist pedagogy
+荣昌县：Rongchang County
+关系结构：relative construction
+女性创业：female entrepreneurship
+领导素质：leadership quality
+社会和谐稳定：social harmony and stability
+个案管理：Case Management
+学术成果：academic achievements
+妇女史：women history
+危险性行为：Unsafe sex
+国际非政府组织：international non-governmental organization
+权利贫困：right poverty
+民族迁徙：ethnic migration
+独立意识：independent consciousness
+国际劳工组织：International Labor Organization
+男权思想：male chauvinism
+服务型企业：service enterprise
+宗教心理：religious psychology
+中国管理学：Chinese management
+汉字文化：Chinese character culture
+代际传递：intergenerational transmission
+妇女地位：status of women
+启蒙理性：enlightenment reason
+文化宽容：cultural tolerance
+低生育率：low fertility rate
+交往行为理论：communicative action theory
+入学率：enrollment rate
+社区管理体制：Community Management System
+新公共管理运动：new public management movement
+媒体责任：Media responsibility
+儿童观：view of children
+传统婚姻：traditional marriage
+族群关系：ethnic relations
+伦理维度：ethical dimension
+实践逻辑：Practice Logic
+乡城迁移：rural-urban migration
+列斐伏尔：Henri Lefebvre
+议行合一：combination of legislative and executive powers
+统计体系：Statistical system
+青海蒙古族：the Mongolians in Qinghai
+民间叙事：folk narrative
+花蓝瑶：Hualan Yao
+祭祀仪式：sacrificial ceremony
+心灵世界：spiritual world
+资本全球化：capital globalization
+生活伦理：life ethics
+女学：women education
+第五项修炼：the Fifth Discipline
+话语民主：discourse democracy
+发展型社会政策：social policy for development
+人文理性：human rationality
+激情犯罪：crime of passion
+交往实践：communicative practice
+马克思主义女性主义：Marxist Feminism
+人格差异：personality difference
+民族冲突：national conflict
+文化反哺：cultural feedback
+卡西尔：Ernst Cassirer
+自愿性失业：voluntary unemployment
+回族文化：Hui culture
+百年孤独：One Hundred Years of Solitude
+族群边界：ethnic boundary
+家庭社会资本：family social capital
+文化范畴：cultural category
+精神赡养：spiritual support
+社区青少年：community youth
+人力资源能力建设：human capacity building
+国家与社会关系：relationship between state and society
+管理心理：management psychology
+社会学本土化：localization of sociology
+理论整合：theoretical integration
+外语培训：Foreign language training
+意识形态国家机器：ideological state apparatuses
+传统法文化：traditional legal culture
+文化调适：cultural adjustment
+行政沟通：administrative communication
+养老制度：pension system
+三个维度：three dimensions
+权力差异：power differentials
+人才培养体系：personnel training system
+反思社会学：reflexive sociology
+理性管理：rational management
+儿童社会化：children socialization
+破坏性冲突：destructive conflict
+快乐体验：happy experience
+多元一体：pluralistic integration
+文化思潮：cultural thoughts
+灰姑娘情结：Cinderella complex
+道德批评：moral criticism
+间接言语行为理论：indirect speech act theory
+游牧文明：nomadic civilization
+中国文化传统：Chinese cultural tradition
+历史责任：historical responsibility
+学术范式：academic paradigm
+绩效提升：performance improvement
+单位社区：Danwei Community
+新生代农民工：new generation of migrant workers
+顺应-关联模式：Adaptation-Relevance Model
+动漫文化：cartoon culture
+文化解析：cultural analysis
+精英治理：elite governance
+中国矿业大学：China University of Mining and Technology
+代际流动：intergenerational mobility
+积极组织行为学：Positive Organizational Behavior
+建设现状：current situation
+完善建议：suggestions for perfection
+教学形式：teaching methods
+指数平滑法：exponential smooth method
+现代女性：modern female
+皖北：North Anhui
+基本情况：basic status
+河湟地区：Hehuang areas
+适度人口：appropriate population
+四川藏区：Sichuan tibetan region
+经济社会发展：social-economic development
+受教育程度：educational level
+导向系统：guide system
+研究实践：research and practice
+离差最大化：maximum deviation
+阶层结构：hierarchical structure
+培养方式：culture mode
+灰色GM(1,1)模型：gray GM(1,1) model
+哲学素质：philosophy quality
+综合评价方法：synthetic evaluating method
+闽东：eastern Fujian
+统计服务：statistical service
+个性魅力：personal charm
+艰苦奋斗：plain living and hard struggle
+实验室研究：laboratory research
+中老年女性：Middle-Aged and Old Women
+机制创新：mechanism creation
+渗流力学：mechanics of fluids in porous media
+学科整合：course integration
+人与自然的和谐：harmony between man and nature
+人与自然和谐：harmony between human and nature
+恢复与重建：rehabilitation and reconstruction
+五律协同：Synergism of five laws
+中国城市：cities in China
+人的素质：man's quality
+R软件：R software
+天山北坡：northern slope of the Tianshan Mountains
+实践过程：practice process
+甘州区：Ganzhou District
+现状特征：present characteristics
+阶段特征：stage feature
+生物因素：biotic factor
+发展形势：developing situation
+鄂伦春族：Olunchun nationality
+回族社区：Hui ethnic community
+经济地位：economic position
+矿区城市：mining area city
+具体分析：concrete analysis
+土地生产潜力：land productivity potential
+分配正义：justice of distribution
+若干问题：several problems
+经济原因：economic cause
+思维特点：characteristics of thinking
+操作能力：operation ability
+辅助变量：secondary variable
+人才建设：Talent cultivation
+原因剖析：cause analysis
+家庭问题：Family problems
+性知识：Sex knowledge
+服务机构：Service institution
+职业人格：Vocational personality
+家庭亲密度：Family intimacy
+信任危机：credit crisis
+年轻人：Young people
+农村流动人口：rural floating population
+教学探索：Teaching research
+集体教育：collective education
+老年妇女：Senile women
+网络游戏成瘾：Online game addiction
+外来工：Floating workers
+情绪表达：Emotion Expression
+认知态度：Cognitive attitude
+智能障碍：Intellectual impairment
+随机前沿：Stochastic frontier
+青年人群：young people
+贫困家庭：poor family
+儿童虐待：Childhood abuse
+儿童忽视：Child neglect
+职业生涯决策：Career decision-making
+佤族：Wa Ethnic
+农村女性：rural females
+医疗社会工作：Medical Social Work
+公共事业管理：Public administration
+道德强度：moral intensity
+社会协调：Social coordination
+仫佬族：Mulao minority
+跨文化研究：Cross cultural study
+特殊群体：special community
+老年人口：Old People
+生活状况：Life status
+数字化生存：being digital
+城市贫困人口：urban poverty population
+同伴支持：Peer support
+消极作用：negative role
+消极情感：negative emotion
+和而不同：harmony but different
+组织沟通：organization communication
+测评方法：assessment method
+管理设计：management design
+个性心理特征：Psychological characteristics of personality
+得分矩阵：score matrix
+生活模式：Life style
+主管承诺：supervisory commitment
+市场培育：market development
+健康不平等：health inequality
+犯罪青少年：juvenile delinquents
+科学理性：scientific ration
+抽样设计：Sample design
+经济组织：economy organization
+计划生育管理：Family Planning Management
+文化视角：cultural viewpoint
+千年生态系统评估：Millennium ecosystem assessment
+提高途径：improving ways
+《菜根谭》：Cai gen tan
+学生培养：student training
+团队决策：team decision making
+社会人：Social people
+心理感受：psychological feeling
+灰色Verhulst模型：gray Verhulst model
+体制转型：institutional transition
+发展基础：development basis
+薪酬差距：Compensation gap
+工商管理专业：business administration specialty
+城市新区：urban new area
+管理案例：management case
+价值转换：value conversion
+防范策略：prevention strategy
+可生存域：viable set
+教育培养：Education and Training
+内部稳定：internal stability
+学习功能：learning function
+职业意识：professional awareness
+邻里关系：neighborhood relationship
+人的活动：human activity
+乡土文化：Vernacular culture
+可诉性：the litigable nature
+社区研究：Community Research
+市场转型：market transformation
+村庄布局：village layout
+信息技术能力：information technology capability
+培训机构：training organization
+灰关联决策：grey relational decision
+道德整合：Moral integration
+谐则：xie principles
+历史虚无主义：Historical Nihilism
+居住空间分异：Residential space differentiation
+支持环境：supporting environment
+农业文化遗产：Agricultural heritage
+生活成本：living cost
+共生模式：symbiosis model
+目标任务：target and task
+语言沟通：verbal communication
+农村移民：rural resettlement
+动力因素：motive force
+建设机制：construction mechanism
+原动力：motive power
+职业资格：occupation qualifications
+知识作业：knowledge tasks
+科技统计：science and technology statistics
+社会支持网络：social supporting network
+战争文化：War culture
+前科：Previous conviction
+土木工程师：Civil Engineer
+社会理性：social reason
+职能转换：Transformation of function
+比较方法：comparison method
+养老模式：mode of providing for the aged
+教学模式改革：Teaching model reform
+大学生犯罪：university student crime
+随机化回答技术：randomized response technique
+失业率：the rate of unemployment
+创造性人才：creative personnel
+经济形态：economic pattern
+项目组：project team
+积极老龄化：positive aging
+逻辑悖论：logic paradox
+城镇化建设：town construction
+刑事犯罪：Criminal offense
+网络公关：network public relations
+全面收益报告：comprehensive income report
+市场推广：market promotion
+巫文化：Wu culture
+青年社会化：Youth socialization
+企业管理学：enterprise management
+婚姻冲突：marital conflict
+行政领导者：administrative leaders
+空间理论：spatial theory
+职业标准：professional standards
+不确定语言：uncertain language
+荣辱：honor or disgrace
+相似度算法：similarity algorithm
+政府机构：government institution
+高级人才：advanced talents
+文化网络：cultural network
+信息工作：information service
+完善立法：improve legislation
+社区整合：Community Conformity
+人口发展：population growth
+情境教育：situational education
+社会文化心理：social and cultural psychology
+职能管理：functional management
+管理专业：management specialty
+人才思想：talent thoughts
+实现条件：realization condition
+小乘佛教：hinayana buddhism
+互反判断矩阵：reciprocal judgement matrices
+学科分布：discipline distribution
+创造活动：Creative activities
+团体工作：group work
+经济变量：economic variable
+政治领导：political leadership
+农村留守儿童：Rural left-behind children
+征地补偿：compensation in land expropriation
+思考建议：Thinking and suggestion
+相对剥夺感：Relative deprivation
+行为倾向：behavior tendency
+农业女性化：agricultural feminization
+住房反向抵押贷款：housing reverse mortgage loan
+司法对策：judicial countermeasure
+性别发展：gender development
+合作体系：cooperative system
+女研究生：female graduate student
+女性旅游：female tourism
+文本模式：text mode
+高峰期：Peak period
+网络道德教育：Internet moral education
+残缺互补判断矩阵：incomplete complementary judgement matrix
+媒介控制：media control
+模糊多准则决策：fuzzy multi-criteria decision-making
+王应麟：Wang Ying-lin
+网络语境：network context
+普查数据：census data
+山西商人：Shanxi merchants
+科学商店：science shop
+主观判断：Subjective judgment
+过程监督：process supervision
+沙盘模拟：Sand Table Simulation
+犯罪心理：guilty mind
+文化重构：culture reconstruction
+人口统计：population statistic
+审稿制度：system of peer review
+三国志：SAN GUO ZHI
+信息咨询业：information consulting industry
+课程研究：course research
+学生角色：students role
+决策信息：decision-making information
+最小截：minimum cut
+C-OWG算子：C-OWG operator
+案例研究方法：case study method
+主体因素：Subject Factors
+面上项目：General Program
+情境理论：situation theory
+模式建构：pattern construction
+技能人才：skilled talent
+权威结构：authority structure
+社会保障预算：social security budget
+行为策略：behavior strategy
+互动公平：interactional justice
+现代公民：Modern citizen
+现代管理理论：modern management theory
+文化信仰：cultural belief
+咨询市场：Consulting market
+符号暴力：symbolic violence
+私人利益：private benefit
+少数民族人口：Minority population
+虚拟关系：virtual relation
+多重插补：multiple imputation
+隐性知识转移：tacit knowledge transfer
+探索性学习：explorative learning
+知识整合能力：knowledge integration capability
+新型毒品：new drug
+培训方案：training scheme
+省际差异：interprovincial difference
+价值需求：value demand
+对策选择：countermeasure selection
+360度考核：360 Degree Appraisal
+条件风险值：Conditional Value-at-Risk
+南迁：southward migration
+信息缺失：information loss
+跨文化沟通：intercultural communication
+女性领导力：female leadership
+特质论：Trait Theory
+管理价值：management value
+归因偏差：attribution bias
+合作均衡：cooperative equilibrium
+罗素：Bertrand Russell
+规制效率：regulation efficiency
+机遇发现：opportunity discovery
+符号性消费：symbolic consumption
+人才工作：talent work
+统计体制：statistical system
+网络DEA：network DEA
+单位人：unit person
+统计学教学：statistics teaching
+强关系：strong ties
+道义：morality and justice
+群体性突发事件：Mass Unexpected Incident
+研究特点：research characteristic
+城镇化道路：urbanization path
+GIOWA算子：GIOWA operator
+休闲研究：leisure studies
+时空压缩：time-space compression
+教育状况：educational situation
+生育模式：fertility pattern
+行为管理：Behavioral management
+违纪：violation of discipline
+文化贫困：culture poverty
+村规民约：village regulations and non-governmental agreements
+浙东学派：East Zhejiang School
+历史进程：the course of history
+人口战略：Population Strategy
+老龄产业：aged industry
+婚姻暴力：marriage violence
+关系强度：strength of ties
+超低生育率：lowest-low fertility
+同化理论：assimilation theory
+参与动机：participation motivation
+礼学：ritual study
+社会体制：Social System
+社会化小农：socialization of peasants
+现代性体验：modernity experience
+返乡农民工：returning migrant workers
+农民合作：farmers cooperation
+人格测验：personality tests
+城市社区建设：Urban Community Building
+父权制文化：patriarchal culture
+生计方式：means of livelihood
+社会企业：Social Enterprises
+日本女性：Japanese women
+主导价值观：leading values
+农村最低生活保障：rural minimum living security
+和谐稳定：harmonious and stable
+虚拟角色：fictional characters
+《古兰经》：Qur an
+和合：harmony and integration
+象征资本：symbolic capital
+当代中国青年：contemporary Chinese young people
+凉州区：Liangzhou District
+符号互动：symbolic interaction
+编年：chronological order
+农村社会学：rural sociology
+优化途径：optimization approach
+主体建构：subjective construction
+领导哲学：leadership philosophy
+冷暴力：cold violence
+畸形消费：abnormal consumption
+宋庆龄：SONG Qing-Ling
+幽默效果：humorous effects
+社会工作专业：Social Work
+政治民族：political nation
+沟通渠道：communication channel
+组织目标：organizational objective
+祭祀圈：sacrifice circle
+跨国民族：Transnational nationalities
+农民政治参与：peasants political participation
+文化定势：cultural stereotype
+民生主义：the Principle of the People's Livelihood
+身份政治：identity politics
+少子化：low fertility
+不良亚文化：unhealthy subculture
+女性美：feminine beauty
+理论理性：theoretical reason
+内心体验：inner experience
+内隐领导理论：implicit leadership theory
+物质交往：material intercourse
+自由表达：free expression
+身体暴力：Physical Violence
+人事干部：personnel cadres
+权力运作：power operation
+社区选举：community election
+社工：social worker
+精神力量：spiritual strength
+土地承包：land contracting
+公民意识教育：civic awareness education
+理论维度：theoretical dimension
+语言观：view on language
+科学指导：Scientific guidance
+离退休工作：retirement work
+民主自治：Democratic Autonomy
+第二性：the second sex
+汉族移民：Han immigrants
+农村社区建设：rural community construction
+德性价值：value of virtue
+是非：right and wrong
+共享心理模型：shared mental model
+信息伦理教育：information ethics education
+城市融入：urban inclusion
+平地瑶：Pingdi Yao
+高储蓄率：High Saving Rate
+女性价值：feminine value
+互动策略：interactive strategy
+跨境民族：cross-border ethnic groups
+政治人类学：political anthropology
+代际伦理：intergenerational ethics
+观念史：history of ideas
+诸子百家：various schools of thought
+妇女研究：women studies
+暴力文化：violence culture
+结构性差异：structural difference
+家庭规模：family size
+家庭价值观：family values
+劳动交换：labor exchange
+批判理性：critical rationality
+白马人：baima people
+预期后悔：Anticipated Regret
+道德调控：moral adjustment
+和谐社区建设：harmonious community construction
+社区公共服务：community public service
+公共品供给：public goods supply
+福利文化：welfare culture
+国际公共关系：international public relations
+社会主要矛盾：social principal contradiction
+学生需要：students needs
+内在张力：inherent tension
+影视文化：Film and TV culture
+社区因素：community factors
+个人品牌：personal brand
+交换理论：exchange theory
+日常生活批判：criticism of daily life
+实用写作：practical writing
+空间转向：spatial turn
+政治精英：political elite
+村庄政治：village politics
+女性人类学：Feminism Anthropology
+差序格局：the structure of grade
+全球政治：global politics
+内容特点：content characteristic
+问题发现：problem finding
+私人生活：private life
+第三配置：the third allocation
+彩礼：betrothal gifts
+精神暴力：mental violence
+领导活动：Leading Activities
+混合方法研究：mixed methods research
+小民族：small ethnic groups
+江村：Jiangcun Village
+审美品位：aesthetic taste
+实验民族志：experimental ethnography
+离婚自由：freedom of divorce
+布洛陀文化：Buluotuo culture
+跨文化冲突：cross-cultural conflict
+教育史学：educational historiography
+民间规则：folk rules
+社区工作者：community worker
+家庭-工作冲突：family-work conflict
+西方社会学：Western sociology
+网络中心性：network centrality
+傣族文化：Dai culture
+现代人力资源管理：modern human resources management
+阿玛蒂亚·森：Amartya Sen
+社会演进：Social Evolution
+双重压力：double pressure
+公域：public sphere
+中秋节：Mid-autumn Festival
+底线：Bottom line
+应有权利：Due right
+童养媳：child bride
+个人与社会：individual and Society
+社会同一性：social identity
+朝鲜朝：Korean Dynasty
+文艺人类学：anthropology of literature and art
+认知需要：need for cognition
+艺术分类：art classification
+组织支持感受：perceived organizational support
+城市社区文化：urban community culture
+失业理论：unemployment theory
+路径探索：path exploration
+迁徙自由权：migration freedom
+财政分配：financial distribution
+婚礼仪式：wedding ceremony
+知青：Educated Youth
+就业绩效：employment performance
+天主教会：Catholic Church
+就业竞争：employment competition
+性别话语：gender discourse
+情感沟通：emotional communication
+经济集聚：Economic Agglomeration
+行为博弈：behavioral game
+本主崇拜：Benzhu worship
+难点与对策：difficulties and countermeasures
+积极体验：positive experience
+波特模型：Porter Model
+女性主义理论：feminist theory
+日常交往：daily communication
+员工福利：employee benefits
+侬智高：Nong Zhigao
+社区改革：Community reform
+Logit回归分析：Logit Regression Analysis
+仪式传播：ritual communication
+职业隔离：occupational segregation
+领导-成员交换关系：leader-member exchange
+资源平等：Equality of Resources
+婆媳关系：The relationship between mother-in-law and daughter-in-law
+会道门：Hui-Dao men
+新市民：New Citizen
+复杂理论：Complexity Theory
+人际关系满意感：interpersonal satisfaction
+团队创新气氛：Team Climate for Innovation
+公正世界信念：Belief in a just world
+党政机关：Party and government organizations
+农村调查：rural survey
+泼水节：Water-splashing Festival
+亲属制度：kinship system
+福利服务：welfare service
+跨文化对比：cross-cultural comparison
+价值共识：Value Consensus
+得分函数：score function
+幸福管理：Happiness Management
+社会媒体：social media
+第二产业：Second industry
+调控对策：control measures
+调节作用：regulating effect
+重要保障：important guarantee
+演变机制：evolving mechanism
+空间流动：spatial flow
+技术基础：technical basis
+生活状态：life state
+功能实现：function implementation
+社会原因：social factors
+相对隶属度：relative degree of membership
+有效配置：Effective configuration
+异化消费：dissimilation consumption
+瑶族：Yao Ethnic Minority
+实践效果：practice result
+染发：hair dyeing
+傈僳族：Lisu people
+中国发展：China's development
+学术争论：Academic argument
+培养人才：fostering talents
+综合标准：comprehensive standard
+防控对策：prevention and control measures
+管理工具：management instrument
+利益衡平：interests balance
+技能鉴定：skills identification
+人口经济：population economy
+组织技术：organization technique
+创新型人才培养：innovative talent cultivation
+社会成因：social factors
+合作意识：cooperation awareness
+混合熵：entropy of mixing
+富矿：rich ore
+人才国际化：Talents internationalization
+现实的人：realistic human being
+资源承载力：carrying capacity of resources
+重大项目：Major Project
+高技能：high skill
+决策优化：decision-making optimization
+女性文化：women culture
+情景模拟：scenarios simulation
+学习力：study ability
+传播模式：propagation model
+社区可持续发展：community sustainable development
+非线性回归模型：non-linear regression model
+时空演化：temporal and spatial evolution
+国外研究：foreign study
+晋西北：Northwestern Shanxi
+人才队伍建设：construction of talent team
+多维标度法：multidimensional scaling method
+过渡性：transitional character
+首因效应：first effect
+依法管理：management according to law
+人事：personnel affairs
+调整模型：regulation model
+数据失真：data distortion
+人口生态：Population Ecology
+认同度：identification degree
+行为规范：Behavioral Regulation
+三农问题：Three Rural Problems
+近亲结婚：Consanguineous marriage
+基数估计：Estimating the size of population
+领导作风：Leadership style
+青少年网络成瘾：Adolescent Internet Addiction
+医疗护理：medical nursing
+艾滋病防治：AIDS prevention
+性别刻板印象：Gender stereotyping
+残疾儿童：handicapped children
+服务提供者：Service providers
+户籍：Household registration
+职业选择：professional choice
+职业兴趣：Professional interest
+社会干预：Social intervention
+老年女性：Old female
+贝叶斯规则：Bayesian rules
+回归社会：Return to the society
+追踪调查：Follow-up survey
+城乡差别：urban-rural disparity
+工作积极性：working enthusiasm
+年轻女性：young women
+毛南族：Maonan minority
+模拟教学法：simulated teaching method
+潮汕地区：Chaoshan Areas
+基本现状：basic status
+礼仪行为：Ceremonial Behavior
+居住条件：living condition
+整形美容：plastic and cosmetic surgery
+长期照护：long-term care
+生活自理能力：self-care ability
+帮助行为：Helping behavior
+公平敏感性：equity sensitivity
+家庭保健：family health care
+人才引进：introduction of talent
+诚信领导：authentic leadership
+生活照料：life care
+人员开发：Staff development
+情绪因素：emotional factors
+定性调查：Qualitative survey
+人流：Artificial abortion
+城市老年人：Urban aged people
+应用人类学：applied anthropology
+互动教学法：Interactive teaching approach
+社会性别意识：Social gender awareness
+工作生活质量：Quality of work life
+发展取向：Developmental orientation
+组织重建：tissue remodeling
+多变量方差分析：multivariate analysis of variance
+积极情感：active emotion
+主体教育：main body education
+西南边疆：Southwest frontier
+违法行为：illegal activities
+性犯罪：Sex crime
+科学测量：Scientific measurement
+思想素质：Thought quality
+能力模型：ability model
+精神生活：Cultural life
+社会学范式：sociological paradigm
+一致性分析：Coherence analysis
+乌孜别克族：Uzbek nationality
+培训设计：training design
+院士制度：academician system
+功能分化：Functional Divergence
+冒险：Risk Behavior
+社区支持：community support
+理论构架：theory structure
+职业满意度：Occupation satisfaction
+二阶段抽样：two-stage sampling
+社会化过程：socialization process
+离异家庭：divorce family
+指标设计：indicator design
+公平公正：fairness and justness
+云南少数民族：ethnic minorities in Yunnan
+MNL模型：multinomial logit model
+立法学：legislation science
+能力评价：ability evaluation
+自我心理学：ego psychology
+不确定规划：uncertainty programming
+市场化模式：market-oriented mode
+可持续竞争优势：sustainable competitive advantages
+风水文化：geomantic culture
+模糊多属性：Fuzzy multi-attribute
+混杂微分包含：impulse differential inclusions
+需求层次理论：demand theory
+计算机网络化：computer network
+优化原则：optimal principle
+灰色模糊数：grey fuzzy numbers
+和谐共生：harmonious living
+组织决策：organizational decision
+研究评述：research appraisal
+格序决策：lattice-order decision-making
+培训计划：training plan
+利益诉求：interest demands
+魅力型领导行为：charismatic leadership
+地位与作用：role and function
+普世文明：Universal civilization
+文化需求：cultural need
+文化战略：Cultural Strategies
+外城：outer city
+和则：he principles
+需求理论：demand theory
+考试形式：examination form
+等级体系：hierarchy system
+实现方式：implementation mode
+就业市场：labor market
+城市理论：urban theory
+交通方式：travel mode
+中国式管理：Chinese style management
+多属性群决策：multiple attribute group decision-making
+和谐规划：Harmonious planning
+劳动力迁移：labor force migration
+改造模式：reconstruction mode
+三参数区间数：interval numbers of three parameters
+居住形态：habitation modality
+风险型决策：risky decision
+社会支持网：Social Support Networks
+汉英文化：Chinese and English cultures
+动物词：animal word
+安置方式：resettlement mode
+成员选择：member selection
+核心作用：Core Effect
+利益分享：benefit share
+优势效应：dominant effect
+企业参与：enterprise participation
+交际失误：communication failure
+专业软件：professional software
+客观职业成功：objective career success
+主观职业成功：subjective career success
+极端行为：extreme behavior
+人与社会：people and society
+统筹协调：overall coordination
+美国学派：American school
+偏好集结：preference aggregation
+人才价值：talent value
+直觉决策：intuitive decision making
+就业影响：employment influence
+社区意识：Community awareness
+直接攻击：direct attack
+健康成长：grow up healthily
+拔尖创新人才：outstanding innovative talents
+商务模式：commerce mode
+技术创新扩散：Technical innovation diffusion
+季节调整：seasonal adjusting
+文化习俗：cultural conventions
+家庭生命周期：household lifecycle
+不确定型决策：uncertainty decision
+上升法：ascending method
+业主委员会：committee of house-owners
+管理范式：management model
+理论发展：development of the Theory
+公共财政支出：public expenditure
+组织冲突：organization conflict
+购物出行：shopping trip
+利益格局：benefit structure
+成员权：member ownership
+国际化竞争：international competition
+特点功能：feature and function
+劳动力市场分割：segmentation of labor market
+当代社会：current society
+可行解：feasible point
+文化圈：culture circle
+多项选择：multiple choice
+传媒教育：media education
+大众趣味：Public interests
+借鉴意义：reference significance
+城乡协调：urban and rural coordination
+基本目标：basic target
+冲突化解：conflict resolution
+价值形态：Value Form
+级差格式：the grade difference format
+组织过程：organizational processes
+概率抽样：probability sampling
+最低生活保障：subsistence allowances
+辅助信息：ancillary data
+不确定性决策：uncertain decision
+最终消费率：ultimate consumption rate
+决策能力：decision-making capability
+综合要素生产率：total factor productivity
+谈判风格：negotiation style
+正态随机变量：normal random variable
+应用统计学：Applied statistics
+改革原则：principle of reform
+统计测度：statistical measure
+第一印象：first impression
+准格尔旗：Zhungeer county
+构建路径：construction way
+农牧民：farmers and herders
+心理根源：psychological root
+利益共享：benefit sharing
+城乡统筹发展：balancing urban and rural development
+农村社会：country society
+妇女权利：women rights
+空间经济：Spatial economics
+发展风险：development risk
+社会发展动力：motive force of social development
+农业集群：agricultural cluster
+完全理性：full rationality
+牧民定居：herdsmen settlement
+制度支持：System Support
+课题制：scientific research project system
+原生态文化：original eco-culture
+实训基地建设：practice base construction
+分家：Household Division
+人口集聚：population aggregation
+传统生态知识：traditional ecological knowledge
+犯罪特点：Characteristics of Crime
+培育模式：cultivation pattern
+根本途径：Basic way
+边缘地位：Marginal status
+应急决策支持：emergency decision-making support
+语义关联：semantic correlation
+民族文献：national documents
+新闻专业主义：Journalism Professionalism
+舆论引导：consensus guidance
+华中师范大学：Huazhong Normal University
+人际网络：human network
+现状问题：current situation
+咨询企业：consulting corporation
+价值客体：object of value
+媒介文本：Media Text
+依存关系：dependency structure
+职业资格认证：professional qualifications authentication
+管理学科：management science
+互联网应用：WEB application
+混合式教学：blended teaching
+民族学研究：ethnology research
+C#.net：C#. net
+知识测度：knowledge measurement
+公共关系管理：public relation management
+职称制度：professional title system
+繁荣发展：prosperous development
+上网成瘾：Internet addiction
+管理类专业：management specialty
+行政管理专业：administrative management major
+服务转型：service transformation
+人才供给：talent supply
+决策咨询：decision consulting
+舆论学：Public Opinion
+区间直觉模糊数：Interval-valued intuitionistic fuzzy number
+导出矩阵：Educed matrix
+职业管理：professional management
+网络欺诈：online fraud
+游戏精神：spirit of playing
+迁移决策：migration decision
+民族文化心理：national culture psychology
+主观性因素：subjective factors
+管理自我效能感：Managerial Self-efficacy
+现代网络：modern network
+社区文化建设：construction of community culture
+公共话语：public words
+媒介事件：media incident
+现实社会：social reality
+1km格网：1km grid
+因势利导：adroitly guide action according to circumstance
+组织间关系：Inter-organizational relationships
+户籍制度改革：reform of household registration system
+社会后果：social consequences
+学术环境：academic atmosphere
+特殊地位：special position
+研究视角：perspective of research
+问题剖析：problem analysis
+《良友画报》：The Young Companion
+社会舆论：social opinions
+链式教学：chain teaching
+相对差：relative difference
+礼仪教学：etiquette teaching
+人口文化素质：education quality of population
+知识分享行为：knowledge-sharing behavior
+主观贴现率：subjective discount rate
+实验实习：experiment and practice
+城郊结合部：suburban area
+成长过程：growing course
+态度改变：attitude changing
+组织进化：organizational evolution
+设计效应：design effect
+少数民族流动人口：minority floating population
+普通师范院校：ordinary teachers colleges
+观念文化：concept culture
+威布尔函数：Weibull function
+构建和谐社会：construction of harmonious society
+前移回归分析：forward regression analysis
+直觉模糊数：intuitionistic fuzzy number
+双环学习：double-loop learning
+截止阀法则：cutoff rule
+社会过程：social process
+学术能力：academic ability
+市场通达性：market accessibility
+季节单位根：seasonal unit roots
+社会结构变迁：change of social structure
+无标度行为：Scale-free Behavior
+组织惯例：organizational routine
+品牌扩张：brand expanding
+目标导向：objective orientation
+社会行动者：social actors
+女性高等教育：female higher education
+集权度：degree of power distribution
+统计学教育：statistics education
+累积前景理论：Cumulative Prospect Theory
+平均差：average deviation
+长期契约：Long-term contract
+房价指数：housing price index
+心理矫治：psychology correction
+社会观：social view
+科技培训：technology training
+数学自我效能：mathematics self-efficacy
+群体多属性决策：group multiple-attribute decision-making
+统计教学：statistics teaching
+民族舞蹈：national dance
+群体认同：group identification
+五个统筹：five overall arrangements
+人口发展系统：population developing system
+最小费用最大流：the minimal cost and maximal flow
+经济重心：economic gravity center
+政府统计：official statistics
+社会支持体系：social supporting systems
+不确定决策：Decision Making under Uncertainty
+偏比度：preference-ratio measure
+旅游文化资源：tourism culture resources
+选才：selecting talent
+精讲：intensive teaching
+经典现代化理论：classical modernization theory
+理论形态：theoretical forms
+族群意识：ethnic identity
+华人家族企业：Chinese Family Enterprises
+偏比公理：preference-ratio axiom
+理论特征：theoretical characteristic
+回回：Hui Hui
+偏差公理：preference-deviation axiom
+崩溃点：breakdown point
+理想目标：ideal goal
+民俗化：folk custom
+精英流动：elite mobility
+党政领导干部：Party and governmental cadres
+同城化：urban integration
+实证研究方法：empirical research methods
+民族整合：ethnic integration
+格网化：grid transformation
+妇联：women's federation
+幸福观：view on happiness
+成人礼：initiation rite
+人口发展战略：population development strategy
+人才聚集效应：the effect of talent accumulation
+行为主体：Behavior subject
+阶层文化：stratum culture
+交往关系：communication relationship
+幕僚：aides and staff
+妇女工作：women work
+文化生态系统：cultural ecology system
+现代化理论：the theory of modernization
+国策：national policy
+区域经济协调发展：harmonious development of regional economy
+流浪儿童：vagrant children
+统计人员：statistical personnel
+男权文化：patriarchal culture
+消费者社会：Consumer Society
+社会融入：social inclusion
+民族和谐：Ethnic harmony
+职业技能培训：professional skill training
+文本解读：Text Comprehension
+中西差异：Differences between China and the West
+文化形式：cultural form
+少年司法制度：juvenile judicial system
+历史流变：historical development
+历史书写：historical writing
+鉴定机构：identification organization
+补偿教育：compensational education
+日常生活审美化：the aestheticization of daily life
+道德话语：moral discourse
+定量调查：quantitative survey
+苗族刺绣：Miao embroidery
+和谐家庭：Harmonious Families
+城市适应：city adaptation
+经济动因：economic motivation
+职业生涯辅导：career counseling
+马克思主义人学：Marxist human theory
+口碑营销：WOM marketing
+伊斯兰法：Islam law
+民族习惯法：ethnic customary law
+异文化：foreign culture
+马列主义：Marxism and Leninism
+政策转型：Policy Transformation
+儿童福利：child welfare
+参与方式：participation ways
+家庭制度：Family system
+打工妹：female farmer workers
+社区体制：community system
+主观感受：Subjective Feelings
+汉人：the Hans
+消费社会学：consumption sociology
+制度正义：Systematic Justice
+个人绩效：individual performance
+家庭政策：family policy
+性别不平等：sex inequality
+政府机构改革：government institutional reform
+译介：translate and introduce
+心理基础：psychological foundation
+社会工作方法：social work methods
+《黄帝四经》：the Four Classics of Huangdi
+农耕文明：agriculture civilization
+语码选择：code choice
+预防与干预：Prevention and Intervention
+政治人：Political Man
+职业设计：career design
+奴隶社会：slave society
+生存逻辑：survival logic
+性革命：sexual revolution
+组织价值观：organizational value
+省际边缘区：provincial border-regions
+婚姻关系：marital relations
+婚姻观：marriage concept
+精神文化消费：spiritual and cultural consumption
+需要层次理论：Theory of Need Level
+文秘工作：Secretarial work
+集体责任：collective responsibility
+公安应用写作：police practical writing
+婚姻行为：marriage behavior
+政府公关：government public relation
+精神结构：spiritual structure
+语言认同：language identity
+经济保障：economic guarantee
+东方管理学：oriental management
+择偶标准：mate selection criteria
+农村最低生活保障制度：the minimum life guarantee system of rural residents
+民族识别：national identification
+价值立场：value stand
+心理健康服务：mental health services
+社会表征：Social representation
+评价维度：evaluation dimension
+打工经济：engagement economy
+陇中地区：Longzhong Area
+角色认同：role identification
+仁爱精神：benevolent spirit
+经济国家：economic state
+居留意愿：Residing Preference
+政治维度：political dimension
+社会工作职业化：social work professionalization
+社会福利社会化：social welfare socialization
+政治建设：Politics Construction
+梯田文化：terrace culture
+男孩偏好：boy preference
+票号：exchange shop
+油田社区：oilfield community
+会话风格：conversational styles
+社会改造：social reconstruction
+十一届三中全会：the Third Plenary Session of the Eleventh Central Committee of the CPC
+理论前提：theoretical precondition
+系统视角：System Perspective
+企业社会工作：Industrial Social Work
+实践机制：practical mechanism
+中越边境：Sino-Vietnamese Border
+陈衡哲：Chen Heng-zhe
+少年刑法：juvenile criminal law
+村委会选举：village committee elections
+社区自组织：community self-organizing
+现实环境：Realistic environment
+幸福悖论：happiness paradox
+机械团结：mechanical solidarity
+科技创新人才：technological innovation talent
+历史轨迹：historical development
+多层次理论：multilevel theory
+社区公共物品：community public goods
+主体自觉：subject consciousness
+农村牧区：Rural and Pastoral Areas
+国家政权建设：state power construction
+网络婚姻：network marriage
+民族个性：national identity
+社区控制：community control
+政治态度：political attitudes
+家庭社会工作：Family social work
+公共人力资源管理：Public Human Resource Management
+合作成本：cooperation cost
+制度公平：system equity
+农村精英：rural elite
+婚姻生活：marital life
+刘易斯转折点：Lewisian Turning Point
+空间政治：Spatial Politics
+公关意识：consciousness of public relations
+理论视角：theory perspective
+组织成员：organization members
+社会支配倾向：social dominance orientation
+经济供养：economic support
+民俗志：folklore ethnography
+迷文化：fan culture
+布傣人：the Phu Thays
+女性欲望：female desire
+专业社会工作：Specialized social work
+宗族性村落：Patriarchal clan village
+云南民族文化：Yunnan national culture
+人文知识分子：humanistic intellectual
+构建社会主义和谐社会：building a harmonious socialist society
+集体消费：collective consumption
+学理：academic theory
+跨文化理解：cross-cultural understanding
+规范性理论：normative theory
+传统犯罪：traditional crime
+通识课程：basal course
+城镇社区：town community
+人文主义精神：humanist spirit
+弱关系：weak relation
+参政权：political rights
+自由秩序：free order
+个体本位：individual standard
+需要层次：demanding levels
+女性农民工：female migrants
+社会性别公平：gender equity
+青少年工作：youth work
+农村研究：Rural Study
+认知闭合需要：need for cognitive closure
+奖励扶助制度：the system of encouragement and assist
+主观幸福：subjective well-being
+毕摩文化：Bimo Culture
+人岗匹配：Person-post Matching
+父母意识：parental awareness
+农村贫困人口：rural poor population
+教学思考：teaching thought
+女性主义翻译研究：feminist translation studies
+生育文明：fertility civilization
+程序公平：procedure fairness
+社会心理环境：social psychological environment
+廉洁文化：probity culture
+认知相对主义：cognitive relativism
+高等教育管理学：higher education management
+唐僧：tang Seng
+地域认同：regional identity
+村庄治理：village management
+村级组织：village organization
+制度化参与：institution participation
+手语翻译：sign language interpreting
+精英循环：elite circulation
+干群关系：relation between cadres and masses
+信用卡风险：credit card risk
+人类生存：human survival
+家庭变迁：family changes
+理论自觉：theory consciousness
+实践学习：practical learning
+道德同一性：moral identity
+城市农民工：urban peasant worker
+政治变迁：political vicissitude
+哈佛商学院：Harvard Business School
+蒙古族文化：Mongolian Culture
+问题与措施：problems and countermeasures
+社会形式：social form
+家庭稳定：Family stability
+研究路径：research route
+青少年教育：teenagers education
+风险投资企业：venture capital enterprise
+道德评判：moral judgment
+地位获得：status attainment
+男尊女卑：men are superior to women
+礼治：rule of courtesy
+抽样效率：sampling efficiency
+后现代美学：Post-modern aesthetics
+个人主动性：personal initiative
+资本主义发展：development of capitalism
+公私：public and private
+从众行为：herd behavior
+党的思想建设：the ideological construction of the Party
+学科范式：discipline paradigm
+垄断资本：monopoly capital
+民族接触：national contact
+职场性骚扰：workplace sexual harassment
+社会性别视角：gender perspectives
+社会层级结构：Social Level Structure
+图腾制度：totem system
+性别理论：gender theory
+国家整合：state integration
+发展机会：development opportunity
+经济理性：economic ration
+《第二性》：The Second Sex
+中国思想史：Chinese intellectual history
+专业认同：professional identification
+乌尔里希·贝克：Ulrich Beck
+个人空间：individual space
+社会事务：social affairs
+国家力量：state power
+统治政策：ruling policy
+国家-社会关系：state-society relationship
+性别公正：gender justice
+行政规范：administrative norm
+女性主义经验论：feminist empiricism
+马克思主义民族理论：Marxist ethnic theory
+言语礼貌：verbal politeness
+居民储蓄率：Household Saving Rate
+交易秩序：transaction order
+人口动态：population dynamics
+经验理性：experience reason
+分布式创新：distributed innovation
+教育学史：history of pedagogy
+精神保障：spiritual security
+工资歧视：wage discrimination
+公共消费：Public consumption
+现代秘书：Modern Secretary
+村落生活：village life
+侗族社会：society of Kam-people
+贫困原因：poverty causes
+办公室管理：office management
+理性重建：rational reconstruction
+道德影响：moral influence
+角色调适：role adjustment
+民族研究：ethnic study
+前科消灭：elimination of criminal record
+现代领导者：modern leaders
+职业资格标准：professional qualification standard
+禁毒工作：Drug control
+网络社会支持：online social support
+道德现象：moral phenomenon
+西方人类学：western anthropology
+小康社会建设：construction of well-off society
+生育率转变：Fertility transition
+生育间隔：Birth spacing
+公共事业管理专业：public administration specialty
+引进人才：introduction of talents
+情感原则：emotional principle
+心理异化：psychological alienation
+职业分层：occupational stratification
+达斡尔语：Daur language
+五要素：five elements
+交往伦理：Communicative Ethics
+大众消费文化：mass consumer culture
+亚运：Asian Games
+吸引人才：attracting talents
+节日习俗：festival custom
+能力构建：capability construction
+求职者：job seeker
+婚姻模式：marriage mode
+性别分工：gender division of labor
+精神独立：spiritual independence
+社区权力：community power
+天职：bounden duty
+主要流派：major schools
+决策失误：decision-making misplay
+非制度化政治参与：non-institutionalized political participation
+土瑶：Tu Yao
+价值介入：value involvement
+利益制衡：benefit balance
+管理幅度：management range
+权力边界：power boundary
+团伙犯罪：gang crime
+苏州高新区：Suzhou High-tech Zone
+社会公共性：social publicity
+价值特征：Value Characteristics
+新现象：new phenomenon
+社会代价：social cost
+永恒女性：Eternal female
+中等职校：secondary vocational school
+实践社区：communities of practice
+海南黎族：Hainan Li Nationality
+美国女性：American women
+中国人的价值观：Chinese values
+直接服务：direct service
+养老服务：service for the aged
+新经济组织：new economic organization
+山寨：mountain fastness
+群体冲突：Group conflict
+民族过程：ethnic process
+群体规范：group norm
+婚姻形式：marriage form
+比较管理：comparative management
+苏北人：Subei people
+店铺名称：shop names
+差额选举：competitive election
+初婚年龄：age at first marriage
+战略领导能力：Strategic Leadership
+正态模糊数：normal fuzzy number
+时间秩序：Time Order
+性别分层：gender stratification
+IT员工：IT employee
+消除策略：elimination strategy
+研究证据：Research evidence
+流动的现代性：liquid modernity
+基层治理：Grassroots Governance
+社区社会资本：Community social capital
+三维理论：three-dimensional theory
+写文化：Writing Culture
+媒介暴力：Media Violence
+空间选择：space choice
+单因素法：Single factor method
+迁移机理：Transport mechanism
+五力分析：Five Force analysis
+不确定层次分析法：the uncertain AHP
+汉寿县：HanShou County
+民族繁荣：national prosperity
+函数型数据：functional data
+人才学：talent studies
+电视知识分子：TV intellectuals
+阶层认同：class identity
+公平观：Fair View
+女性白领：Female white-collar
+古罗马妇女：Ancient Roman women
+饮食习俗：diet custom
+陈撷芬：Chen Xiefen
+任务框架：task frame
+休闲制约：leisure constraints
+安置社区：resettlement community
+国际教育服务贸易：International education service trade
+背景因素：Background Factors
+袭警：Assaulting police
+即时通讯工具：Instant Messaging
+任务特征：task characteristic
+中华民族认同：Chinese Nation identity
+预期效用理论：Expected Utility Theory
+中部城市：Central city
+人口统计特征：Demographic Characteristics
+职业性别隔离：occupational sex segregation
+团队沟通：Team communication
+压力应对方式：Stress coping styles
+舟曲县：Zhouqu county
+欧盟制度：EU institution
+广交会：Canton Fair
+爱情价值观：love values
+妇女问题：Woman Question
+工作效能感：job self-efficacy
+ELECTRE方法：ELECTRE method
+实践探究：practical research
+仁慈领导：Benevolence Leadership
+社会化网络：Social Network
+系统干预：Systematic intervention
+汶川地震报道：Wenchuan Earthquake reports
+逻辑路径：logical path
+青少年发展：adolescent development
+年龄构成：age structure
+血亲：blood relation
+肯德尔和谐系数：Kendall coefficient of concordance
+实验室实验：laboratory experiment
+社区调查：community survey
+现状与前景：Current Situation and Prospect
+体系化授权：systematical empowerment
+民意表达：Expression of public opinion
+蕴涵规则：Implication Rule
+性倾向：Sexual orientation
+福利思想：Welfare thought
+复杂社会网络：complex social network
+领导不当：Abusive Supervision
+生命成本：life cost
+引导策略：guiding strategy
+生育保险制度：maternity insurance system
+助人自助：helping people to help themselves
+选择偏差：Selection Bias
+裕固族研究：Yugur studies
+快餐文化：fast food culture
+永久性迁移：permanent migration
+分工合作：division and cooperation
+Max-NPV项目调度：Max-NPV project scheduling
+组织行为模式：organizational patterns of behaviors
+整体性思维：comprehensive thinking
+盘龙区：Panlong District
+ELECTRE法：ELECTRE method
+处理机制：treatment mechanism
+Chow检验：chow breakpoint test
+电子表格模型：Spreadsheet Model
+年金制度：annuity system
+人口规模预测：Population forecast
+专业实习：field practice
+素质修养：quality accomplishment
+公共事件：public incidents
+教学模块：teaching model
+共同规范：common structural rules
+学科特点：subject characteristic
+治理经验：management experience
+实践要求：practical demand
+可能性与现实性：possibility and reality
+心智模式：intelligence model
+三元结构：tri-element structure
+决策辅助：decision assistant
+迁移行为：migration behavior
+灾害预警：disaster early warning
+重要途径：key way
+大型社会活动：large-scale social activities
+德宏州：Dehong district
+人的尺度：the human rule
+城市郊区化：urban suburbanization
+社会福利思想：social welfare thought
+均衡接近度：the balanced adjacent degree
+科学管理原理：The Principles of Scientific Management
+强化途径：Strengthening Approach
+伦理决策：ethical decision
+女性服饰：women's dress
+女红：needle work
+双重功能：dual function
+未来组织：future organization
+宏观对策：macroscopic countermeasure
+生态环境行为：eco-environmental behavior
+技术路径：technical route
+公众需求：public demands
+农村聚落：rural habitat
+人地关系地域系统：Human-activity-Geographical-environment regional system
+流动特征：flow characteristics
+对策思路：counter measure
+代际关系：relationship between generations
+增能：energy increased
+主动力：active force
+排斥力：Repulsive force
+创造发明：creation and invention
+平均效率：average efficiency
+石家庄地区：Shijiazhuang area
+聚集度：Degree of aggregation
+K函数：K Function
+消费者价值观：consumer values
+家庭类型：family types
+员工行为：staff behavior
+政策理念：policy idea
+空巢老人：empty nest aged people
+性侵害：Sexual assault
+干预对策：Intervention countermeasures
+湘西苗族：Miao nationality in Western Hunan
+单亲子女：Single parent child
+游戏教学法：game teaching method
+护理风险管理：nursing risk management
+刑事责任年龄：age for penal responsibility
+儿童权利：children rights
+木桶理论：wooden bucket theory
+幸福度：happiness degree
+性别选择：Sex Selection
+口碑传播：word of mouth
+论著：Original articles
+贫困测量：measurement of poverty
+第三方介入：third party intervention
+群体特征：population characteristic
+婚恋观：Concept of marriage and love
+教育程度：education degree
+健康自评：Subjective health
+养老机构：geriatric nursing home
+转化机制：transfer system
+生活态度：life attitude
+代际转移：intergenerational transfer
+职业理念：professional ethics
+动态培养：Dynamic culture
+限制性因素：restricted factors
+城市儿童：urban children
+培养规格：cultivation standards
+序列特征：sequence feature
+健康问题：health problems
+女性吸毒者：female drug addicts
+求职行为：job search behavior
+高校领导：university leaders
+中国文化背景：Chinese cultural context
+指导关系：mentoring relationship
+组织伦理气氛：organizational ethics climate
+预测研究：Forecast research
+多重对应分析：Multiple correspondence analysis
+人本原理：humanistic theory
+消费状况：consumption status
+弱势地位：weak position
+哲学方法：Philosophy method
+换位思考：trans-positional thinking
+构建方法：building method
+白裤瑶：baiku yao population
+三级质控：three level quality control
+日常活动：Daily activities
+焦点组访谈：focus group discussion
+专业技术职务：professional title
+协同治理：govern coordinately
+死亡观：Concept of death
+新药申请：new drug application
+男女差异：gender differences
+形象建设：image development
+本底调查：Baseline survey
+危险性因素：risk factor
+生殖伦理：reproductive ethics
+间接估计：Indirect estimation
+计划生育工作者：family planning worker
+质量建设：quality development
+冲突监测：Conflict monitoring
+组织类型：Histological type
+老年产业：mature industry
+非线性主成分分析：nonlinear PCA
+城中村改造：reconstruction of city village
+人才资源配置：talent resource allocation
+科学引导：scientific guidance
+看与被看：Watching and being watched
+面板单位根检验：panel unit root
+多元化管理：multiple management
+人口再分布：population redistribution
+校内实训基地：practice training base inside school
+有向加权图：weighted digraph
+老年群体：old people
+永嘉县：Yongjia county
+农村公共空间：rural public space
+新莞人：new Dongguanese
+城市家庭：city family
+资源产量法：resource yield method
+方位空间：orientation workspace
+主体功能区划：regionalization of major development function
+住宅形态：house form
+地震影响：seismic impact
+咨询设计：consulting and design
+咨询行业：consulting industry
+角色错位：Dislocation of roles
+管理任务：management task
+民居建筑：residential construction
+领导思想：ideology of leadership
+总体特征：general feature
+偶然因素：accidental factors
+老年设施：facilities for the aged
+空心村：inner-decaying village
+不同形态：different forms
+人口预测模型：population forecast model
+居民出行调查：resident trip investigation
+信息咨询系统：Information Consultation System
+环境支持体系：environment supporting system
+西学东渐：west influence
+信息可信度：information reliability
+内部冲突：internal conflict
+结构动力：structural dynamics
+人水和谐：harmony of people and water
+居住形式：type of habitation
+风险控制模型：risk control model
+非统计专业：non-statistical speciality
+目标分解：goal decomposition
+永定区：Yongding district
+拖延行为：dragging behavior
+规范要求：standard requirement
+消费分层：the stratification of consumption
+新城区：New City Zone
+认同机制：Identifying mechanism
+两阶段抽样：two-stage procedures
+整体框架：Whole frame
+民族分布：ethnic distribution
+非语言符号：Non-linguistic Signs
+校外实习：Practice outside the college
+社会事业：social enterprises
+女性伦理：female ethics
+住宅需求：house demand
+模糊综合模型：fuzzy synthetic model
+文献计量法：biblio-metrics method
+信息进化：information evolution
+空间观念：views of space
+集体表象：collective appearance
+非农产业：nonagricultural industry
+技术网络：technological network
+应用统计：applied statistics
+管理学原理：principle of management
+统计学原理：statistics theory
+柔性模式：flexible mode
+属性值：attribute values
+外流：free stream
+小团队：small team
+客观赋权法：objective weight determination
+社会现状：social status quo
+中小型：medium and small sized
+民间风俗：folk custom
+概率水平：Probability level
+社会空间演化：transformation of social space
+上海市郊区：suburban areas of Shanghai
+心理困惑：psychological puzzlement
+花腰彝：Huayao Yi
+民族博物馆：National Museum
+城市社会空间结构：urban social spatial structure
+实践合理性：practice rationality
+未来城市：future city
+人力资源管理实践：human resource practice
+昙石山遗址：Tanshishan cultural relics
+他组织：Hetero organization
+谱系聚类法：hierarchical clustering method
+城市社区管理体制：Urban community management system
+智能化犯罪：Intelligence crime
+工作艺术：work art
+工作目标：working goal
+列联表分析：contingency table analysis
+宁夏南部山区：the mountainous area of southern Ningxia
+交互式决策：interactive decision making
+运算法则：operational laws
+城市弱势群体：urban weak group
+Logistic增长模型：Logistic growth model
+人和：support of people
+信任问题：trust problem
+穆棱市：Muling City
+大街：main street
+实施环节：implementation link
+多级评价：Multilevel Evaluate
+垃圾电厂：refuse power plant
+就业准入：employment permission
+宏观决策：macroscopic decision-making
+专家权重：weight of experts
+科技因素：technical factor
+现代管理思想：modern management thoughts
+人口地理：population geography
+新型社区：new community
+十大关系：Ten relation
+基本素养：basic accomplishment
+救助管理：succour administration
+产品标准化：product standardization
+现状特点：present characteristics
+强势文化：preponderant culture
+人才评价：estimation of person with ability
+超前意识：leading consciousness
+决策目标：decision aims
+方法技巧：method and skill
+城镇地价：urban land price
+知识层次：knowledge hierarchy
+流动人口聚居区：Floating Population Collectivity Community (FPCC)
+权威关系：authoritative relation
+组织激励：organizational incentive
+协调系数：harmonious coefficient
+对外工程承包：overseas project contracting
+实名制：system of real name
+熵权系数法：entropy method
+弱质产业：weak industry
+低生育水平：low fertility
+体制变迁：institutional transition
+组织变迁：organization evolution
+集结方法：aggregated approach
+户口：census register
+工商活动：industrial and commercial activity
+管理类课程：management curricula
+复杂性特征：complexity features
+科研合作：scientific research cooperation
+观察视角：viewing angle
+为政以德：governing on the basis of virtues
+质化方法：qualitative methods
+秘书专业：secretary major
+五四新文化运动：the May 4th Movement of New Culture
+领导集体：leadership collective
+反馈模式：feedback model
+企业秘书：enterprise secretary
+社会实体：Social substance
+模糊思想：Fuzzy thought
+生产率分析：Productivity analysis
+科学计量：science measurement
+人口增长模型：population growth model
+乡村文明：rural civilization
+抗逆力：resistance against disadvantage
+阶层意识：class consciousness
+聚落景观：settlement landscape
+理工科大学生：engineering college student
+职业差异：Occupational differences
+农民流动：Peasant Movement
+环塔里木：the region around Tarim
+乡风文明：custom civilization
+惠农政策：benefiting-farmers policy
+农民市民化：Farmers citizen
+道德养成：morality forming
+重大事件：Great event
+皖南山区：Mountains in southern Anhui
+相关学科：relevant subjects
+人口压力指数：Index of population pressure
+养老：provide for the aged
+额敏县：Emin County
+个性心理：individual mentality
+文明进步：civilization progress
+职业分化：Vocational differentiation
+人口格局：population distribution pattern
+HRM实践：HRM practice
+块状经济：massive economical
+同一性危机：crisis of identity
+信息稳定：Information stability
+五行说：wuxing theory
+最优组合模型：optimal combination model
+沅江市：Yuanjiang City
+社会设置：social institution
+实践运用：practice and application
+执政信任：ruling trust
+性别主流化：gender mainstreaming
+决策工具：decision-making tool
+家政学：household management
+法定条件：Legal Terms
+公司制企业：Company system enterprises
+自然资源利用：natural resource utilizing
+居住格局：Settlement pattern
+隐性流失：recessive loss
+民族社区：minority community
+浙江海岛：islands in Zhejiang
+街头文化：street culture
+直觉梯形模糊数：Intuitionistic trapezoidal fuzzy numbers
+网络学习社区：Networked Learning Communities
+义工服务：volunteer service
+双证：double certificate
+第三人效果：the Third Person Effect
+后发国家：developing country
+弱势文化：Underprivileged culture
+信任策略：trust policy
+程序重构：program restructuring
+教学要点：essentials of teaching
+个人能力：personal ability
+质量提升：quality promotion
+官僚体制：bureaucratic system
+网络问题：Net problem
+多准则群决策：multi-criteria group decision-making
+社会仿真：Social simulation
+计算机人才：computer talents
+知识转移机制：Transferring System of Knowledge
+统计监督：statistics supervision
+社会知识：Social Knowledge
+关键成功因素(CSF)：Critical Success Factor(CSF)
+行动领域：Action Field
+公文处理：document treatment
+古典名著：classic works
+测评指标体系：testing and evaluating system
+学会工作：association work
+职业开发：professional development
+和谐社会建构：harmonious society construction
+EOWA算子：EOWA operator
+CA-AR模型：CA-AR model
+第三者效果：the Third-person Effect
+公共文化设施：public cultural facility
+吸纳能力：absorptive capability
+信息化人才：information talent
+负面心态：negative mentality
+道德问题：ethical issues
+民国初年：the first years of the Republic
+IT人才：IT talent
+性别偏见：sex prejudice
+山区县：Mountainous County
+职业准入：vocational accession
+管理咨询公司：management consulting company
+合作决策：cooperative decision-making
+集体利益：collective interests
+创新路径：innovative way
+非权力影响：Non-Power Influence
+知识供给：knowledge supply
+协调职能：coordination function
+五项修炼：Five Practices
+社会科学成果：achievement on social science
+彼得·德鲁克：Peter F. Drucker
+统计抽样检验：Statistical sample inspection
+中国乡村社会：China's rural society
+信任体系：trust model
+传媒素养教育：Media Education
+关系网：Relation Web
+真理观：truth viewpoint
+班级规模：class scale
+使用与满足：uses and satisfaction
+中国学术史：Chinese academic history
+述略：brief account
+社会区：Social areas
+多Agent建模：multi-agent modeling
+女性受众：Female Audience
+余三定：Yu Sanding
+礼法：law and discipline rite
+供需匹配：supply and demand matching
+职业特征：Professional feature
+舆论氛围：opinion atmosphere
+族群建构：construction of ethnic group
+社会安全阀：social safety
+人事管理信息系统：personnel management information system
+老龄化指数：aged index
+泛珠三角区域：The Pan-pearl River Delta
+纯科学资本：pure scientific capital
+知识流失：knowledge loss
+危机管理能力：crisis management capability
+变化原因：the reason of variation
+管理思想史：history of management thoughts
+多元主体：plural subject
+二维回归：bidimensional regression(BR)
+继续承诺：continuance commitment
+柔性领导：flexible leadership
+技术管理学：management of technology
+城镇规模：urban scale
+组织复杂性：organizational complexity
+职业信息：vocational information
+不确定多属性决策：multiple attribute decision-making
+动态面板数据模型：Dynamic panel data
+城市承载力：urban carrying capacity
+权力性影响力：authoritative influence
+管理运筹学：management operational research
+企业发展阶段：enterprise developing stage
+组织学习能力：organizational learning ability
+个体自我：personal self-concept
+人观：the outlook of human beings
+社会实验：social experimentation
+经典统计：classical statistics
+职称评审：technical title evaluation
+刘易斯拐点：Lewis turning point
+组织情绪：organization emotion
+组织情绪文化：emotional culture of organization
+统计监测：statistical monitor
+案例法：case analysis
+职业延迟满足：vocational delay of gratification
+挑战杯：Challenge Cup
+开发分析：development analysis
+礼仪修养：etiquette cultivation
+层级树：Hierarchical Tree
+人力资本流动：Human capital mobility
+行政发展：development of administration
+不确定性偏好：uncertain preference
+非抽样误差：non-sampling errors
+社会网络结构：social network structure
+突破创新：radical innovation
+城市国际化：urban internationalization
+空间聚集：spatial cluster
+客家地区：Hakka area
+Lee-Carter模型：Lee-Carter model
+新型模式：new model
+区域管理学：regional management
+海洋社会学：ocean sociology
+关系信任：relational trust
+延边朝鲜族：Yanbian Korean National Minority
+创新形式：Innovation Forms
+偏差行为：deviation behaviors
+人才强国战略：talent powerful nation strategy
+社会文化变迁：social cultural change
+简单性原则：simple principle
+灰色随机变量：grey random variable
+科研成果转化：Transformation of scientific research achievements
+统计调查方法：statistical investigation method
+团队心理安全：Team Psychological Safety
+消费增长：Growth of Consumption
+科学人才观：scientific talent view
+群决策方法：Group-decision Method
+私利：Private Benefits
+根本动力：basic motive force
+作用模型：function model
+知识矩阵：knowledge matrix
+长期经济增长：Long-Run Economic Growth
+数学物理方法：methods of mathematical physics
+实践思考：practical thinking
+季节协整：Seasonal cointegration
+分县：each county
+企业咨询：enterprise consultation
+就业水平：the level of employment
+秘书教育：Secretary Education
+博白县：Bobai county
+统计学课程：statistics course
+动态对等翻译：Dynamic equivalent translation
+综合服务平台：integrated service platform
+理论启示：theoretical enlightenment
+分担机制：sharing mechanism
+社会传播：social dissemination
+原生文化：authentic culture
+生育观念：opinion of reproduction
+平均发展速度：average tempo
+区域特色经济：regional characteristic economy
+交换行为：exchange behavior
+网络统计：internet statistics
+科学知识社会学(SSK)：sociology of scientific knowledge
+精算研究：actuarial research
+传递熵：transference entropy
+赋权法：weighting method
+日本人类学：Japanese anthropology
+集群行为：flocking behavior
+因子分析模型L：Factor analysis model L
+结构变迁：structure changes
+工期优化：Time Optimization
+结构人类学：Structural anthropology
+城市人口密度：urban population density
+人口可持续发展：population sustainable development
+民族文化传统：cultural tradition
+乡村地区：rural areas
+偏差度：preference-deviation measure
+初婚：first marriage
+消费性支出：living expenditure
+青春期教育：puberty education
+经济精英：economic elite
+价值考量：value consideration
+专家咨询制度：expert consulting system
+马克斯.韦伯：Max Weber
+学术研究方法：academic research method
+金沙江河谷：the Jinshajiang River Valley
+理论困境：theoretic predicament
+利益导向：interest orientation
+妇女形象：female image
+儿童成长：children development
+政府作为：government action
+员工健康：Employee Health
+浙东学术：East Zhejiang Scholarship
+小组社会工作：group social work
+学术自觉：academic awareness
+复吸毒：drug relapse
+生育行为：Fertility behavior
+利益协调机制：coordination mechanism of interests
+现实婚姻：realistic marriage
+网络世界：network world
+行政领导：administrative leaders
+职业人：vocational person
+CPPS软件：CPPS software
+政府职能定位：government function positioning
+徐州都市圈：Xuzhou metropolitan area
+生存境遇：living conditions
+教育深化：Education Deepening
+数学成绩：mathematics performance
+社会工作实习：Social Work Practice
+积极自由：Active Liberty
+贫困代际传递：intergenerational transmission of poverty
+高等教育分流：higher education shunt
+解放区文学：literature of liberated area

@@ -1,0 +1,5000 @@
+数值模拟：numerical simulation
+神经网络：neural network
+小波变换：Wavelet transform
+模糊控制：Fuzzy control
+嵌入式系统：embedded system
+专家系统：expert system
+数据采集：Data acquisition
+控制系统：control system
+虚拟仪器：virtual Instrument
+温度场：temperature field
+柴油机：diesel engine
+信息系统：information system
+聚类分析：cluster analysis
+虚拟现实：virtual reality
+市场经济：market economy
+模式识别：pattern recognition
+数据处理：data processing
+粗糙集：Rough set
+计算机应用：computer application
+主成分分析：principal component analysis
+粉煤灰：fly ash
+数值分析：numerical analysis
+自适应控制：adaptive control
+计算机仿真：computer simulation
+优化设计：optimum design
+网络管理：Network management
+水质：Water quality
+自动控制：automatic control
+信息融合：information fusion
+智能控制：intelligent control
+温度控制：temperature control
+正交试验：orthogonal test
+定量分析：Quantitative analysis
+统计分析：statistical analysis
+地理信息系统：Geographic Information System
+液压系统：hydraulic system
+钢筋混凝土：Reinforced concrete
+模型试验：model test
+结构设计：structure design
+管理系统：management system
+时间序列：time series
+综合利用：comprehensive utilization
+风险分析：risk analysis
+数值仿真：numerical simulation
+正交设计：orthogonal design
+蚁群算法：ant colony algorithm
+Petri网：Petri net
+最优控制：optimal control
+数值计算：numerical calculation
+控制策略：control strategy
+斜拉桥：cable-stayed bridge
+非线性系统：nonlinear system
+鲁棒控制：robust control
+线性规划：linear programming
+安全管理：safety management
+SWOT分析：SWOT analysis
+模糊神经网络：Fuzzy neural network
+沥青路面：asphalt pavement
+桥梁工程：bridge engineering
+应力分析：stress analysis
+模糊逻辑：fuzzy logic
+农业工程：agricultural engineering
+碳纤维：carbon fiber
+稳定性分析：stability analysis
+节能：energy conservation
+土壤侵蚀：soil erosion
+复合地基：composite foundation
+系统集成：system integration
+软件设计：software design
+均匀设计：uniform design
+模糊综合评价：fuzzy comprehensive evaluation
+系统辨识：system identification
+风险评估：risk assessment
+性能分析：performance analysis
+环保：environmental protection
+模糊聚类：fuzzy clustering
+动力响应：Dynamic response
+水环境：water environment
+计算方法：calculation method
+评价指标：evaluation index
+因素分析：factor analysis
+能耗：energy consumption
+系统仿真：system simulation
+地方政府：local government
+虚拟样机：Virtual prototype
+在线监测：on-line monitoring
+网格计算：grid computing
+振动控制：vibration control
+计算机控制：Computer Control
+曲线拟合：curve fitting
+沥青混合料：Asphalt mixture
+热分析：Thermal analysis
+交通工程：traffic engineering
+表面张力：surface tension
+数字图像处理：digital image processing
+模糊综合评判：Fuzzy comprehensive evaluation
+吉林省：Jilin province
+经济分析：economic analysis
+系统动力学：system dynamics
+数字信号处理：Digital signal processing
+深基坑：deep foundation pit
+应力强度因子：stress intensity factor
+线性矩阵不等式：linear matrix inequality
+直接转矩控制：direct torque control
+土力学：soil mechanics
+变结构控制：variable structure control
+数据模型：data model
+预测模型：prediction model
+仿真分析：simulation analysis
+景观设计：Landscape design
+施工技术：construction technique
+本构模型：constitutive model
+公众参与：public participation
+伺服系统：Servo system
+空间分析：spatial analysis
+RBF神经网络：RBF Neural Network
+数据分析：data analysis
+施工方法：construction method
+信息共享：information sharing
+应力集中：stress concentration
+两相流：two-phase flow
+数据传输：data transmission
+模拟退火算法：simulated annealing algorithm
+概念设计：conceptual design
+施工控制：construction control
+结构分析：structure analysis
+评价指标体系：evaluation index system
+质量评价：quality evaluation
+工业设计：industrial design
+串口通信：serial communication
+心率：Heart rate
+非线性分析：nonlinear analysis
+空间数据库：spatial database
+温度补偿：temperature compensation
+多孔介质：porous media
+MATLAB仿真：MATLAB simulation
+汶川地震：Wenchuan earthquake
+预应力混凝土：prestressed concrete
+并行工程：concurrent engineering
+燃气轮机：gas turbine
+卡尔曼滤波：Kalman Filtering
+传递函数：transfer function
+动态分析：dynamic analysis
+城市轨道交通：urban rail transit
+BP网络：BP network
+混凝土结构：Concrete structure
+离心泵：Centrifugal pump
+奇异值分解：Singular value decomposition
+大体积混凝土：mass concrete
+抗拉强度：tensile strength
+程序设计：program design
+断裂韧性：fracture toughness
+正态分布：normal distribution
+操作系统：operating system
+模糊评价：fuzzy evaluation
+汽油机：gasoline engine
+拱桥：Arch bridge
+相图：phase diagram
+心率变异性：Heart rate variability
+广东省：Guangdong Province
+动态特性：Dynamic characteristic
+建筑设计：architectural design
+地基处理：foundation treatment
+网络技术：network technology
+价值工程：value engineering
+结构优化：structural optimization
+状态监测：condition monitoring
+组合导航：integrated navigation
+数据管理：data management
+可靠性分析：reliability analysis
+功率谱：power spectrum
+大规模定制：mass customization
+图论：graph theory
+反馈控制：feedback control
+动态模型：dynamic model
+悬索桥：suspension bridge
+动力分析：dynamic analysis
+动态响应：dynamic response
+极限承载力：ultimate bearing capacity
+主动控制：Active control
+工程地质：engineering geology
+电磁兼容：electromagnetic compatibility
+新技术：new technology
+工程设计：engineering design
+相变：phase transformation
+温度传感器：Temperature Sensor
+层次分析法：analytical hierarchy process
+数学模型：Mathematical models
+地震反应：seismic response
+通径分析：Path analysis
+边界元法：Boundary Element Method
+串行通讯：Serial communication
+敏感性分析：sensitivity analysis
+拓扑优化：topology optimization
+交通流：traffic flow
+智能建筑：intelligent building
+独立分量分析：independent component analysis
+边界条件：boundary condition
+改性沥青：modified asphalt
+灰色理论：Grey Theory
+故障树：fault tree
+疲劳强度：fatigue strength
+公路隧道：highway tunnel
+虚拟装配：virtual assembly
+膨胀土：expansive soil
+绩效评估：performance evaluation
+参数识别：parameter identification
+成活率：survival rate
+应力分布：Stress Distribution
+动力特性：Dynamic characteristics
+监测系统：monitoring system
+理论分析：theoretical analysis
+工程应用：engineering application
+动力学模型：dynamic model
+摩擦系数：friction coefficient
+水泥混凝土路面：cement concrete pavement
+桩基：pile foundation
+冲击波：shock wave
+纳什均衡：Nash equilibrium
+非线性振动：nonlinear vibration
+数字仿真：digital simulation
+老年人：the elderly
+自适应滤波：adaptive filtering
+偶联剂：coupling agent
+断裂力学：fracture mechanics
+非线性控制：nonlinear control
+阴极保护：cathodic protection
+边界层：Boundary layer
+地震响应：seismic response
+岩土工程：geotechnical engineering
+步进电机：step motor
+多媒体课件：multimedia courseware
+姿态控制：attitude control
+软土：soft soil
+使用寿命：service life
+边坡稳定：slope stability
+分布式数据库：distributed database
+计算流体力学：computational fluid dynamics
+生态恢复：ecological restoration
+生产工艺：production process
+随机振动：random vibration
+信息处理：information processing
+动态模拟：dynamic simulation
+光学设计：optical design
+体制改革：System reform
+高速铁路：high-speed railway
+波动方程：Wave equation
+网络通信：Network communication
+系统工程：System engineering
+视频压缩：video compression
+模糊推理：fuzzy inference
+催化活性：catalytic activity
+Web数据库：Web database
+表面质量：surface quality
+孔结构：pore structure
+动态监测：dynamic monitoring
+施工工艺：construction technique
+应力波：stress wave
+直线电机：linear motor
+测试系统：testing system
+最短路径：shortest path
+实时控制：real-time control
+绿色设计：green design
+软土地基：soft soil foundation
+差动保护：differential protection
+硅橡胶：silicone rubber
+地质灾害：geological hazard
+三维可视化：3D visualization
+青藏铁路：Qinghai-Tibet Railway
+施工质量：construction quality
+电力机车：electric locomotive
+创新教育：creative education
+并行计算：parallel computation
+隧道工程：tunnel engineering
+可靠性设计：Reliability design
+硬件设计：Hardware design
+非线性动力学：nonlinear dynamics
+土木工程：civil engineering
+功率放大器：Power amplifier
+概率分布：probability distribution
+优化模型：optimization model
+CFG桩：CFG pile
+数字滤波：digital filter
+力学模型：mechanical model
+等效电路：equivalent circuit
+目标函数：objective function
+贵州省：Guizhou province
+冷却系统：Cooling system
+效用函数：utility function
+边坡工程：slope engineering
+飞行控制：flight control
+裂纹扩展：crack propagation
+轨道交通：rail transit
+公共卫生：Public health
+钢纤维：steel fiber
+工程造价：engineering cost
+敏捷制造：Agile Manufacturing
+方差分析：variance analysis
+理论模型：theoretical model
+安全评价：Safety assessment
+嵌入式操作系统：embedded operating system
+预防措施：preventive measures
+信息提取：information extraction
+强化学习：reinforcement learning
+生产管理：production management
+发展对策：development countermeasure
+地下空间：underground space
+产品数据管理：product data management
+张力控制：tension control
+信号分析：signal analysis
+高强混凝土：high strength concrete
+有限差分：finite difference
+设备驱动程序：Device driver
+网络优化：network optimization
+桥梁设计：bridge design
+非线性有限元：nonlinear finite element
+控制措施：control measure
+自然通风：natural ventilation
+效益分析：Benefit analysis
+混合遗传算法：Hybrid Genetic Algorithm
+建模与仿真：modeling and simulation
+服务创新：service innovation
+拉伸强度：tensile strength
+化学清洗：chemical cleaning
+回归方程：regression equation
+时程分析：time-history analysis
+性能试验：performance test
+盾构隧道：shield tunnel
+PLC控制：PLC control
+虚拟设计：virtual design
+挡土墙：retaining wall
+污染控制：pollution control
+半主动控制：semi-active control
+桥梁施工：bridge construction
+地面沉降：land subsidence
+内燃机车：diesel locomotive
+水位：water level
+坐标变换：coordinate transformation
+温度应力：thermal stress
+速度场：Velocity Field
+Logistic模型：Logistic model
+城市道路：urban road
+组件技术：component technology
+通风系统：ventilation system
+振动分析：vibration analysis
+应急管理：emergency management
+水路运输：waterway transportation
+空调系统：Air Conditioning System
+非饱和土：unsaturated soil
+模块化设计：modular design
+本构方程：constitutive equation
+网络拓扑：network topology
+内力：internal force
+信息平台：Information Platform
+AR模型：AR model
+自适应算法：Adaptive algorithm
+分析方法：analytical method
+微波加热：microwave heating
+频率响应：Frequency response
+工艺设计：process design
+精益生产：lean production
+生产函数：production function
+湍流模型：turbulence model
+数据存储：data storage
+风险识别：risk identification
+温度梯度：temperature gradient
+孔隙水压力：Pore water pressure
+数据库系统：Database System
+数据库设计：database design
+集对分析：set pair analysis
+综合评价：synthetic evaluation
+沥青混凝土：Asphalt concrete
+传热传质：heat and mass transfer
+疲劳试验：fatigue test
+模糊PID：fuzzy PID
+内模控制：internal model control
+生态效应：ecological effect
+小城镇：small towns
+开关磁阻电机：Switched reluctance motor
+二叉树：binary tree
+全球定位系统：global positioning system
+寿命预测：life prediction
+金属材料：metallic materials
+ANSYS软件：ANSYS software
+成组技术：Group Technology
+排队论：queuing theory
+热性能：Thermal property
+动力机械工程：power and mechanical engineering
+振动信号：vibration signal
+高强度：high strength
+裂缝控制：crack control
+水工结构：hydraulic structure
+大涡模拟：large eddy simulation
+顾客忠诚：customer loyalty
+热能动力工程：thermal power engineering
+永磁同步电机：permanent magnet synchronous motor
+电流密度：current density
+整数规划：integer programming
+运动仿真：motion simulation
+承载力：carrying capacity
+接口电路：interface circuit
+隔振：vibration isolation
+钢渣：Steel slag
+化学改性：chemical modification
+围岩：surrounding rock
+动平衡：dynamic balance
+反应谱：response spectrum
+断裂韧度：fracture toughness
+动态管理：dynamic management
+剪切强度：shear strength
+高边坡：high slope
+拆除爆破：demolition blasting
+风荷载：wind load
+国家标准：national standard
+动力学仿真：Dynamic Simulation
+造价控制：cost control
+信号完整性：signal integrity
+关联维数：correlation dimension
+冷却水：cooling water
+数值模型：numerical model
+静力分析：Static Analysis
+相位差：phase difference
+反馈线性化：Feedback Linearization
+屈服强度：yield strength
+设计参数：design parameter
+含水率：moisture content
+赤泥：red mud
+固化剂：curing agent
+疲劳损伤：fatigue damage
+东北地区：Northeast China
+化学反应：Chemical reaction
+工业应用：industrial application
+阻尼比：damping ratio
+曲面重构：surface reconstruction
+生产调度：production scheduling
+扭转振动：torsional vibration
+太阳辐射：solar radiation
+生产线：production line
+岩土力学：rock and soil mechanics
+长江：Yangtze River
+疲劳裂纹：fatigue crack
+健康监测：health monitoring
+变分不等式：variational inequality
+渗透系数：Permeability coefficient
+低功耗：low power consumption
+失效概率：failure probability
+温度裂缝：temperature crack
+海洋平台：offshore platform
+控制电路：Control circuit
+系统优化：system optimization
+工程质量：engineering quality
+状态观测器：State observer
+岩体：rock mass
+性能评估：performance evaluation
+受力分析：force analysis
+T-S模糊模型：T-S fuzzy model
+静态分析：static analysis
+货车：freight car
+测试方法：Test method
+活塞环：Piston ring
+FIR滤波器：FIR filter
+状态机：state machine
+大气腐蚀：atmospheric corrosion
+机理分析：mechanism analysis
+视景仿真：visual simulation
+Kalman滤波：Kalman filtering
+随机模拟：stochastic simulation
+可信计算：Trusted computing
+LMS算法：LMS algorithm
+输油管道：oil pipeline
+高性能：High performance
+二次规划：Quadratic programming
+客运专线：passenger dedicated line
+网络系统：network system
+渗流场：seepage field
+微机控制：microcomputer control
+应力松弛：stress relaxation
+高速列车：high-speed train
+公路建设：highway construction
+可靠性评估：reliability evaluation
+施工方案：Construction scheme
+全面质量管理：total quality management
+WebService：web service
+光面爆破：smooth blasting
+交通仿真：traffic simulation
+生长曲线：growth curve
+广州市：Guangzhou City
+模糊模式识别：fuzzy pattern recognition
+逆问题：inverse problem
+景观生态：landscape ecology
+视频传输：video transmission
+Modbus协议：modbus protocol
+数理统计：mathematical statistics
+摩擦学性能：tribological properties
+速度控制：speed control
+旅行商问题：traveling salesman problem
+直流电机：DC motor
+异步电机：induction motor
+自锚式悬索桥：Self-anchored suspension bridge
+传递矩阵：transfer matrix
+技术措施：technical measure
+工程管理：engineering management
+有限状态机：Finite state machine
+并行设计：concurrent design
+动力机制：dynamic mechanism
+建设工程：Construction project
+通信网络：communication network
+电力：electric power
+连杆：Connecting rod
+有源滤波器：active power filter
+羟基自由基：hydroxyl radical
+连续梁：continuous beam
+气流组织：air distribution
+模糊决策：fuzzy decision
+结构参数：Structural parameter
+初始对准：initial alignment
+接触分析：contact analysis
+解析解：analytic solution
+标准体系：standard system
+轨迹规划：trajectory planning
+钢管混凝土：concrete-filled steel tube
+VXI总线：VXI bus
+云模型：cloud model
+方案设计：scheme design
+质量体系：quality system
+自适应遗传算法：adaptive genetic algorithm
+非线性模型：nonlinear model
+设计方案：design scheme
+强夯：Dynamic compaction
+土地复垦：Land reclamation
+集散控制系统：distributed control system
+凸轮机构：Cam mechanism
+主元分析：principal component analysis
+励磁控制：excitation control
+主动悬架：active suspension
+疲劳断裂：fatigue fracture
+安全文化：safety culture
+实时监测：real-time monitoring
+钢筋混凝土结构：reinforced concrete structure
+无损检测：Non-destructive testing
+反分析：back analysis
+交通管理：traffic management
+性能指标：performance index
+热传导：Heat conduction
+卫星遥感：satellite remote sensing
+水平位移：horizontal displacement
+安全工程：safety engineering
+临界温度：critical temperature
+免疫遗传算法：immune genetic algorithm
+支持向量回归：support vector regression
+动态控制：dynamic control
+冻土：frozen soil
+模糊可靠性：fuzzy reliability
+钢管：steel pipe
+物流园区：logistics park
+承载能力：bearing capacity
+频谱：frequency spectrum
+蓝牙技术：Bluetooth Technology
+爆破振动：blasting vibration
+损伤力学：damage mechanics
+温升：temperature rise
+理论计算：theoretical calculation
+远程监控：remote monitor
+综合治理：comprehensive treatment
+热膨胀系数：Thermal expansion coefficient
+交通噪声：traffic noise
+桥梁结构：bridge structure
+多智能体系统：multi-agent system
+突变理论：catastrophe theory
+效果分析：effect analysis
+生态设计：Ecological design
+含水量：moisture content
+转动惯量：Moment of inertia
+智能仪表：intelligent instrument
+板料成形：sheet metal forming
+改进遗传算法：Improved genetic algorithm
+铁路隧道：railway tunnel
+交通控制：traffic control
+试验研究：experiment research
+数字地球：digital earth
+计算机系统：Computer system
+水下爆炸：underwater explosion
+降噪：Noise reduction
+金属基复合材料：metal matrix composites
+制冷系统：refrigeration system
+混凝土强度：concrete strength
+运筹学：operational research
+参数优化：parameters optimization
+灰色模型：gray model
+HOPF分岔：HOPF bifurcation
+环境效应：environmental effect
+谱分析：spectrum analysis
+驱动电路：drive circuit
+仿真软件：Simulation software
+动态调度：dynamic scheduling
+有效应力：effective stress
+供电系统：power supply system
+认知心理学：Cognitive psychology
+PI控制：PI control
+钢丝：steel wire
+物流中心：logistics center
+反舰导弹：anti-ship missile
+破坏模式：failure mode
+滑动轴承：sliding bearing
+分布式控制系统：Distributed control system
+抗滑桩：anti-slide pile
+小波分析：wavelet transform
+结构可靠性：structural reliability
+城市群：urban agglomeration
+可靠指标：reliability index
+腐蚀疲劳：corrosion fatigue
+变形分析：deformation analysis
+高效：High efficiency
+组合结构：composite structure
+混沌理论：chaos theory
+雷诺数：Reynolds number
+动态设计：dynamic design
+惯性导航：inertial navigation
+动态优化：dynamic optimization
+安全性评价：safety evaluation
+真空预压：vacuum preloading
+logit模型：logit model
+钢纤维混凝土：steel fiber reinforced concrete
+水煤浆：coal water slurry
+设计计算：design calculation
+动态测量：dynamic measurement
+地铁车站：subway station
+减阻：drag reduction
+激光扫描：Laser scanning
+三峡水库：Three Gorges Reservoir
+非定常流动：unsteady flow
+剪应力：shear stress
+水化热：hydration heat
+汽车工程：Automobile engineering
+高温高压：high temperature and high pressure
+岩质边坡：Rock slope
+阻抗匹配：impedance matching
+武器系统：Weapon system
+元胞自动机：cellular automaton
+空间矢量调制：space vector modulation
+抗弯强度：bending strength
+经济性分析：economic analysis
+频谱分析：spectral analysis
+温室气体：greenhouse gas
+本构关系：constitutive relationship
+控制模型：control model
+腐蚀速率：corrosion rate
+跟踪控制：tracking control
+数字地图：digital map
+爆破参数：Blasting parameters
+事故分析：accident analysis
+分维数：fractal dimension
+车牌识别：license plate recognition
+仿真技术：simulation technology
+网络分析：network analysis
+瓦斯爆炸：gas explosion
+连续刚构桥：continuous rigid frame bridge
+江西：Jiangxi Province
+气液两相流：gas-liquid two-phase flow
+有限理性：bounded rationality
+沥青混凝土路面：asphalt concrete pavement
+静载试验：static load test
+专业建设：specialty construction
+摄动法：perturbation method
+机械工程：mechanical engineering
+腐蚀机理：corrosion mechanism
+钢板：steel plate
+稳定性评价：stability evaluation
+极限分析：limit analysis
+时间复杂度：time complexity
+认知结构：cognitive structure
+财务评价：financial evaluation
+曲面拟合：surface fitting
+剪切变形：shear deformation
+案例推理：case-based reasoning
+电阻点焊：resistance spot welding
+接触电阻：contact resistance
+优化方法：Optimization method
+模型修正：model updating
+形状优化：shape optimization
+施工过程：construction process
+沉降观测：settlement observation
+PXI总线：PXI Bus
+DC/DC变换器：DC/DC converter
+损伤识别：damage detection
+集装箱码头：container terminal
+安全生产：safe production
+刚度矩阵：stiffness matrix
+稳健设计：robust design
+非恒定流：unsteady flow
+模型预测控制：model predictive control
+摩擦材料：Friction material
+组合导航系统：Integrated Navigation System
+非接触测量：non-contact measurement
+经济损失：economic loss
+软件平台：software platform
+视电阻率：apparent resistivity
+海冰：sea ice
+虚拟仿真：virtual simulation
+专家控制：expert control
+复杂适应系统：complex adaptive system
+资源调度：resource scheduling
+台湾海峡：Taiwan Strait
+虚拟人：Virtual human
+非定常流：unsteady flow
+多体动力学：multi-body dynamics
+土压力：soil pressure
+光纤布拉格光栅：fiber Bragg grating
+体制创新：system innovation
+可视化仿真：visual simulation
+超声波检测：ultrasonic testing
+知识工程：knowledge engineering
+点焊：spot welding
+机会成本：opportunity cost
+动应力：dynamic stress
+C/S模式：C/S mode
+在线测量：on-line measurement
+重力异常：gravity anomaly
+系统功能：system function
+地下结构：underground structure
+质量改进：quality improvement
+计算机管理：computer management
+压力损失：pressure loss
+居住区：residential area
+社会经济：social economy
+数据库管理系统：database management system
+模糊模型：Fuzzy model
+数字通信：digital communication
+概率模型：probability model
+水量平衡：water balance
+激光切割：laser cutting
+模糊PID控制：Fuzzy-PID control
+新材料：new material
+质量监督：quality supervision
+马尔可夫模型：Markov model
+多目标规划：multi-objective programming
+应力路径：stress path
+数学规划：mathematical programming
+移动荷载：Moving load
+服务水平：service level
+Nash均衡：Nash equilibrium
+定向爆破：directional blasting
+API函数：API function
+强化传热：enhanced heat transfer
+涡流：eddy current
+换热系数：heat transfer coefficient
+边界元：boundary element
+局部搜索：local search
+选址：site selection
+相似理论：similarity theory
+亚甲蓝：methylene blue
+短路：short circuit
+Galerkin方法：Galerkin method
+关键技术：key techniques
+控制网络：control network
+混合编程：mixed programming
+多学科设计优化：multidisciplinary design optimization
+结构可靠度：structural reliability
+嵌入式Internet：embedded Internet
+基坑支护：foundation pit support
+模糊聚类分析：fuzzy clustering analysis
+计算机程序：computer program
+弯矩：bending moment
+工作过程：working process
+磨损机制：wear mechanism
+伸缩缝：expansion joint
+地震反应分析：Seismic response analysis
+半实物仿真：hardware-in-the-loop simulation
+体外预应力：External prestressing
+沉积环境：depositional environment
+残余应力：residual stresses
+流固耦合：fluid-solid coupling
+埋地管道：buried pipeline
+城市交通：urban transportation
+原材料：raw material
+有限变形：finite deformation
+标准差：standard deviation
+启发式搜索：heuristic search
+动态矩阵控制：Dynamic matrix control
+空间索引：spatial index
+大气环境：atmospheric environment
+信息化建设：information construction
+弹性变形：elastic deformation
+减振器：shock absorber
+安全分析：safety analysis
+箱梁：box beam
+粘结强度：bond strength
+长江口：Yangtze Estuary
+模态参数：Modal parameter
+集成系统：integrated system
+电液伺服系统：electro-hydraulic servo system
+铁路桥：railway bridge
+雷达成像：radar imaging
+动态硫化：dynamic vulcanization
+神经网络控制：neural network control
+机械振动：mechanical vibration
+需求预测：demand forecast
+道路交通：road traffic
+动力稳定性：dynamic stability
+相对误差：relative error
+霍尔传感器：Hall sensor
+力学性质：Mechanical Properties
+空间插值：spatial interpolation
+排水系统：drainage system
+励磁涌流：inrush current
+相对密度：relative density
+机械设计：machine design
+疲劳分析：fatigue analysis
+电机控制：motor control
+连续小波变换：Continuous Wavelet Transform
+交通组织：Traffic organization
+加油站：gas station
+预应力混凝土结构：prestressed concrete structure
+误差修正：error correction
+平顺性：Ride comfort
+仿真建模：simulation modeling
+改进措施：improvement measure
+运行管理：Operation management
+三角模糊数：triangular fuzzy number
+随机规划：stochastic programming
+公共交通：Public traffic
+同步控制：synchronous control
+系统管理：system management
+自振频率：natural frequency
+教学系统：teaching system
+动力反应：dynamic response
+Matlab软件：Matlab software
+温差：temperature Difference
+光电传感器：photoelectric sensor
+工程实践：engineering practice
+MSComm控件：MSComm control
+子午线轮胎：radial tire
+压力梯度：Pressure Gradient
+施工监测：construction monitoring
+远程诊断：Remote diagnosis
+临界载荷：critical load
+建模方法：modeling method
+可靠度分析：reliability analysis
+电子设备：electronic equipment
+电子控制：Electronic control
+振动测试：vibration test
+流量系数：flow coefficient
+智能设计：intelligent design
+条件数：Condition number
+耐磨性能：wear resistance
+生态工程：ecological engineering
+防治措施：control measures
+扭振：Torsional vibration
+岩爆：rock burst
+Access数据库：access database
+电路分析：circuit analysis
+注塑模：injection mold
+弹性地基：elastic foundation
+山区：mountain area
+无侧限抗压强度：Unconfined compressive strength
+结构健康监测：Structural health monitoring
+扩散方程：diffusion equation
+能源消耗：energy consumption
+功耗：power consumption
+液化石油气：liquefied petroleum gas
+设计与施工：design and construction
+微动磨损：fretting wear
+模糊数学：fuzzy math
+再生骨料：recycled aggregate
+Vague集：Vague sets
+施工组织：construction organization
+硫含量：sulfur content
+物元模型：matter-element model
+三维模型：three-dimensional model
+振动测量：vibration measurement
+波浪力：wave force
+短路电流：short circuit current
+最大似然估计：Maximum likelihood estimation
+无砟轨道：ballastless track
+模糊层次分析法：Fuzzy analytic hierarchy process
+动态建模：dynamic modeling
+综合分析：comprehensive analysis
+模型辨识：Model Identification
+被动控制：passive control
+液压泵：Hydraulic pump
+随机场：random field
+三峡库区：Three Gorges Reservoir
+伺服电机：servo motor
+安全系数：safety coefficient
+排放控制：emission control
+空气压缩机：air compressor
+模型设计：model design
+超声波传感器：ultrasonic sensor
+信息需求：information demand
+Delaunay三角剖分：Delaunay triangulation
+泊松比：Poisson's ratio
+薄板：thin plate
+多元回归：multiple regression
+统计方法：statistical method
+液氮：liquid nitrogen
+智能传感器：intelligent sensor
+流程图：flow chart
+马尔可夫过程：markov process
+钢桁架：steel truss
+流变特性：rheological property
+构造运动：tectonic movement
+经验公式：empirical formula
+质量检测：quality inspection
+边界元方法：boundary element method
+临界荷载：critical load
+极限强度：ultimate strength
+履带车辆：tracked vehicle
+载波相位：carrier phase
+信息处理技术：information processing technique
+干密度：dry density
+模糊集合：fuzzy set
+电源管理：power management
+坐标系：Coordinate System
+变形控制：Deformation control
+凝结时间：Setting time
+智能诊断：Intelligent diagnosis
+蒙特卡罗法：Monte-Carlo method
+GIS技术：GIS technology
+隶属函数：subordinate function
+循环荷载：cyclic loading
+剪力滞：shear lag
+桥梁基础：bridge foundation
+路面结构：pavement structure
+提单：bill of lading
+辽河油田：Liaohe Oilfield
+共混改性：blending modification
+参考模型：Reference model
+电动助力转向：electric power steering
+市场前景：market prospect
+聚丙烯腈纤维：polyacrylonitrile fiber
+地下管线：underground pipeline
+人体健康：Human health
+模型选择：model selection
+转子动力学：rotor dynamics
+耦合振动：coupled vibration
+单桩：single pile
+区间分析：interval analysis
+实体造型：solid modeling
+测量系统：measuring system
+振动监测：vibration monitoring
+荷载传递：load transfer
+桩土应力比：pile-soil stress ratio
+量纲分析：dimensional analysis
+剪切应力：shear stress
+蒙特卡洛法：Monte Carlo method
+不确定性分析：uncertainty analysis
+机械强度：Mechanical strength
+铁路建设：railway construction
+系统科学：system science
+网络通讯：Network Communication
+结构强度：structural strength
+抗震设计：aseismic design
+环境设计：environmental design
+推力轴承：thrust bearing
+指派问题：assignment problem
+评价方法：evaluating method
+极限平衡法：Limit equilibrium method
+S-N曲线：S-N curve
+Logistic方程：Logistic equation
+振动特性：Vibration characteristics
+判断矩阵：judgement matrix
+位移场：displacement field
+安全评估：safety assessment
+仿真实验：simulation experiment
+脆性断裂：brittle fracture
+杂散电流：stray current
+Linux操作系统：Linux operating system
+智能车辆：Intelligent vehicle
+力学分析：mechanics analysis
+平面应变：plane strain
+速度测量：velocity measurement
+塑性区：plastic zone
+模糊矩阵：fuzzy matrix
+施工阶段：construction stage
+石英晶体：quartz crystal
+钻孔桩：bored pile
+工艺控制：process control
+安全控制：safety control
+地理信息系统(GIS)：Geographic information system(GIS)
+三峡：Three Gorges
+遗传规划：genetic programming
+数据一致性：data consistency
+抗差估计：robust estimation
+沉降预测：settlement prediction
+传递对准：Transfer alignment
+工程建设：project construction
+电偶腐蚀：galvanic corrosion
+AutoCAD：Auto CAD
+透射系数：Transmission coefficient
+结构体系：structure system
+全局稳定：global stability
+西部地区：western area
+响应面：response surface
+粒子群优化：particle swarm optimization(PSO)
+屈服应力：yield stress
+系统软件：system software
+植物景观：plant landscape
+温度监测：temperature monitoring
+Simulink仿真：Simulink simulation
+信息交换：information exchange
+控制软件：control software
+智能决策支持系统：intelligent decision support system
+可靠性指标：reliability index
+数据源：data source
+交通分配：traffic assignment
+轨道电路：track circuit
+预测方法：prediction method
+耦合模型：coupling model
+风洞实验：wind tunnel test
+真空度：vacuum degree
+几何非线性：geometrical nonlinearity
+马尔科夫链：markov chain
+屈服准则：yield criterion
+公路桥梁：highway bridge
+曲面造型：surface modeling
+活性粉末混凝土：reactive powder concrete
+控制技术：Control technique
+液压油：hydraulic oil
+DC-DC变换器：DC-DC converter
+动力系统：dynamical system
+设计理论：design theory
+载荷谱：load spectrum
+信息反馈：information feedback
+动态环境：Dynamic environment
+微分几何：Differential geometry
+碎石桩：gravel pile
+竞争比：competitive ratio
+Elman神经网络：Elman neural network
+变结构：variable structure
+反应时间：reaction time
+模糊逻辑控制：fuzzy logic control
+混合控制：hybrid control
+接口设计：Interface design
+一体化设计：integrated design
+混凝土施工：concrete construction
+城市热岛：urban heat island
+噪声污染：noise pollution
+球墨铸铁：nodular cast iron
+铁道车辆：rolling stock
+流变模型：rheological model
+风险因素：risk factor
+MonteCarlo方法：Monte Carlo method
+运输问题：transportation problem
+耦合分析：coupling analysis
+摆式列车：tilting train
+表层沉积物：surface sediment
+混杂系统：hybrid system
+电站：power station
+焊接残余应力：welding residual stress
+台架试验：Bench test
+物流信息系统：logistics information system
+钢桥：Steel bridge
+眼动：eye movement
+操纵稳定性：handling stability
+天线选择：antenna selection
+颗粒物：Particulate matter
+材料设计：material design
+事故预防：Accident prevention
+近似熵：approximate entropy
+高强度钢：high strength steel
+岩溶塌陷：karst collapse
+计算智能：computational intelligence
+红粘土：red clay
+交通量：traffic volume
+振动响应：vibration response
+失效率：failure rate
+非结构网格：unstructured grid
+面元法：panel method
+PLC控制系统：PLC Control System
+解析法：analytic method
+热腐蚀：hot corrosion
+尾气：tail gas
+噪声源：noise source
+乳化沥青：Emulsified asphalt
+交通事故：traffic accidents
+波速：wave velocity
+结构工程：structural engineering
+流动沸腾：flow boiling
+网格生成：Mesh generation
+动力相互作用：dynamic interaction
+粘滞阻尼器：viscous damper
+软粘土：soft clay
+岩溶水：karst water
+状态空间模型：state space model
+抗冻性：frost resistance
+数据接口：data interface
+磁流变阻尼器：MR damper
+拉伸试验：tensile test
+混凝土裂缝：concrete crack
+斜齿轮：helical gear
+疲劳极限：fatigue limit
+可行性研究：feasibility research
+神经网络模型：Neural Network model
+弹簧钢：spring steel
+电动车：electric vehicle
+系统识别：system identification
+路面工程：pavement engineering
+牵引变电所：traction substation
+Adhoc：Ad hoc
+膨胀剂：expansive agent
+灰色预测：gray prediction
+磁流变液：magnetorheological fluid
+研究方向：research direction
+渗透压：osmotic pressure
+永磁体：permanent magnet
+破坏准则：failure criterion
+模糊可靠度：Fuzzy reliability
+统一强度理论：unified strength theory
+地基承载力：bearing capacity of foundation
+公共艺术：public art
+紫外辐射：ultraviolet radiation
+空间数据模型：spatial data model
+三维仿真：3D simulation
+运行模式：operation mode
+模糊规划：fuzzy programming
+可靠性试验：reliability test
+化学灌浆：chemical grouting
+水泥搅拌桩：cement mixing pile
+混凝土路面：concrete pavement
+电力推进：electric propulsion
+最优路径：optimal path
+电磁阀：electromagnetic valve
+变异系数：variation coefficient
+离心风机：centrifugal fan
+色彩设计：Color design
+标准偏差：standard deviation
+多项式拟合：polynomial fitting
+输气管道：Gas pipeline
+制动系统：braking system
+网络传输：network transmission
+半刚性基层：semi-rigid base
+矿物组成：mineral composition
+接触疲劳：contact fatigue
+设计理念：design idea
+振型：vibration mode
+SBS改性沥青：SBS modified asphalt
+压力场：pressure field
+自动监测：Automatic monitoring
+能量释放率：energy release rate
+磁矩：Magnetic Moment
+相变材料：phase change materials
+结构稳定性：structural stability
+动强度：dynamic strength
+绝缘电阻：insulation resistance
+切应力：shear stress
+集装箱运输：container transportation
+海底隧道：subsea tunnel
+力学特性：Mechanical properties
+技术参数：technical parameters
+铁路运输：railway transport
+冲击韧度：impact toughness
+隔声：sound insulation
+密云水库：Miyun reservoir
+顺序控制：Sequence control
+技术管理：Technical management
+轴向力：axial force
+数据整合：data integration
+自动控制技术：auto-control technology
+信息传输：information transmission
+BP神经网络：back propagation neural network
+磁悬浮：magnetic levitation
+钻机：drilling rig
+排放因子：emission factor
+应变软化：strain softening
+稳定控制：stability control
+实时仿真：real time simulation
+工控机：industrial control computer
+生产物流：production logistics
+机构设计：mechanism design
+减振：vibration reduction
+强度折减法：strength reduction method
+抗震分析：seismic analysis
+局部屈曲：local buckling
+模型实验：model experiment
+横向振动：transverse vibration
+振动试验：vibration test
+远程故障诊断：Remote fault diagnosis
+角速度：Angular velocity
+控制测量：control survey
+简化模型：simplified model
+土-结构相互作用：soil-structure interaction
+最小生成树：minimum spanning tree
+控制模式：control mode
+气缸盖：cylinder head
+燃料油：fuel oil
+解析模型：analytical model
+矩形板：rectangular plate
+应力应变：stress and strain
+OPC技术：OPC technology
+渔业资源：Fishery resources
+进度控制：Schedule control
+复合形法：Complex method
+单目视觉：monocular vision
+无碴轨道：ballastless track
+剩余寿命：residual life
+构造应力：tectonic stress
+附加应力：additional stress
+自动生成：automatic generation
+抗剪强度：shearing strength
+质量检验：quality inspection
+损伤演化：damage evolution
+分形插值：Fractal interpolation
+动力学建模：dynamic modeling
+主变压器：main transformer
+变形模量：deformation modulus
+Pushover分析：pushover analysis
+无线接入：Wireless access
+地应力：ground stress
+差分法：difference method
+动态力学性能：dynamic mechanical properties
+耐腐蚀：corrosion resistance
+危害分析：hazard analysis
+特征参数：characteristic parameters
+电路模型：Circuit model
+钢梁：steel beam
+非线性电路：nonlinear circuit
+感兴趣区域：region of interest
+地下连续墙：Underground continuous wall
+随机控制：stochastic control
+协调发展：coordinative development
+氧指数：oxygen index
+人体：human body
+电容传感器：capacitance sensor
+截面：cross section
+瞬态分析：transient analysis
+WindowsCE：windows CE
+液压伺服系统：Hydraulic servo system
+水稳定性：water stability
+动网格：dynamic mesh
+无标度网络：scale-free network
+余热：waste heat
+方位角：azimuth angle
+自动气象站：automatic weather station
+施工期：construction period
+VOF方法：VOF method
+风蚀：wind erosion
+变形机理：deformation mechanism
+模拟试验：simulation experiment
+杭州湾：Hangzhou Bay
+极限平衡：limit equilibrium
+岩石边坡：rock slope
+小样本：small sample
+联想记忆：associative memory
+概率分析：Probability analysis
+概率论：probability theory
+施工监理：construction supervision
+反射裂缝：Reflection crack
+连续箱梁：continuous box girder
+Boussinesq方程：Boussinesq equation
+岩体结构：rock mass structure
+生产效率：production efficiency
+数字化设计：Digital Design
+热交换器：Heat exchanger
+几何建模：geometric modeling
+趋势预测：trend prediction
+剪力滞效应：shear lag effect
+铁路桥梁：railway bridge
+数据库：data bank
+曲率半径：curvature radius
+多体系统：Multi-body System
+RS485总线：RS485 bus
+仿真研究：simulation study
+采暖系统：heating system
+应急预案：emergency Plan
+环境工程：environment engineering
+焊接质量：welding quality
+安全教育：safety education
+扩散模型：diffusion model
+电流传感器：current sensor
+海洋工程：ocean engineering
+自回归模型：autoregressive model
+高程异常：height anomaly
+系统功能语法：systemic functional grammar
+屈曲分析：buckling analysis
+制造技术：manufacturing technology
+冻结法：freezing method
+频响函数：frequency response function
+气象灾害：meteorological disaster
+对数正态分布：lognormal distribution
+声辐射：sound radiation
+单轴压缩：Uniaxial compression
+模糊综合评价法：Fuzzy Comprehensive Evaluation
+WebGIS：Web GIS
+发展阶段：development stage
+集成控制：integrated control
+城市形态：urban form
+时间窗：time window
+悬臂施工：cantilever construction
+规则引擎：Rule Engine
+配气机构：Valve train
+公路工程：highway project
+FLUENT软件：FLUENT software
+动载荷：dynamic load
+风场：wind field
+管理体制：administration system
+瑞利波：Rayleigh wave
+阻尼系数：damping coefficient
+装配模型：assembly model
+协同仿真：collaborative simulation
+粘弹性阻尼器：viscoelastic damper
+船舶设计：ship design
+可靠度指标：Reliability index
+接触压力：contact pressure
+材料非线性：material nonlinearity
+损伤变量：damage variable
+智能结构：intelligent structure
+Green函数：Green's function
+燃油经济性：fuel economy
+高墩：High pier
+管道输送：pipeline transportation
+铸造工艺：casting process
+理论框架：theoretical framework
+能量分布：Energy distribution
+技术发展：technology development
+UML建模：UML modeling
+剪切模量：Shear modulus
+试验机：testing machine
+高等级公路：high-grade highway
+绿色管理：green management
+规模效率：Scale efficiency
+优化分析：optimization analysis
+施工缝：construction joint
+市场秩序：market order
+船舶柴油机：marine diesel engine
+智能交通：intelligent transportation
+冬期施工：winter construction
+通行能力：traffic capacity
+电气化铁道：electrified railway
+焊缝：welding seam
+管理措施：Management measures
+气缸套：cylinder liner
+预警系统：warning system
+电控系统：electronic control system
+虚拟样机技术：Virtual prototyping technology
+压力波：pressure wave
+TOPSIS法：TOPSIS method
+电液比例控制：electro-hydraulic proportional control
+载荷试验：loading test
+转矩控制：torque control
+贝叶斯方法：Bayesian method
+时空数据模型：spatio-temporal data model
+原型观测：prototype observation
+数值稳定性：numerical stability
+水击：water hammer
+集中控制：Centralized control
+损耗因子：loss factor
+随机变量：random variables
+施工设计：construction design
+应急物流：emergency logistics
+孔隙压力：pore pressure
+压力波动：pressure fluctuation
+数学建模：mathematics modeling
+氯离子：chlorine ion
+J积分：J integral
+自由表面：free surface
+工程项目管理：Engineering project management
+SIMPLE算法：SIMPLE algorithm
+视频检测：video detection
+动三轴试验：dynamic triaxial test
+骨折：bone fracture
+传热性能：heat transfer performance
+误差分离：Error separation
+实验设计：experimental design
+能量回收：energy recovery
+处理措施：Treatment Measures
+软件集成：software integration
+设备选型：equipment selection
+环境试验：environmental test
+运动学分析：kinematic analysis
+数据清洗：data cleaning
+钢管桩：steel pipe pile
+系统性能：system performance
+傅里叶级数：fourier series
+受迫振动：Forced Vibration
+直剪试验：direct shear test
+道路提取：road extraction
+地铁隧道：Subway Tunnel
+天线阵列：antenna array
+交通信号控制：traffic signal control
+流场：fluid field
+能源管理：energy management
+附加质量：Added mass
+弯曲应力：bending stress
+离心模型试验：centrifugal model test
+内压：internal pressure
+管理软件：management software
+强度折减：strength reduction
+黄土隧道：loess tunnel
+Stackelberg博弈：Stackelberg game
+前景理论：prospect theory
+环境影响：environmental influence
+大直径：Large diameter
+热舒适性：thermal comfort
+分配系数：distribution coefficient
+紊流模型：turbulence model
+柴油发动机：diesel engine
+金属结构：Metal structure
+声场：sound field
+专利保护：patent protection
+报警系统：alarm system
+电子海图：electronic chart
+能量管理：energy management
+活动断层：active fault
+隧道衬砌：tunnel lining
+SD卡：SD card
+非完整约束：nonholonomic constraint
+气象条件：meteorological conditions
+技术要求：technical requirement
+结构损伤：structural damage
+驱动系统：driving system
+社会评价：social evaluation
+人工智能：artificial intelligent
+照明设计：lighting design
+N-S方程：N-S equations
+监控量测：monitoring measurement
+网络中心战：network centric warfare
+纵向振动：longitudinal vibration
+油气田：oil and gas field
+参数化建模：parameterized modeling
+测量精度：measuring accuracy
+进化博弈：evolutionary game
+耦合效应：coupling effect
+简化计算：simplified calculation
+动刚度：dynamic stiffness
+Markov过程：Markov process
+混合动力电动汽车：hybrid electric vehicle
+安全性分析：security analysis
+膨胀节：expansion joint
+外观质量：appearance quality
+控制方法：control methods
+防腐：corrosion protection
+节能技术：energy-saving technology
+工艺规划：process planning
+离散模型：discrete model
+电动汽车：electric vehicles
+模型降阶：model reduction
+小波理论：wavelet theory
+电动自行车：electric bicycle
+水下航行器：underwater vehicle
+消防：fire control
+声子晶体：phononic crystal
+伺服阀：servo valve
+生态风险评价：ecological risk assessment
+粗糙集理论：Rough Sets Theory
+接触单元：contact element
+巨磁电阻：giant magnetoresistance
+计算机辅助制造：computer aided manufacturing
+预报模型：prediction model
+动能：kinetic energy
+Monte-Carlo模拟：Monte-Carlo simulation
+系统理论：system theory
+旅客列车：passenger train
+桥梁加固：bridge strengthening
+研究设计：research design
+强夯法：dynamic consolidation
+视觉导航：Vision navigation
+微波遥感：Microwave remote sensing
+空间设计：space design
+空气悬架：Air suspension
+地下滴灌：subsurface drip irrigation
+南水北调：south-to-north water transfer project
+低压铸造：Low Pressure Casting
+玻璃化温度：glass transition temperature
+模块设计：Module Design
+正常高：normal height
+传动误差：transmission error
+空气品质：air quality
+城市客车：city bus
+三次样条：cubic spline
+加筋土：reinforced soil
+控制逻辑：control logic
+沉降控制：settlement control
+固液分离：Solid-Liquid Separation
+细分曲面：subdivision surface
+疲劳裂纹扩展：fatigue crack propagation
+电石渣：carbide slag
+激光测量：Laser measurement
+安全监控：safety monitoring
+电化学方法：electrochemical method
+滑模变结构控制：sliding mode control
+拓扑关系：topological relation
+热容：heat capacity
+调查与分析：Investigation and analysis
+推进系统：propulsion system
+基础处理：foundation treatment
+模糊分类：fuzzy classification
+近似推理：approximate reasoning
+预防性养护：preventive maintenance
+石拱桥：stone arch bridge
+一致性测试：conformance test
+共享内存：shared memory
+事故树：fault tree
+多元线性回归：multivariate linear regression
+流场分析：flow field analysis
+热负荷：thermal load
+灰色聚类：grey clustering
+欧拉方程：Euler equation
+负荷控制：load control
+排队系统：queuing system
+动力屈曲：dynamic buckling
+应变分析：strain analysis
+催化转化器：catalytic converter
+静强度：Static strength
+桩土相互作用：pile-soil interaction
+散货船：Bulk carrier
+铁路工程：railway engineering
+Hopf分叉：Hopf bifurcation
+残疾人：the disabled
+最大干密度：Maximum dry density
+天然气发动机：natural gas engine
+半参数回归模型：semiparametric regression model
+嵌入式实时操作系统：embedded real-time operating system
+检测方法：detecting method
+小波包分解：Wavelet packet decomposition
+岭回归：ridge regression
+安全设计：safety design
+应变局部化：strain localization
+统计能量分析：Statistical energy analysis
+性能仿真：performance simulation
+吸声：sound absorption
+技术性能：technical performance
+天津港：Tianjin port
+多目标遗传算法：multi-objective genetic algorithm
+永久变形：permanent deformation
+统计分布：statistical distribution
+基于案例推理：Case-based reasoning
+损伤诊断：damage diagnosis
+泊松过程：poisson process
+在线学习：online learning
+随机Petri网：stochastic Petri net
+布局优化：layout optimization
+故障隔离：fault isolation
+空间聚类：spatial clustering
+资料处理：data processing
+处理工艺：Treatment process
+流体动力学：fluid dynamics
+能量吸收：energy absorption
+水源：water source
+生产过程：production process
+能量回馈：energy feedback
+风向：wind direction
+管理平台：management platform
+简支梁：simply supported beam
+服务系统：service system
+周期运动：periodic motion
+递归算法：recursive algorithm
+收缩徐变：shrinkage and creep
+燃油系统：fuel system
+交通拥挤：traffic congestion
+系杆拱桥：tied arch bridge
+最短路：shortest path
+局部冲刷：local scour
+信息网格：information grid
+OPC服务器：OPC server
+工作原理：operation principle
+复合纤维：composite fiber
+递推算法：recursive algorithm
+信息化施工：information construction
+动态预测：dynamic prediction
+角度测量：angle measurement
+破坏过程：failure process
+PTC效应：PTC effect
+印刷电路板：printed circuit board
+模糊概率：fuzzy probability
+动态显示：dynamic display
+风险决策：risk decision
+合成树脂：Synthetic resin
+逆系统方法：inverse system method
+仿真试验：Simulation Test
+信息失真：Information distortion
+A*算法：A* algorithm
+代建制：agent construction system
+XML模式：XML schema
+物元分析：matter element analysis
+技术特点：technical characteristics
+热平衡：thermal balance
+拉应力：tensile stress
+吸声系数：sound absorption coefficient
+模糊推理系统：fuzzy inference system
+芳纶纤维：aramid fiber
+过程集成：process integration
+动态断裂：dynamic fracture
+凝固模拟：Solidification simulation
+协调控制：coordination control
+决策系统：decision-making system
+施工测量：construction survey
+横观各向同性：transversely isotropic
+重心：center of gravity
+定性仿真：qualitative simulation
+分数阶微积分：fractional calculus
+谱估计：spectrum estimation
+混凝土桥梁：concrete bridge
+深层搅拌桩：deep mixing pile
+牵引变压器：Traction Transformer
+点火系统：ignition system
+配合比：mixing ratio
+配合比设计：mix proportion design
+电位滴定法：Potentiometric titration
+板翅式换热器：Plate-fin heat exchanger
+径向力：radial force
+松花江：Songhua River
+强度理论：strength theory
+公路运输：highway transportation
+混合交通：mixed traffic
+上位机：host computer
+社会成本：social cost
+系统维护：system maintenance
+施工监控：construction monitoring
+低雷诺数：low Reynolds number
+车辆动力学：vehicle dynamics
+形式化方法：formal methods
+主导作用：leading role
+网络计划：network plan
+控制因素：control factor
+不确定度分析：uncertainty analysis
+综合开发：comprehensive development
+应急监测：emergency monitoring
+计算机模拟：Computerized simulation
+高温性能：high temperature performance
+植被覆盖度：vegetation coverage
+损伤容限：damage tolerance
+抗裂性：crack resistance
+磁偶极子：magnetic dipole
+数据预处理：data pretreatment
+分形结构：fractal structure
+液力变矩器：hydraulic torque converter
+模型参考：model reference
+水平荷载：horizontal load
+城市快速路：urban expressway
+抗剪承载力：shear capacity
+公交优先：Bus Priority
+成像算法：imaging algorithm
+防水涂料：waterproof coating
+作用机理：function mechanism
+转速：rotating speed
+优化算法：optimal algorithm
+加工硬化：Work hardening
+设备维护：equipment maintenance
+虚拟试验：Virtual test
+几何参数：geometric parameter
+质量屋：house of quality
+块体理论：Block theory
+绿色施工：green construction
+设备维修：equipment maintenance
+应力水平：stress level
+控制原理：control principle
+高电压：high voltage
+香根草：vetiveria zizanioides
+交通网络：traffic network
+油液监测：oil monitoring
+硬件系统：Hardware system
+吸附式制冷：adsorption refrigeration
+计算机联锁：computer interlocking
+雷达工程：radar engineering
+合成孔径：synthetic aperture
+煤沥青：coal tar pitch
+性能比较：performance comparison
+压力管道：pressure pipeline
+尺寸链：Dimension chain
+系统配置：System configuration
+建设模式：construction mode
+弹性地基梁：elastic foundation beam
+安全系统：safety system
+重复博弈：repeated game
+矩阵分析：matrix analysis
+嵌入式网关：embedded gateway
+等效模型：equivalent model
+保角变换：conformal transformation
+LIN总线：LIN Bus
+同步电机：synchronous motor
+施工质量控制：construction quality control
+寿命周期费用：Life Cycle Cost
+软基处理：soft foundation treatment
+模糊逻辑系统：fuzzy logic system
+冠层结构：Canopy structure
+超声检测：ultrasonic inspection
+应急响应：emergency response
+工程措施：engineering measures
+微波技术：microwave technology
+主电路：main circuit
+时变系统：time-varying system
+运动方程：motion equation
+地震作用：seismic action
+交通影响分析：Traffic impact analysis
+Volterra级数：volterra series
+无失效数据：zero-failure data
+竖向承载力：vertical bearing capacity
+降粘：viscosity reduction
+指标权重：index weight
+主梁：Main girder
+多目标优化：multi-object optimization
+内力分析：internal force analysis
+室内试验：laboratory test
+冷变形：cold deformation
+能效：energy efficiency
+风洞试验：wind tunnel experiment
+冷却水系统：cooling water system
+误差控制：error control
+强韧化：strengthening and toughening
+数值研究：numerical study
+机械结构：mechanical structure
+湍流燃烧：turbulent combustion
+微动疲劳：fretting fatigue
+冻胀：frost heave
+工业控制计算机：Industrial control computer
+极限载荷：limit load
+静态模型：static model
+桁架结构：truss structure
+城市空间：city space
+噪声分析：noise analysis
+货车转向架：freight car bogie
+能量分析：energy analysis
+结构面：Structural plane
+玄武岩纤维：basalt fiber
+仿生设计：bionic design
+随机分析：stochastic analysis
+BOT项目：BOT project
+钢板弹簧：leaf spring
+模型参数：model parameters
+新城市主义：New urbanism
+地基沉降：Foundation settlement
+桶形基础：bucket foundation
+制动性能：braking performance
+二次调节：Secondary regulation
+温度漂移：temperature drift
+精细积分：precise integration
+纤维模型：fiber model
+范例推理：case-based reasoning
+过程仿真：process simulation
+镀锌：zinc plating
+结果分析：Result analysis
+故障模式：Failure mode
+战略环境评价：strategic environmental assessment
+厚板：thick plate
+位置传感器：position sensor
+随动系统：servo system
+油液分析：oil analysis
+铁素体不锈钢：ferritic stainless steel
+动态稳定性：dynamic stability
+影响系数：influence coefficient
+变形预测：deformation prediction
+南昌市：Nanchang city
+谐振腔：resonant cavity
+近场：near field
+明渠：open channel
+模态参数识别：modal parameter identification
+大系统：large-scale system
+信号配时：signal timing
+土钉：soil nail
+饱和砂土：saturated sand
+弹道仿真：trajectory simulation
+串联补偿：series compensation
+黄浦江：Huangpu River
+汽车发动机：Automobile engine
+硫铝酸盐水泥：sulphoaluminate cement
+可拓方法：extension method
+直接驱动：direct drive
+沙地：Sandy land
+计算模型：computing model
+实例推理：Case-based reasoning
+临界速度：critical velocity
+风环境：wind environment
+设计施工：design and construction
+混合灵敏度：mixed sensitivity
+最大流：maximum flow
+反向工程：reverse engineering
+跟踪系统：tracking system
+负荷特性：load characteristics
+结构计算：structural calculation
+燃油喷射：fuel injection
+悬挂系统：suspension system
+框架梁：frame beam
+公路养护：highway maintenance
+轨道不平顺：track irregularity
+贝叶斯分析：Bayesian analysis
+柔性体：flexible body
+吸收式制冷：absorption refrigeration
+价格折扣：price discount
+设计方法：designing method
+延时：time delay
+恢复生态学：restoration ecology
+路径优化：path optimization
+PDCA循环：PDCA cycle
+非线性有限元法：nonlinear finite element method
+水损害：water damage
+精密测量：precision measurement
+泥沙淤积：sediment deposition
+疲劳可靠性：fatigue reliability
+事故处理：accident treatment
+温泉：Hot spring
+故障仿真：Fault Simulation
+过程能力指数：process capability index
+分析系统：analysis system
+气动力：aerodynamic force
+唐山地震：Tangshan earthquake
+故障预报：Fault Prediction
+任意波形发生器：arbitrary waveform generator
+牵引电机：Traction motor
+交通需求：traffic demand
+弹性理论：elastic theory
+参考点：Reference Point
+防护措施：protective measures
+物理力学性能：physical and mechanical properties
+处理方法：processing method
+金沙江：Jinsha River
+隧道效应：tunneling effect
+噪声预测：noise prediction
+遗传模拟退火算法：genetic simulated annealing algorithm
+CFD：computational fluid dynamics
+电流变液：electrorheological fluids
+煤尘：coal dust
+DEA方法：DEA method
+静压：static pressure
+波形分析：waveform analysis
+VB语言：VB language
+未来发展：future development
+预防性维修：preventive maintenance
+环境激励：ambient excitation
+质量保证体系：quality assurance system
+事故再现：Accident reconstruction
+模糊诊断：fuzzy diagnosis
+递归神经网络：recurrent neural network
+柔性基层：flexible base
+公路桥：highway bridge
+电子膨胀阀：electronic expansion valve
+T-S模糊系统：T-S fuzzy system
+旁瓣抑制：sidelobe suppression
+故障模拟：Fault simulation
+条件期望：conditional expectation
+焊接缺陷：welding defect
+惯性力：inertia force
+新趋势：new trend
+公共安全：public safety
+熵权法：Entropy method
+喷丸：shot peening
+拉格朗日方程：Lagrange equation
+共享平台：sharing platform
+控制方案：control scheme
+内波：internal wave
+环境因素：environment factor
+随机有限元：stochastic finite element method
+三维动画：3D animation
+控制阀：control valve
+刚柔耦合：rigid-flexible coupling
+新理念：New concept
+行程时间：travel time
+船舶运动：ship motion
+激光跟踪仪：laser tracker
+设计质量：design quality
+军事应用：military application
+配置设计：configuration design
+引水隧洞：diversion tunnel
+施工模拟：construction simulation
+减摇鳍：fin stabilizer
+交通信息：traffic information
+Allan方差：Allan variance
+动态校准：dynamic calibration
+质量流量计：mass flowmeter
+汽车覆盖件：automobile panel
+半解析法：semi-analytical method
+空间差异：spatial difference
+传动系统：drive system
+生产管理系统：production management system
+公路网规划：highway network planning
+光纤Bragg光栅：fiber Bragg grating(FBG)
+泰勒级数：Taylor series
+支护结构：support structure
+模型验证：model verification
+归纳学习：inductive learning
+热工性能：thermal performance
+三次样条插值：cubic Spline interpolation
+乘性噪声：multiplicative noise
+初始条件：initial condition
+铁道工程：railway engineering
+装配仿真：assembly simulation
+远程访问：remote access
+空间认知：spatial cognition
+动稳定度：dynamic stability
+沥青加铺层：asphalt overlay
+静载荷试验：static load test
+船舶电站：ship power station
+土地价格：land price
+紧急控制：emergency control
+滑模观测器：Sliding mode observer
+材料选择：material selection
+静态再结晶：static recrystallization
+排气系统：exhaust system
+记忆效应：memory effect
+测量方法：measurement methods
+现场试验：field experiment
+生态景观：ecological landscape
+遗传神经网络：genetic neural network
+非线性理论：nonlinear theory
+强化机制：strengthening mechanism
+集成技术：integrated technology
+通风网络：Ventilation network
+试验台：Test bed
+施工措施：Construction measure
+智能PID：intelligent PID
+视觉测量：vision measurement
+评估模型：assessment model
+道路照明：road lighting
+同轴电缆：coaxial cable
+干扰观测器：disturbance observer
+噪声测量：noise measurement
+负荷管理：Load management
+集装箱船：container ship
+双燃料发动机：dual fuel engine
+精细积分法：precise integration method
+车辆导航：vehicle navigation
+共轨：Common rail
+Hermite插值：Hermite interpolation
+关联规则挖掘：association rule mining
+模糊评估：fuzzy evaluation
+桥梁架设：bridge erection
+网络RTK：Network RTK
+热流密度：heat flux
+挤压铸造：Squeezing Casting
+PC机：Personal computer
+护坡：slope protection
+蠕变试验：creep test
+低温性能：low temperature performance
+形状因子：shape factor
+相对熵：Relative entropy
+组合模型：combined model
+水力特性：hydraulic characteristic
+钱塘江：Qiantang River
+重轨：heavy rail
+浅层气：shallow gas
+压载水：ballast water
+降雨强度：rainfall intensity
+CAD软件：CAD software
+喇曼散射：Raman scattering
+卫星影像：Satellite image
+RLS算法：RLS algorithm
+参数测量：Parameter measurement
+固结度：degree of consolidation
+电磁耦合：electromagnetic coupling
+网络流：network flow
+刚性桩：Rigid pile
+连拱隧道：double-arch tunnel
+施工力学：construction mechanics
+移动电子商务：mobile E-commerce
+位移法：displacement method
+最优化方法：optimization method
+测定方法：measuring method
+应力集中系数：Stress concentration factor
+一步法：one-step method
+汽车工业：auto industry
+深孔：Deep hole
+承压水：confined water
+过渡层：Transition layer
+物元：matter element
+社会风险：social risk
+设计模式：design mode
+自动分析：automatic analysis
+产生式系统：production system
+方案评价：scheme evaluation
+信号识别：signal recognition
+电涡流：eddy current
+土地开发：land development
+动力稳定：dynamic stability
+双层规划：bilevel programming
+路网：road network
+体系可靠度：system reliability
+反应谱法：response spectrum method
+交通流模型：traffic flow model
+动态分段：dynamic segmentation
+数据总线：data bus
+通信模型：communication model
+综合控制：integrated control
+应用技术：applied technology
+编组站：marshalling yard
+动力性能：dynamic performance
+抗折强度：bending strength
+耦合系统：coupling system
+加载速率：loading rate
+应变硬化：strain hardening
+研究与应用：research and application
+试验系统：test system
+基频：fundamental frequency
+减法聚类：Subtractive clustering
+水压力：water pressure
+Monte-Carlo法：Monte-Carlo method
+红砂岩：red sandstone
+小生境遗传算法：niche genetic algorithm
+电子节气门：Electronic throttle
+车辆调度：vehicle scheduling
+协同优化：collaborative optimization
+耦合动力学：coupling dynamics
+电池管理系统：battery management system
+大跨度桥梁：long-span bridge
+主缆：main cable
+航位推算：dead reckoning
+控制方式：control mode
+特殊钢：special steel
+帷幕注浆：Curtain grouting
+技术方案：technical scheme
+纤维混凝土：fiber concrete
+时间序列预测：time series prediction
+贮存稳定性：storage stability
+激光诱导荧光：laser-induced fluorescence
+流动分析：flow analysis
+齿轮箱：Gear box
+信息采集：Information acquisition
+弹塑性分析：elastoplastic analysis
+液压控制系统：hydraulic control system
+标准件库：standard parts library
+工程技术：engineering technology
+变质岩：metamorphic rock
+数据管理系统：Data Management System
+塑性混凝土：plastic concrete
+程序开发：program development
+拉拔试验：pull-out test
+时间价值：Time Value
+参数反演：parameter inversion
+回归系数：regression coefficient
+交流电动机：AC motor
+能量方程：Energy equation
+人口密度：population density
+凝结换热：condensation heat transfer
+距离函数：distance function
+时间自动机：timed automata
+惯性平台：Inertial Platform
+航道整治：waterway regulation
+刚构桥：rigid frame bridge
+动态交通分配：dynamic traffic assignment
+不规则波：irregular wave
+主动隔振：active vibration isolation
+谐响应分析：harmonic response analysis
+敏感度分析：sensitivity analysis
+评估系统：Evaluation system
+水润滑：water lubrication
+多媒体定时器：Multimedia Timer
+温度控制器：temperature controller
+HSE管理：HSE management
+半衰期：half life
+监测数据：monitoring data
+施工机械：construction machinery
+损伤机理：Damage Mechanism
+系统规划：system planning
+应力计算：Stress calculation
+耐久性设计：durability design
+冲击射流：impinging jet
+沉井：open caisson
+应变模态：strain mode
+数字图象处理：digital image processing
+随机响应：random response
+梁单元：beam element
+浅埋隧道：Shallow tunnel
+隧道开挖：tunnel excavation
+施工设备：construction equipment
+拱肋：arch rib
+机会约束规划：chance-constrained programming
+预应力混凝土梁：prestressed concrete beam
+悬架系统：suspension system
+人工边界：artificial boundary
+制图综合：cartographic generalization
+动态模量：dynamic modulus
+气压：air pressure
+全站仪：total station instrument
+稳定平台：stabilized platform
+损害赔偿：compensation for damages
+主应力：principal stress
+反求设计：reverse design
+残余强度：Residual strength
+支护设计：support design
+结构控制：structure control
+混合智能算法：hybrid intelligent algorithm
+岩盐：Rock salt
+冲击试验：impact test
+自组织理论：self-organization theory
+结构特点：Structure Characteristic
+事故树分析：Fault Tree Analysis
+模型优化：Model optimization
+B样条曲面：B-spline surface
+制动力：braking force
+电磁波：electromagnetic waves
+无级变速器：continuously variable transmission
+索力：cable force
+时间序列模型：time series model
+电流分布：current distribution
+道路试验：road test
+预防与控制：Prevention and control
+行为控制：Behavior control
+干扰抑制：disturbance attenuation
+指数平滑：exponential smoothing
+并联运行：parallel operation
+动力学性能：dynamics performance
+模糊PID控制器：Fuzzy PID controller
+分布式检测：distributed detection
+一般均衡：general equilibrium
+切削参数：cutting parameters
+破坏机理：damage mechanism
+横波：shear wave
+焊接技术：welding technology
+环境控制：environment control
+接触模型：contact model
+希尔伯特-黄变换：Hilbert-Huang transform
+活塞杆：piston rod
+AVR单片机：AVR microcontroller
+深孔爆破：deep-hole blasting
+无障碍设计：barrier-free design
+综合防治：comprehensive control
+方案选择：scheme selection
+水位控制：water level control
+震害：earthquake damage
+形象设计：Image design
+管理工程：management engineering
+信息获取：information acquisition
+时序分析：time series analysis
+DSP控制器：DSP controller
+爆破效果：Blasting effect
+坐标系统：Coordinate system
+路堑边坡：Cutting slope
+动应力集中：dynamic stress concentration
+弹性力学：Elastic mechanics
+竖向振动：vertical vibration
+侧面碰撞：side impact
+防雷保护：lightning protection
+转向机构：steering mechanism
+趋近律：reaching law
+离散事件系统：discrete event systems
+扩展不确定度：expanded uncertainty
+冲击压实：impact compaction
+注浆加固：Grouting reinforcement
+密封材料：sealing material
+水下爆破：Underwater blasting
+主成分回归：principal component regression
+CO2浓度：CO2 concentration
+状态空间法：state space method
+修正系数：correction coefficient
+等效刚度：equivalent stiffness
+热传递：heat transfer
+应急机制：emergency mechanism
+载荷分布：load distribution
+振动系统：vibration system
+电液伺服阀：electro-hydraulic servo valve
+增压柴油机：turbocharged diesel engine
+最优估计：optimal estimation
+基础设施建设：infrastructure construction
+屈服面：yield surface
+含盐量：salt content
+动态调整：dynamic adjustment
+底盘测功机：chassis dynamometer
+计算机辅助工艺设计：computer aided process planning
+浅水：shallow water
+边坡稳定分析：Slope stability analysis
+ADAMS软件：ADAMS software
+显示系统：display system
+MR阻尼器：MR damper
+农村公路：rural road
+交通标志：Traffic sign
+反应谱分析：response spectrum analysis
+系统效能：system effectiveness
+可能度：possibility degree
+渗流分析：seepage analysis
+动力电池：power battery
+T/R组件：T/R module
+短时记忆：Short-term memory
+先进技术：advanced technology
+热影响区：heat affected zone
+船舶碰撞：Ship collision
+珠江：Pearl River
+焊接变形：welding distortion
+离子渗氮：plasma nitriding
+ARM微处理器：ARM microprocessor
+工作效率：work efficiency
+评定方法：evaluation method
+弯曲变形：bending deformation
+地温梯度：Geothermal gradient
+缸体：cylinder block
+层状硅酸盐：layered silicate
+储存稳定性：storage stability
+生存环境：living environment
+地下工程：underground project
+局部应力：local stress
+三次样条函数：Cubic Spline Function
+PHC管桩：PHC pipe pile
+折现率：Discount rate
+姿态测量：attitude measurement
+黄土区：Loess area
+钢筋砼：reinforced concrete
+基于案例的推理：case-based reasoning
+初应力：initial stress
+信息资源整合：information resource integration
+相位角：Phase angle
+学习机制：learning mechanism
+汛期：flood season
+超孔隙水压力：excess pore water pressure
+物理机制：physical mechanism
+视频采集：video acquisition
+齿槽转矩：cogging torque
+被动定位：Passive Location
+系统实现：system implementation
+流量预测：traffic prediction
+经济地理学：economic geography
+低合金钢：low-alloy steel
+自控系统：automatic control system
+含气量：gas content
+示范工程：demonstration project
+判别分析：discrimination analysis
+道路网络：road network
+信号系统：signal system
+集合论：set theory
+工程分析：engineering analysis
+精度控制：Precision control
+低表面能：low surface energy
+坍落度损失：Slump loss
+变权：variable weight
+激光热处理：laser heat treatment
+恒张力：constant tension
+抗裂性能：crack resistance
+数据安全：data safety
+GPS控制网：GPS control network
+位置误差：position error
+车辆监控：vehicle monitoring
+尖点突变：cusp catastrophe
+物流工程：logistics engineering
+结构振动：structure vibration
+爆破工程：blasting engineering
+切换控制：Switching control
+锁相放大器：lock-in amplifier
+声压级：sound pressure level
+基质吸力：Matrix suction
+模态应变能：modal strain energy
+新风：Fresh Air
+相平面：phase plane
+寿命试验：Life test
+避碰：collision avoidance
+深梁：deep beam
+制冷循环：refrigeration cycle
+疾病负担：burden of disease
+连续梁桥：continuous bridge
+曲率模态：curvature mode
+电控单元：electronic control unit
+车辆导航系统：vehicle navigation system
+二阶效应：second-order effect
+Elman网络：Elman network
+选址模型：location model
+无限元：infinite element
+搜索策略：search strategy
+盘式制动器：Disc brake
+临界应力：critical stress
+防治对策：control countermeasure
+气浮：air flotation
+设计改进：design improvement
+正交试验法：orthogonal experiment
+结构函数：structure function
+性能参数：performance parameters
+交变磁场：alternating magnetic field
+安全距离：safe distance
+残差：residual error
+真空蒸发：vacuum evaporation
+橡胶粉：rubber powder
+热应力场：thermal stress field
+南通市：Nantong city
+围岩稳定性：surrounding rock stability
+测控系统：measuring and controlling system
+比例控制：proportional control
+三维数值模拟：3-D numerical simulation
+多传感器数据融合：multi-sensor data fusion
+爆破设计：blasting design
+沉管隧道：immersed tunnel
+功率MOSFET：power MOSFET
+初始缺陷：initial imperfection
+实践探索：practical exploration
+Laplace变换：Laplace transformation
+信息分类：information classification
+传输系统：transmission system
+远程维护：remote maintenance
+振动速度：Vibration velocity
+汽油发动机：gasoline engine
+破坏概率：failure probability
+智能控制系统：intelligent control system
+形函数：shape function
+运动捕捉：motion capture
+磁传感器：magnetic sensor
+PD控制：PD control
+燃油喷射系统：fuel injection system
+子空间方法：Subspace method
+有效宽度：Effective width
+指挥控制系统：Command and control system
+鲁棒优化：Robust optimization
+情景语境：Situational context
+堵水：water plugging
+冲突分析：conflict analysis
+过载保护：overload protection
+有限差分法：finite-difference method
+制动盘：brake disc
+复合控制：composite control
+综合自动化系统：integrated automation system
+电弧放电：arc discharge
+齿轮钢：Gear Steel
+安全疏散：safety evacuation
+防灾：disaster prevention
+辐射固化：radiation curing
+传动效率：transmission efficiency
+中山市：Zhongshan city
+响应分析：response analysis
+组合预测：combination forecast
+半导体制冷：semiconductor refrigeration
+设计与开发：Design and development
+船体结构：hull structure
+模型结构：model structure
+基本结构：basic structure
+梯度法：gradient method
+静水压力：hydrostatic pressure
+应变传感器：Strain sensor
+推理机制：reasoning mechanism
+灌注桩：bored pile
+离散事件仿真：discrete event simulation
+频率控制：frequency control
+举升机构：Lifting mechanism
+模糊支持向量机：Fuzzy support vector machine
+GSM模块：GSM module
+电源系统：power system
+荷载应力：load stress
+半物理仿真：semi-physical simulation
+动力可靠度：dynamic reliability
+视频分析：Video analysis
+径向转向架：Radial bogie
+路径跟踪：path tracking
+影响评价：impact assessment
+气动噪声：aerodynamic noise
+干燥收缩：dry shrinkage
+固体润滑剂：solid lubricant
+应用前景：application foreground
+滚动轴承：ball bearing
+指数函数：exponential function
+实验模拟：experimental simulation
+JC法：JC method
+电流变效应：electrorheological effect
+化学纤维：Chemical fiber
+散热：heat dissipation
+保温材料：thermal insulation material
+传递损失：transmission loss
+图案设计：pattern design
+多传感器融合：multi-sensor fusion
+响应面方法：response surface methodology
+应力-应变关系：stress-strain relation
+合格率：qualified rate
+导管架平台：jacket platform
+服务区：service area
+Matlab引擎：Matlab engine
+传热学：heat transfer
+污闪：pollution flashover
+摩托车发动机：motorcycle engine
+逆模型：inverse model
+强度试验：strength test
+峰值：peak value
+报表：report forms
+Kaiser效应：Kaiser effect
+复合式路面：composite pavement
+电机设计：motor design
+控制中心：control center
+原位测试：in-situ test
+结构响应：structural response
+系统构建：system construction
+液体晃动：Liquid sloshing
+牵引计算：traction calculation
+SPI接口：SPI interface
+后张法：post-tensioning method
+船舶工程：ship engineering
+抗滑稳定：stability against sliding
+电力线载波通信：power line carrier communication
+围护结构：enclosure structure
+命中概率：hit probability
+混凝土箱梁：concrete box girder
+高路堤：high embankment
+轨道结构：track structure
+网络治理：network governance
+泡沫铝：foamed aluminum
+防洪：Flood prevention
+机理研究：mechanism research
+人工植被：artificial vegetation
+声功率：sound power
+磨料水射流：abrasive water jet
+SPSS软件：SPSS software
+X70钢：X70 steel
+DSP芯片：DSP chip
+冬季施工：construction in winter
+岩溶区：karst area
+环境资源：environmental resources
+流量分配：flow distribution
+能量检测：energy detection
+压力试验：pressure test
+辐射噪声：radiated noise
+智能管理：intelligent management
+设计重用：design reuse
+驾驶行为：driving behavior
+航运市场：Shipping market
+参数振动：Parametric vibration
+市场监管：market supervision
+频率分辨率：Frequency Resolution
+图像边缘检测：Image Edge Detection
+需求管理：Demand management
+跟驰模型：car-following model
+波形钢腹板：corrugated steel webs
+编队控制：formation control
+燃烧噪声：Combustion noise
+固结沉降：consolidation settlement
+局部稳定性：local stability
+CMAC神经网络：CMAC neural network
+贝叶斯网：Bayesian network
+参数学习：Parameter learning
+任务管理：Task management
+Bang-Bang控制：Bang-Bang control
+数据平台：Data platform
+升力系数：lift coefficient
+气象因素：meteorological factor
+疲劳破坏：fatigue failure
+排气噪声：Exhaust noise
+隶属度：membership grade
+阀体：Valve Body
+试验设计：experiment design
+腐蚀与防护：Corrosion and protection
+绿色度：Green Degree
+围岩变形：surrounding rock deformation
+干旱地区：arid area
+压缩变形：Compression Deformation
+结构性能：structural performance
+Fourier变换：Fourier transformation
+虚拟激励法：pseudo excitation method
+液体燃料：liquid fuel
+数值微分：numerical differentiation
+燃气发生器：Gas generator
+参数匹配：parameter matching
+分层流：stratified flow
+未确知测度：unascertained measure
+热老化：thermal aging
+纤维长度：fiber length
+数值解法：numerical solution
+风致振动：wind-induced vibration
+经济比较：economic comparison
+缸套：cylinder liner
+责任制：responsibility system
+数据包络分析(DEA)：data envelopment analysis(DEA)
+软启动器：Soft Starter
+电气设计：electric design
+长距离：long distance
+间接测量：indirect measurement
+网格优化：mesh optimization
+客运站：passenger station
+cPCI总线：cPCI bus
+变风量：variable air volume
+模糊方法：fuzzy method
+项目教学法：project teaching method
+包头市：Baotou City
+冗余设计：redundancy design
+参数共振：parametric resonance
+嵌入式Linux系统：embedded Linux system
+板式轨道：slab track
+支撑系统：supporting system
+相干函数：coherence function
+机车车辆：rolling stock
+多变量控制：multivariable control
+盾构法：shield method
+交通设计：Traffic design
+人性化管理：humanized management
+视觉搜索：visual search
+智能算法：intelligent algorithm
+收缩裂缝：shrinkage crack
+智能运输系统：Intelligent Transport Systems
+交通运输系统工程：engineering of communications and transportation system
+CFG桩复合地基：CFG pile composite foundation
+钢管混凝土结构：concrete-filled steel tube structure
+水下混凝土：underwater concrete
+价值函数：value function
+静力试验：static test
+电子装备：electronic equipment
+冷再生：cold recycling
+分层抽样：stratified sampling
+辐射方向图：radiation pattern
+递阶控制：hierarchical control
+大断面：large section
+固体润滑：solid lubrication
+方案优选：scheme optimization
+控制单元：control unit
+嵌入式Web：embedded Web
+温度模型：temperature model
+铸钢件：steel casting
+效率优化：efficiency optimization
+中华鲟：Acipenser sinensis
+安全风险：security risk
+有限元强度折减法：strength reduction FEM
+电子标签：Electronic tag
+澜沧江：Lancang River
+位移监测：Displacement monitoring
+导波：guided wave
+设计与应用：design and application
+网络化管理：network management
+稀浆封层：Slurry seal
+Galerkin法：Galerkin method
+工程勘察：engineering investigation
+火花塞：spark plug
+控制系统设计：control system design
+收缩应力：shrinkage stress
+耦合度：coupling degree
+系统动力学模型：system dynamics model
+Kolmogorov熵：Kolmogorov entropy
+集成设计：Integrated design
+插值函数：Interpolation function
+模糊控制系统：fuzzy control system
+新机制：New mechanism
+人工免疫网络：artificial immune network
+上升时间：Rise time
+粉喷桩：dry jet mixing pile
+混合交通流：mixed traffic flow
+多体系统动力学：multi-body system dynamics
+广州地铁：Guangzhou Metro
+渗流控制：Seepage control
+配筋率：reinforcement ratio
+基础施工：foundation construction
+特征值分析：eigenvalue analysis
+布局设计：layout design
+凸轮型线：Cam profile
+水泥砼路面：cement concrete pavement
+频率法：frequency method
+道路网：road network
+热感觉：thermal sensation
+积雪：snow cover
+多用户分集：multiuser diversity
+性能评价：Property evaluation
+磁场强度：magnetic field strength
+气固两相流：Gas-Solid Two Phase Flow
+热稳定性能：Thermal stability
+最大熵原理：maximum entropy principle
+道路安全：road safety
+纯水：pure water
+保护措施：protection measure
+火灾模拟：fire simulation
+离心式通风机：centrifugal fan
+动态参数：dynamic parameter
+拓扑分析：Topological analysis
+循环塑性：cyclic plasticity
+故障诊断系统：Fault Diagnosis System
+幂函数：power function
+热屈曲：thermal buckling
+摩擦桩：friction pile
+应用模型：Application model
+多孔混凝土：porous concrete
+寿命周期：life cycle
+洪泽湖：Hongze Lake
+随机激励：random excitation
+模糊信息：fuzzy information
+转化效率：transformation efficiency
+自适应预测：adaptive prediction
+浅基础：shallow foundation
+岩溶隧道：karst tunnel
+施工仿真：construction simulation
+提升方法：lifting scheme
+时空效应：time-space effect
+动态配置：dynamic configuration
+媒体网关：Media gateway
+低温韧性：low temperature toughness
+裂纹萌生：crack initiation
+结构特征：structure characteristic
+深水：deep water
+非线性预测：nonlinear prediction
+应急系统：emergency system
+X射线衍射分析：X-ray diffraction analysis
+保水剂：water retaining agent
+BP神经网络模型：BP neural network model
+数值预报：numerical prediction
+保护层：protective layer
+设计特点：design feature
+箱形梁：box beam
+置信度：Confidence level
+路面不平度：road roughness
+随机分布：random distribution
+驾驶模拟器：Driving Simulator
+接触力：contact force
+钛酸酯偶联剂：titanate coupling agent
+约束满足：Constraint satisfaction
+油封：oil seal
+实训教学：practical teaching
+信息查询：Information query
+隐患：hidden danger
+对策与建议：countermeasures and suggestions
+模糊一致矩阵：fuzzy consistent matrix
+传播特性：propagation characteristics
+运动学模型：kinematic model
+工况：working condition
+变刚度：variable stiffness
+动力响应分析：dynamic response analysis
+应用与发展：application and development
+红层：red beds
+温度影响：temperature effect
+控制装置：control device
+知识重用：knowledge reuse
+半干旱区：Semi-arid area
+运输组织：transportation organization
+剪切试验：shear test
+蒸汽锅炉：steam boiler
+系统可靠度：system reliability
+等效荷载：equivalent load
+线性相关：linear correlation
+边界单元法：boundary element method
+监测模型：monitoring model
+线形控制：linear control
+直线感应电机：linear induction motor
+Floyd算法：Floyd Algorithm
+施工成本：construction cost
+预应力锚杆：Prestressed anchor
+模糊滑模控制：fuzzy sliding mode control
+交通流理论：traffic flow theory
+土工试验：Soil test
+气缸压力：cylinder pressure
+锅炉控制：boiler control
+尺寸分布：size distribution
+谐响应：harmonic response
+焊接裂纹：welding crack
+固有频率：nature frequency
+锚杆支护：Bolting support
+自动检测：automatic inspection
+标准不确定度：standard uncertainty
+对比试验：comparative test
+液压传动：hydraulic drive
+断裂伸长率：elongation at break
+环境振动：environmental vibration
+失效模式：failure modes
+能量优化：energy optimization
+强度设计：Strength Design
+缸盖：cylinder head
+地下水环境：groundwater environment
+进度管理：progress management
+热固性树脂：thermosetting resin
+决策支持：decision support system
+稳定系数：stability factor
+火焰图像：flame image
+积分变换：integral transformation
+诊断方法：diagnosis method
+诊断系统：Diagnosis system
+外部成本：External cost
+国际标准：international standards
+长江河口：Changjiang estuary
+防水层：waterproof layer
+交通环境：traffic environment
+装配线：assembly line
+加固机理：reinforcement mechanism
+时态GIS：temporal GIS
+通讯接口：Communication Interface
+圆曲线：circular curve
+空间模型：spatial model
+粘结应力：bond stress
+计算长度：effective length
+阻尼力：damping force
+分布式结构：distributed architecture
+燃料电池汽车：fuel cell vehicle
+临界高度：Critical height
+调谐质量阻尼器：tuned mass damper
+基础沉降：foundation settlement
+数字测图：Digital mapping
+扩展卡尔曼滤波器：extended kalman filter
+微观交通仿真：microscopic traffic simulation
+车辆管理：vehicle management
+负序：Negative sequence
+荷载传递法：load transfer method
+物流规划：Logistics Planning
+Bresenham算法：Bresenham algorithm
+非线性稳定性：nonlinear stability
+激发极化法：induced polarization method
+污染物排放：pollutant emission
+鼓式制动器：Drum brake
+工程实例：engineering example
+自动焊接：Automatic welding
+水利工程：hydraulic project
+治理措施：treatment measure
+航行安全：navigation safety
+冻融循环：freeze-thaw cycle
+体积稳定性：Volume stability
+Monte Carlo法：Monte Carlo method
+改性机理：modification mechanism
+结构优化设计：structural optimization design
+火灾风险：Fire risk
+抗弯刚度：bending rigidity
+电气系统：electric system
+工程施工：project construction
+Shannon熵：Shannon entropy
+水泥土：cemented soil
+岩体质量：rock mass quality
+乙醇汽油：ethanol gasoline
+有色Petri网：colored Petri net
+马尔柯夫链：Markov chain
+破坏形态：Failure mode
+MCGS组态软件：MCGS configuration software
+人为因素：human factors
+标准值：standard value
+高斯函数：Gaussian function
+交互设计：interactive design
+斜入射：oblique incidence
+数量分析：Quantitative analysis
+功率匹配：power matching
+总体布局：General Layout
+建设与发展：construction and development
+丁坝：spur dike
+知识库系统：knowledge base system
+GPS网：GPS network
+负二项分布：Negative binomial distribution
+教学案例：teaching case
+静态标定：static calibration
+拟动力试验：pseudo-dynamic test
+填充函数：filled function
+受弯构件：flexural member
+版图设计：layout design
+柔性路面：flexible pavement
+牵引电动机：traction motor
+路面管理系统：pavement management system
+截面曲率：sectional curvature
+粘性流动：viscous flow
+层次分析：hierarchical analysis
+天然气管道：gas pipeline
+海底管线：submarine pipeline
+工序：Working procedure
+规则推理：rule-based reasoning
+有限单元：finite element
+公路建设项目：highway construction project
+传动轴：transmission shaft
+多元统计：multivariate statistics
+蠕变模型：creep model
+过盈配合：interference fit
+爆破技术：blasting technology
+参数设计：parameters design
+摩擦模型：friction model
+气动控制：pneumatic control
+砂土：sandy soil
+实验验证：experimental verification
+过程方法：process method
+图解法：graphical method
+接地装置：grounding device
+优缺点：advantages and disadvantages
+临界条件：critical condition
+力学响应：mechanical response
+控制爆破：control blasting
+脆断：brittle fracture
+塔吊：tower crane
+冲击载荷：impact loading
+道路设计：road design
+硬岩：hard rock
+知识建模：knowledge modeling
+防水混凝土：waterproof concrete
+工期：Construction period
+差分GPS：differential GPS
+贝叶斯估计：bayes estimation
+准公共产品：quasi-public goods
+新城：new town
+盾构施工：shield construction
+机场工程：airport engineering
+交通信号：traffic signal
+混响室：reverberation chamber
+控制分配：control allocation
+精明增长：smart growth
+SDRAM控制器：SDRAM controller
+解空间：solution space
+洛伦兹变换：Lorentz transformation
+NP完全问题：NP-complete problem
+预应力混凝土桥：prestressed concrete bridge
+液限：liquid limit
+蠕变柔量：creep compliance
+轧制工艺：rolling process
+水华：algal bloom
+声品质：Sound quality
+振动频率：vibrational frequency
+加热系统：heating system
+野生植物：wild plants
+转矩波动：torque ripple
+洪灾：Flood disaster
+抽样方法：Sampling method
+内燃机油：internal combustion engine oil
+环境条件：environment condition
+ObjectARX：object ARX
+客车车身：bus body
+热模型：thermal model
+电容式传感器：capacitive sensor
+超声清洗：ultrasonic cleaning
+设计软件：design software
+环氧沥青：epoxy asphalt
+位移函数：displacement function
+风险矩阵：risk matrix
+建筑防火：building fire protection
+复杂结构：complex structure
+机械阻抗：mechanical impedance
+正应力：normal stress
+自动补偿：automatic compensation
+糯扎渡水电站：Nuozhadu Hydropower Station
+反射波法：reflected wave method
+最速下降法：steepest descent method
+空气阻力：air resistance
+线网规划：network planning
+工程量：engineering quantity
+喷雾特性：spray characteristics
+哈密顿体系：Hamiltonian system
+事件检测：incident detection
+随机有限元法：stochastic finite element method
+箱涵：box culvert
+随机效应：Random effect
+软弱地基：soft ground
+统计推断：statistical inference
+ADAMS仿真：ADAMS simulation
+着色Petri网：colored Petri net
+Lagrange乘子：Lagrange multiplier
+电动助力转向系统：electric power steering system
+弹性需求：elastic demand
+无级变速传动：continuously variable transmission
+案例检索：case retrieval
+波形设计：waveform design
+上海港：Shanghai port
+应力增量：Stress increment
+危险品：dangerous goods
+化学组分：chemical composition
+排放清单：emission inventory
+变截面：variable cross-section
+点腐蚀：pitting corrosion
+质量要求：Quality requirement
+节流阀：throttle valve
+非线性回归：non-linear regression
+水下焊接：underwater welding
+材料性能：material property
+不确定度评定：evaluation of uncertainty
+应力场：stress fields
+火灾报警系统：fire alarm system
+控制算法：control arithmetic
+有效厚度：effective thickness
+自适应PID控制：adaptive PID control
+力学强度：mechanical strength
+风载荷：wind load
+ANSYS分析：ANSYS analysis
+轻轨：light rail
+回归分析法：regression analysis
+动响应：Dynamic response
+冷链物流：cold chain logistics
+轴向应力：axial stress
+粒子图像测速：Particle image velocimetry
+最小二乘估计：least square estimate
+数值优化：Numerical optimization
+交通规划：transport planning
+时变可靠度：time-dependent reliability
+振动加速度：Vibration acceleration
+可靠性管理：reliability management
+历史数据：historical data
+电子产品：electronic products
+模型预测：model prediction
+通信方式：communication mode
+D-S理论：D-S theory
+动力模型：dynamic model
+布局规划：layout planning
+有限条法：finite strip method
+扰动观测器：Disturbance observer
+风工程：wind engineering
+喷油系统：Fuel injection system
+虚拟教室：virtual classroom
+功能测试：function test
+通信模块：communication module
+电路理论：Circuit theory
+障碍物检测：obstacle detection
+钢围堰：steel cofferdam
+空调负荷：Air conditioning load
+惯导系统：inertial navigation system
+通信安全：communication security
+二次受力：secondary load
+模糊综合评估：fuzzy comprehensive evaluation
+母线保护：bus protection
+城市蔓延：Urban sprawl
+ESPRIT算法：ESPRIT algorithm
+永久船闸：permanent shiplock
+重力模型：gravity model
+机车信号：Cab signal
+造价工程师：cost engineer
+信任评估：trust evaluation
+城市物流：city logistics
+叠合梁：composite beam
+温降：Temperature drop
+客流：passenger flow
+李亚普诺夫函数：Lyapunov function
+沟灌：furrow irrigation
+接口程序：interface program
+全生命周期：life cycle
+应力测试：stress measurement
+照明系统：Lighting system
+油污染：oil pollution
+故障处理：fault treatment
+高温稳定性：high-temperature stability
+矿物成分：mineral composition
+技术开发：technology development
+加速遗传算法：accelerating genetic algorithm
+粘结性能：bond behavior
+地下水位：ground water level
+动态性能：dynamic property
+测量仪：measuring instrument
+高温超导：high temperature superconductor
+机制砂：machine-made sand
+方案比选：scheme comparison
+内摩擦角：Internal friction angle
+改革与实践：Reform and practice
+控制网：control net
+3D模型：3D model
+膨胀混凝土：Expansive concrete
+火灾探测器：fire detector
+远程管理：Remote management
+应力强度：stress intensity
+价值工程(VE)：value engineering(VE)
+环境价值：environmental value
+质量评定：quality evaluation
+Zernike多项式：Zernike polynomial
+简化方法：simplified method
+信号采集：data acquisition
+平均法：averaging method
+工程机械：engineering machine
+激振力：exciting force
+排放特性：emission characteristic
+重整化群：renormalization group
+装药结构：charge structure
+动态试验：dynamic test
+渔船：fishing vessel
+挡墙：retaining wall
+叶片泵：vane pump
+沙漠公路：desert highway
+Logistic曲线：Logistic curve
+功能结构：functional structure
+水动力性能：hydrodynamic performance
+设计流程：design process
+Kohonen网络：Kohonen network
+参数化模型：parametric model
+NP问题：NP problem
+软硬件设计：Software and hardware design
+经济负担：economic burden
+C4.5算法：C4.5 algorithm
+交通拥堵：traffic jam
+架空线路：overhead line
+电流反馈：current feedback
+ATS：ATS(Acoustic Telemetry System)
+控制器设计：controller design
+测试序列：test sequence
+作战系统：combat system
+聚合物砂浆：polymer mortar
+目标回波：target echo
+骨架曲线：skeleton curve
+渗透变形：seepage deformation
+牵引供电：traction power supply
+目标模拟器：Target simulator
+模糊神经网络控制：fuzzy neural network control
+信噪比估计：SNR estimation
+初始值：initial value
+OD矩阵：OD matrix
+运输系统：transportation system
+计算流体力学(CFD)：Computational fluid dynamics(CFD)
+研究应用：research and application
+逻辑关系：logical relation
+声屏障：sound barrier
+成品油管道：products pipeline
+物理特性：physical property
+矢量分析：vector analysis
+红外隐身：infrared stealth
+正交分析：orthogonal analysis
+核动力装置：Nuclear Power Plant
+生产组织：Production organization
+生态管理：ecological management
+联合分析：conjoint analysis
+自由液面：free surface
+统计特征：Statistical characteristics
+自控：automatic control
+客户管理：Customer management
+漓江：Lijiang river
+边坡稳定性：Stability of slope
+分形特征：Fractal characteristics
+牛顿迭代法：Newton iteration method
+地质工程：geological engineering
+自卸汽车：dump truck
+外绝缘：external insulation
+应力控制：stress control
+冶金工业：metallurgical industry
+测速：speed measurement
+资料解释：data interpretation
+钻孔灌注桩：bored piles
+通风设计：Ventilation design
+智能技术：intelligent technology
+吉林市：Jilin City
+制造过程：manufacturing process
+滑坡灾害：Landslide hazard
+感应电流：induced current
+序列二次规划：sequential quadratic programming
+优化理论：optimization theory
+黄土边坡：loess slope
+信赖域算法：trust region algorithm
+辅助系统：auxiliary system
+自适应信号处理：adaptive signal processing
+随机介质理论：stochastic medium theory
+局部稳定：local stability
+盲区：Blind area
+交通诱导：traffic guidance
+桩-土相互作用：pile-soil interaction
+深基础：deep foundation
+视景系统：visual system
+航路规划：route planning
+能力谱方法：capacity spectrum method
+Biot固结：biot consolidation
+邓肯-张模型：Duncan-Chang model
+动力试验：dynamic test
+装卸工艺：Handling Technology
+保护配置：protection configuration
+隧道通风：tunnel ventilation
+能力谱法：capacity spectrum method
+预应力管桩：prestressed pipe pile
+GO法：GO methodology
+汽车行驶记录仪：vehicle traveling data recorder
+冷却风扇：cooling fan
+塑性收缩：plastic shrinkage
+电子系统：Electronic system
+眼图：Eye Diagram
+目标位移：target displacement
+教学情境：teaching situation
+电枢反应：armature reaction
+油压：oil pressure
+支护参数：Support parameter
+钢轨：Steel rail
+海河：Haihe River
+物理吸附：physical adsorption
+燃油：fuel oil
+费用效益分析：cost-benefit analysis
+空气幕：air curtain
+物理力学性质：physical and mechanical properties
+选择催化还原：selective catalytic reduction
+国标：national standard
+设计准则：design criteria
+脆性材料：Brittle materials
+地层参数：formation parameter
+Monte Carlo仿真：Monte Carlo simulation
+金属纤维：metal fiber
+钢筋：reinforced bar
+PIC单片机：PIC microcontroller
+综合处理：comprehensive treatment
+有害气体：harmful gas
+运动响应：motion response
+弯曲疲劳：Bending Fatigue
+三维有限元：3-D FEM
+边坡稳定性分析：slope stability analysis
+烟气控制：smoke control
+监测分析：monitoring analysis
+H∞鲁棒控制：H∞ robust control
+阻力特性：resistance characteristics
+软PLC：soft PLC
+控制模块：control module
+噪声源识别：Noise source identification
+缓冲区分析：buffer analysis
+温度分布：temperature profile
+运输成本：transportation cost
+超声波测距：ultrasonic ranging
+黑板模型：blackboard model
+质量检查：quality inspection
+边坡加固：slope reinforcement
+交通冲突：traffic conflict
+动态应力：dynamic stress
+建设规模：construction scale
+设计知识：Design knowledge
+角度传感器：angle sensor
+高寒地区：Alpine region
+典型结构：typical structure
+损伤定位：damage localization
+新结构：new structure
+维修策略：maintenance strategy
+分析预测：analysis and forecast
+马尔柯夫模型：Markov model
+自卸车：Dump truck
+功能定位：functional orientation
+用户研究：user study
+风险态度：Risk attitude
+光学模型：Optical model
+机械化施工：mechanized construction
+智能车：intelligent vehicle
+故障恢复：fault recovery
+风致响应：wind-induced response
+重载列车：heavy haul train
+动力有限元：dynamic finite element
+荷载效应：load effect
+性能监测：performance monitoring
+非线性动力分析：nonlinear dynamic analysis
+天文导航：celestial navigation
+超长桩：super-long pile
+固结理论：consolidation theory
+理想点：ideal point
+平衡变压器：balance transformer
+模块化建模：modular modeling
+升船机：ship lift
+钢筋混凝土板：reinforced concrete slab
+主动悬挂：Active suspension
+谐波传动：harmonic drive
+存储模型：storage model
+移动智能体：Mobile agent
+以太网接口：Ethernet interface
+能源危机：energy crisis
+表面强化：surface hardening
+型钢：section steel
+处理效果：treatment effect
+形成过程：formation process
+实例分析：example analysis
+农业院校：agricultural university
+频域分析：frequency-domain analysis
+工程车辆：engineering vehicle
+事件树：event tree
+广义回归神经网络：generalized regression neural network
+再生资源：renewable resources
+原水：raw water
+膨胀率：expansion rate
+应急处理：emergency treatment
+废弃混凝土：waste concrete
+热稳定：thermal stability
+爆破地震波：blasting seismic wave
+线性关系：linear relationship
+适宜技术：appropriate technology
+工艺管理：process management
+温州市：Wenzhou City
+现场监测：in-situ monitoring
+设备选择：equipment selection
+软件实现：software realization
+静平衡：static balance
+道路运输：Road transport
+虚拟产品开发：virtual product development
+稳定性控制：stability control
+总体布置：general layout
+喷油器：fuel injector
+冰激振动：ice-induced vibration
+轻集料混凝土：lightweight aggregate concrete
+沉降变形：settlement deformation
+径向位移：radial displacement
+模糊故障树：fuzzy fault tree
+超级电容：super capacitor
+发动机性能：engine performance
+固结系数：coefficient of consolidation
+燃油消耗：fuel consumption
+相位控制：Phase control
+最小方差：minimum variance
+科学决策：scientific decision
+低通滤波：low-pass filter
+并行计算机：Parallel computer
+轮式装载机：wheel loader
+无线遥控：wireless remote control
+嵌入式平台：embedded platform
+非线性观测器：Nonlinear Observer
+泥水盾构：slurry shield
+重力式挡土墙：gravity retaining wall
+气动干扰：aerodynamic interference
+长洲水利枢纽：Changzhou Hydraulic Complex
+挂篮：hanging basket
+选址问题：location problem
+消能减震：energy dissipation
+马歇尔试验：Marshall test
+被动安全：passive safety
+集装箱起重机：Container crane
+粉质粘土：Silty clay
+剪滞效应：shear lag effect
+静压桩：static pressure pile
+相似关系：similarity relation
+土质边坡：soil slope
+电传动：electric drive
+频谱校正：spectrum correction
+仿真测试：Simulation test
+饱和-非饱和渗流：saturated-unsaturated seepage
+半主动悬挂：semi-active suspension
+商用车：commercial vehicle
+二甲醚：dimethyl ether(DME)
+非达西渗流：non-Darcy flow
+技术经济分析：techno-economic analysis
+加载路径：loading path
+形成条件：Formation conditions
+涂装工艺：coating process
+实体模型：entity model
+磷渣：Phosphorous slag
+执行力：executive power
+优化配置：optimal placement
+电气火灾：electric fire
+钻孔：Drill hole
+水性环氧树脂：waterborne epoxy resin
+钢箱梁：steel box beam
+模型识别：Model Identification
+异种钢：dissimilar steel
+舰船：naval vessel
+人工岛：artificial island
+温度监控：temperature monitoring
+温度波动：temperature fluctuation
+混合策略：mixed strategy
+液氧：liquid oxygen
+植物选择：plant selection
+电能计量：electric energy metering
+相似材料：similar material
+Burgers模型：burgers model
+全球定位系统(GPS)：global positioning system (GPS)
+动力学特性：dynamic characteristic
+模糊预测：fuzzy prediction
+决策矩阵：decision matrix
+行驶工况：Driving cycle
+侧压力：lateral pressure
+光电开关：photoelectric switch
+流体模型：fluid model
+疲劳磨损：fatigue wear
+城市人口：urban population
+MAS：multi-agent system
+黄土滑坡：Loess landslide
+混合有限元：mixed finite element
+小波消噪：wavelet denoising
+计算机监控：computer monitoring
+冷库：Cold store
+测控：Measure and Control
+影响图：influence diagram
+正交异性板：orthotropic plate
+健康城市：healthy city
+模态综合：modal synthesis
+竞争分析：competitive analysis
+半监督聚类：semi-supervised clustering
+PHC桩：PHC pile
+多点激励：multi-support excitation
+路面使用性能：Pavement performance
+执行器故障：actuator failure
+双层规划模型：bi-level programming model
+变形缝：deformation joint
+雪灾：snow disaster
+钢筋混凝土桥梁：Reinforced concrete bridge
+主动安全：active safety
+极大熵：maximum entropy
+因果图：causality diagram
+死锁预防：deadlock prevention
+尺度参数：scale parameter
+船舶操纵性：ship maneuverability
+港口建设：port construction
+检测性能：detection performance
+垂直位移：vertical displacement
+纵向力：longitudinal force
+控制功能：control function
+静态：static state
+热锻模：hot forging die
+补偿收缩混凝土：shrinkage compensating concrete
+苯乙烯-丁二烯-苯乙烯嵌段共聚物：styrene-butadiene-styrene block copolymer
+冷裂纹：cold crack
+湿法：wet process
+底鼓：floor heave
+材料参数：material parameter
+网格法：grid method
+网络计划技术：network planning technique
+光学检测：optical testing
+空冷：air cooling
+坐标转换：Coordinate transform
+粉尘浓度：dust concentration
+控制参数：Control parameters
+在线监测系统：on-line monitoring system
+基层：basic level
+分布模型：distribution model
+硅粉：silicon powder
+自主品牌：independent brand
+水动力：hydrodynamic force
+抽样检验：sampling inspection
+评估标准：Evaluation criteria
+安装技术：installation technology
+减震：shock absorption
+技术研究：Technology research
+冻结壁：frozen wall
+属性识别：Attribute recognition
+逆向设计：reverse design
+管道工程：pipeline engineering
+嵌入式PC：Embedded PC
+变参数：variable parameter
+PWM：Pulse Width Modulation
+模拟方法：simulation method
+重载：heavy load
+伺服驱动：servo drive
+冲击响应：impact response
+二次曲面：quadratic surface
+主轴承：main bearing
+交通事件：traffic incident
+线性分析：linear analysis
+土建工程：civil engineering
+软件模型：software model
+CFD分析：CFD analysis
+现代城市：modern city
+重点实验室：Key laboratory
+自动变速：automatic transmission
+加权残值法：method of weighted residuals
+路面设计：Pavement design
+养护管理：maintenance and management
+构造措施：construction measure
+推出试验：push-out test
+膜片弹簧：Diaphragm Spring
+软弱围岩：weak surrounding rock
+被动桩：passive pile
+压力注浆：pressure grouting
+浮船坞：floating dock
+非概率可靠性：non-probabilistic reliability
+水泥路面：Cement pavement
+四轮转向：Four-wheel steering
+高应变：high strain
+冲激响应：impulse response
+结构损伤识别：structural damage identification
+以太网控制器：Ethernet controller
+信号设计：Signal design
+条件极值：conditional extremum
+技术保障：technical support
+水平承载力：horizontal bearing capacity
+规则波：regular wave
+地震危险性分析：seismic risk analysis
+刚性路面：rigid pavement
+协议一致性测试：protocol conformance testing
+接入技术：access technology
+电压矢量：Voltage vector
+环氧树脂：epoxide resin
+弯曲刚度：bending rigidity
+识别方法：identification method
+电磁干扰：electromagnetic disturbance
+真空断路器：Vacuum breaker
+经济可行性：Economic Feasibility
+海底管道：subsea pipeline
+集装箱港口：Container Port
+摩擦因数：friction factor
+试验方法：test methods
+车速：vehicle speed
+压缩试验：compression test
+污染事故：pollution accident
+制冷压缩机：refrigeration compressor
+舒适度：Comfort degree
+侧架：side frame
+粒子群优化算法：PSO algorithm
+应急指挥：emergency command
+关键点：key point
+密封结构：sealing structure
+三维有限元分析：3D finite element analysis
+阻力损失：resistance loss
+动力吸振器：dynamic vibration absorber
+液氨：liquid ammonia
+技术方法：technical method
+混凝土耐久性：durability of concrete
+围岩压力：surrounding rock pressure
+海流：ocean current
+环境适应性：environmental worthiness
+微波场：microwave field
+有限元网格：finite element mesh
+GH4169合金：GH4169 alloy
+物探：geophysical exploration
+初始应力：initial stress
+滚动接触疲劳：rolling contact fatigue
+软化温度：softening temperature
+峰值应力：peak stress
+管理信息系统(MIS)：management information system(MIS)
+统计特性：Statistical Characteristics
+地表沉降：Surface subsidence
+控制标准：control standard
+造价分析：cost analysis
+方案比较：scheme comparison
+实践技能：practical skill
+隔振器：vibration isolator
+电磁离合器：Electromagnetic Clutch
+应力测量：Stress measurement
+AHP：analytic hierarchy process
+非线性屈曲：nonlinear buckling
+ISM规则：ISM Code
+工作装置：working equipment
+测试平台：testing platform
+地热能：geothermal energy
+干扰源：interference source
+连续介质力学：continuum mechanics
+客运：passenger transport
+数字散斑：digital speckle
+路径选择：route selection
+约束机制：constraint mechanism
+混合建模：hybrid modeling
+系泊系统：mooring system
+位移响应：displacement response
+稳定性条件：stability condition
+贝叶斯分类：Bayesian classification
+识别率：recognition rate
+混合动力：hybrid electric vehicle
+用户平衡：user equilibrium
+飞轮储能：flywheel energy storage
+泡沫沥青：foamed asphalt
+增压锅炉：supercharged boiler
+机车柴油机：locomotive diesel engine
+LQG控制：LQG control
+静态输出反馈：static output feedback
+雷达图像：radar image
+停车需求：parking demand
+集中荷载：concentrated load
+城市化进程：Urbanization process
+港口工程：port engineering
+模糊需求：fuzzy demand
+轮胎模型：tire model
+速度势：velocity potential
+车载导航系统：vehicle navigation system
+地震液化：seismic liquefaction
+轮胎压力：Tire Pressure
+性能退化：Performance degradation
+裂缝处理：crack treatment
+情感化设计：Emotional Design
+弹塑性有限元：elastic-plastic FEM
+自动监控：automatic monitoring
+老化机理：aging mechanism
+山区公路：mountainous highway
+稳态误差：Steady-state error
+剩余电流：residual current
+机械损伤：mechanical damage
+连续冷却：continuous cooling
+取样方法：sampling method
+引气剂：air-entraining agent
+盐雾试验：salt spray test
+技术经济：technology and economy
+道路沥青：Paving asphalt
+功率损失：power loss
+定量方法：Quantitative method
+表面预处理：surface pretreatment
+Gompertz模型：Gompertz model
+新设备：new equipment
+多元线性回归分析：multiple linear regression analysis
+焊点：solder joint
+P波：P wave
+智能决策：intelligent decision-making
+组织模型：organization model
+进气系统：intake system
+锚固力：anchoring force
+传热分析：heat transfer analysis
+自动测试：automatic measurement
+速比：speed ratio
+功率因素：power factor
+宁波港：NingBo port
+VOF法：VOF method
+排队网络：queuing network
+容错技术：fault-tolerant technique
+电子调速器：electronic governor
+内流场：internal flow field
+滚动接触：Rolling contact
+海浪：ocean wave
+小波滤波：wavelet filter
+预防维修：preventive maintenance
+桥面：bridge deck
+小世界网络：small world network
+钢管混凝土柱：concrete filled steel tubular column
+油气弹簧：hydro-pneumatic spring
+非比例阻尼：non-proportional damping
+损伤指标：damage index
+工程造价管理：engineering cost management
+客流预测：passenger flow forecast
+PPP协议：PPP protocol
+软黏土：soft clay
+Hamilton原理：Hamilton principle
+滑坡稳定性：landslide stability
+勘测设计：survey and design
+语言变量：linguistic variable
+机舱：engine room
+滑坡监测：landslide monitoring
+车辆模型：vehicle model
+自适应方法：adaptive method
+多媒体信息：multimedia information
+可靠性优化：reliability optimization
+盲信号处理：blind signal processing
+传输损耗：Transmission loss
+公路景观：highway landscape
+摩擦磨损：frictional wear
+河道：river course
+动态监控：dynamic monitoring
+配电：power distribution
+稀燃：lean burn
+发电机组：Generator set
+调速：Speed regulating
+安全意识：Safety consciousness
+微分法：Differential Method
+超高分子量聚乙烯：ultra-high molecular weight polyethylene
+内高压成形：internal high pressure forming
+轻量化：light weight
+轴向振动：Axial vibration
+风积沙：Aeolian sand
+故障排除：trouble shooting
+高密度电法：high density resistivity method
+壳单元：shell element
+风险概率：risk probability
+排气消声器：exhaust muffler
+柔度矩阵：flexibility matrix
+季节变化：seasonal variations
+行车试验：field test
+制造工艺：manufacture process
+热暴露：thermal exposure
+井下工具：Downhole Tool
+弹塑性变形：elastic-plastic deformation
+制动距离：braking distance
+频率响应函数：frequency response function
+管理实践：management practice
+极差分析：range analysis
+臭氧层：ozone layer
+条形药包：linear charge
+燃烧机理：combustion mechanism
+大雾：heavy fog
+响应特性：response characteristic
+夹层板：sandwich plate
+钢管混凝土拱桥：concrete filled steel tubular arch bridge
+油温：oil temperature
+机械零件：Mechanical parts
+碳纤维布：CFRP sheets
+系统应用：system application
+试验技术：test technique
+深海：deep sea
+惯性测量：Inertial Measurement
+剪力滞后：shear lag
+几何造型：geometry modeling
+电弧侵蚀：arc erosion
+飞轮电池：flywheel battery
+图像二值化：Image binarization
+新挑战：new challenge
+极大似然法：maximum likelihood method
+摩阻力：frictional resistance
+相对位移：Relative Displacement
+匹配设计：matching design
+肤色检测：skin color detection
+健康评价：health evaluation
+科学定位：Scientific orientation
+AHP模型：AHP model
+曲线箱梁：curved box girder
+P-Δ效应：P-Δ effect
+Winkler地基：Winkler foundation
+涌潮：tidal bore
+折减系数：reduction factor
+永磁电机：permanent magnet machine
+施工平台：construction platform
+质量监理：quality supervision
+道路景观：road landscape
+接触面单元：interface element
+网络分析法：analytic network process
+发现概率：detection probability
+引航道：approach channel
+应力历史：stress history
+列车通信网络：train communication network
+独立悬架：independent suspension
+555定时器：555 timer
+通航条件：navigation condition
+电动车辆：electric vehicle
+交通系统：transportation system
+传感器故障：sensor fault
+复合模量：composite modulus
+收费公路：toll road
+视频序列：video sequence
+增量更新：incremental update
+OracleSpatial：Oracle Spatial
+目标强度：target strength
+轴重：Axle load
+竖曲线：vertical curve
+生物柴油：biodiesel oil
+冲压成形：stamping forming
+高瓦斯：high gas
+胶凝材料：cementing material
+旋挖钻机：rotary drilling rig
+最优化模型：optimization model
+应变能密度：strain energy density
+润滑系统：lubricating system
+示功图：dynamometer card
+交通运输：Traffic and transportation
+影响系数法：influence coefficient method
+纵向通风：longitudinal ventilation
+发展目标：development goal
+测试装置：testing device
+技术装备：technical equipment
+焊接工艺评定：welding procedure qualification
+加工变形：Machining deformation
+摩擦阻力：Frictional Resistance
+评估方法：evaluation methods
+损失率：Loss rate
+水压致裂：hydraulic fracturing
+象山港：Xiangshan bay
+清洗机：cleaning machine
+视觉信息：Visual information
+ABAQUS软件：ABAQUS software
+偏心结构：eccentric structure
+机电系统：electromechanical system
+连续测量：continuous measurement
+仿人智能控制：human-simulated intelligent control
+仿真优化：simulation and optimization
+分析计算：analysis and calculation
+位移控制：displacement control
+敞车：gondola car
+再制造工程：remanufacturing engineering
+管节点：tubular joint
+GPS技术：GPS technique
+岩石损伤：rock damage
+比选：comparison and selection
+混凝土泵：concrete pump
+燃料电池发动机：fuel cell engine
+地铁列车：metro train
+工作性能：working performance
+SPAR平台：SPAR platform
+图形界面：graphical interface
+平均速度：average velocity
+状态参数：state parameter
+模糊子集：Fuzzy subset
+基础数据：basic data
+勘察设计：survey and design
+耦合作用：coupling effect
+运营管理：operation and management
+卫星定位：satellite positioning
+主机：main engine
+等效阻尼比：equivalent damping ratio
+CNG发动机：CNG engine
+指挥系统：command system
+选线：route selection
+可压缩流动：compressible flow
+二面角：dihedral angle
+镜像法：image method
+负序电流：negative sequence current
+地面振动：Ground vibration
+试桩：test pile
+粘性阻尼：viscous damping
+抗震加固：seismic retrofit
+疲劳检测：fatigue detection
+0-1整数规划：0-1 integer programming
+混沌优化算法：Chaos optimization algorithm
+教学实习：teaching practice
+相机定标：camera calibration
+超越方程：transcendental equation
+扭矩测量：torque measurement
+SMA混合料：SMA mixture
+贝雷法：Bailey method
+经济圈：economic circle
+悬浮隧道：submerged floating tunnel
+公交网络：transit network
+施工通风：construction ventilation
+锚固区：anchorage zone
+多相滤波：polyphase filter
+非线性稳定：nonlinear stability
+UKF：unscented Kalman filter
+铅芯橡胶支座：lead rubber bearing
+欠驱动系统：underactuated system
+盾构法隧道：shield tunnel
+非饱和渗流：unsaturated seepage
+三相四线制：Three-phase four-wire
+水下航行体：underwater vehicle
+三角级数：trigonometric series
+有机更新：organic renewal
+客车转向架：passenger car bogie
+损伤分析：damage analysis
+感知无线电：Cognitive radio
+判决反馈均衡器：decision feedback equalizer
+泡状流：bubbly flow
+气流：air flow
+场强：field intensity
+生态影响：ecological impact
+渗流模型：percolation model
+发展政策：development policy
+偏压：Bias voltage
+接触线：contact wire
+界面层：interface layer
+注浆压力：grouting pressure
+关键问题：key problem
+零点漂移：zero drift
+大型：large scale
+疲劳设计：fatigue design
+人因失误：human error
+特征线法：characteristics method
+水流：water flow
+经济规模：economic scale
+动特性：dynamic characteristics
+水文地质条件：hydrogeological conditions
+多聚磷酸：polyphosphoric acid
+微粒群算法：Particle swarm optimization(PSO)
+组成分析：Composition analysis
+喷射混凝土：sprayed concrete
+大应变：large strain
+温度效应：temperature effects
+调度系统：dispatching system
+缓和曲线：easement curve
+激光准直：laser collimation
+结构特性：structural characteristics
+固有应变：inherent strain
+内应力：inner stress
+红外检测：infrared detection
+自适应PID：Adaptive PID
+塑性指数：plasticity index
+液力偶合器：fluid coupling
+辅助决策：assistant decision
+施工进度：construction schedule
+时间步长：Time step
+射频卡：RF card
+参数调整：parameter adjustment
+分维值：fractal dimension
+凝聚函数：Aggregate Function
+曲梁：curved beam
+位置跟踪：position tracking
+水动力模型：hydrodynamic model
+铁路车站：railway station
+寿命周期成本：life cycle cost
+火车站：railway station
+稀疏波：rarefaction wave
+带传动：belt drive
+大温差：large temperature difference
+冰荷载：ice load
+蠕变变形：creep deformation
+PID调节器：PID controller
+偏差分析：deviation analysis
+土钉墙：soil nailed wall
+动应变：Dynamic strain
+稳健回归：robust regression
+Gamma分布：Gamma distribution
+疲劳方程：fatigue equation
+离散选择模型：discrete choice model
+卡方检验：chi-square test
+小波阈值去噪：Wavelet threshold denoising
+运输管理：transportation management
+机场道面：airport pavement
+撞击力：impact force
+旅客运输：passenger transport
+乐滩水电站：Letan hydropower station
+公路运输经济：highway transportation economy
+浮动车：floating car
+无线控制：wireless control
+相对导航：Relative navigation
+设计实践：design practice
+海岸工程：coastal engineering
+横摆角速度：yaw rate
+回声消除：echo cancellation
+山岭隧道：mountain tunnel
+排水设计：drainage design
+抖振响应：buffeting response
+项目管理系统：project management system
+振动台模型试验：shaking table model test
+硬件在环仿真：Hardware-in-the-loop simulation
+作用距离：operating range
+道路系统：road system
+矩估计：moment estimation
+城市交通控制：urban traffic control
+大地高：geodetic height
+M法：M method
+圈梁：ring beam
+土壤固化剂：soil stabilizer
+机务段：locomotive depot
+共轨系统：common rail system
+CAN通信：CAN communication
+差异演化：differential evolution
+夹紧力：clamping force
+薄层：thin bed
+松弛模量：relaxation modulus
+热裂纹：hot crack
+振动疲劳：vibration fatigue
+无网格法：meshless methods
+自动监测系统：Automatic monitoring system
+自由曲面：Free surface
+补焊：repair welding
+动态仿真：dynamic emulation
+生产设备：Production equipment
+检测系统：measuring system
+G代码：G code
+测试技术：test technique
+临界长度：critical length
+长寿命：Long life
+滩涂：tidal flat
+模拟退火法：simulated annealing algorithm
+阻尼材料：damping materials
+砂型铸造：Sand casting
+活动断裂：Active faults
+表面防护：Surface Protection
+维修成本：maintenance cost
+静载：static load
+直线拟合：linear fitting
+温度场模拟：temperature field simulation
+过程工程：process engineering
+激光传感器：Laser sensor
+数据流程：data flow
+P-S-N曲线：P-S-N curve
+屈曲模态：buckling mode
+柴油车：diesel vehicle
+VOF模型：VOF model
+粗骨料：coarse aggregate
+同态滤波：homomorphic filter
+电气传动：electric drive
+随机介质：random medium
+设计要求：design requirement
+数字模拟：numerical simulation
+开放式系统：open system
+非连续变形分析：discontinuous deformation analysis
+橡胶沥青：Asphalt rubber
+可靠度理论：reliability theory
+安全装置：safety device
+圆锥滚子轴承：tapered roller bearing
+电缆隧道：cable tunnel
+水面舰艇：surface ship
+立体显示：stereo display
+青藏公路：Qinghai-Tibet Highway
+软件应用：software application
+统计模式识别：statistical pattern recognition
+排队模型：queue model
+排水管道：drainage pipeline
+运动学仿真：kinematic simulation
+车用发动机：vehicle engine
+网络理论：Network theory
+民族传统：national tradition
+车用柴油机：vehicle diesel engine
+数据重构：data reconstruction
+桥梁振动：bridge vibration
+空气温度：air temperature
+软件接口：software interface
+地基加固：Foundation consolidation
+分项系数：partial coefficient
+精益管理：Lean management
+GPS导航：GPS navigation
+汽车悬架：automobile suspension
+渗透力：seepage force
+路面施工：Pavement construction
+钢-混凝土组合梁：steel-concrete composite beams
+出行行为：Travel behavior
+起升机构：Hoisting mechanism
+双曲拱桥：double arch bridge
+黄土地基：loess foundation
+路面养护：pavement maintenance
+冲击荷载：impact loading
+桥梁健康监测：bridge health monitoring
+多目标控制：multi-objective control
+交互式遗传算法：interactive genetic algorithm
+孔压：pore pressure
+空化数：cavitation number
+高液限土：high liquid limit soil
+等值电路：equivalent circuit
+砂桩：sand pile
+曲线桥：curved bridge
+混凝土徐变：Concrete creep
+谐波平衡：Harmonic balance
+钢-混凝土组合结构：steel-concrete composite structure
+电子控制系统：electronic control system
+ANSYS仿真：ANSYS simulation
+DX桩：DX pile
+设计监理：design supervision
+道路工程：road project
+系统误差：systematic errors
+液化气：liquefied petroleum gas
+放样：setting out
+钻井设计：drilling design
+自升式平台：jack-up platform
+流动特性：flow behavior
+火灾事故：fire accident
+安全评定：safety evaluation
+不锈钢管：stainless steel tube
+海洋污染：marine pollution
+日变化：daily change
+纤维增强复合材料：fiber reinforced composites
+技术问题：technical problem
+族组成：group composition
+经济预测：Economic Forecasting
+安全成本：safety cost
+控制管理：control management
+控制精度：control accuracy
+优化运行：optimized operation
+变分法：variation method
+排气阀：exhaust valve
+监测技术：Monitoring technique
+基本参数：basic parameter
+电阻率法：resistivity method
+电桥：electric bridge
+静液传动：hydrostatic transmission
+火灾烟气：fire smoke
+多目标决策：multiple objective decision making
+水火弯板：line heating
+PLC系统：PLC system
+震害预测：earthquake disaster prediction
+矩形截面：rectangular section
+天然气汽车：natural gas vehicle
+优化技术：optimization technique
+热点应力：hot spot stress
+RS-485通信：RS-485 communication
+长大隧道：long tunnel
+示值误差：indication error
+地域分布：regional distribution
+辐射效率：radiation efficiency
+时间窗口：Time Window
+刚度系数：stiffness coefficient
+空化噪声：cavitation noise
+筒型基础：bucket foundation
+稳定土：stabilized soil
+智能分析：Intelligent analysis
+节能控制：energy saving control
+整数线性规划：integer linear programming
+车辆检测器：Vehicle Detector
+非定常气动力：unsteady aerodynamics
+民事纠纷：Civil dispute
+误差椭圆：error ellipse
+汽车维修：Automobile maintenance
+文化大革命：Cultural Revolution
+钢护筒：steel casing
+重力式码头：gravity wharf
+加筋路堤：reinforced embankment
+SMA路面：SMA pavement
+组合箱梁：composite box girder
+动态应变：dynamic strain
+动力修改：dynamic modification
+河床演变：fluvial processes
+颤振导数：flutter derivatives
+桥涵：bridge and culvert
+汽车电子：automobile electronics
+雷达数据处理：radar data processing
+加固处理：reinforcement treatment
+徐变系数：creep coefficient
+承载机理：bearing mechanism
+闭环增益成形：closed-loop gain shaping
+船舶避碰：ship collision avoidance
+动模量：dynamic modulus
+振动压实：vibrating compaction
+定向天线：directional antenna
+桁架桥：Truss bridge
+水泥稳定碎石：Cement-stabilized macadam
+LPG发动机：LPG engine
+库存优化：inventory optimization
+粘性流：viscous flow
+非线性最优化：nonlinear optimization
+港口企业：port enterprise
+东海大桥：Donghai bridge
+传输协议：transmission protocol
+直线同步电机：linear synchronous motor
+小波滤波器：wavelet filter
+教学组织：teaching organization
+被动安全性：passive safety
+水晶报表：crystal report
+组态技术：configuration technology
+变更管理：change management
+海事赔偿责任限制：limitation of liability for maritime claims
+一体化网络：universal network
+雷达模拟器：radar simulator
+水稳性：Water stability
+重大危险源：major hazards
+处理技术：processing technology
+选择性催化还原：selective catalytic reduction(SCR)
+地表变形：surface deformation
+倾角：inclination angle
+悬浮物：suspended solids
+灌浆压力：Grouting pressure
+能量转换：energy transformation
+计量管理：measurement management
+体积模量：bulk modulus
+地铁站：subway station
+替代燃料：alternative fuel
+波浪载荷：wave load
+化粪池：septic tank
+共因失效：common cause failure
+锚索：anchor rope
+吸能：energy absorption
+冰点：freezing point
+松动爆破：loose blasting
+控制与管理：Control and management
+Kriging模型：Kriging model
+雷诺应力模型：Reynolds stress model
+质量监测：quality monitoring
+自动化控制：automation control
+不确定信息：uncertain information
+水冷：water cooling
+使用性能：service performance
+计算程序：calculating program
+老化试验：Aging test
+摩擦角：friction angle
+转向架构架：Bogie frame
+特征曲线：characteristic curve
+边坡变形：slope deformation
+静力学分析：static analysis
+网络图：network graph
+再生骨料混凝土：recycled aggregate concrete
+透水系数：permeability coefficient
+集成优化：integrated optimization
+三维CAD：three-dimensional CAD
+ISO9000标准：ISO9000 standard
+时域法：time domain method
+控制器局域网：controller area network
+道路交通事故：road traffic accidents
+信息发布：information release
+系统调试：system debugging
+水平力：horizontal force
+超越离合器：Overrunning clutch
+线性规划模型：linear programming model
+参数研究：parameter study
+振动隔离：vibration isolation
+机体：engine block
+再生制动：regenerative brake
+嵌入式实时系统：Embedded Real-time System
+机油泵：Oil pump
+空间数据集成：spatial data integration
+土层锚杆：soil anchor
+弹塑性模型：elastoplastic model
+智能识别：intelligent recognition
+保定市：Baoding city
+VB编程：VB programming
+自动校准：automatic calibration
+整体提升：integral lifting
+恒张力控制：constant tension control
+代理模型：surrogate model
+悬置系统：mounting system
+水泥土搅拌桩：cement-soil mixing pile
+脉动风：fluctuating wind
+姿态角：attitude angle
+变电站自动化：substation automation system
+滑坡治理：landslide treatment
+水损坏：water damage
+门座起重机：portal crane
+能量管理系统：energy management system(EMS)
+组合拍卖：combinatorial auction
+粒子系统：particle systems
+城市特色：City characteristic
+动力固结：dynamic consolidation
+设计美学：design aesthetics
+发动机控制：engine control
+非线性整数规划：Nonlinear integer programming
+降雨入渗：rain infiltration
+探索性分析：exploratory analysis
+钢拱桥：steel arch bridge
+桩土共同作用：pile-soil interaction
+土-水特征曲线：soil-water characteristic curve
+凹底平车：depressed center flat car
+可达性分析：reachability analysis
+船舶管理：ship management
+测试程序：test program
+轻轨车辆：light rail vehicle
+细集料：Fine aggregate
+PowerBuilder：Power builder
+类数：Class number
+模糊隶属度函数：fuzzy membership function
+海上货物运输：Carriage of goods by sea
+关联度：related degree
+煤矸石：coal refuse
+海域：sea area
+结构胶：structural adhesive
+定向钻：directional drilling
+塑性极限载荷：plastic limit load
+自动调节：automatic regulation
+超声技术：ultrasonic technology
+废玻璃：waste glass
+改性树脂：modified resin
+技术评价：technology assessment
+水动力条件：hydrodynamic condition
+工业工程：industry engineering
+转向节：steering knuckle
+多源数据：multi-source data
+试压：pressure test
+实验模态分析：experimental modal analysis
+空间分异：spatial variation
+水头：water head
+机械特性：mechanical properties
+电加热器：electric heater
+残余接触压力：residual contact pressure
+复合结构：compound structure
+完整性管理：integrity management
+道路建设：road construction
+行星齿轮：planet gear
+扩能：capacity expansion
+降温效果：cooling effect
+因次分析：dimensional analysis
+排放标准：Discharge standard
+调速系统：speed regulating system
+循环软化：cyclic softening
+质量意识：quality consciousness
+速度补偿：velocity compensation
+容积法：volumetric method
+弧长：arc length
+最大Lyapunov指数：the largest Lyapunov exponent
+系统演化：System Evolution
+自然因素：natural factors
+应力释放：stress release
+公路网：road network
+系统参数：system parameters
+恒压：constant voltage
+可编程计算机控制器：programmable computer controller
+隔振系统：vibration isolation system
+切削机理：cutting mechanism
+梯度磁场：gradient magnetic field
+工艺信息：process information
+锚泊系统：mooring system
+生态护坡：Ecological slope protection
+排气温度：exhaust temperature
+达西定律：Darcy's law
+模态频率：modal frequency
+钢塔：steel tower
+直接计算：direct calculation
+大位移：Large Displacement
+纹波电流：ripple current
+生物节律：biological rhythm
+综合运输：comprehensive transportation
+电路图：circuit diagram
+传动系：Transmission system
+多输入多输出系统：MIMO system
+无线电导航：radio navigation
+横向稳定性：Lateral stability
+机制分析：Mechanism analysis
+虚拟局域网：Virtual local area network
+探索性因子分析：Exploratory factor analysis
+微分进化算法：differential evolution algorithm
+线性控制：linear control
+舰船检测：ship detection
+H∞滤波：H∞ filtering
+Euler-Bernoulli梁：Euler-bernoulli beam
+桥梁检测：bridge detection
+热气机：Stirling engine
+应力重分布：stress redistribution
+航空母舰：aircraft carrier
+近似模型：approximate model
+超静孔隙水压力：excess pore water pressure
+Halbach阵列：Halbach array
+车辆路径：vehicle routing
+短信平台：short message platform
+施工风险：construction risk
+正截面：normal section
+整体稳定：integral stability
+节点刚度：joint stiffness
+噪声指数：noise figure
+永磁无刷直流电机：permanent magnet brushless DC motor
+均衡模型：equilibrium model
+人字门：Miter gate
+移动闭塞：moving block
+道路模拟：road simulation
+路面性能：pavement performance
+加权网络：weighted network
+项目计划：project plan
+混合梁：hybrid girder
+故障信号：fault signal
+激光测距仪：laser range finder
+资源均衡：resource leveling
+和谐环境：Harmonious environment
+地域结构：regional structure
+试制：trial production
+油污：oil pollution
+矿渣粉：slag powder
+冲压模具：Stamping die
+焊接结构：welding structure
+单耗：unit consumption
+可靠性评定：reliability evaluation
+人均GDP：GDP per capita
+产品性能：Product performance
+地质因素：geological factors
+速度传感器：speed sensor
+轴向变形：axial deformation
+耦合场：coupled field
+荷电状态：state of charge
+反演分析：inversion analysis
+材料合成与加工工艺：synthesizing and processing technics
+广州地区：Guangzhou area
+功能评价：function evaluation
+恒功率控制：Constant power control
+优化管理：optimal management
+高效化：high efficiency
+探井：exploratory well
+叠加原理：principle of superposition
+应急疏散：Emergency Evacuation
+研究展望：research prospect
+改性乳化沥青：Modified emulsified asphalt
+计算软件：calculation software
+总纵强度：longitudinal strength
+自然条件：natural conditions
+定量指标：quantitative index
+运行车速：operating speed
+高陡边坡：high and steep slope
+智能化控制：intelligent control
+动态载荷：dynamic load
+顶板稳定性：roof stability
+干法：dry method
+S7-200PLC：S7-200 PLC
+试验数据：test data
+加固技术：Reinforcement technique
+潜水：phreatic water
+紫穗槐：amorpha fruticosa
+柔性制造：flexible manufacturing
+A/D转换：A/D transform
+惯性矩：moment of inertia
+风险辨识：risk identification
+人的因素：human factor
+混凝土质量：concrete quality
+离散涡方法：discrete vortex method
+约束方程：constraint equation
+数据显示：Data display
+火花放电：spark discharge
+超静定结构：Statically indeterminate structure
+预应力锚索：prestressed anchor rope
+服役寿命：service life
+VB程序：VB program
+数据库接口：database interface
+地基稳定性：foundation stability
+盐城市：Yancheng City
+噪声干扰：noise interference
+采样间隔：sampling interval
+过程质量控制：process quality control
+传感器融合：Sensor fusion
+潮汐河口：tidal estuary
+绿色交通：green traffic
+混合燃料：mixed fuel
+衰减常数：attenuation constant
+变形监测：deformation monitor
+绿色维修：green maintenance
+法向力：Normal force
+水中爆炸：underwater explosion
+传统教学模式：traditional teaching mode
+自适应控制器：Adaptive controller
+时间测量：time measurement
+通信软件：Communication software
+重载铁路：heavy haul railway
+铁路施工：railway construction
+预应力砼：prestressed concrete
+环氧沥青混凝土：epoxy asphalt concrete
+稳流试验：Steady flow test
+驾驶员模型：driver model
+缸内直喷：direct injection
+电控发动机：electronic controlled engine
+短时交通流：Short-term traffic flow
+范围经济：scope economy
+主保护：Main protection
+内力重分布：redistribution of internal force
+颤振稳定性：flutter stability
+磁场定向控制：field oriented control
+CRD法：CRD method
+高强螺栓：high strength bolt
+BOOST电路：BOOST circuit
+数字化测量：digital measurement
+季节性冻土：seasonal frozen soil
+影响矩阵：influence matrix
+Rankine源：Rankine source
+沥青胶浆：asphalt mortar
+深圳地铁：Shenzhen metro
+行驶平顺性：ride comfort
+带通滤波：Band-pass filter
+岩溶水系统：karst water system
+道路施工：road construction
+寿命管理：life management
+改性沥青混合料：modified asphalt mixture
+上限定理：upper bound theorem
+人工成本：labor cost
+OLE技术：OLE technology
+衬砌混凝土：lining concrete
+集装箱吞吐量：container throughput
+起动性能：starting performance
+村庄规划：village planning
+复形法：complex method
+岸边集装箱起重机：quayside container crane
+富客户端：rich client
+冗余信息：redundant information
+电波暗室：anechoic chamber
+景观要素：landscape element
+实时内核：real-time kernel
+电源完整性：power integrity
+铁路通信：Railway communication
+真值表：truth table
+数字集群：Digital trunking
+预估模型：prediction model
+地形建模：terrain modeling
+贝叶斯推断：Bayesian inference
+简化分析：simplified analysis
+视觉环境：Visual environment
+营销体系：marketing system
+铝镁合金：Al-Mg alloy
+纵裂：longitudinal crack
+瓦斯浓度：gas concentration
+蚂蚁算法：ant colony algorithm
+QC小组：QC group
+无网格方法：meshless methods
+理化性能：physicochemical properties
+逆冲断层：thrust fault
+结构原理：structure principle
+疏散时间：evacuation time
+结构改进：structural improvement
+TWIP钢：TWIP steel
+摩擦特性：friction characteristics
+应急体系：emergency system
+结构材料：structural material
+现场管理：field management
+改性剂：modifying agent
+技术分析：technological analysis
+PE管：PE pipe
+成像技术：imaging technique
+焊接方法：welding method
+CAE分析：CAE Analysis
+频率比：frequency ratio
+设备配置：Equipment configuration
+安全检查：security inspection
+循环水：circulation water
+等高线：contour lines
+实验分析：experiment analysis
+热浸镀锌：hot-dip galvanizing
+二层规划：bi-level programming
+减震器：shock absorber
+曲柄摇杆机构：crank rocker mechanism
+变速：variable speed
+电接触：electrical contact
+视觉特性：visual characteristics
+流变参数：rheological parameters
+传动机构：transmission mechanism
+局部线性嵌入：Locally linear embedding
+盐渍土：Salty soil
+动载：dynamic load
+平面布局：plane layout
+竖向设计：Vertical design
+船型：ship type
+校正方法：correction method
+电控：electric control
+危险分析：hazard analysis
+公路项目：highway project
+离散单元法：distinct element method
+地质雷达：geologic radar
+油系统：Oil system
+在线优化：on-line optimization
+铁路货运：Railway Freight Transportation
+空燃比：air/fuel ratio
+层状岩体：layered rock mass
+决策方法：decision-making method
+规划管理：planning and management
+最优决策：optimal decision
+工程地质问题：engineering geological problem
+斜拉索：Inclined cable
+横向分布：transverse distribution
+静态交通：static traffic
+随机参数：random parameter
+人员培训：personnel training
+工程特性：engineering characteristic
+预测模式：prediction model
+动态可靠性：Dynamic Reliability
+防火保护：fire protection
+钢锚箱：steel anchor box
+低信噪比：low signal-to-noise ratio
+质量通病：common quality defect
+水压爆破：water pressure blasting
+静载荷：static load
+视觉识别：visual identity
+总平面布置：general layout
+安装方法：installation method
+周期性结构：periodic structure
+电场传感器：electric field sensor
+指标分析：index analysis
+定额管理：quota management
+软基：soft soil foundation
+通风空调：ventilation and air conditioning
+液力传动：hydraulic transmission
+Lagrange乘子法：Lagrange multiplier method
+城市公共交通：urban public transportation
+费用分析：cost analysis
+ALE方法：ALE method
+服务流程：service process
+疲劳驾驶：fatigue driving
+项目控制：project control
+鞍结分岔：saddle-node bifurcation
+局部振动：Local vibration
+施工程序：construction procedure
+水流结构：flow structure
+元胞自动机模型：cellular automaton model
+冰灾：ice disaster
+外流场：external flow field
+部分斜拉桥：Partial cable-stayed bridge
+有源滤波：active filter
+施工顺序：construction sequence
+铁路客运站：railway passenger station
+人行天桥：pedestrian bridge
+PDM系统：PDM system
+线性调频信号：Linear frequency modulated signal
+铁路网：railway network
+最终沉降量：final settlement
+轴载换算：axle load conversion
+加固方法：reinforcement method
+外水压力：external water pressure
+次固结：secondary consolidation
+卸船机：ship unloader
+供油提前角：fuel supply advance angle
+相对位置：relative position
+水利建设：water conservancy construction
+饱和土：saturated soils
+内河航道：inland waterway
+货物列车：Freight train
+列车控制：Train control
+车辆路线问题：vehicle routing problem
+桥梁监测：bridge monitoring
+绝缘监测：insulation monitoring
+三角多项式：trigonometric polynomial
+竖向地震：vertical earthquake
+剪力连接件：shear connector
+公交停靠站：bus stop
+损伤评估：damage assessment
+两栖车辆：amphibious vehicle
+CFD仿真：CFD simulation
+市政道路：municipal road
+车辆监控系统：vehicle monitoring system
+天然地基：natural foundation
+列车运行图：Train working diagram
+BA模型：BA model
+压水试验：water pressure test
+最小费用流：minimum cost flow
+矩阵位移法：matrix displacement method
+Socket通信：Socket communication
+快速开发：Rapid development
+台风路径：typhoon track
+Morison方程：morison equation
+香溪河：Xiangxi River
+轻油：light oil
+类比法：analogy method
+颗粒级配：particle size distribution
+过滤阻力：filtration resistance
+叉车：forklift truck
+仿真模型：simulation models
+舰船辐射噪声：ship-radiated noise
+工业废渣：industrial waste
+连续流：continuous flow
+确定方法：determination method
+钢材：steel products
+可制造性评价：Manufacturability Evaluation
+异常数据：abnormal data
+珠江口：Zhujiang Estuary
+纺织复合材料：textile composites
+发展动态：development trend
+控制工程：control engineering
+循环硬化：Cyclic Hardening
+二次应力：secondary stress
+运行效率：Operation Efficiency
+分解温度：decomposition temperature
+泡沫混凝土：foamed concrete
+活塞风：piston wind
+液压伺服控制：hydraulic servo control
+系统保护：system protection
+临界风速：critical velocity
+火灾模型：fire model
+Verhulst模型：Verhulst model
+衰减率：attenuation rate
+环氧涂层：epoxy coating
+寿命估算：life estimation
+铅酸电池：lead acid battery
+地铁火灾：subway fire
+应急反应：emergency response
+物理结构：Physical Structure
+绝热温升：adiabatic temperature rise
+热源模型：heat source model
+声全息：acoustic holography
+扩展Kalman滤波：Extended Kalman filter
+养护条件：curing condition
+剪力：shearing force
+经济性评价：Economic evaluation
+涡流损耗：eddy current losses
+主曲线：master curve
+产品形态：product form
+频散曲线：dispersion curves
+模糊自适应：fuzzy adaptive
+景观功能：landscape function
+演化规律：evolution law
+外加电流：Impressed current
+滨海盐渍土：coastal saline soil
+GPS系统：GPS system
+试验设备：test equipment
+临界频率：critical frequency
+损伤因子：damage factor
+声学参数：acoustic parameters
+模拟控制：analog control
+检定规程：verification regulation
+控制平台：control platform
+综合评价体系：comprehensive evaluation system
+港口国监督：port state control
+力学效应：mechanical effect
+弹性薄板：elastic thin plate
+状态向量：state vector
+数据传递：data transfer
+冷藏集装箱：refrigerated container
+经济性能：economic performance
+模糊评价模型：Fuzzy evaluation model
+岩体边坡：Rock slope
+电力牵引：Electric traction
+动水压力：Dynamic water pressure
+施工工法：construction method
+电动执行机构：electric actuator
+边坡开挖：Slope excavation
+铁路客运：railway passenger transport
+超声测距：Ultrasonic ranging
+弹性元件：elastic element
+自适应卡尔曼滤波：Adaptive Kalman Filtering
+材料管理：material management
+过程评价：Process evaluation
+改扩建：reconstruction and extension
+数据检索：Data Retrieval
+风险系数：Risk coefficient
+纵断面：vertical section
+结构张量：Structure tensor
+功率模块：Power Module
+车辆路径问题：vehicle routing problem(VRP)
+高压共轨：high-pressure common rail
+间歇混沌：intermittent chaos
+滑转率：slip ratio
+功能函数：performance function
+交通模型：traffic model
+龙门吊：gantry crane
+车载终端：Vehicle terminal
+动基座：Moving base
+桥型：bridge type
+桩基施工：pile foundation construction
+薄壁箱梁：thin-walled box girder
+交通分布：traffic distribution
+被动声纳：Passive sonar
+裂缝分析：crack analysis
+弯曲损耗：bend loss
+ArcGISEngine：ArcGIS Engine
+气动阻力：aerodynamic drag
+辅助逆变器：auxiliary inverter
+混凝土斜拉桥：concrete cable-stayed bridge
+系杆拱：tied arch
+栈桥：trestle bridge
+枢纽机场：hub airport
+运输需求：transportation demand
+水动力系数：hydrodynamic coefficients
+跟踪性能：tracking performance
+交通枢纽：transportation hub
+船舶动力装置：marine power plant
+船模试验：ship model test
+轮轨接触：Wheel/rail contact
+保险费率：Premium rate
+CDMA网络：CDMA network
+电液伺服控制：electro-hydraulic servo control
+燃气发动机：gas engine
+数值风洞：numerical wind tunnel
+瞬态过程：Transient process
+油气悬架：hydro-pneumatic suspension
+恒定束宽：Constant beamwidth
+瞬时转速：instantaneous speed
+混凝土泵车：Concrete pump truck
+工程模型：engineering model
+电压传感器：voltage sensor
+防水技术：waterproof technology
+矿山法：mining method
+报价系统：Quotation system
+岩石高边坡：high rock slope
+数字海图：digital chart
+形态小波：morphological wavelet
+人工增雨：precipitation enhancement
+电压损失：Voltage loss
+高性能计算机：high performance computer
+无监督聚类：unsupervised clustering
+OWA算子：OWA operator
+激发极化：induced polarization
+检测技术：inspection technology
+AutoCAD软件：AutoCAD software
+灰色聚类法：grey clustering method
+预裂爆破：pre-split blasting
+密封圈：seal ring
+恢复系数：restitution coefficient
+涌水量：water inflow
+自由度：Freedom degree
+灾害防治：disaster prevention
+CAD/CAM系统：CAD/CAM system
+维护管理：maintenance and management
+堆积密度：bulk density
+地铁施工：metro construction
+车辆振动：vehicle vibration
+冷却水管：cooling pipe
+船舶安全：ship safety
+变形特征：deformation characteristic
+质量控制体系：quality control system
+远程监测系统：remote monitoring system
+有机涂层：organic coatings
+系统框架：system frame
+工艺设备：Process equipment
+寿命评估：life evaluation
+现场总线技术：fieldbus technology
+光缆：optical fiber cable
+风速：air velocity
+聚丙烯纤维混凝土：polypropylene fiber concrete
+行业标准：trade standard
+摩阻损失：friction loss
+低频振动：Low-frequency vibration
+侧向力：side force
+定量评估：quantitative assessment
+运输包装：transport package
+体积膨胀：volume expansion
+运输企业：transportation enterprise
+接触摩擦：contact friction
+内河：Inland river
+聚乙烯蜡：Polyethylene Wax
+洋山港：Yangshan Port
+拟合精度：fitting precision
+危岩：dangerous rock
+分数导数：fractional derivative
+综合安全评估：formal safety assessment
+测量原理：measuring principle
+任务可靠性：mission reliability
+批量生产：batch production
+图形数据库：graphic database
+可靠性分配：reliability distribution
+CBR：Case-Based Reasoning
+研究型教学：research teaching
+浅层地震勘探：shallow seismic exploration
+压强分布：pressure distribution
+供氧：oxygen supply
+局部搜索算法：local search algorithm
+抗冲击：impact resistance
+冷启动：cold start
+投影寻踪回归：Projection pursuit regression
+高速摄像：high-speed photography
+高负荷：high load
+限速：speed limit
+船舶结构：ship structures
+正交各向异性板：orthotropic plate
+供需平衡：supply and demand balance
+旋喷桩：jet grouting pile
+直接成本：Direct cost
+数据记录：data record
+平衡方程：equilibrium equation
+软土路基：soft roadbed
+船模：ship model
+进气歧管：Intake manifold
+实施方案：implementation scheme
+时序模型：time series model
+弹簧振子：spring oscillator
+地面设备：ground equipment
+多尺度法：multiple scales method
+制动鼓：Brake drum
+矢量控制系统：vector control system
+位置分析：displacement analysis
+冲击系数：impact factor
+管理研究：Management research
+冲击谱：shock spectrum
+基坑围护：foundation pit support
+车辆定位：vehicle positioning
+拱圈：arch ring
+旁压试验：pressuremeter test
+岸坡：bank slope
+整体稳定性：overall stability
+功效系数法：efficacy coefficient method
+国民经济评价：national economy evaluation
+液压启闭机：Hydraulic hoist
+体系转换：system conversion
+智能照明：intelligent lighting
+施工控制网：construction control network
+柴油发电机组：diesel generator set
+落锤式弯沉仪：falling weight deflectometer
+系统响应：system response
+结合梁：composite girder
+渐进结构优化：evolutionary structural optimization
+抗震可靠度：seismic reliability
+桥梁美学：bridge aesthetics
+费用模型：cost model
+需求谱：demand spectrum
+TBM施工：TBM construction
+速度控制器：speed controller
+深层搅拌法：deep mixing method
+负弯矩：negative moment
+开裂荷载：cracking load
+push-over分析：push-over analysis
+沥青含量：asphalt content
+相继增压：sequential turbocharging
+车辆悬架：vehicle suspension
+车型识别：vehicle recognition
+铣刨机：milling machine
+制动梁：brake beam
+乌鞘岭隧道：Wushaoling tunnel
+多式联运：multimodal transportation
+拱轴线：arch axis
+疲劳可靠度：fatigue reliability
+开幕式：Opening Ceremony
+高填方：high fill
+列车自动控制：automatic train control
+决策变量：Decision variable
+容差分析：tolerance analysis
+Petri网模型：Petri Net model
+FSK信号：FSK Signal
+模糊融合：fuzzy fusion
+关键路径法：critical path method
+贴片天线：patch antenna
+GPS数据：GPS data
+稳健优化：Robust Optimization
+谐波谐振：harmonic resonance
+负载特性：Load characteristic
+斜井：deviated well
+挥发性有机物：volatile organic compounds(VOCs)
+突水：water bursting
+注浆技术：Grouting technique
+水电解：water electrolysis
+疲劳寿命：fatigue lifetime
+水介质：aqueous media
+时空变化：spatio-temporal variation
+力学参数：mechanics parameters
+齿形：tooth profile
+比阻：specific resistance
+自动控制系统：automation control system
+南京地铁：nanjing metro
+浑善达克沙地：Otindag Sandy Land
+废热回收：waste heat recovery
+小波包分析：Wavelet Package Analysis
+金相检验：Metallographic examination
+检测装置：detection device
+烟气流动：smoke movement
+节理岩体：Jointed rockmass
+快速施工：fast construction
+管理经验：management experience
+技术特性：Technical characteristic
+测试仪：measuring instrument
+缺陷处理：defect treatment
+维修体制：maintenance system
+安全保障：safety guarantee
+要点：key point
+强度计算：Intensity calculation
+火灾安全：fire safety
+铁路起重机：railway crane
+铁路货车：railway freight car
+运动学建模：Kinematics modeling
+质量比：Mass ratio
+三维分析：three-dimensional analysis
+力场：Force field
+施工经验：construction experience
+产品生命周期管理：product lifecycle management
+实时数据：real time data
+结构效应：structural effect
+磨损试验：wear test
+交通运输经济学：Traffic transport economics
+电磁防护：electromagnetic protection
+静力触探：static sounding
+流场分布：flow field distribution
+总体规划：general plan
+异常值：abnormal value
+条件价值法：contingent valuation method
+安全稳定：Safety and stability
+同步误差：synchronization error
+轨道车辆：rail vehicle
+管理对策：management measures
+APDL语言：APDL language
+传递系数：transfer coefficient
+物元理论：matter-element theory
+CAN网络：CAN network
+挠曲线：deflection curve
+输入整形：Input shaping
+气体燃料：gas fuel
+集中载荷：concentrated load
+稳定性计算：stability calculation
+水力梯度：hydraulic gradient
+显示技术：display technology
+裂隙岩体：fractured rock masses
+不等式约束：inequality constraints
+粘弹性地基：Viscoelastic foundation
+生产计划与调度：Production planning and scheduling
+振动法：vibration method
+相似性分析：similarity analysis
+贝叶斯统计：Bayesian statistics
+考试方法：examination method
+临界力：critical force
+日常维护：Daily maintenance
+协调管理：Coordination management
+最优化理论：optimization theory
+登记制度：Registration system
+智能预测：intelligent prediction
+水下隧道：Underwater tunnel
+碳氢燃料：hydrocarbon fuel
+深基坑工程：deep excavation
+轮轨噪声：Wheel/rail noise
+车门：car door
+分布系数：distribution coefficient
+网络法：network method
+偏相关：partial correlation
+理论和实践：theory and practice
+MATLAB编程：MATLAB programming
+流噪声：flow noise
+希尔伯特空间：Hilbert space
+偏心荷载：eccentric load
+记忆功能：memory function
+爆破开挖：Blasting excavation
+计算理论：calculation theory
+决策过程：decision process
+AIC准则：AIC criterion
+交通状态：traffic state
+软件管理：Software management
+帕累托最优：Pareto optimum
+条件分布：Conditional distribution
+驱动桥：Driving axle
+混合动力汽车：hybrid electric vehicle(HEV)
+实时信息：real-time information
+动态可靠度：dynamic reliability
+均质压燃：homogeneous charge compression ignition(HCCI)
+切片理论：strip theory
+决策理论：decision theory
+钢筋混凝土拱桥：reinforced concrete arch bridge
+变形计算：Deformation calculation
+气动特性：aerodynamic performance
+航运企业：Shipping company
+隧道塌方：tunnel collapse
+离合器控制：clutch control
+助力特性：assist characteristic
+切线刚度矩阵：tangent stiffness matrix
+预应力梁：prestressed beam
+沉降监测：subsidence monitoring
+多目标模型：multi-objective model
+加筋土挡墙：reinforced retaining wall
+电磁制动器：electromagnetic brake
+最小安全系数：minimum safety factor
+越野汽车：off-road vehicle
+网络均衡：network equilibrium
+气弹模型：aeroelastic model
+粗粒土：coarse-grained soil
+电话网络：telephone network
+贫混凝土：lean concrete
+自行车交通：bicycle traffic
+加固方案：reinforcement scheme
+健康监测系统：health monitoring system
+路堑开挖：cutting excavation
+斜拉拱桥：cable-stayed arch bridge
+加劲梁：stiffening girder
+灰数：grey number
+地图构建：map building
+无线模块：wireless module
+鞭梢效应：whiplash effect
+强迫振动：forced oscillation
+末级叶片：last stage blade
+二阶系统：second-order system
+区位理论：Location theory
+弹性屈曲：elastic buckling
+既有桥梁：existing bridge
+调车机车：shunting locomotive
+波浪作用：wave action
+合成孔径声纳：Synthetic Aperture Sonar
+集装箱堆场：container yard
+子空间迭代法：subspace iteration method
+跨高比：span-depth ratio
+动量定理：momentum theorem
+圆梁山隧道：yuanliangshan tunnel
+VBA编程：VBA programming
+数值波浪水槽：numerical wave flume
+空间相互作用：spatial interaction
+预喷射：pilot injection
+键图：bond graph
+产品语义学：Product Semantics
+异步传输模式：asynchronous transfer mode
+土与结构相互作用：soil-structure interaction
+智能导航：intelligent navigation
+协作机制：cooperation mechanism
+时域仿真：Time-domain simulation
+空间统计分析：spatial statistical analysis
+联动控制：linkage control
+设备改造：equipment transformation
+节能减排：energy saving and emission reducing
+系统聚类分析：hierarchical cluster analysis
+误差分析：error analyzing
+遥测：Remote sensing
+浅海：shallow sea
+三维流场：3D Flow Field
+谐波干扰：harmonic interference
+竖向位移：vertical displacement
+炉膛压力：furnace pressure
+微合金钢：micro-alloyed steel
+废轮胎：waste tire
+管理流程：management flow
+燃料经济性：fuel economy
+超声波探伤：ultrasonic detection
+主观评价：Subjective assessment
+电解法：electrolytic method
+系统聚类：hierarchical clustering
+防排烟：smoke management
+地震成像：seismic imaging
+突变模型：catastrophe model
+复合材料层合板：composite laminated plate
+动态评估：Dynamic Assessment
+凝胶色谱：gel chromatography
+PID参数：PID parameters
+工艺措施：technological measures
+极限状态方程：limit state equation
+声强：acoustic intensity
+冲击能量：impact energy
+试验装置：test equipment
+变形量：deformation amount
+调查方法：investigation method
+油箱：oil tank
+阶次跟踪：order tracking
+支护技术：supporting technology
+紧急制动：emergency braking
+接触变形：contact deformation
+设计分析：Design and analysis
+宣传教育：publicity and education
+回流区：recirculation zone
+试验分析：experiment analysis
+风险源：risk source
+改性塑料：modified plastics
+轴功率：shaft power
+遥控系统：remote control system
+赤平投影：Stereographic projection
+噪声衰减：noise attenuation
+保护环境：environmental protection
+运动模型：Movement model
+水声：underwater acoustics
+精度评定：accuracy evaluation
+重量控制：weight control
+静态性能：static performance
+表层：surface layer
+储能模量：storage modulus
+驱动控制：Driving Control
+3DGIS：3D GIS
+热岛效应：urban heat island effect
+工程事故：engineering accident
+异常振动：Abnormal vibration
+振源：vibration source
+油耗：oil consumption
+动力设备：power equipment
+工作温度：Working Temperature
+汽车保险杠：automobile bumper
+红外技术：infrared technique
+接触爆炸：contact explosion
+分形方法：fractal method
+铁路车辆：railway vehicle
+漏磁场：magnetic flux leakage
+主塔：main tower
+现场测试：field measurement
+叠加分析：overlay analysis
+中小城市：medium and small cities
+瞬态特性：transient characteristics
+表面层：surface layer
+屈曲强度：buckling strength
+弹性稳定：elastic stability
+冲刷深度：scour depth
+桩基础：pile foundations
+经济规律：economic law
+锦州港：Jinzhou Port
+故障特征：Fault feature
+流向：Flow direction
+相似律：similarity law
+比功率：specific power
+压路机：road roller
+大城市：large city
+故障诊断专家系统：Fault diagnosis expert system
+涡街：vortex street
+铁路安全：Railway safety
+Bayes分析：Bayes analysis
+安装误差：Installation error
+振动环境：vibration environment
+高速公路隧道：expressway tunnel
+摩托车车架：motorcycle frame
+粘性土：clayey soil
+分布控制：distributed control
+边坡监测：Slope monitoring
+排水固结：Drainage consolidation
+参照点：reference point
+时频分布：time frequency distribution
+矢跨比：rise-span ratio
+固结变形：consolidation deformation
+换乘枢纽：Transfer hub
+基坑开挖：foundation excavation
+沉降差：differential settlement
+拉压杆模型：strut-and-tie model
+荷载传递机理：load transfer mechanism
+成本计划：cost plan
+桩基托换：pile foundation underpinning
+裂缝间距：crack spacing
+制动稳定性：braking stability
+交通流量：traffic volume
+语音控制：speech control
+动力性：dynamic performance
+气动导纳：aerodynamic admittance
+箱梁桥：box girder bridge
+构造深度：texture depth
+桥面板：bridge deck
+振冲碎石桩：vibro-replacement stone column
+桥梁管理系统：bridge management system
+空气滤清器：air cleaner
+混合动力客车：hybrid electric bus
+脉动风压：fluctuating wind pressure
+热平衡试验：thermal balance test
+多类分类：multiclass classification
+MapX控件：MapX control
+市郊铁路：suburban railway
+路基工程：roadbed engineering
+通气超空泡：ventilated supercavity
+出行分布：trip distribution
+分布估计算法：estimation of distribution algorithm
+结构损伤检测：structural damage detection
+交通灯：traffic lights
+高速客车：high speed passenger car
+湿化变形：wetting deformation
+Volterra滤波器：Volterra filter
+缆索起重机：cable crane
+前方交会：forward intersection
+湍流模式：turbulence model
+绞吸式挖泥船：cutter suction dredger
+交通流仿真：traffic flow simulation
+客票系统：Ticketing and reservation system
+移动平台：mobile platform
+对象建模：object modeling
+用户偏好：user preference
+混凝土桥：concrete bridge
+怠速控制：idle speed control
+气动弹性模型：aeroelastic model
+数据库优化：database optimization
+根文件系统：root file system
+混合ARQ：hybrid ARQ
+有效应力法：effective stress method
+坡长：slope length
+资源管理系统：resource management system
+负荷强度：load intensity
+颗粒物质：granular material
+粘粒含量：clay content
+高级氧化技术：advanced oxidation processes
+淤地坝：check dam
+节点分析：nodal analysis
+质量保证：quality control
+GM(1,1)模型：GM (1,1) model
+长效机制：long-term effective mechanism
+元素组成：elemental composition
+螺旋输送机：screw conveyor
+加权系数：weighted coefficient
+应用性能：application performance
+大口径：large diameter
+山地：mountainous area
+互穿网络聚合物：interpenetrating polymer networks
+渗流阈值：percolation threshold
+传热机理：heat transfer mechanism
+加载试验：loading test
+ANSYS有限元分析：ANSYS finite element analysis
+结构刚度：structural stiffness
+熵技术：entropy technology
+破碎带：fracture zone
+评价分析：evaluation and analysis
+测量模型：measuring model
+优化研究：optimization research
+景观评价：landscape assessment
+水平定向钻进：horizontal directional drilling
+砂率：sand ratio
+交流电机：AC machine
+变形能：deformation energy
+管接头：Pipe joint
+水压试验：Hydraulic test
